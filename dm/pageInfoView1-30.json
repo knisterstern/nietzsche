@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.30",
+    "rootNode": "2.9.30",
+    "id": "srcD_surface_a29r",
+    "odd": "surface.odd",
+    "next": "2.9.31",
+    "previous": "2.9.29",
+    "nextId": "srcD_surface_b1r",
+    "previousId": "srcD_surface_a27r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"pageInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.pageInfo\">Manuskriptbeschreibung</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li class=\"tei-msContents2\">Druckvorlage GM II 11</li><li class=\"tei-physDesc2\">Folioblatt, ca. 23,3×51,9, liniiert. Vier Teile unterschiedlichen Formats zusammengeklebt, Teile 3 und 4 auf zusätzlich unterlegten Blattteil aufgeklebt; Teil 1 und unterlegter Blattteil Makulatur mit Textresten von Ns Hand. Für Bogenkorrektur auseinandergeschnitten, nachträglich auf unterlegtem Papierstreifen wieder zusammengeklebt. Verso Rostspuren einer Heftklammer (Anheftung von a40rv, vermutlich zusammen mit a41vr). Ursprünglich unterer Blattteil von Teil 1: a22vr. Ursprünglich oberer Blattteil von Teil 2: a27rv.</li><li class=\"tei-additions2\">Bearbeitungsspuren fremder Hand: Markierung Bogenbeginn Cb/Ed: |Bogen 5 (64|65), Markierung Seitenumbruch Cb/Ed: 65|66 („66“), Blaustift (Druckerei); Markierungen, Anmerkung zu Einfügungszeichen (Z. 36 „NB vgl. Zettel am Schlusse d. Abhandlung.“, Schreiber N-Archiv-Mitarbeiter A. Seidl?), Blaustift (N-Archiv); Markierungen, Violettstift (N-Archiv); Markierungen, Bleistift (N-Archiv).</li><li class=\"tei-handNotes2\"><span class=\"tei-handNote2\">braune Tinte (1), egh</span></li><li class=\"tei-handNotes2\"><span class=\"tei-handNote2\">schwarze Tinte (1), egh</span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

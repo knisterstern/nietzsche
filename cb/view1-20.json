@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.44.27",
+    "rootNode": "2.7.2.2.44.27",
+    "id": "Cb_b4",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.44.31",
+    "previous": "2.7.2.2.44.3",
+    "nextId": "Cb_b5",
+    "previousId": "Cb_b3",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0027.tif\">b4</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"33\"><span><span>gleichwer<span class=\"tei-sic2\">thige</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_pencil fnote\">geradesetzen)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Bleistift</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

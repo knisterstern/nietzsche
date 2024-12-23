@@ -1,0 +1,8 @@
+[ {"label":"Alle Druckorte","description":"Zeige für alle Druckorte die entsprechenden Seiten.", "filename":"imprint_page.rq"},
+  {"label":"Wörter pro Seite","description":"Zähle alle Wörter pro Seite.", "filename":"page_word_count.rq"},
+  {"label":"Korrekturen pro Seite","description":"Zähle alle korrigierten Wörter pro Seite.", "filename":"page_correction_count.rq"},
+   {"label":"Wörter pro Manuskripteinheit","description":"Zähle alle Wörter pro archivalische Manuskripteinheit.", "filename":"manuscript_word_count.rq"},
+   {"label":"Seiten pro Manuskripteinheit","description":"Zähle alle Seiten pro archivalische Manuskripteinheit.", "filename":"manuscript_page_count.rq"},
+   {"label":"Wörter pro Schreibmittel","description":"Zähle die Wörter pro Schreibmittel, die mit diesem geschrieben wurden.", "filename":"instrument_word_count.rq"},
+   {"label":"Wörter pro Streichung","description":"Zähle die Wörter pro Strich, die von diesem gestrichen wurden.", "filename":"deletionPath_word_count.rq"},
+  {"label":"Nicht-deutsche Schrift","description":"Wähle alle Wörter aus, die nicht in deutscher Schrift geschrieben sind.", "filename":"non_german_words.rq"}]

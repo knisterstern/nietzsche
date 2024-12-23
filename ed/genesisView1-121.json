@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.23.5.36",
+    "rootNode": "2.5.12.8.23.5.36",
+    "id": "Ed_102_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.23.5.132",
+    "previous": "2.5.12.8.21.5.102",
+    "nextId": "Ed_103_id",
+    "previousId": "Ed_101_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 4</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 361/343,8-31</li><li class=\"tei-ab2\"><a data-id=\"Ed_101_id\" data-doc=\"E40.xml\">Ed 101,20-102,14</a></li><li class=\"tei-ab2\"><a data-id=\"b5r\" data-doc=\"D20.xml\">Dm b5r,7-23</a></li><li class=\"tei-ab2\"><a data-id=\"NVII3_73\" data-doc=\"KGWIX.xml\">N VII 3, 73, 74,26-32</a></li></ul><ul><li class=\"tei-ab2\">KGW/KSA 361/343,21-23</li><li class=\"tei-ab2\"><a data-id=\"Ed_102_id\" data-doc=\"E40.xml\">Ed 102,3-5</a></li><li class=\"tei-ab2\"><a data-id=\"NVII3_35\" data-doc=\"KGWIX.xml\">N VII 3, 35,21-22,32-36, 36,17-21</a></li><li class=\"tei-ab2\"><a data-id=\"@\" data-doc=\"D20.xml\">Dm b5r,17-18</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

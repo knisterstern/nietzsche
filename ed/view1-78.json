@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.26.7.82",
+    "rootNode": "2.5.12.6.26.7.82",
+    "id": "Ed_59_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.28.7.38",
+    "previous": "2.5.12.6.24.7.340",
+    "nextId": "Ed_60_id",
+    "previousId": "Ed_58_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0080.tif\">59</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">hältniss zu ähnlichen Complexen) <span class=\"tei-hi2 spaced\">übertragen</span>, zu-\n</span><span class=\"tei-line\">gleich mit der Gewohnheit, Macht an Macht zu ver-\n</span><span class=\"tei-line\">gleichen, zu messen, zu berechnen. Das Auge war \n</span><span class=\"tei-line\">nun einmal für diese Perspektive eingestellt: und mit \n</span><span class=\"line\">5</span><span class=\"tei-line \">jener plumpen Consequenz, die dem schwerbeweg-\n</span><span class=\"tei-line\">lichen, aber dann unerbittlich in gleicher Richtung \n</span><span class=\"tei-line\">weitergehenden Denken der älteren Menschheit eigen-\n</span><span class=\"tei-line\">thümlich ist, langte man alsbald bei der grossen Ver-\n</span><span class=\"tei-line\">allgemeinerung an „jedes Ding hat seinen Preis; <span class=\"tei-hi2 spaced\">Alles</span> \n</span><span class=\"line\">10</span><span class=\"tei-line \">kann abgezahlt werden“ – dem ältesten und naivsten \n</span><span class=\"tei-line\">Moral-Kanon der <span class=\"tei-hi2 spaced\">Gerechtigkeit</span>, dem Anfange aller \n</span><span class=\"tei-line\">„Gutmüthigkeit“, aller „Billigkeit“, alles „guten Willens“, \n</span><span class=\"tei-line\">aller „Objektivität“ auf Erden. Gerechtigkeit auf dieser \n</span><span class=\"tei-line\">ersten Stufe ist der gute Wille unter ungefähr Gleich-\n</span><span class=\"line\">15</span><span class=\"tei-line \">mächtigen, sich mit einander abzufinden, sich durch \n</span><span class=\"tei-line\">einen Ausgleich wieder zu „verständigen“ – und, in \n</span><span class=\"tei-line\">Bezug auf weniger Mächtige, diese unter sich zu einem \n</span><span class=\"tei-line\">Ausgleich zu <span class=\"tei-hi2 spaced\">zwingen</span>. –\n</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">9.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">Immer mit dem Maasse der Vorzeit gemessen \n</span><span class=\"tei-line\">(welche Vorzeit übrigens zu allen Zeiten da ist oder \n</span><span class=\"tei-line\">wieder möglich ist): so steht auch das Gemeinwesen \n</span><span class=\"tei-line\">zu seinen Gliedern in jenem wichtigen Grundverhält-\n</span><span class=\"tei-line\">nisse, dem des Gläubigers zu seinen Schuldnern. Man \n</span><span class=\"line\">25</span><span class=\"tei-line \">lebt in einem Gemeinwesen, man geniesst die Vortheile \n</span><span class=\"tei-line\">eines Gemeinwesens (oh was für Vortheile! wir unter-\n</span><span class=\"tei-line\">schätzen es heute mitunter), man wohnt geschützt, ge-\n</span><span class=\"tei-line\">schont, im Frieden und Vertrauen, sorglos in Hinsicht \n</span><span class=\"tei-line\">auf gewisse Schädigungen und Feindseligkeiten, denen \n</span><span class=\"line\">30</span><span class=\"tei-line \">der Mensch <span class=\"tei-hi2 spaced\">ausserhalb</span>, der „Friedlose“, ausgesetzt ist \n</span><span class=\"tei-line\">– ein Deutscher versteht, was „Elend“, êlend ursprüng-\n</span><span class=\"tei-line\">lich besagen will –, wie man sich gerade in Hinsicht \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

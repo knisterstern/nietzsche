@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.2",
+    "rootNode": "2.9.2",
+    "id": "srcD_surface_a1v",
+    "odd": "surface.odd",
+    "next": "2.9.3",
+    "previous": "2.9.1",
+    "nextId": "srcD_surface_a2r",
+    "previousId": "srcD_surface_a1r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-surface3\" id=\"srcD_surface_a1v\"><div class=\"content \"><pb-facs-link emit=\"transcription\" facs=\"https://ores.klassik-stiftung.de/digilib/Scaler/IIIF/gsa!Arbeitskopie!71!75094!75094_2\" style=\"float: right; margin-top: -2em;\">a1v</pb-facs-link><div id=\"srcD_surface_a1v\" class=\"transkriptionField\" style=\"min-width:39em;\"><div id=\"srcD_zone_a1v_div2_GMTitelrueckseite\" style=\"padding-top:38em;padding-bottom:85em;\" class=\"singleBlock textBlock \" debug-msg=\"test\" data-debug=\"1\"><div id=\"srcD_zone_a1v_fw_d2e26\" class=\"fw-top-right\" style=\"left:28.3719em;top:5em;\"><span class=\"tei-fw4\"><span id=\"a1v_fw_d2e26\" class=\"top-right N_red\">II.</span><pb-popover theme=\"material\" for=\"a1v_fw_d2e26\"><p><span style=\"font-style: italic;\"><pb-i18n key=\"myapp.hand.N_red\">\n                            key not found: myapp.hand.N_red</pb-i18n></span></p></pb-popover></span></div><div id=\"srcD_line_a1v_lb1\" class=\"line\" style=\"\"><span class=\"lnr\"><pb-highlight key=\"a1v_lb1\" duration=\"5000\">1</pb-highlight></span><span class=\" \" style=\"\">Dem letztveröffentlichten „<span class=\"latin\"><span class=\"tei-hi2 underline\">Jenseits</span> <span class=\"tei-hi2 underline\">von</span> <span class=\"tei-hi2 underline\">Gut</span> <span class=\"tei-hi2 underline\">und</span> <span class=\"tei-hi2 underline\">Böse</span></span>“ zur Ergänzung und \n                  </span></div><div id=\"srcD_line_a1v_lb2\" class=\"line\" style=\"\"><span class=\"lnr\"><pb-highlight key=\"a1v_lb2\" duration=\"5000\">2</pb-highlight></span><span class=\" \" style=\"\">Verdeutlichung beigegeben.\n            \n               \n                  \n                  </span></div><div id=\"srcD_zone_a1v_lb3\" class=\"note-zone\"><div id=\"srcD_line_a1v_lb3\" class=\"zoneLine\" style=\"bottom:87.175em;\"><span class=\"lnr\"><pb-highlight key=\"a1v_lb3\" duration=\"5000\">3</pb-highlight></span><span class=\"marginLeft hand N_brown1 \" style=\"margin-left:-2.3125em;\">mit kleinen Lettern!</span></div></div></div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

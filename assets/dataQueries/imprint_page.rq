@@ -1,0 +1,9 @@
+# select all imprints and show their corresponding pages.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?reference ?page where {	 
+  	?page a tln:Page;
+         tln:hasImprints/rdf:rest*/rdf:first ?imprint.
+  	?imprint tln:imprintHasReference ?reference.
+} ORDER BY ?reference

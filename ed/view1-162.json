@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.147",
+    "rootNode": "2.5.12.8.49.5.147",
+    "id": "Ed_143_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.245",
+    "previous": "2.5.12.8.49.5.55",
+    "nextId": "Ed_144_id",
+    "previousId": "Ed_142_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0164.tif\">143</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">tarians, welche freilich die Autorität des Junker Christoph \n</span><span class=\"tei-line\">bei Shakespeare für sich haben); oder von Blutverderb-\n</span><span class=\"tei-line\">niss, Malaria, Syphilis und dergleichen (deutsche De-\n</span><span class=\"tei-line\">pression nach dem dreissigjährigen Kriege, welcher halb \n</span><span class=\"line\">5</span><span class=\"tei-line \">Deutschland mit schlechten Krankheiten durchseuchte \n</span><span class=\"tei-line\">und damit den Boden für deutsche Servilität, deutschen \n</span><span class=\"tei-line\">Kleinmuth vorbereitete). In einem solchen Falle wird \n</span><span class=\"tei-line\">jedes Mal im grössten Stil ein <span class=\"tei-hi2 spaced\">Kampf mit dem Un-\n<span class=\"tei-line\">lustgefühl</span>lustgefühl</span> versucht; unterrichten wir uns kurz über \n</span><span class=\"line\">10</span><span class=\"tei-line \">dessen wichtigste Praktiken und Formen. (Ich lasse \n</span><span class=\"tei-line\">hier, wie billig, den eigentlichen <span class=\"tei-hi2 spaced\">Philosophen</span>-Kampf \n</span><span class=\"tei-line\">gegen das Unlustgefühl, der immer gleichzeitig zu sein \n</span><span class=\"tei-line\">pflegt, ganz bei Seite – er ist interessant genug, aber \n</span><span class=\"tei-line\">zu absurd, zu praktisch-gleichgültig, zu spinneweberisch \n</span><span class=\"line\">15</span><span class=\"tei-line \">und eckensteherhaft, etwa wenn der Schmerz als ein \n</span><span class=\"tei-line\">Irrthum bewiesen werden soll, unter der naiven Vor-\n</span><span class=\"tei-line\">aussetzung, dass der Schmerz schwinden <span class=\"tei-hi2 spaced\">müsse</span>, wenn \n</span><span class=\"tei-line\">erst der Irrthum in ihm erkannt ist – aber siehe da! \n</span><span class=\"tei-line\">er hütete sich, zu schwinden…) Man bekämpft <span class=\"tei-hi2 spaced\">erstens</span> \n</span><span class=\"line\">20</span><span class=\"tei-line \">jene dominirende Unlust durch Mittel, welche das Le-\n</span><span class=\"tei-line\">bensgefühl überhaupt auf den niedrigsten Punkt herab-\n</span><span class=\"tei-line\">setzen. Womöglich überhaupt kein Wollen, kein Wunsch \n</span><span class=\"tei-line\">mehr; Allem, was Affekt macht, was „Blut“ macht, aus-\n</span><span class=\"tei-line\">weichen (kein Salz essen: Hygiene des Fakirs); nicht \n</span><span class=\"line\">25</span><span class=\"tei-line \">lieben; nicht hassen; Gleichmuth; nicht sich rächen; \n</span><span class=\"tei-line\">nicht sich bereichern; nicht arbeiten; betteln; womög-\n</span><span class=\"tei-line\">lich kein Weib, oder so wenig Weib als möglich: in \n</span><span class=\"tei-line\">geistiger Hinsicht das Princip Pascal’s „il faut s’abêtir“. \n</span><span class=\"tei-line\">Resultat, psychologisch-moralisch ausgedrückt: „Ent-\n</span><span class=\"line\">30</span><span class=\"tei-line \">selbstung“, „Heiligung“; physiologisch ausgedrückt: \n</span><span class=\"tei-line\">Hypnotisirung, – der Versuch Etwas für den Menschen \n</span><span class=\"tei-line\">annähernd zu erreichen, was der <span class=\"tei-hi2 spaced\">Winterschlaf</span> für \n</span><span class=\"tei-line\">einige Thierarten, der <span class=\"tei-hi2 spaced\">Sommerschlaf</span> für viele Pflan-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

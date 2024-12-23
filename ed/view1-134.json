@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.330",
+    "rootNode": "2.5.12.8.31.5.330",
+    "id": "Ed_115_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.428",
+    "previous": "2.5.12.8.31.5.237",
+    "nextId": "Ed_116_id",
+    "previousId": "Ed_114_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0136.tif\">115</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">fürchtet sich vor der Störung durch Blitze, er schreckt \n</span><span class=\"tei-line\">vor der Ungeschütztheit eines allzu isolirten und preis-\n</span><span class=\"tei-line\">gegebenen Baums zurück, an dem jedes schlechte \n</span><span class=\"tei-line\">Wetter seine Laune, jede Laune ihr schlechtes Wetter \n</span><span class=\"line\">5</span><span class=\"tei-line \">auslässt. Sein „mütterlicher“ Instinkt, die geheime \n</span><span class=\"tei-line\">Liebe zu dem, was in ihm wächst, weist ihn auf Lagen \n</span><span class=\"tei-line\">hin, wo man es ihm abnimmt, <span class=\"tei-hi2 spaced\">an sich</span> zu denken; in \n</span><span class=\"tei-line\">gleichem Sinne, wie der Instinkt der <span class=\"tei-hi2 spaced\">Mutter</span> im Weibe \n</span><span class=\"tei-line\">die abhängige Lage des Weibes überhaupt bisher fest-\n</span><span class=\"line\">10</span><span class=\"tei-line \">gehalten hat. Sie verlangen zuletzt wenig genug, diese \n</span><span class=\"tei-line\">Philosophen, ihr Wahlspruch ist „wer besitzt, wird be-\n</span><span class=\"tei-line\">sessen“ –: <span class=\"tei-hi2 spaced\">nicht</span>, wie ich wieder und wieder sagen \n</span><span class=\"tei-line\">muss, aus einer Tugend, aus einem verdienstlichen \n</span><span class=\"tei-line\">Willen zur Genügsamkeit und Einfalt, sondern weil es \n</span><span class=\"line\">15</span><span class=\"tei-line \">ihr oberster Herr <span class=\"tei-hi2 spaced\">so</span> von ihnen verlangt, klug und un-\n</span><span class=\"tei-line\">erbittlich verlangt: als welcher nur für Eins Sinn hat \n</span><span class=\"tei-line\">und Alles, Zeit, Kraft, Liebe, Interesse nur dafür samm-\n</span><span class=\"tei-line\">let, nur dafür aufspart. Diese Art Mensch liebt es \n</span><span class=\"tei-line\">nicht, durch Feindschaften gestört zu werden, auch \n</span><span class=\"line\">20</span><span class=\"tei-line \">durch Freundschaften nicht: sie vergisst oder verachtet \n</span><span class=\"tei-line\">leicht. Es dünkt ihr ein schlechter Geschmack, den \n</span><span class=\"tei-line\">Märtyrer zu machen; „für die Wahrheit zu <span class=\"tei-hi2 spaced\">leiden</span>“ – \n</span><span class=\"tei-line\">das überlässt sie den Ehrgeizigen und Bühnenhelden \n</span><span class=\"tei-line\">des Geistes und wer sonst Zeit genug dazu hat (– sie \n</span><span class=\"line\">25</span><span class=\"tei-line \">selbst, die Philosophen, haben Etwas für die Wahrheit \n</span><span class=\"tei-line\">zu <span class=\"tei-hi2 spaced\">thun</span>). Sie machen einen sparsamen Verbrauch von \n</span><span class=\"tei-line\">grossen Worten; man sagt, dass ihnen selbst das Wort \n</span><span class=\"tei-line\">„Wahrheit“ widerstehe: es klinge grossthuerisch… \n</span><span class=\"tei-line\">Was endlich die „Keuschheit“ der Philosophen anbe-\n</span><span class=\"line\">30</span><span class=\"tei-line \">langt, so hat diese Art Geist ihre Fruchtbarkeit er-\n</span><span class=\"tei-line\">sichtlich wo anders als in Kindern; vielleicht wo anders \n</span><span class=\"tei-line\">auch das Fortleben ihres Namens, ihre kleine Unsterb-\n</span><span class=\"tei-line\">lichkeit (noch unbescheidener drückte man sich im alten \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

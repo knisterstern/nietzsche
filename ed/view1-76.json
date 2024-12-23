@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.24.7.254",
+    "rootNode": "2.5.12.6.24.7.254",
+    "id": "Ed_57_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.24.7.340",
+    "previous": "2.5.12.6.24.7.172",
+    "nextId": "Ed_58_id",
+    "previousId": "Ed_56_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0078.tif\">57</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">glaubt ihr denn, dass Homer seine Götter auf die \n</span><span class=\"tei-line\">Schicksale der Menschen niederblicken liess? Welchen \n</span><span class=\"tei-line\">letzten Sinn hatten im Grunde trojanische Kriege und \n</span><span class=\"tei-line\">ähnliche tragische Furchtbarkeiten? Man kann gar \n</span><span class=\"line\">5</span><span class=\"tei-line \">nicht daran zweifeln: sie waren als <span class=\"tei-hi2 spaced\">Festspiele</span> für die \n</span><span class=\"tei-line\">Götter gemeint: und, insofern der Dichter darin mehr \n</span><span class=\"tei-line\">als die übrigen Menschen „göttlich“ geartet ist, wohl \n</span><span class=\"tei-line\">auch als Festspiele für die Dichter… Nicht anders dach-\n</span><span class=\"tei-line\">ten sich später die Moral-Philosophen Griechenlands die \n</span><span class=\"line\">10</span><span class=\"tei-line \">Augen Gottes noch auf das moralische Ringen, auf den \n</span><span class=\"tei-line\">Heroismus und die Selbstquälerei des Tugendhaften \n</span><span class=\"tei-line\">herabblicken: der „Herakles der Pflicht“ war auf einer \n</span><span class=\"tei-line\">Bühne, er wusste sich auch darauf; die Tugend ohne \n</span><span class=\"tei-line\">Zeugen war für dies Schauspieler-Volk etwas ganz Un-\n</span><span class=\"line\">15</span><span class=\"tei-line \">denkbares. Sollte nicht jene so verwegene, so verhäng-\n</span><span class=\"tei-line\">nissvolle Philosophen-Erfindung, welche damals zuerst \n</span><span class=\"tei-line\">für Europa gemacht wurde, die vom „freien Willen“, \n</span><span class=\"tei-line\">von der absoluten Spontaneität des Menschen im Guten \n</span><span class=\"tei-line\">und im Bösen, nicht vor Allem gemacht sein, um sich \n</span><span class=\"line\">20</span><span class=\"tei-line \">ein Recht zu der Vorstellung zu schaffen, dass das \n</span><span class=\"tei-line\">Interesse der Götter am Menschen, an der menschlichen \n</span><span class=\"tei-line\">Tugend <span class=\"tei-hi2 spaced\">sich nie erschöpfen könne</span>? Auf dieser \n</span><span class=\"tei-line\">Erden-Bühne sollte es niemals an wirklich Neuem, an\n</span><span class=\"tei-line\">wirklich unerhörten Spannungen, Verwicklungen, Ka-\n</span><span class=\"line\">25</span><span class=\"tei-line \">tastrophen gebrechen: eine vollkommen deterministisch \n</span><span class=\"tei-line\">gedachte Welt würde für Götter errathbar und folglich \n</span><span class=\"tei-line\">in Kürze auch ermüdend gewesen sein, – Grund ge-\n</span><span class=\"tei-line\">nug für diese <span class=\"tei-hi2 spaced\">Freunde der Götter</span>, die Philosophen, \n</span><span class=\"tei-line\">ihren Göttern eine solche deterministische Welt nicht \n</span><span class=\"line\">30</span><span class=\"tei-line \">zuzumuthen! Die ganze antike Menschheit ist voll von \n</span><span class=\"tei-line\">zarten Rücksichten auf „den Zuschauer“, als eine we-\n</span><span class=\"tei-line\">sentlich öffentliche, wesentlich augenfällige Welt, die \n</span><span class=\"tei-line\">sich das Glück nicht ohne Schauspiele und Feste zu \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

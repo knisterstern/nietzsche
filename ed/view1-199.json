@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.69.5.133",
+    "rootNode": "2.5.12.8.69.5.133",
+    "id": "Ed_180_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.69.5.239",
+    "previous": "2.5.12.8.69.5.31",
+    "nextId": "Ed_181_id",
+    "previousId": "Ed_179_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0201.tif\">180</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">selbst, der immer strenger genommene Begriff der \n</span><span class=\"tei-line\">Wahrhaftigkeit, die Beichtväter-Feinheit des christlichen \n</span><span class=\"tei-line\">Gewissens, übersetzt und sublimirt zum wissenschaft-\n</span><span class=\"tei-line\">lichen Gewissen, zur intellektuellen Sauberkeit um jeden \n</span><span class=\"line\">5</span><span class=\"tei-line \">Preis. Die Natur ansehn, als ob sie ein Beweis für die \n</span><span class=\"tei-line\">Güte und Obhut eines Gottes sei; die Geschichte inter-\n</span><span class=\"tei-line\">pretiren zu Ehren einer göttlichen Vernunft, als be-\n</span><span class=\"tei-line\">ständiges Zeugniss einer sittlichen Weltordnung und \n</span><span class=\"tei-line\">sittlicher Schlussabsichten; die eigenen Erlebnisse aus-\n</span><span class=\"line\">10</span><span class=\"tei-line \">legen, wie sie fromme Menschen lange genug ausge-\n</span><span class=\"tei-line\">legt haben, wie als ob Alles Fügung, Alles Wink, \n</span><span class=\"tei-line\">Alles dem Heil der Seele zu Liebe ausgedacht und ge-\n</span><span class=\"tei-line\">schickt sei: das ist nunmehr <span class=\"tei-hi2 spaced\">vorbei</span>, das hat das Ge-\n</span><span class=\"tei-line\">wissen <span class=\"tei-hi2 spaced\">gegen</span> sich, das gilt allen feineren Gewissen \n</span><span class=\"line\">15</span><span class=\"tei-line \">als unanständig, unehrlich, als Lügnerei, Femininismus, \n</span><span class=\"tei-line\">Schwachheit, Feigheit, – mit dieser Strenge, wenn \n</span><span class=\"tei-line\">irgend womit, sind wir eben <span class=\"tei-hi2 spaced\">gute Europäer</span> und Er-\n</span><span class=\"tei-line\">ben von Europa’s längster und tapferster Selbstüber-\n</span><span class=\"tei-line\">windung“… Alle grossen Dinge gehen durch sich \n</span><span class=\"line\">20</span><span class=\"tei-line \">selbst zu Grunde, durch einen Akt der Selbstaufhebung: \n</span><span class=\"tei-line\">so will es das Gesetz des Lebens, das Gesetz der <span class=\"tei-hi2 spaced\">noth-\n<span class=\"tei-line\">wendigen</span>wendigen</span> „Selbstüberwindung“ im Wesen des Lebens, \n</span><span class=\"tei-line\">– immer ergeht zuletzt an den Gesetzgeber selbst der \n</span><span class=\"tei-line\">Ruf: „patere legem, quam ipse tulisti.“ Dergestalt gieng \n</span><span class=\"line\">25</span><span class=\"tei-line \">das Christenthum <span class=\"tei-hi2 spaced\">als Dogma</span> zu Grunde, an seiner \n</span><span class=\"tei-line\">eignen Moral; dergestalt muss nun auch das Christen-\n</span><span class=\"tei-line\">thum <span class=\"tei-hi2 spaced\">als Moral</span> noch zu Grunde gehn, – wir stehen \n</span><span class=\"tei-line\">an der Schwelle <span class=\"tei-hi2 spaced\">dieses</span> Ereignisses. Nachdem die \n</span><span class=\"tei-line\">christliche Wahrhaftigkeit einen Schluss nach dem an-\n</span><span class=\"line\">30</span><span class=\"tei-line \">dern gezogen hat, zieht sie am Ende ihren <span class=\"tei-hi2 spaced\">stärksten \n<span class=\"tei-line\">Schluss</span>Schluss</span>, ihren Schluss <span class=\"tei-hi2 spaced\">gegen</span> sich selbst; dies aber \n</span><span class=\"tei-line\">geschieht, wenn sie die Frage stellt „<span class=\"tei-hi2 spaced\">was bedeutet \n<span class=\"tei-line\">aller Wille zur Wahrheit?</span>aller Wille zur Wahrheit?</span>“… Und hier rühre \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

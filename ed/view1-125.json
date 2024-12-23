@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.27.5.50",
+    "rootNode": "2.5.12.8.27.5.50",
+    "id": "Ed_106_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.27.5.136",
+    "previous": "2.5.12.8.25.5.177",
+    "nextId": "Ed_107_id",
+    "previousId": "Ed_105_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0127.tif\">106</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ster starker Erlebnisse, Begierden, Überraschungen, \n</span><span class=\"tei-line\">Entzückungen auf dem Gebiete des Schönen! Aber \n</span><span class=\"tei-line\">das Gegentheil war, wie ich fürchte, immer der Fall: \n</span><span class=\"tei-line\">und so bekommen wir denn von ihnen gleich von An-\n</span><span class=\"line\">5</span><span class=\"tei-line \">fang an Definitionen, in denen, wie in jener berühmten \n</span><span class=\"tei-line\">Definition, die Kant vom Schönen giebt, der Mangel \n</span><span class=\"tei-line\">an feinerer Selbst-Erfahrung in Gestalt eines dicken \n</span><span class=\"tei-line\">Wurms von Grundirrthum sitzt. „Schön ist, hat Kant \n</span><span class=\"tei-line\">gesagt, was <span class=\"tei-hi2 spaced\">ohne Interesse</span> gefällt.“ Ohne Interesse! \n</span><span class=\"line\">10</span><span class=\"tei-line \">Man vergleiche mit dieser Definition jene andre, die ein \n</span><span class=\"tei-line\">wirklicher „Zuschauer“ und Artist gemacht hat – \n</span><span class=\"tei-line\">Stendhal, der das Schöne einmal une promesse de bon-\n</span><span class=\"tei-line\">heur nennt. Hier ist jedenfalls gerade Das <span class=\"tei-hi2 spaced\">abgelehnt</span> \n</span><span class=\"tei-line\">und ausgestrichen, was Kant allein am ästhetischen \n</span><span class=\"line\">15</span><span class=\"tei-line \">Zustande hervorhebt: le désinteressement. Wer hat \n</span><span class=\"tei-line\">Recht, Kant oder Stendhal? – Wenn freilich unsre \n</span><span class=\"tei-line\">Aesthetiker nicht müde werden, zu Gunsten Kant’s in \n</span><span class=\"tei-line\">die Wagschale zu werfen, dass man unter dem Zauber \n</span><span class=\"tei-line\">der Schönheit <span class=\"tei-hi2 spaced\">sogar</span> gewandlose weibliche Statuen \n</span><span class=\"line\">20</span><span class=\"tei-line \">„ohne Interesse“ anschauen könne, so darf man wohl \n</span><span class=\"tei-line\">ein wenig auf ihre Unkosten lachen: – die Erfahrungen \n</span><span class=\"tei-line\">der <span class=\"tei-hi2 spaced\">Künstler</span> sind in Bezug auf diesen heiklen Punkt \n</span><span class=\"tei-line\">„interessanter“, und Pygmalion war jedenfalls <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">nothwendig ein „unästhetischer Mensch“. Denken wir \n</span><span class=\"line\">25</span><span class=\"tei-line \">um so besser von der Unschuld unsrer Aesthetiker, \n</span><span class=\"tei-line\">welche sich in solchen Argumenten spiegelt, rechnen \n</span><span class=\"tei-line\">wir es zum Beispiel Kanten zu Ehren an, was er über \n</span><span class=\"tei-line\">das Eigenthümliche des Tastsinns mit landpfarrermässi-\n</span><span class=\"tei-line\">ger Naivetät zu lehren weiss! – Und hier kommen wir \n</span><span class=\"line\">30</span><span class=\"tei-line \">auf Schopenhauer zurück, der in ganz andrem Maasse \n</span><span class=\"tei-line\">als Kant den Künsten nahestand und doch nicht aus \n</span><span class=\"tei-line\">dem Bann der Kantischen Definition herausgekommen \n</span><span class=\"tei-line\">ist: wie kam das? Der Umstand ist wunderlich genug: \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

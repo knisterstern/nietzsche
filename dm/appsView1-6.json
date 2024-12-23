@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.6",
+    "rootNode": "2.9.6",
+    "id": "srcD_surface_a3v",
+    "odd": "surface.odd",
+    "next": "2.9.7",
+    "previous": "2.9.5",
+    "nextId": "srcD_surface_a4r",
+    "previousId": "srcD_surface_a3r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"appInfoPage\" class=\"noteDiv infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.appNotes\">Anmerkungen</pb-i18n></h2></span><span slot=\"collapse-content\"><div><pb-highlight key=\"a3v_lb29\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">29</span></pb-highlight>: <span style=\"margin-left: 2px;\"><pb-highlight key=\"appAnchor_a3v29\" highlight-self=\"highlight-self\" duration=\"5000\">hundertaktige</pb-highlight></span><span style=\"margin-right: 0.5em;\">]</span><span class=\"note\">vgl. <span class=\"tei-ref5\">N an C. G. Naumann, 18.10.1887</span></span></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

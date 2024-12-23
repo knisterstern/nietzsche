@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.46.7.84",
+    "rootNode": "2.5.12.6.46.7.84",
+    "id": "Ed_82_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.48.5.32",
+    "previous": "2.5.12.6.44.5.161",
+    "nextId": "Ed_83_id",
+    "previousId": "Ed_81_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0103.tif\">82</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">erst <span class=\"tei-hi2 spaced\">die</span> Schönheit… Was wäre denn „schön“, wenn \n</span><span class=\"tei-line\">nicht erst der Widerspruch sich selbst zum Bewusst-\n</span><span class=\"tei-line\">sein gekommen wäre, wenn nicht erst das Hässliche zu \n</span><span class=\"tei-line\">sich selbst gesagt hätte: „ich bin hässlich“?… Zum \n</span><span class=\"line\">5</span><span class=\"tei-line \">Mindesten wird nach diesem Winke das Räthsel we-\n</span><span class=\"tei-line\">niger räthselhaft sein, in wiefern in widersprüchlichen \n</span><span class=\"tei-line\">Begriffen, wie <span class=\"tei-hi2 spaced\">Selbstlosigkeit</span>,<span class=\"tei-hi2 spaced\"> Selbstverleug-\n<span class=\"tei-line\">nung</span>nung</span>,<span class=\"tei-hi2 spaced\"> Selbstopferung</span> ein Ideal, eine Schönheit \n</span><span class=\"tei-line\">angedeutet sein kann; und Eins weiss man hinfort, ich \n</span><span class=\"line\">10</span><span class=\"tei-line \">zweifle nicht daran –, welcher Art nämlich von An-\n</span><span class=\"tei-line\">fang an die <span class=\"tei-hi2 spaced\">Lust</span> ist, die der Selbstlose, der Sich-\n</span><span class=\"tei-line\">selbst-Verleugnende, Sich-selber-Opfernde empfindet: \n</span><span class=\"tei-line\">diese Lust gehört zur Grausamkeit. – Soviel vorläufig \n</span><span class=\"tei-line\">zur Herkunft des „Unegoistischen“ als eines <span class=\"tei-hi2 spaced\">morali-\n<span class=\"line\">15</span><span class=\"tei-line \">schen</span>schen</span> Werthes und zur Absteckung des Bodens, aus \n</span><span class=\"tei-line\">dem dieser Werth gewachsen ist: erst das schlechte Ge-\n</span><span class=\"tei-line\">wissen, erst der Wille zur Selbstmisshandlung giebt die \n</span><span class=\"tei-line\">Voraussetzung ab für den <span class=\"tei-hi2 spaced\">Werth</span> des Unegoistischen. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">19.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">Es ist eine Krankheit, das schlechte Gewissen, das \n</span><span class=\"tei-line\">unterliegt keinem Zweifel, aber eine Krankheit, wie \n</span><span class=\"tei-line\">die Schwangerschaft eine Krankheit ist. Suchen wir \n</span><span class=\"tei-line\">die Bedingungen auf, unter denen diese Krankheit auf \n</span><span class=\"tei-line\">ihren furchtbarsten und sublimsten Gipfel gekommen \n</span><span class=\"line\">25</span><span class=\"tei-line \">ist: – wir werden sehn, was damit eigentlich erst \n</span><span class=\"tei-line\">seinen Eintritt in die Welt gemacht hat. Dazu aber be-\n</span><span class=\"tei-line\">darf es eines langen Athems, – und zunächst müssen \n</span><span class=\"tei-line\">wir noch einmal zu einem früheren Gesichtspunkte zu-\n</span><span class=\"tei-line\">rück. Das privatrechtliche Verhältniss des Schuldners \n</span><span class=\"line\">30</span><span class=\"tei-line \">zu seinem Gläubiger, von dem des längeren schon die \n</span><span class=\"tei-line\">Rede war, ist noch einmal, und zwar in einer historisch \n</span><span class=\"tei-line\">überaus merkwürdigen und bedenklichen Weise in ein \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.58.5.124",
+    "rootNode": "2.5.12.6.58.5.124",
+    "id": "Ed_93_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.62",
+    "previous": "2.5.12.6.58.5.34",
+    "nextId": "Ed_94_id",
+    "previousId": "Ed_92_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0114.tif\">93</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">willens der Erkenntniss, welcher zur grossen Gesundheit \n</span><span class=\"tei-line\">gehört, es bedürfte, kurz und schlimm genug, eben die-\n</span><span class=\"tei-line\">ser <span class=\"tei-hi2 spaced\">grossen Gesundheit</span>!… Ist diese gerade heute \n</span><span class=\"tei-line\">auch nur möglich?… Aber irgendwann, in einer stär-\n</span><span class=\"line\">5</span><span class=\"tei-line \">keren Zeit, als diese morsche, selbstzweiflerische Ge-\n</span><span class=\"tei-line\">genwart ist, muss er uns doch kommen, der <span class=\"tei-hi2 spaced\">erlösende</span> \n</span><span class=\"tei-line\">Mensch der grossen Liebe und Verachtung, der schöpfe-\n</span><span class=\"tei-line\">rische Geist, den seine drängende Kraft aus allem Ab-\n</span><span class=\"tei-line\">seits und Jenseits immer wieder wegtreibt, dessen Ein-\n</span><span class=\"line\">10</span><span class=\"tei-line \">samkeit vom Volke missverstanden wird, wie als ob sie \n</span><span class=\"tei-line\">eine Flucht <span class=\"tei-hi2 spaced\">vor</span> der Wirklichkeit sei –: während sie \n</span><span class=\"tei-line\">nur seine Versenkung, Vergrabung, Vertiefung <span class=\"tei-hi2 spaced\">in</span> die \n</span><span class=\"tei-line\">Wirklichkeit ist, damit er einst aus ihr, wenn er wie-\n</span><span class=\"tei-line\">der an’s Licht kommt, die <span class=\"tei-hi2 spaced\">Erlösung</span> dieser Wirklich-\n</span><span class=\"line\">15</span><span class=\"tei-line \">keit heimbringe: ihre Erlösung von dem Fluche, den \n</span><span class=\"tei-line\">das bisherige Ideal auf sie gelegt hat. Dieser Mensch \n</span><span class=\"tei-line\">der Zukunft, der uns ebenso vom bisherigen Ideal er-\n</span><span class=\"tei-line\">lösen wird, als von dem, <span class=\"tei-hi2 spaced\">was aus ihm wachsen \n<span class=\"tei-line\">musste</span>musste</span>, vom grossen Ekel, vom Willen zum Nichts, \n</span><span class=\"line\">20</span><span class=\"tei-line \">vom Nihilismus, dieser Glockenschlag des Mittags und \n</span><span class=\"tei-line\">der grossen Entscheidung, der den Willen wieder frei \n</span><span class=\"tei-line\">macht, der der Erde ihr Ziel und dem Menschen seine \n</span><span class=\"tei-line\">Hoffnung zurückgiebt, dieser Antichrist und Antinihi-\n</span><span class=\"tei-line\">list, dieser Besieger Gottes und des Nichts – <span class=\"tei-hi2 spaced\">er muss \n<span class=\"line\">25</span><span class=\"tei-line \">einst kommen</span>einst kommen</span>…</span></p>\n\n\n\n  \n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">25.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Aber was rede ich da? Genug! Genug! An \n</span><span class=\"tei-line\">dieser Stelle geziemt mir nur Eins, zu schweigen: ich \n</span><span class=\"tei-line\">vergriffe mich sonst an dem, was einem Jüngeren allein \n</span><span class=\"line\">30</span><span class=\"tei-line \">freisteht, einem „Zukünftigeren“, einem Stärkeren, als \n</span><span class=\"tei-line\">ich bin, – was allein <span class=\"tei-hi2 spaced\">Zarathustra</span> freisteht, <span class=\"tei-hi2 spaced\">Zara-\n<span class=\"tei-line\">thustra dem Gottlosen</span>thustra dem Gottlosen</span>…</span></p>\n\n        \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

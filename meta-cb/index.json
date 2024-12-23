@@ -1,0 +1,10 @@
+{
+    "odd=nietzsche-ed.odd&user.header=short&user.type=meta&view=single&xpath=//teiHeader/fileDesc/titleStmt/title[1]": "title-view1-1.json",
+    "odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=descChapter1&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=descChapter2&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=descChapter2.1&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=EDdescChapter3&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=EDdescChapter3.1&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json",
+    "id=EDdescChapter3.2&odd=nietzsche-ed.odd&user.mode=meta&user.odd=surface.odd&view=single&xpath=//teiHeader": "view1-1.json"
+}

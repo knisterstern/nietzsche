@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.42.5.50",
+    "rootNode": "2.5.12.6.42.5.50",
+    "id": "Ed_77_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.42.5.154",
+    "previous": "2.5.12.6.40.5.100",
+    "nextId": "Ed_78_id",
+    "previousId": "Ed_76_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0098.tif\">77</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Wasser getragen wurden: eine entsetzliche Schwere lag \n</span><span class=\"tei-line\">auf ihnen. Zu den einfachsten Verrichtungen fühlten \n</span><span class=\"tei-line\">sie sich ungelenk, sie hatten für diese neue unbekannte \n</span><span class=\"tei-line\">Welt ihre alten Führer nicht mehr, die regulirenden \n</span><span class=\"line\">5</span><span class=\"tei-line \">unbewusst-sicherführenden Triebe, – sie waren auf \n</span><span class=\"tei-line\">Denken, Schliessen, Berechnen, Combiniren von Ur-\n</span><span class=\"tei-line\">sachen und Wirkungen reduzirt, diese Unglücklichen, \n</span><span class=\"tei-line\">auf ihr „Bewusstsein“, auf ihr ärmlichstes und fehl-\n</span><span class=\"tei-line\">greifendstes Organ! Ich glaube, dass niemals auf Er-\n</span><span class=\"line\">10</span><span class=\"tei-line \">den ein solches Elends-Gefühl, ein solches bleiernes Miss-\n</span><span class=\"tei-line\">behagen dagewesen ist, – und dabei hatten jene alten \n</span><span class=\"tei-line\">Instinkte nicht mit Einem Male aufgehört, ihre Forde-\n</span><span class=\"tei-line\">rungen zu stellen! Nur war es schwer und selten mög-\n</span><span class=\"tei-line\">lich, ihnen zu Willen zu sein: in der Hauptsache muss-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ten sie sich neue und gleichsam unterirdische Befrie-\n</span><span class=\"tei-line\">digungen suchen. Alle Instinkte, welche sich nicht nach \n</span><span class=\"tei-line\">Aussen entladen, <span class=\"tei-hi2 spaced\">wenden sich nach Innen</span> – dies \n</span><span class=\"tei-line\">ist das, was ich die <span class=\"tei-hi2 spaced\">Verinnerlichung</span> des Menschen \n</span><span class=\"tei-line\">nenne: damit wächst erst das an den Menschen heran, \n</span><span class=\"line\">20</span><span class=\"tei-line \">was man später seine „Seele“ nennt. Die ganze innere \n</span><span class=\"tei-line\">Welt, ursprünglich dünn wie zwischen zwei Häute ein-\n</span><span class=\"tei-line\">gespannt, ist in dem Maasse aus einander- und aufge-\n</span><span class=\"tei-line\">gangen, hat Tiefe, Breite, Höhe bekommen, als die Ent-\n</span><span class=\"tei-line\">ladung des Menschen nach Aussen <span class=\"tei-hi2 spaced\">gehemmt</span> worden \n</span><span class=\"line\">25</span><span class=\"tei-line \">ist. Jene furchtbaren Bollwerke, mit denen sich die \n</span><span class=\"tei-line\">staatliche Organisation gegen die alten Instinkte der \n</span><span class=\"tei-line\">Freiheit schützte – die Strafen gehören vor Allem zu \n</span><span class=\"tei-line\">diesen Bollwerken – brachten zu Wege, dass alle jene \n</span><span class=\"tei-line\">Instinkte des wilden freien schweifenden Menschen sich \n</span><span class=\"line\">30</span><span class=\"tei-line \">rückwärts, sich <span class=\"tei-hi2 spaced\">gegen den Menschen selbst</span> wand-\n</span><span class=\"tei-line\">ten. Die Feindschaft, die Grausamkeit, die Lust an \n</span><span class=\"tei-line\">der Verfolgung, am Überfall, am Wechsel, an der Zer-\n</span><span class=\"tei-line\">störung – Alles das gegen die Inhaber solcher In-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.45.6.335",
+    "rootNode": "2.5.12.8.45.6.335",
+    "id": "Ed_139_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.47.5.61",
+    "previous": "2.5.12.8.45.6.251",
+    "nextId": "Ed_140_id",
+    "previousId": "Ed_138_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0160.tif\">139</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">aus Freund, Weib, Kind und was sonst ihnen am \n</span><span class=\"tei-line\">nächsten steht. „Ich leide: daran muss irgend Jemand \n</span><span class=\"tei-line\">schuld sein“ – also denkt jedes krankhafte Schaf. \n</span><span class=\"tei-line\">Aber sein Hirt, der asketische Priester, sagt zu ihm: \n</span><span class=\"line\">5</span><span class=\"tei-line \">„Recht so, mein Schaf! irgend wer muss daran schuld \n</span><span class=\"tei-line\">sein: aber du selbst bist dieser Irgend-Wer, du selbst \n</span><span class=\"tei-line\">bist daran allein schuld, – <span class=\"tei-hi2 spaced\">du selbst bist an dir \n<span class=\"tei-line\">allein schuld!</span>allein schuld!</span>“… Das ist kühn genug, falsch ge-\n</span><span class=\"tei-line\">nug: aber Eins ist damit wenigstens erreicht, damit ist, \n</span><span class=\"line\">10</span><span class=\"tei-line \">wie gesagt, die Richtung des Ressentiment – <span class=\"tei-hi2 spaced\">ver-\n<span class=\"tei-line\">ändert</span>ändert</span>.</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">16.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Man erräth nunmehr, was nach meiner Vorstellung \n</span><span class=\"tei-line\">der Heilkünstler-Instinkt des Lebens durch den aske-\n</span><span class=\"line\">15</span><span class=\"tei-line \">tischen Priester zum Mindesten <span class=\"tei-hi2 spaced\">versucht</span> hat und \n</span><span class=\"tei-line\">wozu ihm eine zeitweilige Tyrannei solcher paradoxer \n</span><span class=\"tei-line\">und paralogischer Begriffe wie „Schuld“, „Sünde“, \n</span><span class=\"tei-line\">„Sündhaftigkeit“, „Verderbniss“, „Verdammniss“ hat die-\n</span><span class=\"tei-line\">nen müssen: die Kranken bis zu einem gewissen Grade \n</span><span class=\"line\">20</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">unschädlich</span> zu machen, die Unheilbaren durch sich \n</span><span class=\"tei-line\">selbst zu zerstören, den Milder-Erkrankten streng die \n</span><span class=\"tei-line\">Richtung auf sich selbst, eine Rückwärtsrichtung ihres \n</span><span class=\"tei-line\">Ressentiments zu geben („Eins ist noth“ –) und die \n</span><span class=\"tei-line\">schlechten Instinkte aller Leidenden dergestalt zum \n</span><span class=\"line\">25</span><span class=\"tei-line \">Zweck der Selbstdisciplinirung, Selbstüberwachung, \n</span><span class=\"tei-line\">Selbstüberwindung <span class=\"tei-hi2 spaced\">auszunützen</span>. Es kann sich, wie \n</span><span class=\"tei-line\">sich von selbst versteht, mit einer „Medikation“ dieser \n</span><span class=\"tei-line\">Art, einer blossen Affekt-Medikation, schlechterdings \n</span><span class=\"tei-line\">nicht um eine wirkliche Kranken-<span class=\"tei-hi2 spaced\">Heilung</span> im physio-\n</span><span class=\"line\">30</span><span class=\"tei-line \">logischen Verstande handeln; man dürfte selbst nicht \n</span><span class=\"tei-line\">einmal behaupten, dass der Instinkt des Lebens hier-\n</span><span class=\"tei-line\">bei irgendwie die Heilung in Aussicht und Absicht \n</span><span class=\"tei-line\">genommen habe. Eine Art Zusammendrängung und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

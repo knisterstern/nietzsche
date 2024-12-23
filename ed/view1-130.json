@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.29.6.205",
+    "rootNode": "2.5.12.8.29.6.205",
+    "id": "Ed_111_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.37",
+    "previous": "2.5.12.8.29.6.102",
+    "nextId": "Ed_112_id",
+    "previousId": "Ed_110_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0132.tif\">111</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ben im Hause, eine Stätte der Unreinheit; Freiheit ist \n</span><span class=\"tei-line\">ein Verlassen des Hauses“: „dieweil er also dachte, \n</span><span class=\"tei-line\">verliess er das Haus“. Es sind im asketischen Ideale \n</span><span class=\"tei-line\">so viele Brücken zur <span class=\"tei-hi2 spaced\">Unabhängigkeit</span> angezeigt, \n</span><span class=\"line\">5</span><span class=\"tei-line \">dass ein Philosoph nicht ohne ein innerliches Froh-\n</span><span class=\"tei-line\">locken und Händeklatschen die Geschichte aller jener \n</span><span class=\"tei-line\">Entschlossnen zu hören vermag, welche eines Tages \n</span><span class=\"tei-line\">Nein sagten zu aller Unfreiheit und in irgend eine \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Wüste</span> giengen: gesetzt selbst, dass es bloss starke Esel \n</span><span class=\"line\">10</span><span class=\"tei-line \">waren und ganz und gar das Gegenstück eines starken \n</span><span class=\"tei-line\">Geistes. Was bedeutet demnach das asketische Ideal bei \n</span><span class=\"tei-line\">einem Philosophen? Meine Antwort ist – man wird \n</span><span class=\"tei-line\">es längst errathen haben: der Philosoph lächelt bei \n</span><span class=\"tei-line\">seinem Anblick einem Optimum der Bedingungen höch-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ster und kühnster Geistigkeit zu, – er verneint <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">damit „das Dasein“, er bejaht darin vielmehr <span class=\"tei-hi2 spaced\">sein</span> Da-\n</span><span class=\"tei-line\">sein und <span class=\"tei-hi2 spaced\">nur</span> sein Dasein, und dies vielleicht bis zu \n</span><span class=\"tei-line\">dem Grade, dass ihm der frevelhafte Wunsch nicht fern \n</span><span class=\"tei-line\">bleibt: pereat mundus, fiat philosophia, fiat philoso-\n</span><span class=\"line\">20</span><span class=\"tei-line \">phus, <span class=\"tei-hi2 spaced\">fiam</span>!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">8.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Man sieht, das sind keine unbestochnen Zeugen \n</span><span class=\"tei-line\">und Richter über den <span class=\"tei-hi2 spaced\">Werth</span> des asketischen Ideals, \n</span><span class=\"tei-line\">diese Philosophen! Sie denken an <span class=\"tei-hi2 spaced\">sich</span>, – was geht \n</span><span class=\"line\">25</span><span class=\"tei-line \">sie „der Heilige“ an! Sie denken an Das dabei, was \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">ihnen</span> gerade das Unentbehrlichste ist: Freiheit von \n</span><span class=\"tei-line\">Zwang, Störung, Lärm, von Geschäften, Pflichten, Sor-\n</span><span class=\"tei-line\">gen; Helligkeit im Kopf; Tanz, Sprung und Flug der \n</span><span class=\"tei-line\">Gedanken; eine gute Luft, dünn, klar, frei, trocken, \n</span><span class=\"line\">30</span><span class=\"tei-line \">wie die Luft auf Höhen ist, bei der alles animali-\n</span><span class=\"tei-line\">sche Sein geistiger wird und Flügel bekommt; Ruhe \n</span><span class=\"tei-line\">in allen Souterrains; alle Hunde hübsch an die Kette \n</span><span class=\"tei-line\">gelegt; kein Gebell von Feindschaft und zotteliger Ran-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

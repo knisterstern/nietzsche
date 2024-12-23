@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.521",
+    "rootNode": "2.5.12.8.31.5.521",
+    "id": "Ed_117_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.33.5.70",
+    "previous": "2.5.12.8.31.5.428",
+    "nextId": "Ed_118_id",
+    "previousId": "Ed_116_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0138.tif\">117</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">andres Mal zurückkommen, im Zusammenhang mit \n</span><span class=\"tei-line\">noch delikateren Problemen der bisher so unberührten, \n</span><span class=\"tei-line\">so unaufgeschlossenen <span class=\"tei-hi2 spaced\">Physiologie der Ästhetik</span>.)</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">9.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">5</span><span class=\"tei-line indent\">Ein gewisser Ascetismus, wir sahen es, eine harte \n</span><span class=\"tei-line\">und heitere Entsagsamkeit besten Willens gehört zu \n</span><span class=\"tei-line\">den günstigen Bedingungen höchster Geistigkeit, ins-\n</span><span class=\"tei-line\">gleichen auch zu deren natürlichsten Folgen: so wird \n</span><span class=\"tei-line\">es von vornherein nicht Wunder nehmen, wenn das \n</span><span class=\"line\">10</span><span class=\"tei-line \">asketische Ideal gerade von den Philosophen nie ohne \n</span><span class=\"tei-line\">einige Voreingenommenheit behandelt worden ist. Bei \n</span><span class=\"tei-line\">einer ernsthaften historischen Nachrechnung erweist \n</span><span class=\"tei-line\">sich sogar das Band zwischen asketischem Ideal und \n</span><span class=\"tei-line\">Philosophie als noch viel enger und strenger. Man \n</span><span class=\"line\">15</span><span class=\"tei-line \">könnte sagen, dass erst am <span class=\"tei-hi2 spaced\">Gängelbande</span> dieses \n</span><span class=\"tei-line\">Ideals die Philosophie überhaupt gelernt habe, ihre \n</span><span class=\"tei-line\">ersten Schritte und Schrittchen auf Erden zu machen – \n</span><span class=\"tei-line\">ach, noch so ungeschickt, ach, mit noch so verdross-\n</span><span class=\"tei-line\">nen Mienen, ach, so bereit, umzufallen und auf dem \n</span><span class=\"line\">20</span><span class=\"tei-line \">Bauch zu liegen, dieser kleine schüchterne Tapps und \n</span><span class=\"tei-line\">Zärtling mit krummen Beinen! Es ist der Philosophie \n</span><span class=\"tei-line\">anfangs ergangen wie allen guten Dingen, – sie hatten \n</span><span class=\"tei-line\">lange keinen Muth zu sich selber, sie sahen sich immer \n</span><span class=\"tei-line\">um, ob ihnen Niemand zu Hülfe kommen wolle, mehr \n</span><span class=\"line\">25</span><span class=\"tei-line \">noch, sie fürchteten sich vor Allen, die ihnen zusahn. \n</span><span class=\"tei-line\">Man rechne sich die einzelnen Triebe und Tugenden \n</span><span class=\"tei-line\">des Philosophen der Reihe nach vor – seinen anzwei-\n</span><span class=\"tei-line\">felnden Trieb, seinen verneinenden Trieb, seinen ab-\n</span><span class=\"tei-line\">wartenden („ephektischen“) Trieb, seinen analytischen \n</span><span class=\"line\">30</span><span class=\"tei-line \">Trieb, seinen forschenden, suchenden, wagenden Trieb, \n</span><span class=\"tei-line\">seinen vergleichenden, ausgleichenden Trieb, seinen \n</span><span class=\"tei-line\">Willen zu Neutralität und Objektivität, seinen Willen \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

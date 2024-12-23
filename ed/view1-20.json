@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.15.3",
+    "rootNode": "2.5.12.4.15.3",
+    "id": "Ed_1_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.15.9.79",
+    "previous": "2.5.12.4.7",
+    "nextId": "Ed_2_id",
+    "previousId": "Ed_XVI_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0022.tif\">1</pb-facs-link></span>\n  \n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>1.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Diese englischen Psychologen, denen man bisher \n</span><span class=\"tei-line\">auch die einzigen Versuche zu danken hat, es zu einer \n</span><span class=\"tei-line\">Entstehungsgeschichte der Moral zu bringen, – sie \n</span><span class=\"line\">5</span><span class=\"tei-line \">geben uns mit sich selbst kein kleines Räthsel auf; sie \n</span><span class=\"tei-line\">haben sogar, dass ich es gestehe, eben damit, als leib-\n</span><span class=\"tei-line\">haftige Räthsel, etwas Wesentliches vor ihren Büchern \n</span><span class=\"tei-line\">voraus – <span class=\"tei-hi2 spaced\">sie selbst sind interessant!</span> Diese eng-\n</span><span class=\"tei-line\">lischen Psychologen – was wollen sie eigentlich? Man \n</span><span class=\"line\">10</span><span class=\"tei-line \">findet sie, sei es nun freiwillig oder unfreiwillig, immer \n</span><span class=\"tei-line\">am gleichen Werke, nämlich die partie honteuse unsrer \n</span><span class=\"tei-line\">inneren Welt in den Vordergrund zu drängen und ge-\n</span><span class=\"tei-line\">rade dort das eigentlich Wirksame, Leitende, für die \n</span><span class=\"tei-line\">Entwicklung Entscheidende zu suchen, wo der intellek-\n</span><span class=\"line\">15</span><span class=\"tei-line \">tuelle Stolz des Menschen es am letzten zu finden \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">wünschte</span> (zum Beispiel in der vis inertiae der Ge-\n</span><span class=\"tei-line\">wohnheit oder in der Vergesslichkeit oder in einer blin-\n</span><span class=\"tei-line\">den und zufälligen Ideen-Verhäkelung und -Mechanik \n</span><span class=\"tei-line\">oder in irgend etwas Rein-Passivem, Automatischem, \n</span><span class=\"line\">20</span><span class=\"tei-line \">Reflexmässigem, Molekularem und Gründlich-Stupi-\n</span><span class=\"tei-line\">dem) – was treibt diese Psychologen eigentlich immer \n</span><span class=\"tei-line\">gerade in <span class=\"tei-hi2 spaced\">diese</span> Richtung? Ist es ein heimlicher, hä-\n</span><span class=\"tei-line\">mischer, gemeiner, seiner selbst vielleicht uneingeständ-\n</span><span class=\"tei-line\">licher Instinkt der Verkleinerung des Menschen? Oder \n</span><span class=\"line\">25</span><span class=\"tei-line \">etwa ein pessimistischer Argwohn, das Misstrauen von \n</span><span class=\"tei-line\">enttäuschten, verdüsterten, giftig und grün gewordenen \n</span><span class=\"tei-line\">Idealisten? Oder eine kleine unterirdische Feindschaft \n</span><span class=\"tei-line\">und Rancune gegen das Christenthum (und Plato), die \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.21.9",
+    "rootNode": "2.7.2.2.21.9",
+    "id": "Cb_a8",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.21.27",
+    "previous": "2.7.2.2.19.8",
+    "nextId": "Cb_a9",
+    "previousId": "Cb_a7",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0015.tif\">a8</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"4\"><span><span><span class=\"tei-foreign\">δειλ<span class=\"tei-sic2\">ὸσ</span></span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"5\"><span><span><span class=\"tei-foreign\">ἀγαϑ<span class=\"tei-sic2\">ὸ</span>ς</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"9\"><span><span><span class=\"tei-foreign\"><span class=\"tei-sic2\">π</span>έλας</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"11-12\"><span><span><span class=\"tei-sic2\">nov</span>ari-/sche</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"16\"><span><span class=\"tei-note1 Nnote\">:</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"17-18\"><span><span>ursprünglich … Reine</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung Umstellung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"23\"><span><span>sorgfältige<span class=\"tei-sic2\">n,</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">ren</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span> und <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"27\"><span><span><span class=\"tei-hi2 spaced\"><span class=\"tei-sic2\">nov</span>arische</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

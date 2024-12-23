@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.43.6.66",
+    "rootNode": "2.5.12.8.43.6.66",
+    "id": "Ed_131_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.43.6.159",
+    "previous": "2.5.12.8.41.5.185",
+    "nextId": "Ed_132_id",
+    "previousId": "Ed_130_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0152.tif\">131</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Wer nicht nur seine Nase zum Riechen hat, sondern \n</span><span class=\"tei-line\">auch seine Augen und Ohren, der spürt fast überall, \n</span><span class=\"tei-line\">wohin er heute auch nur tritt, etwas wie Irrenhaus-, \n</span><span class=\"tei-line\">wie Krankenhaus-Luft, – ich rede, wie billig, von den \n</span><span class=\"line\">5</span><span class=\"tei-line \">Culturgebieten des Menschen, von jeder Art „Europa“, \n</span><span class=\"tei-line\">das es nachgerade auf Erden giebt. Die <span class=\"tei-hi2 spaced\">Krankhaf-\n<span class=\"tei-line\">ten</span>ten</span> sind des Menschen grosse Gefahr: <span class=\"tei-hi2 spaced\">nicht</span> die Bö-\n</span><span class=\"tei-line\">sen, <span class=\"tei-hi2 spaced\">nicht</span> die „Raubthiere“. Die von vornherein Ver-\n</span><span class=\"tei-line\">unglückten, Niedergeworfnen, Zerbrochnen – sie sind \n</span><span class=\"line\">10</span><span class=\"tei-line \">es, die <span class=\"tei-hi2 spaced\">Schwächsten</span> sind es, welche am Meisten das \n</span><span class=\"tei-line\">Leben unter Menschen unterminiren, welche unser Ver-\n</span><span class=\"tei-line\">trauen zum Leben, zum Menschen, zu uns am gefähr-\n</span><span class=\"tei-line\">lichsten vergiften und in Frage stellen. Wo entgienge \n</span><span class=\"tei-line\">man ihm, jenem verhängten Blick, von dem man eine \n</span><span class=\"line\">15</span><span class=\"tei-line \">tiefe Traurigkeit mit fortträgt, jenem zurückgewendeten \n</span><span class=\"tei-line\">Blick des Missgebornen von Anbeginn, der es verräth, \n</span><span class=\"tei-line\">wie ein solcher Mensch zu sich selber spricht, – jenem \n</span><span class=\"tei-line\">Blick, der ein Seufzer ist. „Möchte ich irgend Jemand \n</span><span class=\"tei-line\">Anderes sein! so seufzt dieser Blick: aber da ist keine \n</span><span class=\"line\">20</span><span class=\"tei-line \">Hoffnung. Ich bin, der ich bin: wie käme ich von mir \n</span><span class=\"tei-line\">selber los? Und doch – <span class=\"tei-hi2 spaced\">habe ich mich satt!</span>“… \n</span><span class=\"tei-line\">Auf solchem Boden der Selbstverachtung, einem eigent-\n</span><span class=\"tei-line\">lichen Sumpfboden, wächst jedes Unkraut, jedes Gift-\n</span><span class=\"tei-line\">gewächs, und alles so klein, so versteckt, so unehrlich, \n</span><span class=\"line\">25</span><span class=\"tei-line \">so süsslich. Hier wimmeln die Würmer der Rach- und \n</span><span class=\"tei-line\">Nachgefühle; hier stinkt die Luft nach Heimlichkeiten \n</span><span class=\"tei-line\">und Uneingeständlichkeiten; hier spinnt sich beständig \n</span><span class=\"tei-line\">das Netz der bösartigsten Verschwörung, – der Ver-\n</span><span class=\"tei-line\">schwörung der Leidenden gegen die Wohlgerathenen \n</span><span class=\"line\">30</span><span class=\"tei-line \">und Siegreichen, hier wird der Aspekt des Siegreichen \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">gehasst</span>. Und welche Verlogenheit, um diesen Hass nicht \n</span><span class=\"tei-line\">als Hass einzugestehn! Welcher Aufwand an grossen \n</span><span class=\"tei-line\">Worten und Attitüden, welche Kunst der „rechtschaffnen“ \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.27.5.223",
+    "rootNode": "2.5.12.8.27.5.223",
+    "id": "Ed_108_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.29.6.16",
+    "previous": "2.5.12.8.27.5.136",
+    "nextId": "Ed_109_id",
+    "previousId": "Ed_107_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0129.tif\">108</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">des langen Überdrusses! Welche fast pathologische \n</span><span class=\"tei-line\">Zeit-Gegenüberstellung „jenes Augenblicks“ und des \n</span><span class=\"tei-line\">sonstigen „Rads des Ixion<span class=\"tei-sic1\">Ixions<span class=\"tei-note3 note\">Erratum</span></span>“, der „Zuchthausarbeit des \n</span><span class=\"tei-line\">Wollens“, des „schnöden Willensdrangs“! – Aber ge-\n</span><span class=\"line\">5</span><span class=\"tei-line \">setzt, dass Schopenhauer hundert Mal für seine Person \n</span><span class=\"tei-line\">Recht hätte, was wäre damit für die Einsicht in’s We-\n</span><span class=\"tei-line\">sen des Schönen gethan? Schopenhauer hat Eine Wir-\n</span><span class=\"tei-line\">kung des Schönen beschrieben, die willen-calmirende, – \n</span><span class=\"tei-line\">ist sie auch nur eine regelmässige? Stendhal, wie ge-\n</span><span class=\"line\">10</span><span class=\"tei-line \">sagt, eine nicht weniger sinnliche, aber glücklicher ge-\n</span><span class=\"tei-line\">rathene Natur als Schopenhauer, hebt eine andre Wir-\n</span><span class=\"tei-line\">kung des Schönen hervor: „das Schöne <span class=\"tei-hi2 spaced\">verspricht</span> \n</span><span class=\"tei-line\">Glück“, ihm scheint gerade die <span class=\"tei-hi2 spaced\">Erregung des Wil-\n<span class=\"tei-line\">lens</span>lens</span> (des „Interesses“) durch das Schöne der That-\n</span><span class=\"line\">15</span><span class=\"tei-line \">bestand. Und könnte man nicht zuletzt Schopenhauern \n</span><span class=\"tei-line\">selber einwenden, dass er sehr mit Unrecht sich hierin \n</span><span class=\"tei-line\">Kantianer dünke, dass er ganz und gar nicht die \n</span><span class=\"tei-line\">Kantische Definition des Schönen Kantisch verstanden \n</span><span class=\"tei-line\">habe, – dass auch ihm das Schöne aus einem „Inter-\n</span><span class=\"line\">20</span><span class=\"tei-line \">esse“ gefalle, sogar aus dem allerstärksten, allerpersön-\n</span><span class=\"tei-line\">lichsten Interesse: dem des Torturirten, der von seiner \n</span><span class=\"tei-line\">Tortur loskommt?… Und, um auf unsre erste Frage \n</span><span class=\"tei-line\">zurückzukommen „was <span class=\"tei-hi2 spaced\">bedeutet</span> es, wenn ein Philo-\n</span><span class=\"tei-line\">soph dem asketischen Ideale <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">huldigt?“</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">huldigt?“</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">huldigt?“,</span> (KGW/KSA)</span></p></template></pb-popover> so bekommen wir \n</span><span class=\"line\">25</span><span class=\"tei-line \">hier wenigstens einen ersten Wink: er will <span class=\"tei-hi2 spaced\">von einer \n<span class=\"tei-line\">Tortur loskommen</span>Tortur loskommen</span>. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">7.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Hüten wir uns, bei dem Wort „Tortur“ gleich \n</span><span class=\"tei-line\">düstere Gesichter zu machen: es bleibt gerade in die-\n</span><span class=\"line\">30</span><span class=\"tei-line \">sem Falle genug dagegen zu rechnen, genug abzuziehn, \n</span><span class=\"tei-line\">– es bleibt selbst etwas zu lachen. Unterschätzen wir \n</span><span class=\"tei-line\">es namentlich nicht, dass Schopenhauer, der die Ge-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

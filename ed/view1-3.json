@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.7",
+    "rootNode": "2.5.7",
+    "id": "Ed_VordereUmschlaginnenseite_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.10.4.2",
+    "previous": "2.5.5",
+    "nextId": "Ed_I_id",
+    "previousId": "Ed_Umschlagrückseite_id",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-text\"><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0005.tif\">[Vordere Umschlaginnenseite]</pb-facs-link></span>\n     \n     <div class=\"tei-front\">\n       \n       \n       <div class=\"tei-titlePage\">\n</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

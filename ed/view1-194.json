@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.65.5.440",
+    "rootNode": "2.5.12.8.65.5.440",
+    "id": "Ed_175_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.67.7.69",
+    "previous": "2.5.12.8.65.5.344",
+    "nextId": "Ed_176_id",
+    "previousId": "Ed_174_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0196.tif\">175</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Schuld davon nicht im „Wünschen“, sondern im „Er-\n</span><span class=\"tei-line\">kennen“ suchen zu dürfen!… „Es giebt kein Erkennen: \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">folglich</span> – giebt es einen Gott“: welche neue ele-\n</span><span class=\"tei-line\">gantia syllogismi! welcher <span class=\"tei-hi2 spaced\">Triumph</span> des asketischen \n</span><span class=\"line\">5</span><span class=\"tei-line \">Ideals! –</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">26.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Oder zeigte vielleicht die gesammte moderne \n</span><span class=\"tei-line\">Geschichtsschreibung eine lebensgewissere, idealge-\n</span><span class=\"tei-line\">wissere Haltung? Ihr vornehmster Anspruch geht jetzt \n</span><span class=\"line\">10</span><span class=\"tei-line \">dahin, <span class=\"tei-hi2 spaced\">Spiegel</span> zu sein; sie lehnt alle Teleologie ab; \n</span><span class=\"tei-line\">sie will Nichts mehr „beweisen“; sie verschmäht es, \n</span><span class=\"tei-line\">den Richter zu spielen, und hat darin ihren guten Ge-\n</span><span class=\"tei-line\">schmack, – sie bejaht so wenig als sie verneint, sie \n</span><span class=\"tei-line\">stellt fest, sie „beschreibt“… Dies Alles ist in einem \n</span><span class=\"line\">15</span><span class=\"tei-line \">hohen Grade asketisch; es ist aber zugleich in einem \n</span><span class=\"tei-line\">noch höheren Grade <span class=\"tei-hi2 spaced\">nihilistisch</span>, darüber täusche \n</span><span class=\"tei-line\">man sich nicht! Man sieht einen traurigen, harten, \n</span><span class=\"tei-line\">aber entschlossenen Blick, – ein Auge, das <span class=\"tei-hi2 spaced\">hinaus-\n<span class=\"tei-line\">schaut</span>schaut</span>, wie ein vereinsamter Nordpolfahrer hinaus-\n</span><span class=\"line\">20</span><span class=\"tei-line \">schaut (vielleicht um nicht hineinzuschauen? um nicht \n</span><span class=\"tei-line\">zurückzuschauen?…) Hier ist Schnee, hier ist das \n</span><span class=\"tei-line\">Leben verstummt; die letzten Krähen, die hier laut \n</span><span class=\"tei-line\">werden, heissen „Wozu?“, „Umsonst!“, „Nada!“ – hier \n</span><span class=\"tei-line\">gedeiht und wächst Nichts mehr, höchstens Petersburger \n</span><span class=\"line\">25</span><span class=\"tei-line \">Metapolitik und Tolstoi’sches „Mitleid“. Was aber jene \n</span><span class=\"tei-line\">andre Art von Historikern betrifft, eine vielleicht noch \n</span><span class=\"tei-line\">„modernere“ Art, eine genüssliche, wollüstige, mit dem \n</span><span class=\"tei-line\">Leben ebenso sehr als mit dem asketischen Ideal lieb-\n</span><span class=\"tei-line\">äugelnde Art, welche das Wort „Artist“ als Handschuh \n</span><span class=\"line\">30</span><span class=\"tei-line \">gebraucht und heute das Lob der Contemplation ganz \n</span><span class=\"tei-line\">und gar für sich in Pacht genommen hat: oh welchen \n</span><span class=\"tei-line\">Durst erregen diese süssen Geistreichen selbst noch nach \n</span><span class=\"tei-line\">Asketen und Winterlandschaften! Nein! dies „beschau-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

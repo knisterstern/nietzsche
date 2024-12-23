@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.9.5.63",
+    "rootNode": "2.5.12.2.9.5.63",
+    "id": "Ed_IV_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.11.5.60",
+    "previous": "2.5.12.2.3",
+    "nextId": "Ed_V_id",
+    "previousId": "Ed_III_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0009.tif\">IV</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">die zitternden zwölf Glockenschläge unsres Erlebnisses, \n</span><span class=\"tei-line\">unsres Lebens, unsres <span class=\"tei-hi2 spaced\">Seins</span> – ach! und verzählen uns \n</span><span class=\"tei-line\">dabei… Wir bleiben uns eben nothwendig fremd, \n</span><span class=\"tei-line\">wir verstehn uns nicht, wir <span class=\"tei-hi2 spaced\">müssen</span> uns verwechseln, \n</span><span class=\"line\">5</span><span class=\"tei-line \">für uns heisst der Satz in alle Ewigkeit „Jeder ist \n</span><span class=\"tei-line\">sich selbst der Fernste“, – für uns sind wir keine „Er-\n</span><span class=\"tei-line\">kennenden“…</span></p>\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">2.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Meine Gedanken über die <span class=\"tei-hi2 spaced\">Herkunft</span> unserer \n</span><span class=\"line\">10</span><span class=\"tei-line \">moralischen Vorurtheile – denn um sie handelt es sich \n</span><span class=\"tei-line\">in dieser Streitschrift – haben ihren ersten, sparsamen \n</span><span class=\"tei-line\">und vorläufigen Ausdruck in jener Aphorismen-Samm-\n</span><span class=\"tei-line\">lung erhalten, die den Titel trägt „Menschliches, All-\n</span><span class=\"tei-line\">zumenschliches. Ein Buch für freie Geister“, und deren \n</span><span class=\"line\">15</span><span class=\"tei-line \">Niederschrift in Sorrent begonnen wurde, während eines \n</span><span class=\"tei-line\">Winters, welcher es mir erlaubte, Halt zu machen wie \n</span><span class=\"tei-line\">ein Wandrer Halt macht und das weite und gefährliche \n</span><span class=\"tei-line\">Land zu überschauen, durch das mein Geist bis dahin \n</span><span class=\"tei-line\">gewandert war. Dies geschah im Winter 1876-77; die \n</span><span class=\"line\">20</span><span class=\"tei-line \">Gedanken selbst sind älter. Es waren in der Haupt-\n</span><span class=\"tei-line\">sache schon die gleichen Gedanken, die ich in den vor-\n</span><span class=\"tei-line\">liegenden Abhandlungen wieder aufnehme: – hoffen \n</span><span class=\"tei-line\">wir, dass die lange Zwischenzeit ihnen gut gethan hat, \n</span><span class=\"tei-line\">dass sie reifer, heller, stärker, vollkommner geworden \n</span><span class=\"line\">25</span><span class=\"tei-line \">sind! <span class=\"tei-hi2 spaced\">Dass</span> ich aber heute noch an ihnen festhalte, \n</span><span class=\"tei-line\">dass sie sich selber inzwischen immer fester an einander \n</span><span class=\"tei-line\">gehalten haben, ja in einander gewachsen und verwach-\n</span><span class=\"tei-line\">sen sind, das stärkt in mir die frohe Zuversichtlich-\n</span><span class=\"tei-line\">keit, sie möchten von Anfang an in mir nicht einzeln, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

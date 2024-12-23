@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.17.7.209",
+    "rootNode": "2.5.12.4.17.7.209",
+    "id": "Ed_5_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.21",
+    "previous": "2.5.12.4.17.7.114",
+    "nextId": "Ed_6_id",
+    "previousId": "Ed_4_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0026.tif\">5</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Begriffe nimmt, bereits mit der Gewalt einer „fixen Idee“ \n</span><span class=\"tei-line\">und Kopfkrankheit).</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">3.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Zweitens aber: ganz abgesehen von der historischen \n</span><span class=\"line\">5</span><span class=\"tei-line \">Unhaltbarkeit jener Hypothese über die Herkunft des \n</span><span class=\"tei-line\">Werthurtheils „gut“, krankt sie an einem psychologi-\n</span><span class=\"tei-line\">schen Widersinn in sich selbst. Die Nützlichkeit der \n</span><span class=\"tei-line\">unegoistischen Handlung soll der Ursprung ihres \n</span><span class=\"tei-line\">Lobes sein, und dieser Ursprung soll <span class=\"tei-hi2 spaced\">vergessen</span> \n</span><span class=\"line\">10</span><span class=\"tei-line \">worden sein: – wie ist dies Vergessen auch nur <span class=\"tei-hi2 spaced\">mög-\n<span class=\"tei-line\">lich</span>lich</span>? Hat vielleicht die Nützlichkeit solcher Hand-\n</span><span class=\"tei-line\">lungen irgend wann einmal aufgehört? Das Gegen-\n</span><span class=\"tei-line\">theil ist der Fall: diese Nützlichkeit ist vielmehr die \n</span><span class=\"tei-line\">Alltagserfahrung zu allen Zeiten gewesen, Etwas also, \n</span><span class=\"line\">15</span><span class=\"tei-line \">das fortwährend immer neu unterstrichen wurde; folg-\n</span><span class=\"tei-line\">lich, statt aus dem Bewusstsein zu verschwinden, statt \n</span><span class=\"tei-line\">vergessbar zu werden, sich dem Bewusstsein mit immer \n</span><span class=\"tei-line\">grösserer Deutlichkeit eindrücken musste. Um wie viel \n</span><span class=\"tei-line\">vernünftiger ist jene entgegengesetzte Theorie (sie ist \n</span><span class=\"line\">20</span><span class=\"tei-line \">deshalb nicht wahrer –), welche zum Beispiel von \n</span><span class=\"tei-line\">Herbert Spencer vertreten wird: der den Begriff „gut“ \n</span><span class=\"tei-line\">als wesensgleich mit dem Begriff „nützlich“, „zweck-\n</span><span class=\"tei-line\">mässig“ ansetzt, so dass in den Urtheilen „gut“ und \n</span><span class=\"tei-line\">„schlecht“ die Menschheit gerade ihre <span class=\"tei-hi2 spaced\">unvergess-\n<span class=\"line\">25</span><span class=\"tei-line \">nen</span>nen</span> und <span class=\"tei-hi2 spaced\">unvergessbaren</span> Erfahrungen über nütz-\n</span><span class=\"tei-line\">lich-zweckmässig, über schädlich-unzweckmässig auf-\n</span><span class=\"tei-line\">summirt und sanktionirt habe. Gut ist, nach dieser \n</span><span class=\"tei-line\">Theorie, was sich von jeher als nützlich bewiesen hat: \n</span><span class=\"tei-line\">damit darf es als „werthvoll im höchsten Grade“, als \n</span><span class=\"line\">30</span><span class=\"tei-line \">„werthvoll an sich“ Geltung behaupten. Auch dieser \n</span><span class=\"tei-line\">Weg der Erklärung ist, wie gesagt, falsch, aber wenig-\n</span><span class=\"tei-line\">stens ist die Erklärung selbst in sich vernünftig und \n</span><span class=\"tei-line\">psychologisch haltbar.</span></p>\n\n \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.17",
+    "id": "TertullianPassage",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"TertullianPassage\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Tertullian-Stelle</h5>In der ersten Dm-Fassung vom 17. Juli hatte N mit einem Hinweis für den Setzer (a17r: „<span class=\"tei-hi2 underline\">Lücke</span>.“) eine Stelle in §16 (später GM I 15) ausgelassen, weil er den dafür vorgesehenen Text, ein längeres Tertullian-Zitat, in Sils-Maria nicht zur Hand hatte. Nachdem N in einem Brief vom 17. Juli bei seinem Freund Overbeck um den Text nachgefragt hatte, wird er diesen ein paar Tage später zugeschickt bekommen haben. Seine daraufhin eigenhändig angefertigte Abschrift davon fügt N dem Dm, das er wahrscheinlich kurz <span class=\"tei-date2\">nach dem 20. Juli 1887</span> zurückerhalten hat, als eingelegtes Blatt (a18rv) bei.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

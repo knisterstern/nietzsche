@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.14.5.71.5",
+    "rootNode": "2.5.12.6.14.5.71.5",
+    "id": "Ed_44_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.14.5.165",
+    "previous": "2.5.12.6.12.7.162",
+    "nextId": "Ed_45_id",
+    "previousId": "Ed_43_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><p class=\"tei-p8 tei-p\"><span class=\"tei-line\">Muskeln zuckendes Bewusstsein davon, <span class=\"tei-hi2 spaced\">was</span> da endlich \n</span><span class=\"tei-line\">errungen und in ihm leibhaft geworden ist, ein eigent-\n</span><span class=\"tei-line\">liches Macht- und Freiheits-Bewusstsein, ein Voll-\n</span><span class=\"line\">5</span><span class=\"tei-line \">endungs-Gefühl des Menschen überhaupt. Dieser Frei-\n</span><span class=\"tei-line\">gewordne, der wirklich versprechen <span class=\"tei-hi2 spaced\">darf</span>, dieser Herr \n</span><span class=\"tei-line\">des <span class=\"tei-hi2 spaced\">freien</span> Willens, dieser Souverain – wie sollte er \n</span><span class=\"tei-line\">es nicht wissen, welche Überlegenheit er damit vor \n</span><span class=\"tei-line\">Allem voraus hat, was nicht versprechen und für sich \n</span><span class=\"line\">10</span><span class=\"tei-line \">selbst gut sagen darf, wie viel Vertrauen, wie viel \n</span><span class=\"tei-line\">Furcht, wie viel Ehrfurcht er erweckt – er „<span class=\"tei-hi2 spaced\">verdient</span>“ \n</span><span class=\"tei-line\">alles Dreies – und wie ihm, mit dieser Herrschaft \n</span><span class=\"tei-line\">über sich, auch die Herrschaft über die Umstände, über \n</span><span class=\"tei-line\">die Natur und alle willenskürzeren und unzuverlässige-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ren Creaturen nothwendig in die Hand gegeben ist? Der \n</span><span class=\"tei-line\">„freie“ Mensch, der Inhaber eines langen unzerbrech-\n</span><span class=\"tei-line\">lichen Willens, hat in diesem Besitz auch sein <span class=\"tei-hi2 spaced\">Werth-\n<span class=\"tei-line\">maass</span>maass</span>: von sich aus nach den Andern hinblickend, \n</span><span class=\"tei-line\">ehrt er oder verachtet er; und eben so nothwendig als \n</span><span class=\"line\">20</span><span class=\"tei-line \">er die ihm Gleichen, die Starken und Zuverlässigen \n</span><span class=\"tei-line\">(die welche versprechen <span class=\"tei-hi2 spaced\">dürfen</span>) ehrt, – also Jeder-\n</span><span class=\"tei-line\">mann, der wie ein Souverain verspricht, schwer, selten, \n</span><span class=\"tei-line\">langsam, der mit seinem Vertrauen geizt, der <span class=\"tei-hi2 spaced\">aus-\n<span class=\"tei-line\">zeichnet</span>zeichnet</span>, wenn er vertraut, der sein Wort giebt als \n</span><span class=\"line\">25</span><span class=\"tei-line \">Etwas, auf das Verlass ist, weil er sich stark genug \n</span><span class=\"tei-line\">weiss, es selbst gegen Unfälle, selbst „gegen das \n</span><span class=\"tei-line\">Schicksal“ aufrecht zu halten –: eben so nothwendig \n</span><span class=\"tei-line\">wird er seinen Fusstritt für die schmächtigen Wind-\n</span><span class=\"tei-line\">hunde bereit halten, welche versprechen, ohne es zu \n</span><span class=\"line\">30</span><span class=\"tei-line \">dürfen, und seine Zuchtruthe für den Lügner, der sein \n</span><span class=\"tei-line\">Wort bricht, im Augenblick schon, wo er es im Munde \n</span><span class=\"tei-line\">hat. Das stolze Wissen um das ausserordentliche Pri-\n</span><span class=\"tei-line\">vilegium der <span class=\"tei-hi2 spaced\">Verantwortlichkeit</span>, das Bewusstsein \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

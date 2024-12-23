@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": null,
+    "rootNode": "2.7.2.2.8",
+    "id": "Cb_a1",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.11.9",
+    "previous": null,
+    "nextId": "Cb_a2",
+    "previousId": null,
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-div8\"></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

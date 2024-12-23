@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.56.5",
+    "rootNode": "2.7.2.2.56.5",
+    "id": "Cb_b12",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.56.20",
+    "previous": "2.7.2.2.54.17",
+    "nextId": "Cb_b13",
+    "previousId": "Cb_b11",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0035.tif\">b12</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"4\"><span><span><span class=\"tei-sic2\">a</span>lles</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">A</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"10\"><span><span><span class=\"tei-sic2\">O</span>hnmächtig-/sten</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">(kleines o))</span><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">o</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"12\"><span><span>i<span class=\"tei-sic2\">ns</span> … i<span class=\"tei-sic2\">ns</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">’ ’ Apostrophe)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span>z u<span class=\"tei-sic2\"></span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung Zusammenschreibung, <span class=\"tei-ref1\">Blaustift, Köselitz</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"21\"><span><span>Vornehmen“<span class=\"tei-sic2\">, d</span>ie</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">„ Gänsefüßchen)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25\"><span><span>das<span class=\"tei-sic2\">s</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

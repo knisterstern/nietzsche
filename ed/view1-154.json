@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.43.6.443",
+    "rootNode": "2.5.12.8.43.6.443",
+    "id": "Ed_135_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.45.6.59",
+    "previous": "2.5.12.8.43.6.343",
+    "nextId": "Ed_136_id",
+    "previousId": "Ed_134_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0156.tif\">135</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">gute Luft! gute Luft! Und weg jedenfalls aus der Nähe \n</span><span class=\"tei-line\">von allen Irren- und Krankenhäusern der Cultur! Und \n</span><span class=\"tei-line\">darum gute Gesellschaft, <span class=\"tei-hi2 spaced\">unsre</span> Gesellschaft! Oder \n</span><span class=\"tei-line\">Einsamkeit, wenn es sein muss! Aber weg jedenfalls \n</span><span class=\"line\">5</span><span class=\"tei-line \">von den üblen Dünsten der innewendigen Verderbniss \n</span><span class=\"tei-line\">und des heimlichen Kranken-Wurmfrasses!… Damit \n</span><span class=\"tei-line\">wir uns selbst nämlich, meine Freunde, wenigstens eine \n</span><span class=\"tei-line\">Weile noch gegen die zwei schlimmsten Seuchen ver-\n</span><span class=\"tei-line\">theidigen, die gerade für uns aufgespart sein mögen, – \n</span><span class=\"line\">10</span><span class=\"tei-line \">gegen den <span class=\"tei-hi2 spaced\">grossen Ekel am Menschen</span>! gegen das \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">grosse Mitleid mit dem Menschen</span>!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">15.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Hat man in aller Tiefe begriffen – und ich ver-\n</span><span class=\"tei-line\">lange, dass man hier gerade <span class=\"tei-hi2 spaced\">tief greift</span>, tief begreift \n</span><span class=\"line\">15</span><span class=\"tei-line \">– inwiefern es schlechterdings <span class=\"tei-hi2 spaced\">nicht</span> die Aufgabe der \n</span><span class=\"tei-line\">Gesunden sein kann, Kranke zu warten, Kranke ge-\n</span><span class=\"tei-line\">sund zu machen, so ist damit auch eine Nothwendig-\n</span><span class=\"tei-line\">keit mehr begriffen, – die Nothwendigkeit von Ärzten \n</span><span class=\"tei-line\">und Krankenwärtern, <span class=\"tei-hi2 spaced\">die selber krank sind</span>: und \n</span><span class=\"line\">20</span><span class=\"tei-line \">nunmehr haben und halten wir den Sinn des asketi-\n</span><span class=\"tei-line\">schen Priesters mit beiden Händen. Der asketische \n</span><span class=\"tei-line\">Priester muss uns als der vorherbestimmte Heiland, \n</span><span class=\"tei-line\">Hirt und Anwalt der kranken Heerde gelten: damit erst \n</span><span class=\"tei-line\">verstehen wir seine ungeheure historische Mission. Die \n</span><span class=\"line\">25</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">Herrschaft über Leidende</span> ist sein Reich, auf sie \n</span><span class=\"tei-line\">weist ihn sein Instinkt an, in ihr hat er seine eigenste \n</span><span class=\"tei-line\">Kunst, seine Meisterschaft, seine Art von Glück. Er \n</span><span class=\"tei-line\">muss selber krank sein, er muss den Kranken und \n</span><span class=\"tei-line\">Schlechtweggekommenen von Grund aus verwandt sein, \n</span><span class=\"line\">30</span><span class=\"tei-line \">um sie zu verstehen, – um sich mit ihnen zu ver-\n</span><span class=\"tei-line\">stehen; aber er muss auch stark sein, mehr Herr \n</span><span class=\"tei-line\">noch über sich als über Andere, unversehrt namentlich \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

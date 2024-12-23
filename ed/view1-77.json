@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.24.7.340",
+    "rootNode": "2.5.12.6.24.7.340",
+    "id": "Ed_58_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.26.7.82",
+    "previous": "2.5.12.6.24.7.254",
+    "nextId": "Ed_59_id",
+    "previousId": "Ed_57_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0079.tif\">58</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">denken wusste. – Und, wie schon gesagt, auch an der \n</span><span class=\"tei-line\">grossen <span class=\"tei-hi2 spaced\">Strafe</span> ist so viel Festliches!…</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">8.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Das Gefühl der Schuld, der persönlichen Verpflich-\n</span><span class=\"line\">5</span><span class=\"tei-line \">tung, um den Gang unsrer Untersuchung wieder auf-\n</span><span class=\"tei-line\">zunehmen, hat, wie wir sahen, seinen Ursprung in dem \n</span><span class=\"tei-line\">ältesten und ursprünglichsten Personen-Verhältniss, \n</span><span class=\"tei-line\">das es giebt, gehabt, in dem Verhältniss zwischen \n</span><span class=\"tei-line\">Käufer und Verkäufer, Gläubiger und Schuldner: hier \n</span><span class=\"line\">10</span><span class=\"tei-line \">trat zuerst Person gegen Person, hier <span class=\"tei-hi2 spaced\">mass sich</span> zu-\n</span><span class=\"tei-line\">erst Person an Person. Man hat keinen noch so \n</span><span class=\"tei-line\">niedren Grad von Civilisation aufgefunden, in dem nicht \n</span><span class=\"tei-line\">schon Etwas von diesem Verhältnisse bemerkbar würde. \n</span><span class=\"tei-line\">Preise machen, Werthe abmessen, Äquivalente aus-\n</span><span class=\"line\">15</span><span class=\"tei-line \">denken, tauschen – das hat in einem solchen Maasse \n</span><span class=\"tei-line\">das allererste Denken des Menschen präoccupirt, dass \n</span><span class=\"tei-line\">es in einem gewissen Sinne <span class=\"tei-hi2 spaced\">das</span> Denken ist: hier ist \n</span><span class=\"tei-line\">die älteste Art Scharfsinn herangezüchtet worden, hier \n</span><span class=\"tei-line\">möchte ebenfalls der erste Ansatz des menschlichen \n</span><span class=\"line\">20</span><span class=\"tei-line \">Stolzes, seines Vorrangs-Gefühls in Hinsicht auf anderes \n</span><span class=\"tei-line\">Gethier zu vermuthen sein. Vielleicht drückt noch \n</span><span class=\"tei-line\">unser Wort „Mensch“ (manas) gerade etwas von <span class=\"tei-hi2 spaced\">diesem</span> \n</span><span class=\"tei-line\">Selbstgefühl aus: der Mensch bezeichnete sich als das \n</span><span class=\"tei-line\">Wesen, welches Werthe misst, werthet und misst, als \n</span><span class=\"line\">25</span><span class=\"tei-line \">das „abschätzende Thier an sich“. Kauf und Verkauf, \n</span><span class=\"tei-line\">sammt ihrem psychologischen Zubehör, sind älter als \n</span><span class=\"tei-line\">selbst die Anfänge irgend welcher gesellschaftlichen Or-\n</span><span class=\"tei-line\">ganisationsformen und Verbände: aus der rudimentärsten \n</span><span class=\"tei-line\">Form des Personen-Rechts hat sich vielmehr das kei-\n</span><span class=\"line\">30</span><span class=\"tei-line \">mende Gefühl von Tausch, Vertrag, Schuld, Recht, \n</span><span class=\"tei-line\">Verpflichtung, Ausgleich erst auf die gröbsten und an-\n</span><span class=\"tei-line\">fänglichsten Gemeinschafts-Complexe (in deren Ver-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

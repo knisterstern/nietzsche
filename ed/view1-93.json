@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.38.5.103",
+    "rootNode": "2.5.12.6.38.5.103",
+    "id": "Ed_74_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.40.5.8",
+    "previous": "2.5.12.6.38.5.6",
+    "nextId": "Ed_75_id",
+    "previousId": "Ed_73_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0095.tif\">74</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">denen sich die strafende Gewalt ausliess. Unterschätzen \n</span><span class=\"tei-line\">wir nämlich nicht, inwiefern der Verbrecher gerade \n</span><span class=\"tei-line\">durch den Anblick der gerichtlichen und vollziehenden \n</span><span class=\"tei-line\">Prozeduren selbst verhindert wird, seine That, die Art \n</span><span class=\"line\">5</span><span class=\"tei-line \">seiner Handlung, <span class=\"tei-hi2 spaced\">an sich</span> als verwerflich zu empfinden: \n</span><span class=\"tei-line\">denn er sieht genau die gleiche Art von Handlungen im \n</span><span class=\"tei-line\">Dienst der Gerechtigkeit verübt und dann gut geheissen, \n</span><span class=\"tei-line\">mit gutem Gewissen verübt: also Spionage, Überlistung, \n</span><span class=\"tei-line\">Bestechung, Fallenstellen, die ganze kniffliche und \n</span><span class=\"line\">10</span><span class=\"tei-line \">durchtriebne Polizisten- und Anklägerkunst, sodann das \n</span><span class=\"tei-line\">grundsätzliche, selbst nicht durch den Affekt entschul-\n</span><span class=\"tei-line\">digte Berauben, Überwältigen, Beschimpfen, Gefangen-\n</span><span class=\"tei-line\">nehmen, Foltern, Morden, wie es in den verschiednen \n</span><span class=\"tei-line\">Arten der Strafe sich ausprägt, – Alles somit von sei-\n</span><span class=\"line\">15</span><span class=\"tei-line \">nen Richtern keineswegs <span class=\"tei-hi2 spaced\">an sich</span> verworfene und ver-\n</span><span class=\"tei-line\">urtheilte Handlungen, sondern nur in einer gewissen \n</span><span class=\"tei-line\">Hinsicht und Nutzanwendung. Das „schlechte Gewissen“, \n</span><span class=\"tei-line\">diese unheimlichste und interessanteste Pflanze unsrer \n</span><span class=\"tei-line\">irdischen Vegetation, ist <span class=\"tei-hi2 spaced\">nicht</span> auf diesem Boden ge-\n</span><span class=\"line\">20</span><span class=\"tei-line \">wachsen, – in der That drückte sich im Bewusstsein \n</span><span class=\"tei-line\">der Richtenden, der Strafenden selbst die längste Zeit \n</span><span class=\"tei-line\">hindurch <span class=\"tei-hi2 spaced\">Nichts</span> davon aus, dass man mit einem \n</span><span class=\"tei-line\">„Schuldigen“ zu thun habe. Sondern mit einem Scha-\n</span><span class=\"tei-line\">den-Anstifter, mit einem unverantwortlichen Stück Ver-\n</span><span class=\"line\">25</span><span class=\"tei-line \">hängniss. Und Der selber, über den nachher die Strafe, \n</span><span class=\"tei-line\">wiederum wie ein Stück Verhängniss, herfiel, hatte dabei \n</span><span class=\"tei-line\">keine andre „innere Pein“, als wie beim plötzlichen Ein-\n</span><span class=\"tei-line\">treten von etwas Unberechnetem, eines schrecklichen \n</span><span class=\"tei-line\">Naturereignisses, eines herabstürzenden, zermalmenden \n</span><span class=\"line\">30</span><span class=\"tei-line \">Felsblockes, gegen den es keinen Kampf mehr giebt.</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">15.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Dies kam einmal auf eine verfängliche Weise Spi-\n</span><span class=\"tei-line\">noza zum Bewusstsein (zum Verdruss seiner Ausleger, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

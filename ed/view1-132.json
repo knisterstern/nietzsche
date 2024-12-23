@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.141",
+    "rootNode": "2.5.12.8.31.5.141",
+    "id": "Ed_113_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.237",
+    "previous": "2.5.12.8.31.5.37",
+    "nextId": "Ed_114_id",
+    "previousId": "Ed_112_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0134.tif\">113</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">diese Gebildeten. Und gewiss ist es, dass alle Schau-\n</span><span class=\"tei-line\">spieler des Geistes es schlechterdings nicht in ihr aus-\n</span><span class=\"tei-line\">hielten, – für sie ist sie lange nicht romantisch und \n</span><span class=\"tei-line\">syrisch genug, lange nicht Theater-Wüste genug! Es \n</span><span class=\"line\">5</span><span class=\"tei-line \">fehlt allerdings auch in ihr nicht an Kameelen: darauf \n</span><span class=\"tei-line\">aber beschränkt sich die ganze Ähnlichkeit. Eine will-\n</span><span class=\"tei-line\">kürliche Obskurität vielleicht; ein Aus-dem-Wege-\n</span><span class=\"tei-line\">Gehn vor sich selber; eine Scheu vor Lärm, Verehrung, \n</span><span class=\"tei-line\">Zeitung, Einfluss; ein kleines Amt, ein Alltag, Etwas, \n</span><span class=\"line\">10</span><span class=\"tei-line \">das mehr verbirgt als an’s Licht stellt; ein Umgang ge-\n</span><span class=\"tei-line\">legentlich mit harmlosem heitren Gethier und Geflügel, \n</span><span class=\"tei-line\">dessen Anblick erholt; ein Gebirge zur Gesellschaft, \n</span><span class=\"tei-line\">aber kein todtes, eins mit <span class=\"tei-hi2 spaced\">Augen</span> (das heisst mit \n</span><span class=\"tei-line\">Seen); unter Umständen selbst ein Zimmer in einem \n</span><span class=\"line\">15</span><span class=\"tei-line \">vollen Allerwelts-Gasthof, wo man sicher ist, verwechselt \n</span><span class=\"tei-line\">zu werden, und ungestraft mit Jedermann reden kann, – \n</span><span class=\"tei-line\">das ist hier „Wüste“: oh sie ist einsam genug, glaubt \n</span><span class=\"tei-line\">es mir! Wenn Heraklit sich in die Freihöfe und Säu-\n</span><span class=\"tei-line\">lengänge des ungeheuren Artemis-Tempels zurückzog, \n</span><span class=\"line\">20</span><span class=\"tei-line \">so war diese „Wüste“ würdiger, ich gebe es zu: wes-\n</span><span class=\"tei-line\">halb <span class=\"tei-hi2 spaced\">fehlen</span> uns solche Tempel? (– sie fehlen uns viel-\n</span><span class=\"tei-line\">leicht <span class=\"tei-hi2 spaced\">nicht</span>: eben gedenke ich meines schönsten Stu-\n</span><span class=\"tei-line\">dirzimmers, der Piazza di San Marco, Frühling voraus-\n</span><span class=\"tei-line\">gesetzt, insgleichen Vormittag, die Zeit zwischen 10 \n</span><span class=\"line\">25</span><span class=\"tei-line \">und 12.) Das aber, dem Heraklit auswich, ist das \n</span><span class=\"tei-line\">Gleiche noch, dem <span class=\"tei-hi2 spaced\">wir</span> jetzt aus dem Wege gehn: der \n</span><span class=\"tei-line\">Lärm und das Demokraten-Geschwätz der Ephesier, \n</span><span class=\"tei-line\">ihre Politik, ihre Neuigkeiten vom „Reich“ (Persien, \n</span><span class=\"tei-line\">man versteht mich), ihr Markt-Kram von „Heute“, – \n</span><span class=\"line\">30</span><span class=\"tei-line \">denn wir Philosophen brauchen zu allererst vor Einem \n</span><span class=\"tei-line\">Ruhe: vor allem „Heute“. Wir verehren das Stille, \n</span><span class=\"tei-line\">das Kalte, das Vornehme, das Ferne, das Vergangne, \n</span><span class=\"tei-line\">Jegliches überhaupt, bei dessen Aspekt die Seele sich \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

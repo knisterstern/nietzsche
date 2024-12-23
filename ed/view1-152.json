@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.43.6.253",
+    "rootNode": "2.5.12.8.43.6.253",
+    "id": "Ed_133_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.43.6.343",
+    "previous": "2.5.12.8.43.6.159",
+    "nextId": "Ed_134_id",
+    "previousId": "Ed_132_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0154.tif\">133</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Wille der Kranken, <span class=\"tei-hi2 spaced\">irgend</span> eine Form der Überlegen-\n</span><span class=\"tei-line\">heit darzustellen, ihr Instinkt für Schleichwege, die zu \n</span><span class=\"tei-line\">einer Tyrannei über die Gesunden führen, – wo fände \n</span><span class=\"tei-line\">er sich nicht, dieser Wille gerade der Schwächsten zur \n</span><span class=\"line\">5</span><span class=\"tei-line \">Macht! Das kranke Weib in Sonderheit: Niemand \n</span><span class=\"tei-line\">übertrifft es in Raffinements, zu herrschen, zu drücken, \n</span><span class=\"tei-line\">zu tyrannisiren. Das kranke Weib schont dazu nichts \n</span><span class=\"tei-line\">Lebendiges, nichts Todtes, es gräbt die begrabensten \n</span><span class=\"tei-line\">Dinge wieder auf (die Bogos sagen: „das Weib ist eine \n</span><span class=\"line\">10</span><span class=\"tei-line \">Hyäne“). Man blicke in die Hintergründe jeder Familie, \n</span><span class=\"tei-line\">jeder Körperschaft, jedes Gemeinwesens: überall der \n</span><span class=\"tei-line\">Kampf der Kranken gegen die Gesunden, – ein stiller \n</span><span class=\"tei-line\">Kampf zumeist mit kleinen Giftpulvern, mit Nadel-\n</span><span class=\"tei-line\">stichen, mit tückischem Dulder-Mienenspiele, mitunter \n</span><span class=\"line\">15</span><span class=\"tei-line \">aber auch mit jenem Kranken-Pharisäismus der <span class=\"tei-hi2 spaced\">lauten</span> \n</span><span class=\"tei-line\">Gebärde, der am liebsten „die edle Entrüstung“ spielt. \n</span><span class=\"tei-line\">Bis in die geweihten Räume der Wissenschaft hinein \n</span><span class=\"tei-line\">möchte es sich hörbar machen, das heisere Entrüstungs-\n</span><span class=\"tei-line\">gebell der krankhaften Hunde, die bissige Verlogenheit \n</span><span class=\"line\">20</span><span class=\"tei-line \">und Wuth solcher „edlen“ Pharisäer (– ich erinnere Le-\n</span><span class=\"tei-line\">ser, die Ohren haben, nochmals an jenen Berliner Rache-\n</span><span class=\"tei-line\">Apostel Eugen Dühring, der im heutigen Deutschland \n</span><span class=\"tei-line\">den unanständigsten und widerlichsten Gebrauch vom \n</span><span class=\"tei-line\">moralischen Bumbum macht: Dühring, das erste Moral-\n</span><span class=\"line\">25</span><span class=\"tei-line \">Grossmaul, das es jetzt giebt, selbst noch unter seines \n</span><span class=\"tei-line\">Gleichen, den Antisemiten). Das sind alles Menschen \n</span><span class=\"tei-line\">des Ressentiment, diese physiologisch Verunglückten \n</span><span class=\"tei-line\">und Wurmstichigen, ein ganzes zitterndes Erdreich un-\n</span><span class=\"tei-line\">terirdischer Rache, unerschöpflich, unersättlich in Aus-\n</span><span class=\"line\">30</span><span class=\"tei-line \">brüchen gegen die Glücklichen und ebenso in Maske-\n</span><span class=\"tei-line\">raden der Rache, in Vorwänden zur Rache: wann \n</span><span class=\"tei-line\">würden sie eigentlich zu ihrem letzten, feinsten, sub-\n</span><span class=\"tei-line\">limsten Triumph der Rache kommen? Dann unzweifel-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

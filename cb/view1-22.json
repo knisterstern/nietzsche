@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.48",
+    "rootNode": "2.7.2.2.48",
+    "id": "Cb_b6",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.50.13",
+    "previous": "2.7.2.2.44.31",
+    "nextId": "Cb_b7",
+    "previousId": "Cb_b5",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0029.tif\">b6</pb-facs-link></span>\n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"1\"><span><span>De<span class=\"tei-sic2\">m</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">Den)</span><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">n</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"4-5\"><span><span>„Gute<span class=\"tei-sic2\">n“ e</span>tymo-/logischer</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">in</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"5\"><span><span>und</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"14\"><span><span>übergehen<span class=\"tei-sic2\">d</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"33\"><span><span>Buckl<span class=\"tei-sic2\">es</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">Buckle’s)</span><span class=\"Koeselitz_black fnote\">’ Apostroph)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.11",
+    "rootNode": "2.9.11",
+    "id": "srcD_surface_a8r",
+    "odd": "surface.odd",
+    "next": "2.9.12",
+    "previous": "2.9.10",
+    "nextId": "srcD_surface_a9r",
+    "previousId": "srcD_surface_a7r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"appInfoPage\" class=\"noteDiv infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.appNotes\">Anmerkungen</pb-i18n></h2></span><span slot=\"collapse-content\"><div><pb-highlight key=\"a8r_lb11\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">11</span></pb-highlight>: <span style=\"margin-left: 2px;\"><pb-highlight key=\"appAnchor_a8r11\" highlight-self=\"highlight-self\" duration=\"5000\">fing</pb-highlight></span><span style=\"margin-right: 0.5em;\">]</span><span class=\"note\">Entzifferung „g“ unsicher</span></div><div><pb-highlight key=\"a8r_lb37\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">37</span></pb-highlight>: <span style=\"margin-left: 2px;\"><pb-highlight key=\"appAnchor_a8r37\" highlight-self=\"highlight-self\" duration=\"5000\">der … hat</pb-highlight></span><span style=\"margin-right: 0.5em;\">]</span><span class=\"note\">braune Tinte?</span></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

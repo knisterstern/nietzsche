@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.37",
+    "rootNode": "2.5.12.8.31.5.37",
+    "id": "Ed_112_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.141",
+    "previous": "2.5.12.8.29.6.205",
+    "nextId": "Ed_113_id",
+    "previousId": "Ed_111_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0133.tif\">112</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">cune; keine Nagewürmer verletzten Ehrgeizes; beschei-\n</span><span class=\"tei-line\">dene und unterthänige Eingeweide, fleissig wie Mühl-\n</span><span class=\"tei-line\">werke, aber fern; das Herz fremd, jenseits, zukünftig, \n</span><span class=\"tei-line\">posthum, – sie denken, Alles in Allem, bei dem aske-\n</span><span class=\"line\">5</span><span class=\"tei-line \">tischen Ideal an den heiteren Ascetismus eines ver-\n</span><span class=\"tei-line\">göttlichten und flügge gewordnen Thiers, das über dem \n</span><span class=\"tei-line\">Leben mehr schweift als ruht. Man weiss, was die \n</span><span class=\"tei-line\">drei grossen Prunkworte des asketischen Ideals sind: \n</span><span class=\"tei-line\">Armuth, Demuth, Keuschheit: und nun sehe man sich \n</span><span class=\"line\">10</span><span class=\"tei-line \">einmal das Leben aller grossen fruchtbaren erfinderi-\n</span><span class=\"tei-line\">schen Geister aus der Nähe an, – man wird darin alle \n</span><span class=\"tei-line\">drei bis zu einem gewissen Grade immer wiederfinden. \n</span><span class=\"tei-line\">Durchaus <span class=\"tei-hi2 spaced\">nicht</span>, wie sich von selbst versteht, als ob \n</span><span class=\"tei-line\">es etwa deren „Tugenden“ wären – was hat diese Art \n</span><span class=\"line\">15</span><span class=\"tei-line \">Mensch mit Tugenden zu schaffen! – sondern als die \n</span><span class=\"tei-line\">eigentlichsten und natürlichsten Bedingungen ihres \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">besten</span> Daseins, ihrer <span class=\"tei-hi2 spaced\">schönsten</span> Fruchtbarkeit. Dabei \n</span><span class=\"tei-line\">ist es ganz wohl möglich, dass ihre dominirende Geistig-\n</span><span class=\"tei-line\">keit vorerst einem unbändigen und reizbaren Stolze oder \n</span><span class=\"line\">20</span><span class=\"tei-line \">einer muthwilligen Sinnlichkeit Zügel anzulegen hatte \n</span><span class=\"tei-line\">oder dass sie ihren Willen zur „Wüste“ vielleicht gegen \n</span><span class=\"tei-line\">einen Hang zum Luxus und zum Ausgesuchtesten, ins-\n</span><span class=\"tei-line\">gleichen gegen eine verschwenderische Liberalität mit \n</span><span class=\"tei-line\">Herz und Hand schwer genug aufrecht erhielt. Aber \n</span><span class=\"line\">25</span><span class=\"tei-line \">sie that es, eben als der <span class=\"tei-hi2 spaced\">dominirende</span> Instinkt, der \n</span><span class=\"tei-line\">seine Forderungen bei allen andren Instinkten durch-\n</span><span class=\"tei-line\">setzte – sie thut es noch; thäte sie’s nicht, so domi-\n</span><span class=\"tei-line\">nirte sie eben nicht. Daran ist also nichts von „Tu-\n</span><span class=\"tei-line\">gend“. Die <span class=\"tei-hi2 spaced\">Wüste</span> übrigens, von welcher ich eben \n</span><span class=\"line\">30</span><span class=\"tei-line \">sprach, in die sich die starken, unabhängig gearteten \n</span><span class=\"tei-line\">Geister zurückziehn und vereinsamen – oh wie anders \n</span><span class=\"tei-line\">sieht sie aus, als die Gebildeten sich eine Wüste träu-\n</span><span class=\"tei-line\">men! – unter Umständen sind sie es nämlich selbst, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

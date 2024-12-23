@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.10.4.16",
+    "rootNode": "2.5.10.4.16",
+    "id": "Ed_II_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.3",
+    "previous": "2.5.10.4.2",
+    "nextId": "Ed_III_id",
+    "previousId": "Ed_I_id",
+    "switchView": "2.5.10",
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-text\"><div class=\"content \"><div class=\"tei-front\"><div class=\"tei-titlePage\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0007.tif\">[II]</pb-facs-link></span>\n         \n         <div class=\"tei-titlePart\" id=\"GMTitelrückseite\">\n           <br class=\"special-br\"><span class=\"line centered\">1</span>Dem letztveröffentlichten „<span class=\"tei-hi2 spaced\">Jenseits von Gut und Böse</span>“ zur \n           <br class=\"tei-lb3 centered\">Ergänzung und Verdeutlichung beigegeben.</div>\n       </div>\n       \n     </div>\n     \n      <div class=\"tei-body2\">\n\n\n</div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

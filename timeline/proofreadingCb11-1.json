@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.81",
+    "id": "proofreadingCb11",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"proofreadingCb11\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Korrektur Cb11</h5>Korrektur von Bogen 11 (S. 161-176: GM III 22-26) <span class=\"tei-date2\">zwischen ca. 13. und 15. Oktober 1887</span>.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

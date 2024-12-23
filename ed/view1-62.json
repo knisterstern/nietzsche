@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.12.7.162",
+    "rootNode": "2.5.12.6.12.7.162",
+    "id": "Ed_43_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.14.5.71.5",
+    "previous": "2.5.12.6.12.7.76",
+    "nextId": "Ed_44_id",
+    "previousId": "Ed_42_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0064.tif\">43</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">berechenbar, regelmässig, nothwendig</span> ge-\n</span><span class=\"tei-line\">worden sein, auch sich selbst für seine eigne Vorstel-\n</span><span class=\"tei-line\">lung, um endlich dergestalt, wie es ein Versprechender \n</span><span class=\"tei-line\">thut, für sich <span class=\"tei-hi2 spaced\">als Zukunft</span> gut sagen zu können!</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">5</span>2.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Eben das ist die lange Geschichte von der Herkunft \n</span><span class=\"tei-line\">der <span class=\"tei-hi2 spaced\">Verantwortlichkeit</span>. Jene Aufgabe, ein Thier \n</span><span class=\"tei-line\">heranzuzüchten, das versprechen darf, schliesst, wie wir \n</span><span class=\"tei-line\">bereits begriffen haben, als Bedingung und Vorberei-\n</span><span class=\"line\">10</span><span class=\"tei-line \">tung die nähere Aufgabe in sich, den Menschen zuerst \n</span><span class=\"tei-line\">bis zu einem gewissen Grade nothwendig, einförmig, \n</span><span class=\"tei-line\">gleich unter Gleichen, regelmässig und folglich be-\n</span><span class=\"tei-line\">rechenbar zu <span class=\"tei-hi2 spaced\">machen</span>. Die ungeheure Arbeit dessen, \n</span><span class=\"tei-line\">was von mir „Sittlichkeit der Sitte“ genannt worden \n</span><span class=\"line\">15</span><span class=\"tei-line \">ist (vergl. Morgenröthe S. 7. 13. 16) – die eigentliche \n</span><span class=\"tei-line\">Arbeit des Menschen an sich selber in der längsten \n</span><span class=\"tei-line\">Zeitdauer des Menschengeschlechts, seine ganze <span class=\"tei-hi2 spaced\">vor-\n<span class=\"tei-line\">historische</span>historische</span> Arbeit hat hierin ihren Sinn, ihre grosse \n</span><span class=\"tei-line\">Rechtfertigung, wie viel ihr auch von Härte, Tyrannei, \n</span><span class=\"line\">20</span><span class=\"tei-line \">Stumpfsinn und Idiotismus innewohnt: der Mensch \n</span><span class=\"tei-line\">wurde mit Hülfe der Sittlichkeit der Sitte und der so-\n</span><span class=\"tei-line\">cialen Zwangsjacke wirklich berechenbar <span class=\"tei-hi2 spaced\">gemacht</span>. \n</span><span class=\"tei-line\">Stellen wir uns dagegen an’s Ende des ungeheuren \n</span><span class=\"tei-line\">Prozesses, dorthin, wo der Baum endlich seine Früchte \n</span><span class=\"line\">25</span><span class=\"tei-line \">zeitigt, wo die Societät und ihre Sittlichkeit der Sitte \n</span><span class=\"tei-line\">endlich zu Tage bringt, <span class=\"tei-hi2 spaced\">wozu</span> sie nur das Mittel war: \n</span><span class=\"tei-line\">so finden wir als reifste Frucht an ihrem Baum das \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">souveraine Individuum</span>, das nur sich selbst gleiche, \n</span><span class=\"tei-line\">das von der Sittlichkeit der Sitte wieder losgekommene, \n</span><span class=\"line\">30</span><span class=\"tei-line \">das autonome übersittliche Individuum (denn „autonom“ \n</span><span class=\"tei-line\">und „sittlich“ schliesst sich aus), kurz den Menschen \n</span><span class=\"tei-line\">des eignen unabhängigen langen Willens, der <span class=\"tei-hi2 spaced\">ver-\n\n</span></span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

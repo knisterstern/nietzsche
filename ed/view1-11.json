@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.15.5.56",
+    "rootNode": "2.5.12.2.15.5.56",
+    "id": "Ed_VIII_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.17",
+    "previous": "2.5.12.2.13.5.122",
+    "nextId": "Ed_IX_id",
+    "previousId": "Ed_VII_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0013.tif\">VIII</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">einem positiven Geiste zukommt, an Stelle des Un-\n</span><span class=\"tei-line\">wahrscheinlichen das Wahrscheinlichere setzend, unter \n</span><span class=\"tei-line\">Umständen an Stelle eines Irrthums einen andern. Da-\n</span><span class=\"tei-line\">mals brachte ich, wie gesagt, zum ersten Male jene \n</span><span class=\"line\">5</span><span class=\"tei-line \">Herkunfts-Hypothesen an’s Tageslicht, denen diese Ab-\n</span><span class=\"tei-line\">handlungen gewidmet sind, mit Ungeschick, wie ich \n</span><span class=\"tei-line\">mir selbst am letzten verbergen möchte, noch unfrei, \n</span><span class=\"tei-line\">noch ohne eine eigne Sprache für diese eignen Dinge \n</span><span class=\"tei-line\">und mit mancherlei Rückfälligkeit und Schwankung. \n</span><span class=\"line\">10</span><span class=\"tei-line \">Im Einzelnen vergleiche man, was ich Menschl. Allzu-\n</span><span class=\"tei-line\">menschl. S. 51 über die doppelte Vorgeschichte von Gut \n</span><span class=\"tei-line\">und Böse sage (nämlich aus der Sphäre der Vornehmen \n</span><span class=\"tei-line\">und der der Sklaven); insgleichen S. 119 ff. über Werth \n</span><span class=\"tei-line\">und Herkunft der asketischen Moral; insgleichen S. 78. 82. \n</span><span class=\"line\">15</span><span class=\"tei-line \">II, 35 über die „Sittlichkeit der Sitte“, jene viel ältere \n</span><span class=\"tei-line\">und ursprünglichere Art Moral, welche toto coelo von \n</span><span class=\"tei-line\">der altruistischen Werthungsweise abliegt (in der Dr. \n</span><span class=\"tei-line\">Rée, gleich allen englischen Moralgenealogen, die mo-\n</span><span class=\"tei-line\">ralische Werthungsweise <span class=\"tei-hi2 spaced\">an sich</span> sieht); insgleichen \n</span><span class=\"line\">20</span><span class=\"tei-line \">S. 74. Wanderer S. 29. Morgenr. S. 99 über die Herkunft \n</span><span class=\"tei-line\">der Gerechtigkeit als eines Ausgleichs zwischen unge-\n</span><span class=\"tei-line\">fähr Gleich-Mächtigen (Gleichgewicht als Voraussetzung \n</span><span class=\"tei-line\">aller Verträge, folglich alles Rechts); insgleichen über \n</span><span class=\"tei-line\">die Herkunft der Strafe Wand. S. 25. 34., für die der \n</span><span class=\"line\">25</span><span class=\"tei-line \">terroristische Zweck weder essentiell, noch ursprünglich \n</span><span class=\"tei-line\">ist (wie Dr. Rée meint: – er ist ihr vielmehr erst \n</span><span class=\"tei-line\">eingelegt, unter bestimmten Umständen, und immer \n</span><span class=\"tei-line last\">als ein Nebenbei, als etwas Hinzukommendes).</span></p>\n\n\n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

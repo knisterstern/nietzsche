@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.29.9",
+    "rootNode": "2.7.2.2.29.9",
+    "id": "Cb_a16",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.39",
+    "previous": "2.7.2.2.27.13",
+    "nextId": "Cb_b1",
+    "previousId": "Cb_a15",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0023.tif\">a16</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"7\"><span><span><span class=\"tei-sic2\">E</span>twas</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25\"><span><span>durch die</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">der</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25-26\"><span><span>is<span class=\"tei-sic2\">t / u</span>nd</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">,</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"26\"><span><span>und</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">die</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"26\"><span><span>sic<span class=\"tei-sic2\">h d</span>urch</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">nur</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n          \n          \n          \n          \n          \n          </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

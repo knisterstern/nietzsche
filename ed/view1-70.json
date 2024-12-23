@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.20.5.98",
+    "rootNode": "2.5.12.6.20.5.98",
+    "id": "Ed_51_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.22.5.20",
+    "previous": "2.5.12.6.20.5.8",
+    "nextId": "Ed_52_id",
+    "previousId": "Ed_50_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0072.tif\">51</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">in einem solchen Falle herunterschnitten „si plus mi-\n</span><span class=\"tei-line\">nusve secuerunt, se fraude esto“. Machen wir uns die \n</span><span class=\"tei-line\">Logik dieser ganzen Ausgleichungsform klar: sie ist \n</span><span class=\"tei-line\">fremdartig genug. Die Äquivalenz ist damit gegeben, \n</span><span class=\"line\">5</span><span class=\"tei-line \">dass an Stelle eines gegen den Schaden direkt auf-\n</span><span class=\"tei-line\">kommenden Vortheils (also an Stelle eines Ausgleichs \n</span><span class=\"tei-line\">in Geld, Land, Besitz irgend welcher Art) dem Gläu-\n</span><span class=\"tei-line\">biger eine Art <span class=\"tei-hi2 spaced\">Wohlgefühl</span> als Rückzahlung und Aus-\n</span><span class=\"tei-line\">gleich zugestanden wird, – das Wohlgefühl, seine Macht \n</span><span class=\"line\">10</span><span class=\"tei-line \">an einem Machtlosen unbedenklich auslassen zu dürfen, \n</span><span class=\"tei-line\">die Wollust „de faire le mal pour le plaisir de le faire“, \n</span><span class=\"tei-line\">der Genuss in der Vergewaltigung: als welcher Genuss \n</span><span class=\"tei-line\">um so höher geschätzt wird, je tiefer und niedriger der \n</span><span class=\"tei-line\">Gläubiger in der Ordnung der Gesellschaft <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">steht</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">steht</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">steht,</span> (KGW/KSA)</span></p></template></pb-popover> und \n</span><span class=\"line\">15</span><span class=\"tei-line \">leicht ihm als köstlichster Bissen, ja als Vorgeschmack \n</span><span class=\"tei-line\">eines höheren Rangs erscheinen kann. Vermittelst der \n</span><span class=\"tei-line\">„Strafe“ am Schuldner nimmt der Gläubiger an einem \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Herren-Rechte</span> theil: endlich kommt auch er ein Mal \n</span><span class=\"tei-line\">zu dem erhebenden Gefühle, ein Wesen als ein „Unter-\n</span><span class=\"line\">20</span><span class=\"tei-line \">sich“ verachten und misshandeln zu dürfen – oder \n</span><span class=\"tei-line\">wenigstens, im Falle die eigentliche Strafgewalt, der \n</span><span class=\"tei-line\">Strafvollzug schon an die „Obrigkeit“ übergegangen \n</span><span class=\"tei-line\">ist, es verachtet und misshandelt zu <span class=\"tei-hi2 spaced\">sehen</span>. Der Aus-\n</span><span class=\"tei-line\">gleich besteht also in einem Anweis und Anrecht auf \n</span><span class=\"line\">25</span><span class=\"tei-line \">Grausamkeit. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">6.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">In <span class=\"tei-hi2 spaced\">dieser</span> Sphäre, im Obligationen-Rechte also, \n</span><span class=\"tei-line\">hat die moralische Begriffswelt „Schuld“, „Gewissen“, \n</span><span class=\"tei-line\">„Pflicht“, „Heiligkeit der Pflicht“ ihren Entstehungs-\n</span><span class=\"line\">30</span><span class=\"tei-line \">heerd, – ihr Anfang ist, wie der Anfang alles Grossen \n</span><span class=\"tei-line\">auf Erden, gründlich und lange mit Blut begossen \n</span><span class=\"tei-line\">worden. Und dürfte man nicht hinzufügen, dass jene \n</span><span class=\"tei-line\">Welt im Grunde einen gewissen Geruch von Blut und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

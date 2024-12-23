@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.63.7.390",
+    "rootNode": "2.5.12.8.63.7.390",
+    "id": "Ed_170_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.65.5.46",
+    "previous": "2.5.12.8.63.7.296",
+    "nextId": "Ed_171_id",
+    "previousId": "Ed_169_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-div8\"></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

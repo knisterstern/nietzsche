@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.43.6.159",
+    "rootNode": "2.5.12.8.43.6.159",
+    "id": "Ed_132_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.43.6.253",
+    "previous": "2.5.12.8.43.6.66",
+    "nextId": "Ed_133_id",
+    "previousId": "Ed_131_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0153.tif\">132</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Verleumdung! Diese Missrathenen: welche edle Bered-\n</span><span class=\"tei-line\">samkeit entströmt ihren Lippen! Wie viel zuckrige, schlei-\n</span><span class=\"tei-line\">mige, demüthige Ergebung schwimmt in ihren Augen! \n</span><span class=\"tei-line\">Was wollen sie eigentlich? Die Gerechtigkeit, die Liebe, \n</span><span class=\"line\">5</span><span class=\"tei-line \">die Weisheit, die Überlegenheit wenigstens <span class=\"tei-hi2 spaced\">darstellen</span> \n</span><span class=\"tei-line\">– das ist der Ehrgeiz dieser „Untersten“, dieser Kran-\n</span><span class=\"tei-line\">ken! Und wie geschickt macht ein solcher Ehrgeiz! \n</span><span class=\"tei-line\">Man bewundere namentlich die Falschmünzer-Geschick-\n</span><span class=\"tei-line\">lichkeit, mit der hier das Gepräge der Tugend, selbst \n</span><span class=\"line\">10</span><span class=\"tei-line \">der Klingklang, der Goldklang der Tugend nachge-\n</span><span class=\"tei-line\">macht wird. Sie haben die Tugend jetzt ganz und gar \n</span><span class=\"tei-line\">für sich in Pacht genommen, diese Schwachen und \n</span><span class=\"tei-line\">Heillos-Krankhaften, daran ist kein Zweifel: „wir allein \n</span><span class=\"tei-line\">sind die Guten, die Gerechten, so sprechen sie, wir \n</span><span class=\"line\">15</span><span class=\"tei-line \">allein sind die homines bonae voluntatis.“ Sie wandeln \n</span><span class=\"tei-line\">unter uns herum als leibhafte Vorwürfe, als Warnungen \n</span><span class=\"tei-line\">an uns, – wie als ob Gesundheit, Wohlgerathenheit, \n</span><span class=\"tei-line\">Stärke, Stolz, Machtgefühl an sich schon lasterhafte \n</span><span class=\"tei-line\">Dinge seien, für die man einst büssen, bitter büssen \n</span><span class=\"line\">20</span><span class=\"tei-line \">müsse: oh wie sie im Grunde dazu selbst bereit sind, \n</span><span class=\"tei-line\">büssen zu <span class=\"tei-hi2 spaced\">machen</span>, wie sie darnach dürsten, <span class=\"tei-hi2 spaced\">Henker</span> \n</span><span class=\"tei-line\">zu sein! Unter ihnen giebt es in Fülle die zu Rich-\n</span><span class=\"tei-line\">tern verkleideten Rachsüchtigen, welche beständig das \n</span><span class=\"tei-line\">Wort „Gerechtigkeit“ wie einen giftigen Speichel im \n</span><span class=\"line\">25</span><span class=\"tei-line \">Munde tragen, immer gespitzten Mundes, immer be-\n</span><span class=\"tei-line\">reit, Alles anzuspeien, was nicht unzufrieden blickt und \n</span><span class=\"tei-line\">guten Muths seine Strasse zieht. Unter ihnen fehlt \n</span><span class=\"tei-line\">auch jene ekelhafteste Species der Eitlen nicht, die \n</span><span class=\"tei-line\">verlognen Missgeburten, die darauf aus sind, „schöne \n</span><span class=\"line\">30</span><span class=\"tei-line \">Seelen“ darzustellen und etwa ihre verhunzte Sinnlich-\n</span><span class=\"tei-line\">keit, in Verse und andere Windeln gewickelt, als „Rein-\n</span><span class=\"tei-line\">heit des Herzens“ auf den Markt bringen: die Species \n</span><span class=\"tei-line\">der moralischen Onanisten und „Selbstbefriediger“. Der \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.61.5.133",
+    "rootNode": "2.5.12.8.61.5.133",
+    "id": "Ed_164_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.61.5.227",
+    "previous": "2.5.12.8.61.5.28",
+    "nextId": "Ed_165_id",
+    "previousId": "Ed_163_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0185.tif\">164</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">lichen Kampf mit jenem Ideale gekämpft, es sei viel-\n</span><span class=\"tei-line\">mehr in allen Hauptsachen bereits über jenes Ideal \n</span><span class=\"tei-line\">Herr geworden: unsre ganze moderne <span class=\"tei-hi2 spaced\">Wissenschaft</span> \n</span><span class=\"tei-line\">sei das Zeugniss dafür, – diese moderne Wissenschaft, \n</span><span class=\"line\">5</span><span class=\"tei-line \">welche, als eine eigentliche Wirklichkeits-Philosophie, \n</span><span class=\"tei-line\">ersichtlich allein an sich selber glaube, ersichtlich den \n</span><span class=\"tei-line\">Muth zu sich, den Willen zu sich besitze und gut ge-\n</span><span class=\"tei-line\">nug bisher ohne Gott, Jenseits und verneinende Tugen-\n</span><span class=\"tei-line\">den ausgekommen sei. Indessen mit solchem Lärm \n</span><span class=\"line\">10</span><span class=\"tei-line \">und Agitatoren-Geschwätz richtet man Nichts bei mir \n</span><span class=\"tei-line\">aus: diese Wirklichkeits-Trompeter sind schlechte Mu-\n</span><span class=\"tei-line\">sikanten, ihre Stimmen kommen hörbar genug <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">aus der Tiefe, aus ihnen redet <span class=\"tei-hi2 spaced\">nicht</span> der Abgrund des \n</span><span class=\"tei-line\">wissenschaftlichen Gewissens – denn heute ist das \n</span><span class=\"line\">15</span><span class=\"tei-line \">wissenschaftliche Gewissen ein Abgrund –, das Wort \n</span><span class=\"tei-line\">„Wissenschaft“ ist in solchen Trompeter-Mäulern ein-\n</span><span class=\"tei-line\">fach eine Unzucht, ein Missbrauch, eine Schamlosigkeit. \n</span><span class=\"tei-line\">Gerade das Gegentheil von dem, was hier behauptet \n</span><span class=\"tei-line\">wird, ist die Wahrheit: die Wissenschaft hat heute \n</span><span class=\"line\">20</span><span class=\"tei-line \">schlechterdings <span class=\"tei-hi2 spaced\">keinen</span> Glauben an sich, geschweige \n</span><span class=\"tei-line\">ein Ideal <span class=\"tei-hi2 spaced\">über</span> sich, – und wo sie überhaupt noch \n</span><span class=\"tei-line\">Leidenschaft, Liebe, Gluth, <span class=\"tei-hi2 spaced\">Leiden</span> ist, da ist sie nicht \n</span><span class=\"tei-line\">der Gegensatz jenes asketischen Ideals, vielmehr <span class=\"tei-hi2 spaced\">dessen \n<span class=\"tei-line\">jüngste und vornehmste Form</span>jüngste und vornehmste Form</span> selber. Klingt \n</span><span class=\"line\">25</span><span class=\"tei-line \">auch das fremd?… Es giebt ja genug braves und \n</span><span class=\"tei-line\">bescheidenes Arbeiter-Volk auch unter den Gelehrten \n</span><span class=\"tei-line\">von Heute, dem sein kleiner Winkel gefällt, und das \n</span><span class=\"tei-line\">darum, weil es ihm darin gefällt, bisweilen ein wenig \n</span><span class=\"tei-line\">unbescheiden mit der Forderung laut wird, man <span class=\"tei-hi2 spaced\">solle</span> \n</span><span class=\"line\">30</span><span class=\"tei-line \">überhaupt heute zufrieden sein, zumal in der Wissen-\n</span><span class=\"tei-line\">schaft, – es gäbe da gerade so viel Nützliches zu thun. \n</span><span class=\"tei-line\">Ich widerspreche nicht; am wenigsten möchte ich diesen \n</span><span class=\"tei-line\">ehrlichen Arbeitern ihre Lust am Handwerk verderben: \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

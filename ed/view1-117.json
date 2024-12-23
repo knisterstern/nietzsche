@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.19.7.6",
+    "rootNode": "2.5.12.8.19.7.6",
+    "id": "Ed_98_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.19.7.94",
+    "previous": "2.5.12.8.15",
+    "nextId": "Ed_99_id",
+    "previousId": "Ed_97_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0119.tif\">98</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">genug um Rath gefragt worden bin, was bedeutet es \n</span><span class=\"tei-line\">zum Beispiel, wenn ein Künstler wie Richard Wagner \n</span><span class=\"tei-line\">in seinen alten Tagen der Keuschheit eine Huldigung \n</span><span class=\"tei-line\">darbringt? In einem gewissen Sinne freilich hat er dies \n</span><span class=\"line\">5</span><span class=\"tei-line \">immer gethan; aber erst zu allerletzt in einem asketi-\n</span><span class=\"tei-line\">schen Sinne. Was bedeutet diese „Sinnes“-Änderung, \n</span><span class=\"tei-line\">dieser radikale Sinnes-Umschlag? – denn ein solcher \n</span><span class=\"tei-line\">war es, Wagner sprang damit geradewegs in seinen \n</span><span class=\"tei-line\">Gegensatz um. Was bedeutet es, wenn ein Künstler in \n</span><span class=\"line\">10</span><span class=\"tei-line \">seinen Gegensatz umspringt?… Hier kommt uns, ge-\n</span><span class=\"tei-line\">setzt, dass wir bei dieser Frage ein wenig Halt machen \n</span><span class=\"tei-line\">wollen, alsbald die Erinnerung an die beste, stärkste, \n</span><span class=\"tei-line\">frohmüthigste, <span class=\"tei-hi2 spaced\">muthigste</span> Zeit, welche es vielleicht im \n</span><span class=\"tei-line\">Leben Wagner’s gegeben hat: das war damals, als ihn \n</span><span class=\"line\">15</span><span class=\"tei-line \">innerlich und tief der Gedanke der Hochzeit Luther’s \n</span><span class=\"tei-line\">beschäftigte. Wer weiss, an welchen Zufällen es eigent-\n</span><span class=\"tei-line\">lich gehangen hat, dass wir heute an Stelle dieser Hoch-\n</span><span class=\"tei-line\">zeits-Musik die Meistersinger besitzen? Und wie viel \n</span><span class=\"tei-line\">in diesen vielleicht noch von jener fortklingt? Aber \n</span><span class=\"line\">20</span><span class=\"tei-line \">keinem Zweifel unterliegt es, dass es sich auch bei die-\n</span><span class=\"tei-line\">ser „Hochzeit Luther’s“ um ein Lob der Keuschheit \n</span><span class=\"tei-line\">gehandelt haben würde. Allerdings auch um ein Lob \n</span><span class=\"tei-line\">der Sinnlichkeit: – und gerade so schiene es mir in \n</span><span class=\"tei-line\">Ordnung, gerade so wäre es auch „Wagnerisch“ ge-\n</span><span class=\"line\">25</span><span class=\"tei-line \">wesen. Denn zwischen Keuschheit und Sinnlichkeit \n</span><span class=\"tei-line\">giebt es keinen nothwendigen Gegensatz; jede gute Ehe, \n</span><span class=\"tei-line\">jede eigentliche Herzensliebschaft ist über diesen Gegen-\n</span><span class=\"tei-line\">satz hinaus. Wagner hätte, wie mir scheint, wohlgethan, \n</span><span class=\"tei-line\">diese <span class=\"tei-hi2 spaced\">angenehme</span> Thatsächlichkeit seinen Deutschen \n</span><span class=\"line\">30</span><span class=\"tei-line \">mit Hülfe einer holden und tapferen Luther-Komödie \n</span><span class=\"tei-line\">wieder einmal zu Gemüthe zu führen, denn es giebt \n</span><span class=\"tei-line\">und gab unter den Deutschen immer viele Verleumder \n</span><span class=\"tei-line\">der Sinnlichkeit; und Luther’s Verdienst ist vielleicht \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

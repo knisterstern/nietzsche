@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.42.5.154",
+    "rootNode": "2.5.12.6.42.5.154",
+    "id": "Ed_78_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.42.5.252",
+    "previous": "2.5.12.6.42.5.50",
+    "nextId": "Ed_79_id",
+    "previousId": "Ed_77_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0099.tif\">78</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">stinkte sich wendend: <span class=\"tei-hi2 spaced\">das</span> ist der Ursprung des „schlech-\n</span><span class=\"tei-line\">ten Gewissens“. Der Mensch, der sich, aus Mangel an \n</span><span class=\"tei-line\">äusseren Feinden und Widerständen, eingezwängt in \n</span><span class=\"tei-line\">eine drückende Enge und Regelmässigkeit der Sitte, \n</span><span class=\"line\">5</span><span class=\"tei-line \">ungeduldig selbst zerriss, verfolgte, annagte, aufstörte, \n</span><span class=\"tei-line\">misshandelte, dies an den Gitterstangen seines Käfigs \n</span><span class=\"tei-line\">sich wund stossende Thier, das man „zähmen“ will, \n</span><span class=\"tei-line\">dieser Entbehrende und vom Heimweh der Wüste Ver-\n</span><span class=\"tei-line\">zehrte, der aus sich selbst ein Abenteuer, eine Folter-\n</span><span class=\"line\">10</span><span class=\"tei-line \">stätte, eine unsichere und gefährliche Wildniss schaffen \n</span><span class=\"tei-line\">musste – dieser Narr, dieser sehnsüchtige und ver-\n</span><span class=\"tei-line\">zweifelte Gefangne wurde der Erfinder des „schlechten \n</span><span class=\"tei-line\">Gewissens“. Mit ihm aber war die grösste und un-\n</span><span class=\"tei-line\">heimlichste Erkrankung eingeleitet, von welcher die \n</span><span class=\"line\">15</span><span class=\"tei-line \">Menschheit bis heute nicht genesen ist, das Leiden des \n</span><span class=\"tei-line\">Menschen <span class=\"tei-hi2 spaced\">am Menschen</span>, an <span class=\"tei-hi2 spaced\">sich</span>: als die Folge einer \n</span><span class=\"tei-line\">gewaltsamen Abtrennung von der thierischen Vergan-\n</span><span class=\"tei-line\">genheit, eines Sprunges und Sturzes gleichsam in neue \n</span><span class=\"tei-line\">Lagen und Daseins-Bedingungen, einer Kriegserklärung \n</span><span class=\"line\">20</span><span class=\"tei-line \">gegen die alten Instinkte, auf denen bis dahin seine \n</span><span class=\"tei-line\">Kraft, Lust und Furchtbarkeit beruhte. Fügen wir so-\n</span><span class=\"tei-line\">fort hinzu, dass andrerseits mit der Thatsache einer \n</span><span class=\"tei-line\">gegen sich selbst gekehrten, gegen sich selbst Partei \n</span><span class=\"tei-line\">nehmenden Thierseele auf Erden etwas so Neues, Tie-\n</span><span class=\"line\">25</span><span class=\"tei-line \">fes, Unerhörtes, Räthselhaftes, Widerspruchsvolles <span class=\"tei-hi2 spaced\">und \n<span class=\"tei-line\">Zukunftsvolles</span>Zukunftsvolles</span> gegeben war, dass der Aspekt der \n</span><span class=\"tei-line\">Erde sich damit wesentlich veränderte. In der That, \n</span><span class=\"tei-line\">es brauchte göttlicher Zuschauer, um das Schauspiel \n</span><span class=\"tei-line\">zu würdigen, das damit anfieng und dessen Ende durch-\n</span><span class=\"line\">30</span><span class=\"tei-line \">aus noch nicht abzusehen ist, – ein Schauspiel zu fein, \n</span><span class=\"tei-line\">zu wundervoll, zu paradox, als dass es sich sinnlos-\n</span><span class=\"tei-line\">unvermerkt auf irgend einem lächerlichen Gestirn ab-\n</span><span class=\"tei-line\">spielen dürfte! Der Mensch zählt seitdem <span class=\"tei-hi2 spaced\">mit</span> unter \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

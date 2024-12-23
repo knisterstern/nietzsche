@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.53.5.186",
+    "rootNode": "2.5.12.8.53.5.186",
+    "id": "Ed_152_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.53.5.281",
+    "previous": "2.5.12.8.53.5.84",
+    "nextId": "Ed_153_id",
+    "previousId": "Ed_151_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0173.tif\">152</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">allein die <span class=\"tei-hi2 spaced\">unehrliche Lüge</span>; Alles, was sich heute \n</span><span class=\"tei-line\">als „guter Mensch“ fühlt, ist vollkommen unfähig, zu \n</span><span class=\"tei-line\">irgend einer Sache anders zu stehn als <span class=\"tei-hi2 spaced\">unehrlich-\n<span class=\"tei-line\">verlogen</span>verlogen</span>, abgründlich-verlogen, aber unschuldig-ver-\n</span><span class=\"line\">5</span><span class=\"tei-line \">logen, treuherzig-verlogen, blauäugig-verlogen, tugend-\n</span><span class=\"tei-line\">haft-verlogen. Diese „guten Menschen“, – sie sind \n</span><span class=\"tei-line\">allesammt jetzt in Grund und Boden vermoralisirt und \n</span><span class=\"tei-line\">in Hinsicht auf Ehrlichkeit zu Schanden gemacht und \n</span><span class=\"tei-line\">verhunzt für alle Ewigkeit: wer von ihnen hielte noch \n</span><span class=\"line\">10</span><span class=\"tei-line \">eine <span class=\"tei-hi2 spaced\">Wahrheit</span> „über den Menschen“ aus!… Oder, \n</span><span class=\"tei-line\">greiflicher gefragt: wer von ihnen ertrüge eine <span class=\"tei-hi2 spaced\">wahre</span> \n</span><span class=\"tei-line\">Biographie!… Ein paar Anzeichen: Lord Byron hat \n</span><span class=\"tei-line\">einiges Persönlichste über sich aufgezeichnet, aber \n</span><span class=\"tei-line\">Thomas Moore war „zu gut“ dafür: er verbrannte die \n</span><span class=\"line\">15</span><span class=\"tei-line \">Papiere seines Freundes. Dasselbe soll Dr. Gwinner \n</span><span class=\"tei-line\">gethan haben, der Testaments-Vollstrecker Schopen-\n</span><span class=\"tei-line\">hauer’s: denn auch Schopenhauer hatte Einiges über \n</span><span class=\"tei-line\">sich und vielleicht auch gegen sich („<span class=\"tei-foreign\">εἰς ἑαυτόν</span>“) auf-\n</span><span class=\"tei-line\">gezeichnet. Der tüchtige Amerikaner Thayer, der Bio-\n</span><span class=\"line\">20</span><span class=\"tei-line \">graph Beethoven’s, hat mit Einem Male in seiner \n</span><span class=\"tei-line\">Arbeit Halt gemacht: an irgend einem Punkte dieses \n</span><span class=\"tei-line\">ehrwürdigen und naiven Lebens angelangt, hielt er \n</span><span class=\"tei-line\">dasselbe nicht mehr aus… Moral: welcher kluge \n</span><span class=\"tei-line\">Mann schriebe heute noch ein ehrliches Wort über sich? \n</span><span class=\"line\">25</span><span class=\"tei-line \">– er müsste denn schon zum Orden der heiligen Toll-\n</span><span class=\"tei-line\">kühnheit gehören. Man verspricht uns eine Selbstbio-\n</span><span class=\"tei-line\">graphie Richard Wagner’s: wer zweifelt daran, dass es \n</span><span class=\"tei-line\">eine <span class=\"tei-hi2 spaced\">kluge</span> Selbstbiographie sein wird?… Gedenken \n</span><span class=\"tei-line\">wir noch des komischen Entsetzens, welches der katho-\n</span><span class=\"line\">30</span><span class=\"tei-line \">lische Priester Janssen mit seinem über alle Begriffe \n</span><span class=\"tei-line\">viereckig und harmlos gerathenen Bilde der deutschen \n</span><span class=\"tei-line\">Reformations-Bewegung in Deutschland erregt hat; \n</span><span class=\"tei-line\">was würde man erst beginnen, wenn uns Jemand diese \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

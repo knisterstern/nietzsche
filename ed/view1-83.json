@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.32.7.145",
+    "rootNode": "2.5.12.6.32.7.145",
+    "id": "Ed_64_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.32.7.240",
+    "previous": "2.5.12.6.32.7.51",
+    "nextId": "Ed_65_id",
+    "previousId": "Ed_63_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0085.tif\">64</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ebenso tief als mildblickende Objektivität des gerechten, \n</span><span class=\"tei-line\">des <span class=\"tei-hi2 spaced\">richtenden</span> Auges nicht trübt, nun, so ist das ein \n</span><span class=\"tei-line\">Stück Vollendung und höchster Meisterschaft auf Erden, \n</span><span class=\"tei-line\">– sogar Etwas, das man hier kluger Weise nicht er-\n</span><span class=\"line\">5</span><span class=\"tei-line \">warten, woran man jedenfalls nicht gar zu leicht <span class=\"tei-hi2 spaced\">glau-\n<span class=\"tei-line\">ben</span>ben</span> soll. Gewiss ist durchschnittlich, dass selbst bei \n</span><span class=\"tei-line\">den rechtschaffensten Personen schon eine kleine Dosis \n</span><span class=\"tei-line\">von Angriff, Bosheit, Insinuation genügt, um ihnen das \n</span><span class=\"tei-line\">Blut in die Augen und die Billigkeit <span class=\"tei-hi2 spaced\">aus</span> den Augen \n</span><span class=\"line\">10</span><span class=\"tei-line \">zu jagen. Der aktive, der angreifende, übergreifende \n</span><span class=\"tei-line\">Mensch ist immer noch der Gerechtigkeit hundert \n</span><span class=\"tei-line\">Schritte näher gestellt als der reaktive; es ist eben für \n</span><span class=\"tei-line\">ihn durchaus nicht nöthig, in der Art, wie es der reak-\n</span><span class=\"tei-line\">tive Mensch thut, thun muss, sein Objekt falsch und \n</span><span class=\"line\">15</span><span class=\"tei-line \">voreingenommen abzuschätzen. Thatsächlich hat des-\n</span><span class=\"tei-line\">halb zu allen Zeiten der aggressive Mensch, als der \n</span><span class=\"tei-line\">Stärkere, Muthigere, Vornehmere, auch das <span class=\"tei-hi2 spaced\">freiere</span> \n</span><span class=\"tei-line\">Auge, das <span class=\"tei-hi2 spaced\">bessere</span> Gewissen auf seiner Seite gehabt: \n</span><span class=\"tei-line\">umgekehrt erräth man schon, wer überhaupt die Er-\n</span><span class=\"line\">20</span><span class=\"tei-line \">findung des „schlechten Gewissens“ auf dem Gewissen \n</span><span class=\"tei-line\">hat, – der Mensch des Ressentiment! Zuletzt sehe \n</span><span class=\"tei-line\">man sich doch in der Geschichte um: in welcher Sphäre \n</span><span class=\"tei-line\">ist denn bisher überhaupt die ganze Handhabung des \n</span><span class=\"tei-line\">Rechts, auch das eigentliche Bedürfniss nach Recht \n</span><span class=\"line\">25</span><span class=\"tei-line \">auf Erden heimisch gewesen? Etwa in der Sphäre der \n</span><span class=\"tei-line\">reaktiven Menschen? Ganz und gar nicht: vielmehr in \n</span><span class=\"tei-line\">der der Aktiven, Starken, Spontanen, Aggressiven. \n</span><span class=\"tei-line\">Historisch betrachtet, stellt das Recht auf Erden – zum \n</span><span class=\"tei-line\">Verdruss des genannten Agitator’s sei es gesagt (der \n</span><span class=\"line\">30</span><span class=\"tei-line \">selber einmal über sich das Bekenntniss ablegt: „die \n</span><span class=\"tei-line\">Rachelehre hat sich als der rothe Gerechtigkeitsfaden \n</span><span class=\"tei-line\">durch alle meine Arbeiten und Anstrengungen hindurch-\n</span><span class=\"tei-line\">gezogen“) – den Kampf gerade <span class=\"tei-hi2 spaced\">wider</span> die reaktiven \n\t\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

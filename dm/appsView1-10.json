@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.10",
+    "rootNode": "2.9.10",
+    "id": "srcD_surface_a7r",
+    "odd": "surface.odd",
+    "next": "2.9.11",
+    "previous": "2.9.9",
+    "nextId": "srcD_surface_a8r",
+    "previousId": "srcD_surface_a6r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"appInfoPage\" class=\"noteDiv infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.appNotes\">Anmerkungen</pb-i18n></h2></span><span slot=\"collapse-content\"><div><pb-highlight key=\"a7r_lb29\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">29</span></pb-highlight>-<pb-highlight key=\"a7r_lb31\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">31</span></pb-highlight>: <span style=\"margin-left: 2px;\"><span class=\"tei-lem2\">gebräuchlichen. … – Dies</span></span><span style=\"margin-right: 0.5em;\">]</span><span class=\"note\">nach Streichung von Z. 22 „6.“ Anschlusslinie von Z. 21 nach Z. 23</span></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

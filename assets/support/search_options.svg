@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="607"
+   height="438"
+   viewBox="0 0 607 438"
+   sodipodi:docname="search_options.svg"
+   inkscape:export-filename="/home/knister0/githubs/NietzscheBeta/nietzsche-beta-app/src/assets/support/search_options_rects.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="2.5628845"
+     inkscape:cx="57.459461"
+     inkscape:cy="219"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="/home/knister0/githubs/NietzscheBeta/nietzsche-beta-app/src/assets/support/search_options.png"
+     xlink:href="search_options.png"
+     width="607"
+     height="438"
+     preserveAspectRatio="none"
+     id="image10"
+     x="0"
+     y="0" />
+  <rect
+     style="opacity:0.756;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect12"
+     width="267.11865"
+     height="35.049366"
+     x="23.897295"
+     y="163.44664" />
+  <rect
+     style="opacity:0.756;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:3;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect822"
+     width="551.76196"
+     height="59.477711"
+     x="26.552549"
+     y="348.78345" />
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot824"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f80000;fill-opacity:1;stroke:none;"><flowRegion
+       id="flowRegion826"
+       style="fill:#f80000;fill-opacity:1;"><rect
+         id="rect828"
+         width="33.456211"
+         height="28.676754"
+         x="310.13379"
+         y="169.81924"
+         style="fill:#f80000;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara830">1.</flowPara></flowRoot>  <flowRoot
+     xml:space="preserve"
+     id="flowRoot832"
+     style="font-style:normal;font-weight:normal;font-size:16px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fa0000;fill-opacity:1;stroke:none;"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96"><flowRegion
+       id="flowRegion834"
+       style="fill:#fa0000;fill-opacity:1;"><rect
+         id="rect836"
+         width="36.642517"
+         height="31.332008"
+         x="163.03265"
+         y="307.89252"
+         style="fill:#fa0000;fill-opacity:1;" /></flowRegion><flowPara
+       id="flowPara838">2.</flowPara></flowRoot></svg>

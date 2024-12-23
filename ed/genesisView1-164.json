@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.338",
+    "rootNode": "2.5.12.8.49.5.338",
+    "id": "Ed_145_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.426",
+    "previous": "2.5.12.8.49.5.245",
+    "nextId": "Ed_146_id",
+    "previousId": "Ed_144_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 17</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 398/380,19-20</li><li class=\"tei-ab2\"><a data-id=\"Ed_145_id\" data-doc=\"E40.xml\">Ed 145,6-8</a></li><li class=\"tei-ab2\"><a data-id=\"Cb_145\" data-doc=\"K11.xml\">Cb10 145,6-8</a></li><li class=\"tei-ab2\"><a data-id=\"b39r\" data-doc=\"D20.xml\">Dm b39r,21-22</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_114v\" data-doc=\"KGWIX.xml\">Mp XVII, 114v,18-20</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

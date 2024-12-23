@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.56.20",
+    "rootNode": "2.7.2.2.56.20",
+    "id": "Cb_b13",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.58.9",
+    "previous": "2.7.2.2.56.5",
+    "nextId": "Cb_b14",
+    "previousId": "Cb_b12",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0036.tif\">b13</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"1\"><span><span>ge<span class=\"tei-sic2\">mach</span>t</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">gewagt)</span><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">wag</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"7-8\"><span><span>Se<span class=\"tei-sic2\">e</span>lig-/keit</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"12\"><span><span>sein<span class=\"tei-sic2\">!…“</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">!“…)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span>Böse<span class=\"tei-sic2\">,</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span><span class=\"tei-note1 Nnote\">aber Gänse-/füßchen!</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"27\"><span><span>Dar<span class=\"tei-sic2\">um</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">an</span> (Daran))</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"28\"><span><span>langen</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">gesperrt!</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"30\"><span><span>Baum<span class=\"tei-sic2\">e</span>s</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

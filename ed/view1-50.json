@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.45.5.184",
+    "rootNode": "2.5.12.4.45.5.184",
+    "id": "Ed_31_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.47.5.40",
+    "previous": "2.5.12.4.45.5.102",
+    "nextId": "Ed_32_id",
+    "previousId": "Ed_30_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0052.tif\">31</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">nein! sie hassen das „<span class=\"tei-hi2 spaced\">Unrecht</span>“, die „Gottlosigkeit“; \n</span><span class=\"tei-line\">was sie glauben und hoffen, ist nicht die Hoffnung \n</span><span class=\"tei-line\">auf Rache, die Trunkenheit der süssen Rache (– „süsser \n</span><span class=\"tei-line\">als Honig“ nannte sie schon Homer), sondern der \n</span><span class=\"line\">5</span><span class=\"tei-line \">Sieg Gottes, des <span class=\"tei-hi2 spaced\">gerechten</span> Gottes über die Gott-\n</span><span class=\"tei-line\">losen; was ihnen zu lieben auf Erden übrig bleibt, sind \n</span><span class=\"tei-line\">nicht ihre Brüder im Hasse, sondern ihre „Brüder in \n</span><span class=\"tei-line\">der Liebe“, wie sie sagen, alle Guten und Gerechten \n</span><span class=\"tei-line\">auf der Erde.“\n</span><span class=\"line\">10</span><span class=\"tei-line indent\">– Und wie nennen sie das, was ihnen als Trost \n</span><span class=\"tei-line\">wider alle Leiden des Lebens dient – ihre Phantas-\n</span><span class=\"tei-line\">magorie der vorweggenommenen zukünftigen Seligkeit?\n</span><span class=\"tei-line indent\">– „Wie? Höre ich recht? Sie heissen das „das \n</span><span class=\"tei-line\">jüngste Gericht“, das Kommen <span class=\"tei-hi2 spaced\">ihres</span> Reichs, des \n</span><span class=\"line\">15</span><span class=\"tei-line \">„Reichs Gottes“ – <span class=\"tei-hi2 spaced\">einstweilen</span> aber leben sie „im \n</span><span class=\"tei-line\">Glauben“, „in der Liebe“, „in der Hoffnung.“\n</span><span class=\"tei-line indent\">– Genug! Genug!</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">15.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Im Glauben woran? In der Liebe wozu? In der \n</span><span class=\"line\">20</span><span class=\"tei-line \">Hoffnung worauf? – Diese Schwachen – irgendwann \n</span><span class=\"tei-line\">einmal nämlich wollen auch <span class=\"tei-hi2 spaced\">sie</span> die Starken sein, es \n</span><span class=\"tei-line\">ist kein Zweifel, irgendwann soll auch <span class=\"tei-hi2 spaced\">ihr</span> „Reich“ kom-\n</span><span class=\"tei-line\">men – „das Reich Gottes“ heisst es schlechtweg bei \n</span><span class=\"tei-line\">ihnen, wie gesagt: man ist ja in Allem so demüthig! \n</span><span class=\"line\">25</span><span class=\"tei-line \">Schon um <span class=\"tei-hi2 spaced\">das</span> zu erleben, hat man nöthig, lange zu \n</span><span class=\"tei-line\">leben, über den Tod hinaus, – ja man hat das ewige \n</span><span class=\"tei-line\">Leben nöthig, damit man sich auch ewig im „Reiche \n</span><span class=\"tei-line\">Gottes“ schadlos halten kann für jenes Erden-Leben „im \n</span><span class=\"tei-line\">Glauben, in der Liebe, in der Hoffnung.“ Schadlos \n</span><span class=\"line\">30</span><span class=\"tei-line \">wofür? Schadlos wodurch?… Dante hat sich, wie \n</span><span class=\"tei-line\">mich dünkt, gröblich vergriffen, als er, mit einer \n</span><span class=\"tei-line\">schreckeneinflössenden Ingenuität, jene Inschrift über \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.47.5.135",
+    "rootNode": "2.5.12.4.47.5.135",
+    "id": "Ed_33_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.47.5.221",
+    "previous": "2.5.12.4.47.5.40",
+    "nextId": "Ed_34_id",
+    "previousId": "Ed_32_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0054.tif\">33</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">cutores dominici nominis saevioribus quam ipsi flammis \n</span><span class=\"tei-line\">saevierunt insultantibus contra Christianos liquescentes! \n</span><span class=\"tei-line\">Quos praeterea sapientes illos philosophos coram dis-\n</span><span class=\"tei-line\">cipulis suis una conflagrantibus erubescentes, quibus \n</span><span class=\"line\">5</span><span class=\"tei-line \">nihil ad deum pertinere suadebant, quibus animas aut \n</span><span class=\"tei-line\">nullas aut non in pristina corpora redituras affirmabant! \n</span><span class=\"tei-line\">Etiam poëtas<span class=\"tei-sic1\">poëtàs<span class=\"tei-note3 note\">Erratum</span></span> non ad Rhadamanti nec ad Minois, sed \n</span><span class=\"tei-line\">ad inopinati Christi tribunal palpitantes! Tunc magis \n</span><span class=\"tei-line\">tragoedi audiendi, magis scilicet vocales (besser bei \n</span><span class=\"line\">10</span><span class=\"tei-line \">Stimme, noch ärgere Schreier) in sua propria calami-\n</span><span class=\"tei-line\">tate; tunc histriones cognoscendi, solutiores multo per \n</span><span class=\"tei-line\">ignem; tunc spectandus auriga in flammea rota totus ru-\n</span><span class=\"tei-line\">bens, tunc xystici contemplandi non in gymnasiis, sed \n</span><span class=\"tei-line\">in igne jaculati, nisi quod ne tunc quidem illos velim \n</span><span class=\"line\">15</span><span class=\"tei-line \">vivos<span class=\"tei-corr1\"><span class=\"tei-note3 note\">vgl. Tertullian, De spectaculis 30: visos</span></span>, ut qui malim ad eos potius conspectum <span class=\"tei-hi2 spaced\">insatia-\n<span class=\"tei-line\">bilem</span>bilem</span> conferre, qui in dominum desaevierunt. „Hic \n</span><span class=\"tei-line\">est ille, dicam, fabri aut quaestuariae filius (wie alles \n</span><span class=\"tei-line\">Folgende und insbesondere auch diese aus dem Talmud \n</span><span class=\"tei-line\">bekannte Bezeichnung der Mutter Jesu zeigt, meint \n</span><span class=\"line\">20</span><span class=\"tei-line \">Tertullian von hier ab die Juden), sabbati destructor, \n</span><span class=\"tei-line\">Samarites et daemonium habens. Hic est, quem a Juda \n</span><span class=\"tei-line\">redemistis, hic est ille arundine et colaphis diverbera-\n</span><span class=\"tei-line\">tus, sputamentis dedecoratus, felle et aceto potatus. \n</span><span class=\"tei-line\">Hic est, quem clam discentes subripuerunt, ut resur-\n</span><span class=\"line\">25</span><span class=\"tei-line \">rexisse dicatur vel hortulanus detraxit, ne lactucae suae \n</span><span class=\"tei-line\">frequentia commeantium laederentur.“ Ut talia spectes, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">ut talibus exultes</span>, quis tibi praetor aut consul aut \n</span><span class=\"tei-line\">quaestor aut sacerdos de sua liberalitate praestabit? \n</span><span class=\"tei-line\">Et tamen haec jam habemus quodammodo <span class=\"tei-hi2 spaced\">per fidem</span> \n</span><span class=\"line\">30</span><span class=\"tei-line \">spiritu imaginante repraesentata. Ceterum qualia illa \n</span><span class=\"tei-line\">sunt, quae nec oculus vidit nec auris audivit nec in \n</span><span class=\"tei-line\">cor hominis ascenderunt? (1. Cor. 2, 9.) Credo circo et \n</span><span class=\"tei-line\">utraque cavea (erster und vierter Rang oder, nach \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

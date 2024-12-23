@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.32.7.51",
+    "rootNode": "2.5.12.6.32.7.51",
+    "id": "Ed_63_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.32.7.145",
+    "previous": "2.5.12.6.30.7.92",
+    "nextId": "Ed_64_id",
+    "previousId": "Ed_62_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0084.tif\">63</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">und allesammt nachträglich zu Ehren zu bringen. An \n</span><span class=\"tei-line\">Letzterem selbst würde ich am wenigsten Anstoss neh-\n</span><span class=\"tei-line\">men: es schiene mir sogar in Hinsicht auf das ganze \n</span><span class=\"tei-line\">biologische Problem (in Bezug auf welches der Werth \n</span><span class=\"line\">5</span><span class=\"tei-line \">jener Affekte bisher unterschätzt worden ist) ein <span class=\"tei-hi2 spaced\">Ver-\n<span class=\"tei-line\">dienst</span>dienst</span>. Worauf ich allein aufmerksam mache, ist der \n</span><span class=\"tei-line\">Umstand, dass es der Geist des Ressentiment selbst \n</span><span class=\"tei-line\">ist, aus dem diese neue Nuance von wissenschaftlicher \n</span><span class=\"tei-line\">Billigkeit (zu Gunsten von Hass, Neid, Missgunst, Arg-\n</span><span class=\"line\">10</span><span class=\"tei-line \">wohn, Rancune, Rache) herauswächst. Diese „wissen-\n</span><span class=\"tei-line\">schaftliche Billigkeit“ nämlich pausirt sofort und macht \n</span><span class=\"tei-line\">Accenten tödtlicher Feindschaft und Voreingenommen-\n</span><span class=\"tei-line\">heit Platz, sobald es sich um eine andre Gruppe von \n</span><span class=\"tei-line\">Affekten handelt, die, wie mich dünkt, von einem noch \n</span><span class=\"line\">15</span><span class=\"tei-line \">viel höheren biologischen Werthe sind, als jene reak-\n</span><span class=\"tei-line\">tiven, und folglich erst recht verdienten, <span class=\"tei-hi2 spaced\">wissenschaft-\n<span class=\"tei-line\">lich</span>lich</span> abgeschätzt und hochgeschätzt zu werden: nämlich \n</span><span class=\"tei-line\">die eigentlich <span class=\"tei-hi2 spaced\">aktiven</span> Affekte, wie Herrschsucht, Hab-\n</span><span class=\"tei-line\">sucht und dergleichen. (E. Dühring, Werth des Le-\n</span><span class=\"line\">20</span><span class=\"tei-line \">bens; Cursus der Philosophie; im Grunde überall.) So \n</span><span class=\"tei-line\">viel gegen diese Tendenz im Allgemeinen: was aber \n</span><span class=\"tei-line\">gar den einzelnen Satz Dühring’s angeht, dass die \n</span><span class=\"tei-line\">Heimat der Gerechtigkeit auf dem Boden des reaktiven \n</span><span class=\"tei-line\">Gefühls zu suchen sei, so muss man ihm, der Wahrheit \n</span><span class=\"line\">25</span><span class=\"tei-line \">zu Liebe, mit schroffer Umkehrung diesen andren Satz \n</span><span class=\"tei-line\">entgegenstellen: der <span class=\"tei-hi2 spaced\">letzte</span> Boden, der vom Geiste \n</span><span class=\"tei-line\">der Gerechtigkeit erobert wird, ist der Boden des \n</span><span class=\"tei-line\">reaktiven Gefühls! Wenn es wirklich vorkommt, dass \n</span><span class=\"tei-line\">der gerechte Mensch gerecht sogar gegen seine Schä-\n</span><span class=\"line\">30</span><span class=\"tei-line \">diger bleibt (und nicht nur kalt, massvoll, fremd, gleich-\n</span><span class=\"tei-line\">gültig: Gerecht-sein ist immer ein <span class=\"tei-hi2 spaced\">positives</span> Verhalten), \n</span><span class=\"tei-line\">wenn sich selbst unter dem Ansturz persönlicher Ver-\n</span><span class=\"tei-line\">letzung, Verhöhnung, Verdächtigung die hohe, klare, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

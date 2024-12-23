@@ -1,0 +1,7 @@
+# count the number of words written by each writing instrument.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+
+select distinct ?instrument (count(?word) as ?numWord)  where {
+  ?word a tln:Word;
+        tln:wordHasStyle/tln:styleHasWritingInstrument ?instrument.
+} GROUP BY ?instrument

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.10",
+    "rootNode": "2.5.12.6.10",
+    "id": "Ed_41_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.12.7.76",
+    "previous": "2.5.12.6.7",
+    "nextId": "Ed_42_id",
+    "previousId": "Ed_40_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0062.tif\">[41]</pb-facs-link></span>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>1.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Ein Thier heranzüchten, das <span class=\"tei-hi2 spaced\">versprechen darf</span> – \n</span><span class=\"tei-line\">ist das nicht gerade jene paradoxe Aufgabe selbst, \n</span><span class=\"tei-line\">welche sich die Natur in Hinsicht auf den Menschen \n</span><span class=\"line\">5</span><span class=\"tei-line \">gestellt hat? ist es nicht das eigentliche Problem <span class=\"tei-hi2 spaced\">vom</span> \n</span><span class=\"tei-line\">Menschen?… Dass dies Problem bis zu einem hohen \n</span><span class=\"tei-line\">Grad gelöst ist, muss Dem um so erstaunlicher erschei-\n</span><span class=\"tei-line\">nen, der die entgegen wirkende Kraft, die der <span class=\"tei-hi2 spaced\">Ver-\n<span class=\"tei-line\">gesslichkeit</span>gesslichkeit</span>, vollauf zu würdigen weiss. Vergess-\n</span><span class=\"line\">10</span><span class=\"tei-line \">lichkeit ist keine blosse vis inertiae, wie die Oberfläch-\n</span><span class=\"tei-line\">lichen glauben, sie ist vielmehr ein aktives, im streng-\n</span><span class=\"tei-line\">sten Sinne positives Hemmungsvermögen, dem es zu-\n</span><span class=\"tei-line\">zuschreiben ist, dass was nur von uns erlebt, erfahren, \n</span><span class=\"tei-line\">in uns hineingenommen wird, uns im Zustande der \n</span><span class=\"line\">15</span><span class=\"tei-line \">Verdauung (man dürfte ihn „Einverseelung“ nennen) \n</span><span class=\"tei-line\">ebenso wenig in’s Bewusstsein tritt, als der ganze tausend-\n</span><span class=\"tei-line\">fältige Prozess, mit dem sich unsre leibliche Ernährung, \n</span><span class=\"tei-line\">die sogenannte „Einverleibung“ abspielt. Die Thüren \n</span><span class=\"tei-line\">und Fenster des Bewusstseins zeitweilig schliessen; \n</span><span class=\"line\">20</span><span class=\"tei-line \">von dem Lärm und Kampf, mit dem unsre Unterwelt \n</span><span class=\"tei-line\">von dienstbaren Organen für und gegen einander arbei-\n</span><span class=\"tei-line\">tet, unbehelligt bleiben; ein wenig Stille, ein wenig \n</span><span class=\"tei-line\">tabula rasa des Bewusstseins, damit wieder Platz wird \n</span><span class=\"tei-line\">für Neues, vor Allem für die vornehmeren Funktionen \n</span><span class=\"line\">25</span><span class=\"tei-line \">und Funktionäre, für Regieren, Voraussehn, Voraus-\n</span><span class=\"tei-line\">bestimmen (denn unser Organismus ist oligarchisch \n</span><span class=\"tei-line\">eingerichtet) – das ist der Nutzen der, wie gesagt, \n</span><span class=\"tei-line\">aktiven Vergesslichkeit, einer Thürwärterin gleichsam, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

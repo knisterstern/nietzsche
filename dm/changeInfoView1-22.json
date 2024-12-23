@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.22",
+    "rootNode": "2.9.22",
+    "id": "srcD_surface_a18v",
+    "odd": "surface.odd",
+    "next": "2.9.23",
+    "previous": "2.9.21",
+    "nextId": "srcD_surface_a19r",
+    "previousId": "srcD_surface_a18r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"changeInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.changes\">Bearbeitungsschritte</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li><span class=\"changePreview\"><a href=\"/timeline/index.html#TertullianPassage\">Tertullian-Stelle</a></span></li><li><span class=\"changePreview\"><a href=\"/timeline/index.html#GM01finalVersion\">Finale Version von GM I</a></span></li><li><span class=\"changePreview\"><a href=\"/timeline/index.html#GM01-02finalVersion\">Finale Dm-Fassung (GM I-II)</a></span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "href": "/timeline/index.html",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

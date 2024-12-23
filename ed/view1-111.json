@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.58.5.34",
+    "rootNode": "2.5.12.6.58.5.34",
+    "id": "Ed_92_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.58.5.124",
+    "previous": "2.5.12.6.56.5.115",
+    "nextId": "Ed_93_id",
+    "previousId": "Ed_91_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0113.tif\">92</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">schen, wir sind die Erben der Gewissens-Vivisektion und \n</span><span class=\"tei-line\">Selbst-Thierquälerei von Jahrtausenden: darin haben \n</span><span class=\"tei-line\">wir unsre längste Übung, unsre Künstlerschaft vielleicht, \n</span><span class=\"tei-line\">in jedem Fall unser Raffinement, unsre Geschmacks-\n</span><span class=\"line\">5</span><span class=\"tei-line \">Verwöhnung. Der Mensch hat allzulange seine natür-\n</span><span class=\"tei-line\">lichen Hänge mit „bösem Blick“ betrachtet, so dass sie \n</span><span class=\"tei-line\">sich in ihm schliesslich mit dem „schlechten Gewissen“ \n</span><span class=\"tei-line\">verschwistert haben. Ein umgekehrter Versuch wäre \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">an sich</span> möglich – aber wer ist stark genug dazu? – \n</span><span class=\"line\">10</span><span class=\"tei-line \">nämlich die <span class=\"tei-hi2 spaced\">unnatürlichen</span> Hänge, alle jene Aspira-\n</span><span class=\"tei-line\">tionen zum Jenseitigen, Sinnenwidrigen, Instinktwidrigen, \n</span><span class=\"tei-line\">Naturwidrigen, Thierwidrigen, kurz die bisherigen \n</span><span class=\"tei-line\">Ideale, die allesammt lebensfeindliche Ideale, Weltver-\n</span><span class=\"tei-line\">leumder-Ideale sind, mit dem schlechten Gewissen zu \n</span><span class=\"line\">15</span><span class=\"tei-line \">verschwistern. An wen sich heute mit <span class=\"tei-hi2 spaced\">solchen</span> Hoff-\n</span><span class=\"tei-line\">nungen und Ansprüchen wenden?… Gerade die <span class=\"tei-hi2 spaced\">guten</span> \n</span><span class=\"tei-line\">Menschen hätte man damit gegen sich; dazu, wie billig, \n</span><span class=\"tei-line\">die bequemen, die versöhnten, die eitlen, die schwär-\n</span><span class=\"tei-line\">merischen, die müden… Was beleidigt tiefer, was \n</span><span class=\"line\">20</span><span class=\"tei-line \">trennt so gründlich ab, als etwas von der Strenge und \n</span><span class=\"tei-line\">Höhe merken zu lassen, mit der man sich selbst be-\n</span><span class=\"tei-line\">handelt? Und wiederum – wie entgegenkommend, \n</span><span class=\"tei-line\">wie liebreich zeigt sich alle Welt gegen uns, so bald \n</span><span class=\"tei-line\">wir es machen wie alle Welt und uns „gehen lassen“ \n</span><span class=\"line\">25</span><span class=\"tei-line \">wie alle Welt!… Es bedürfte zu jenem Ziele einer \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">andren</span> Art Geister, als gerade in diesem Zeitalter \n</span><span class=\"tei-line\">wahrscheinlich sind: Geister, durch Kriege und Siege \n</span><span class=\"tei-line\">gekräftigt, denen die Eroberung, das Abenteuer, die \n</span><span class=\"tei-line\">Gefahr, der Schmerz sogar zum Bedürfniss geworden \n</span><span class=\"line\">30</span><span class=\"tei-line \">ist; es bedürfte dazu der Gewöhnung an scharfe hohe \n</span><span class=\"tei-line\">Luft, an winterliche Wanderungen, an Eis und Gebirge \n</span><span class=\"tei-line\">in jedem Sinne, es bedürfte dazu einer Art sublimer \n</span><span class=\"tei-line\">Bosheit selbst, eines letzten selbstgewissesten Muth-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

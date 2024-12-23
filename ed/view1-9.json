@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.13.5.37",
+    "rootNode": "2.5.12.2.13.5.37",
+    "id": "Ed_VI_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.13.5.122",
+    "previous": "2.5.12.2.11.5.60",
+    "nextId": "Ed_VII_id",
+    "previousId": "Ed_V_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0011.tif\">VI</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">reits als dreizehnjährigem Knaben das Problem vom \n</span><span class=\"tei-line\">Ursprung des Bösen nach: ihm widmete ich, in einem \n</span><span class=\"tei-line\">Alter, wo man „halb Kinderspiele, halb Gott im Herzen“ \n</span><span class=\"tei-line\">hat, mein erstes litterarisches Kinderspiel, meine erste \n</span><span class=\"line\">5</span><span class=\"tei-line \">philosophische Schreibübung – und was meine da-\n</span><span class=\"tei-line\">malige „Lösung“ des Problems anbetrifft, nun, so gab \n</span><span class=\"tei-line\">ich, wie es billig ist, Gott die Ehre und machte ihn \n</span><span class=\"tei-line\">zum <span class=\"tei-hi2 spaced\">Vater</span> des Bösen. Wollte es gerade <span class=\"tei-hi2 spaced\">so</span> mein „A \n</span><span class=\"tei-line\">priori“ von mir? jenes neue, unmoralische, mindestens \n</span><span class=\"line\">10</span><span class=\"tei-line \">immoralistische „A priori“ und der aus ihm redende ach! \n</span><span class=\"tei-line\">so anti-Kantische, so räthselhafte „kategorische Impera-\n</span><span class=\"tei-line\">tiv“, dem ich inzwischen immer mehr Gehör und nicht \n</span><span class=\"tei-line\">nur Gehör geschenkt habe?… Glücklicher Weise lernte \n</span><span class=\"tei-line\">ich bei Zeiten das theologische Vorurtheil von dem mo-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ralischen abscheiden und suchte nicht mehr den Ur-\n</span><span class=\"tei-line\">sprung des Bösen <span class=\"tei-hi2 spaced\">hinter</span> der Welt. Etwas historische \n</span><span class=\"tei-line\">und philologische Schulung, eingerechnet ein angeborner \n</span><span class=\"tei-line\">wählerischer Sinn in Hinsicht auf psychologische Fra-\n</span><span class=\"tei-line\">gen überhaupt, verwandelte in Kürze mein Problem in \n</span><span class=\"line\">20</span><span class=\"tei-line \">das andre: unter welchen Bedingungen erfand sich der \n</span><span class=\"tei-line\">Mensch jene Werthurtheile gut und böse? <span class=\"tei-hi2 spaced\">und wel-</span>\n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">chen Werth haben sie selbst?</span> Hemmten oder för-\n</span><span class=\"tei-line\">derten sie bisher das menschliche Gedeihen? Sind sie \n</span><span class=\"tei-line\">ein Zeichen von Nothstand, von Verarmung, von Ent-\n</span><span class=\"line\">25</span><span class=\"tei-line \">artung des Lebens? Oder umgekehrt, verräth sich in \n</span><span class=\"tei-line\">ihnen die Fülle, die Kraft, der Wille des Lebens, sein \n</span><span class=\"tei-line\">Muth, seine Zuversicht, seine Zukunft? – Darauf fand \n</span><span class=\"tei-line\">und wagte ich bei mir mancherlei Antworten, ich unter-\n</span><span class=\"tei-line\">schied Zeiten, Völker, Ranggrade der Individuen, ich \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

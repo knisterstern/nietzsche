@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.510",
+    "rootNode": "2.5.12.8.49.5.510",
+    "id": "Ed_147_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.51.5.84",
+    "previous": "2.5.12.8.49.5.426",
+    "nextId": "Ed_148_id",
+    "previousId": "Ed_146_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0168.tif\">147</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \"></span><span class=\"line\">1</span><span class=\"tei-line \">und Gründlich-Verstimmten schon als höchstes Gut, \n</span><span class=\"tei-line\">als Werth der Werthe gelten, das <span class=\"tei-hi2 spaced\">muss</span> von ihnen als \n</span><span class=\"tei-line\">positiv abgeschätzt, als <span class=\"tei-hi2 spaced\">das</span> Positive selbst empfunden \n</span><span class=\"tei-line\">werden. (Nach derselben Logik des Gefühls heisst in \n</span><span class=\"line\">5</span><span class=\"tei-line \">allen pessimistischen Religionen das Nichts <span class=\"tei-hi2 spaced\">Gott</span>.)</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">18.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Viel häufiger als eine solche hypnotistische Ge-\n</span><span class=\"tei-line\">sammtdämpfung der Sensibilität, der Schmerzfähigkeit, \n</span><span class=\"tei-line\">welche schon seltnere Kräfte, vor Allem Muth, Verach-\n</span><span class=\"line\">10</span><span class=\"tei-line \">tung der Meinung, „intellektuellen Stoicismus“ voraus-\n</span><span class=\"tei-line\">setzt, wird gegen Depressions-Zustände ein anderes \n</span><span class=\"tei-line\">training versucht, welches jedenfalls leichter ist: <span class=\"tei-hi2 spaced\">die \n<span class=\"tei-line\">machinale Thätigkeit</span>machinale Thätigkeit</span>. Dass mit ihr ein leidendes \n</span><span class=\"tei-line\">Dasein in einem nicht unbeträchtlichen Grade erleich-\n</span><span class=\"line\">15</span><span class=\"tei-line \">tert wird, steht ausser allem Zweifel: man nennt heute \n</span><span class=\"tei-line\">diese Thatsache, etwas unehrlich, „den Segen der Ar-\n</span><span class=\"tei-line\">beit“. Die Erleichterung besteht darin, dass das Inter-\n</span><span class=\"tei-line\">esse des Leidenden grundsätzlich vom Leiden abge-\n</span><span class=\"tei-line\">lenkt wird, – dass beständig ein Thun und wieder \n</span><span class=\"line\">20</span><span class=\"tei-line \">nur ein Thun in’s Bewusstsein tritt und folglich wenig \n</span><span class=\"tei-line\">Platz darin für Leiden bleibt: denn sie ist <span class=\"tei-hi2 spaced\">eng</span>, diese \n</span><span class=\"tei-line\">Kammer des menschlichen Bewusstseins! Die machi-\n</span><span class=\"tei-line\">nale Thätigkeit und was zu ihr gehört – wie die ab-\n</span><span class=\"tei-line\">solute Regularität, der pünktliche besinnungslose Ge-\n</span><span class=\"line\">25</span><span class=\"tei-line \">horsam, das Ein-für-alle-Mal der Lebensweise, die Aus-\n</span><span class=\"tei-line\">füllung der Zeit, eine gewisse Erlaubniss, ja eine Zucht \n</span><span class=\"tei-line\">zur „Unpersönlichkeit“, zum Sich-selbst-Vergessen, zur \n</span><span class=\"tei-line\">„incuria sui“ –: wie gründlich, wie fein hat der aske-\n</span><span class=\"tei-line\">tische Priester sie im Kampf mit dem Schmerz zu be-\n</span><span class=\"line\">30</span><span class=\"tei-line \">nutzen gewusst! Gerade wenn er mit Leidenden der \n</span><span class=\"tei-line\">niederen Stände, mit Arbeitssklaven oder Gefangenen \n</span><span class=\"tei-line\">zu thun hatte (oder mit Frauen: die ja meistens Beides \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

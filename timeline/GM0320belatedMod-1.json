@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.59",
+    "id": "GM0320belatedMod",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM0320belatedMod\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Nachträgliche Textänderung zu Dm GM III 20</h5>Ns schriftliche Anordnung von <span class=\"tei-date2\">frühestens Ende August, spätestens Anfang Oktober 1887</span> sind nicht überliefert, die Textänderung wurde von einem Druckerei-Mitarbeiter ins Dm eingetragen.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

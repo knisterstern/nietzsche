@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.67.7.69",
+    "rootNode": "2.5.12.8.67.7.69",
+    "id": "Ed_176_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.67.7.166.6",
+    "previous": "2.5.12.8.65.5.440",
+    "nextId": "Ed_177_id",
+    "previousId": "Ed_175_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0197.tif\">176</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">liche“ Volk mag sich der Teufel holen! Um wie viel \n</span><span class=\"tei-line\">lieber will ich noch mit jenen historischen Nihilisten \n</span><span class=\"tei-line\">durch die düstersten grauen kalten Nebel wandern! – \n</span><span class=\"tei-line\">ja, es soll mir nicht darauf ankommen, gesetzt, dass ich \n</span><span class=\"line\">5</span><span class=\"tei-line \">wählen muss, selbst einem ganz eigentlich Unhistori-\n</span><span class=\"tei-line\">schen, Widerhistorischen Gehör zu schenken (wie jenem \n</span><span class=\"tei-line\">Dühring, an dessen Tönen sich im heutigen Deutsch-\n</span><span class=\"tei-line\">land eine bisher noch schüchterne, noch uneingeständ-\n</span><span class=\"tei-line\">liche Species „schöner Seelen“ berauscht, die Species \n</span><span class=\"line\">10</span><span class=\"tei-line \">anarchistica innerhalb des gebildeten Proletariats). \n</span><span class=\"tei-line\">Hundert Mal schlimmer sind die „Beschaulichen“ –: \n</span><span class=\"tei-line\">ich wüsste Nichts, was so sehr Ekel machte, als solch \n</span><span class=\"tei-line\">ein „objektiver“ Lehnstuhl, solch ein duftender Ge-\n</span><span class=\"tei-line\">nüssling vor der Historie, halb Pfaff, halb Satyr, \n</span><span class=\"line\">15</span><span class=\"tei-line \">Parfum Renan, der schon mit dem hohen Falsett sei-\n</span><span class=\"tei-line\">nes Beifalls verräth, was ihm abgeht, <span class=\"tei-hi2 spaced\">wo</span> es ihm ab-\n</span><span class=\"tei-line\">geht, <span class=\"tei-hi2 spaced\">wo</span> in diesem Falle die Parze ihre grausame \n</span><span class=\"tei-line\">Scheere ach! allzu chirurgisch gehandhabt hat! Das \n</span><span class=\"tei-line\">geht mir wider den Geschmack, auch wider die Ge-\n</span><span class=\"line\">20</span><span class=\"tei-line \">duld: behalte bei solchen Aspekten seine Geduld, wer \n</span><span class=\"tei-line\">Nichts an ihr zu verlieren hat, – mich ergrimmt solch \n</span><span class=\"tei-line\">ein Aspekt, solche „Zuschauer“ erbittern mich gegen \n</span><span class=\"tei-line\">das „Schauspiel“, mehr noch als das Schauspiel (die \n</span><span class=\"tei-line\">Historie selbst, man versteht mich), unversehens kommen \n</span><span class=\"line\">25</span><span class=\"tei-line \">mir dabei anakreontische Launen. Diese Natur, die \n</span><span class=\"tei-line\">dem Stier das Horn, dem Löwen das <span class=\"tei-foreign\">χάσμ᾽ ὀδόντων</span> gab, \n</span><span class=\"tei-line\">wozu gab mir die Natur den Fuss?… Zum Treten, \n</span><span class=\"tei-line\">beim heiligen Anakreon! und nicht nur zum Davon-\n</span><span class=\"tei-line\">laufen: zum Zusammentreten der morschen Lehnstühle, \n</span><span class=\"line\">30</span><span class=\"tei-line \">der feigen Beschaulichkeit, des lüsternen Eunuchen-\n</span><span class=\"tei-line\">thums vor der Historie, der Liebäugelei mit asketischen \n</span><span class=\"tei-line\">Idealen, der Gerechtigkeits-Tartüfferie der Impotenz! \n</span><span class=\"tei-line\">Alle meine Ehrfurcht dem asketischen Ideale, <span class=\"tei-hi2 spaced\">sofern \"/&gt;\n\n</span></span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

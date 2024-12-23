@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.237",
+    "rootNode": "2.5.12.8.31.5.237",
+    "id": "Ed_114_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.330",
+    "previous": "2.5.12.8.31.5.141",
+    "nextId": "Ed_115_id",
+    "previousId": "Ed_113_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0135.tif\">114</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">nicht zu vertheidigen und zuzuschnüren hat, – Etwas, \n</span><span class=\"tei-line\">mit dem man reden kann, ohne <span class=\"tei-hi2 spaced\">laut</span> zu reden. Man \n</span><span class=\"tei-line\">höre doch nur auf den Klang, den ein Geist hat, wenn \n</span><span class=\"tei-line\">er redet: jeder Geist hat seinen Klang, liebt seinen \n</span><span class=\"line\">5</span><span class=\"tei-line \">Klang. Das dort zum Beispiel muss wohl ein Agitator \n</span><span class=\"tei-line\">sein, will sagen ein Hohlkopf, Hohltopf: was auch nur \n</span><span class=\"tei-line\">in ihn hineingeht, jeglich Ding kommt dumpf und dick \n</span><span class=\"tei-line\">aus ihm zurück, beschwert mit dem Echo der grossen \n</span><span class=\"tei-line\">Leere. Jener dort spricht selten anders als heiser: \n</span><span class=\"line\">10</span><span class=\"tei-line \">hat er sich vielleicht heiser <span class=\"tei-hi2 spaced\">gedacht</span>? Das wäre mög-\n</span><span class=\"tei-line\">lich – man frage die Physiologen –, aber wer in \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Worten</span> denkt, denkt als Redner und nicht als Den-\n</span><span class=\"tei-line\">ker (es verräth, dass er im Grunde nicht Sachen, nicht \n</span><span class=\"tei-line\">sachlich denkt, sondern nur in Hinsicht auf Sachen, \n</span><span class=\"line\">15</span><span class=\"tei-line \">dass er eigentlich <span class=\"tei-hi2 spaced\">sich</span> und seine Zuhörer denkt). Die-\n</span><span class=\"tei-line\">ser Dritte da redet aufdringlich, er tritt zu nahe uns \n</span><span class=\"tei-line\">an den Leib, sein Athem haucht uns an, – unwillkür-\n</span><span class=\"tei-line\">lich schliessen wir den Mund, obwohl es ein Buch ist, \n</span><span class=\"tei-line\">durch das er zu uns spricht: der Klang seines Stils \n</span><span class=\"line\">20</span><span class=\"tei-line \">sagt den Grund davon, – dass er keine Zeit hat, dass er \n</span><span class=\"tei-line\">schlecht an sich selber glaubt, dass er heute oder nie-\n</span><span class=\"tei-line\">mals mehr zu Worte kommt. Ein Geist aber, der seiner \n</span><span class=\"tei-line\">selbst gewiss ist, redet leise; er sucht die Verborgen-\n</span><span class=\"tei-line\">heit, er lässt auf sich warten. Man erkennt einen Phi-\n</span><span class=\"line\">25</span><span class=\"tei-line \">losophen daran, dass er drei glänzenden und lauten \n</span><span class=\"tei-line\">Dingen aus dem Wege geht, dem Ruhme, den Fürsten \n</span><span class=\"tei-line\">und den Frauen: womit nicht gesagt ist, dass sie nicht \n</span><span class=\"tei-line\">zu ihm kämen. Er scheut allzuhelles Licht: deshalb \n</span><span class=\"tei-line\">scheut er seine Zeit und deren „Tag“. Darin ist er \n</span><span class=\"line\">30</span><span class=\"tei-line \">wie ein Schatten: je mehr ihm die Sonne sinkt, um so \n</span><span class=\"tei-line\">grösser wird er. Was seine „Demuth“ angeht, so ver-\n</span><span class=\"tei-line\">trägt er, wie er das Dunkel verträgt, auch eine ge-\n</span><span class=\"tei-line\">wisse Abhängigkeit und Verdunkelung: mehr noch, er \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

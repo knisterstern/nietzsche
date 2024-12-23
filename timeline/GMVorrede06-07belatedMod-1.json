@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.37",
+    "id": "GMVorrede06-07belatedMod",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GMVorrede06-07belatedMod\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Nachträgliche Textänderungen zu GM Vorrede 6-7</h5>Ns schriftliche Anordnungen von <span class=\"tei-date2\">frühestens Ende Juli, spätestens Anfang/Mitte Oktober 1887</span> sind nicht überliefert, die Textänderungen wurden von einem Druckerei-Mitarbeiter ins Dm eingetragen.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

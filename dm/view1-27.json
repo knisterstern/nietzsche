@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.27",
+    "rootNode": "2.9.27",
+    "id": "srcD_surface_a21v",
+    "odd": "surface.odd",
+    "next": "2.9.28",
+    "previous": "2.9.26",
+    "nextId": "srcD_surface_a22r",
+    "previousId": "srcD_surface_a21r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-surface3\" id=\"srcD_surface_a21v\"><div class=\"content \"><pb-facs-link emit=\"transcription\" facs=\"https://ores.klassik-stiftung.de/digilib/Scaler/IIIF/gsa!Arbeitskopie!71!75094!75094_42\" style=\"float: right; margin-top: -2em;\">a21v</pb-facs-link><div id=\"srcD_surface_a21v\" class=\"transkriptionField\" style=\"min-width:61.3em;min-height:80em;font-size:16px;\"><div id=\"srcD_zone_a21v_div1_d2e22\" style=\"padding-top:5em;padding-bottom:5em;\" class=\"singleBlock textBlock \" debug-msg=\"test\" data-debug=\"1\"><div id=\"srcD_zone_a21v_lb1\" class=\"note-zone\"><div id=\"srcD_line_a21v_lb1\" class=\"zoneLine\" style=\"top:1em;\"><span class=\"lnr\"><pb-highlight key=\"a21v_lb1\" duration=\"5000\">1</pb-highlight></span><span class=\"marginLeft hand N_pencil \" style=\"\"><span class=\"latin\">Manuscript der </span><span class=\"tei-hi2 underline\"><span class=\"latin\">zweiten</span></span> \n               </span></div></div><div id=\"srcD_zone_a21v_lb2\" class=\"note-zone\"><div id=\"srcD_line_a21v_lb2\" class=\"zoneLine\" style=\"bottom:2em;\"><span class=\"lnr\"><pb-highlight key=\"a21v_lb2\" duration=\"5000\">2</pb-highlight></span><span class=\"marginLeft hand N_pencil \" style=\"margin-left:15em;\"><span class=\"latin\">Abhandlung.</span>\n            \n               </span></div></div><div id=\"srcD_zone_a21v_lb3\" class=\"note-zone\"><div id=\"srcD_line_a21v_lb3\" class=\"zoneLine\" style=\"bottom:1em;\"><span class=\"lnr\"><pb-highlight key=\"a21v_lb3\" duration=\"5000\">3</pb-highlight></span><span class=\"marginLeft hand N_pencil \" style=\"margin-left:20em;\"><span class=\"latin\">p.</span> 15-33.</span></div></div></div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

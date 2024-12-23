@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.37.5.6",
+    "rootNode": "2.5.12.8.37.5.6",
+    "id": "Ed_123_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.37.5.100",
+    "previous": "2.5.12.8.35.5.125",
+    "nextId": "Ed_124_id",
+    "previousId": "Ed_122_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0144.tif\">123</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Probleme: was bedeutet das asketische Ideal? ernsthaft \n</span><span class=\"tei-line\">auf den Leib, – jetzt erst wird es „Ernst“: wir haben \n</span><span class=\"tei-line\">nunmehr den eigentlichen <span class=\"tei-hi2 spaced\">Repräsentanten des Ern-\n<span class=\"tei-line\">stes</span>stes</span> überhaupt uns gegenüber. „Was bedeutet aller \n</span><span class=\"line\">5</span><span class=\"tei-line \">Ernst?“ – diese noch grundsätzlichere Frage legt sich \n</span><span class=\"tei-line\">vielleicht hier schon auf unsre Lippen: eine Frage für \n</span><span class=\"tei-line\">Physiologen, wie billig, an der wir aber einstweilen \n</span><span class=\"tei-line\">noch vorüberschlüpfen. Der asketische Priester hat in \n</span><span class=\"tei-line\">jenem Ideale nicht nur seinen Glauben, sondern auch \n</span><span class=\"line\">10</span><span class=\"tei-line \">seinen Willen, seine Macht, sein Interesse. Sein <span class=\"tei-hi2 spaced\">Recht</span> \n</span><span class=\"tei-line\">zum Dasein steht und fällt mit jenem Ideale: was Wun-\n</span><span class=\"tei-line\">der, dass wir hier auf einen furchtbaren Gegner stossen, \n</span><span class=\"tei-line\">gesetzt nämlich, dass wir die Gegner jenes Ideales wä-\n</span><span class=\"tei-line\">ren? <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">eines</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">eines</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">einen</span> (KGW/KSA)</span></p></template></pb-popover> solchen, der um seine Existenz gegen die \n</span><span class=\"line\">15</span><span class=\"tei-line \">Leugner jenes Ideales kämpft?… Andrerseits ist es \n</span><span class=\"tei-line\">von vornherein nicht wahrscheinlich, dass eine derge-\n</span><span class=\"tei-line\">stalt interessirte Stellung zu unsrem Probleme diesem \n</span><span class=\"tei-line\">sonderlich zu Nutze kommen wird; der asketische Prie-\n</span><span class=\"tei-line\">ster wird schwerlich selbst nur den glücklichsten Ver-\n</span><span class=\"line\">20</span><span class=\"tei-line \">theidiger seines Ideals abgeben, aus dem gleichen \n</span><span class=\"tei-line\">Grunde, aus dem es einem Weibe zu misslingen pflegt, \n</span><span class=\"tei-line\">wenn es „das Weib an sich“ vertheidigen will, – ge-\n</span><span class=\"tei-line\">schweige denn den objektivsten Beurtheiler und Richter \n</span><span class=\"tei-line\">der hier aufgeregten Controverse. Eher also werden \n</span><span class=\"line\">25</span><span class=\"tei-line \">wir ihm noch zu helfen haben – so viel liegt jetzt \n</span><span class=\"tei-line\">schon auf der Hand – sich gut gegen uns zu verthei-\n</span><span class=\"tei-line\">digen als dass wir zu fürchten hätten, zu gut von ihm \n</span><span class=\"tei-line\">widerlegt zu werden… Der Gedanke, um den hier ge-\n</span><span class=\"tei-line\">kämpft wird, ist die <span class=\"tei-hi2 spaced\">Werthung</span> unsres Lebens seitens \n</span><span class=\"line\">30</span><span class=\"tei-line \">der asketischen Priester: dasselbe wird (sammt dem, \n</span><span class=\"tei-line\">wozu es gehört, „Natur“, „Welt“, die gesammte Sphäre \n</span><span class=\"tei-line\">des Werdens und der Vergänglichkeit) von ihnen in Be-\n</span><span class=\"tei-line\">ziehung gesetzt zu einem ganz andersartigen Dasein, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

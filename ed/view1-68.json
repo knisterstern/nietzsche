@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.18.5.71",
+    "rootNode": "2.5.12.6.18.5.71",
+    "id": "Ed_49_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.20.5.8",
+    "previous": "2.5.12.6.16.7.235",
+    "nextId": "Ed_50_id",
+    "previousId": "Ed_48_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0070.tif\">49</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">scheinbar so natürliche, so unvermeidliche Gedanke, der \n</span><span class=\"tei-line\">wohl gar zur Erklärung, wie überhaupt das Gerechtig-\n</span><span class=\"tei-line\">keitsgefühl auf Erden zu Stande gekommen ist, hat \n</span><span class=\"tei-line\">herhalten müssen, „der Verbrecher verdient Strafe, \n</span><span class=\"line\">5</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">weil</span> er hätte anders handeln können“ ist thatsächlich \n</span><span class=\"tei-line\">eine überaus spät erreichte, ja raffinirte Form des \n</span><span class=\"tei-line\">menschlichen Urtheilens und Schliessens; wer sie in \n</span><span class=\"tei-line\">die Anfänge verlegt, vergreift sich mit groben Fingern \n</span><span class=\"tei-line\">an der Psychologie der älteren Menschheit. Es ist die \n</span><span class=\"line\">10</span><span class=\"tei-line \">längste Zeit der menschlichen Geschichte hindurch durch-\n</span><span class=\"tei-line\">aus <span class=\"tei-hi2 spaced\">nicht</span> gestraft worden, <span class=\"tei-hi2 spaced\">weil</span> man den Übelanstifter \n</span><span class=\"tei-line\">für seine That verantwortlich machte, also <span class=\"tei-hi2 spaced\">nicht</span> unter \n</span><span class=\"tei-line\">der Voraussetzung, dass nur der Schuldige zu strafen \n</span><span class=\"tei-line\">sei: – vielmehr, so wie jetzt noch Eltern ihre Kinder \n</span><span class=\"line\">15</span><span class=\"tei-line \">strafen, aus Zorn über einen erlittenen Schaden, der \n</span><span class=\"tei-line\">sich am Schädiger auslässt, – dieser Zorn aber in \n</span><span class=\"tei-line\">Schranken gehalten und modifizirt durch die Idee, dass \n</span><span class=\"tei-line\">jeder Schaden irgend worin sein <span class=\"tei-hi2 spaced\">Äquivalent</span> habe und \n</span><span class=\"tei-line\">wirklich abgezahlt werden könne, sei es selbst durch \n</span><span class=\"line\">20</span><span class=\"tei-line \">einen <span class=\"tei-hi2 spaced\">Schmerz</span> des Schädigers. Woher diese uralte, \n</span><span class=\"tei-line\">tiefgewurzelte, vielleicht jetzt nicht mehr ausrottbare \n</span><span class=\"tei-line\">Idee ihre Macht genommen hat, die Idee einer Äqui-\n</span><span class=\"tei-line\">valenz von Schaden und Schmerz? Ich habe es bereits \n</span><span class=\"tei-line\">verrathen: in dem Vertragsverhältniss zwischen <span class=\"tei-hi2 spaced\">Gläu-\n<span class=\"line\">25</span><span class=\"tei-line \">biger</span>biger</span> und <span class=\"tei-hi2 spaced\">Schuldner</span>, das so alt ist als es über-\n</span><span class=\"tei-line\">haupt „Rechtssubjekte“ giebt und seinerseits wieder \n</span><span class=\"tei-line\">auf die Grundformen von Kauf, Verkauf, Tausch, \n</span><span class=\"tei-line\">Handel und Wandel zurückweist.</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">5.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">30</span><span class=\"tei-line indent\">Die Vergegenwärtigung dieser Vertragsverhältnisse \n</span><span class=\"tei-line\">weckt allerdings, wie es nach dem Voraus-Bemerkten \n</span><span class=\"tei-line\">von vornherein zu erwarten steht, gegen die ältere \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

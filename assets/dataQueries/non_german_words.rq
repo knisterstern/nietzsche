@@ -1,0 +1,16 @@
+# Select all words that are not written in german font.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX language:  <http://www.e-editiones.ch/ontology/language#>
+PREFIX languages: <http://www.e-editiones.ch/ontology/languages#>
+
+select distinct ?non_german_word ?text{	 
+   ?manuscript a tln:ArchivalManuscriptUnity;
+      tln:hasManuscriptType "Mappe";
+      tln:hasPages/rdf:rest*/rdf:first ?page.
+  	?page a tln:Page;
+         tln:hasWords/rdf:rest*/rdf:first ?non_german_word.
+ 	?non_german_word a tln:Word;      
+                   tln:hasText ?text.
+  FILTER NOT EXISTS { ?non_german_word language:expressedInNaturalLanguage languages:German.}
+} 

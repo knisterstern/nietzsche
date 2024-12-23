@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.37.5.137",
+    "rootNode": "2.5.12.4.37.5.137",
+    "id": "Ed_22_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.37.5.231",
+    "previous": "2.5.12.4.37.5.34",
+    "nextId": "Ed_23_id",
+    "previousId": "Ed_21_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0043.tif\">22</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Zeit zu Zeit der Entladung, das Thier muss wieder her-\n</span><span class=\"tei-line\">aus, muss wieder in die Wildniss zurück: – römischer, \n</span><span class=\"tei-line\">arabischer, germanischer, japanesischer Adel, home-\n</span><span class=\"tei-line\">rische Helden, skandinavische Wikinger – in diesem Be-\n</span><span class=\"line\">5</span><span class=\"tei-line \">dürfniss sind sie sich alle gleich. Die vornehmen Rassen \n</span><span class=\"tei-line\">sind es, welche den Begriff „Barbar“ auf all den Spuren \n</span><span class=\"tei-line\">hinterlassen haben, wo sie gegangen sind; noch aus \n</span><span class=\"tei-line\">ihrer höchsten Cultur heraus verräth sich ein Bewusst-\n</span><span class=\"tei-line\">sein davon und ein Stolz selbst darauf (zum Beispiel \n</span><span class=\"line\">10</span><span class=\"tei-line \">wenn Perikles seinen Athenern sagt, in jener berühm-\n</span><span class=\"tei-line\">ten Leichenrede, „zu allem Land und Meer hat unsre \n</span><span class=\"tei-line\">Kühnheit sich den Weg gebrochen, unvergängliche \n</span><span class=\"tei-line\">Denkmale sich überall im Guten <span class=\"tei-hi2 spaced\">und Schlimmen</span> \n</span><span class=\"tei-line\">aufrichtend“). Diese „Kühnheit“ vornehmer Rassen, \n</span><span class=\"line\">15</span><span class=\"tei-line \">toll, absurd, plötzlich, wie sie sich äussert, das Unbe-\n</span><span class=\"tei-line\">rechenbare, das Unwahrscheinliche selbst ihrer Unter-\n</span><span class=\"tei-line\">nehmungen – Perikles hebt die <span class=\"tei-foreign\">ῥαϑυμία</span> der Athener \n</span><span class=\"tei-line\">mit Auszeichnung hervor – ihre Gleichgültigkeit und \n</span><span class=\"tei-line\">Verachtung gegen Sicherheit, Leib, Leben, Behagen, \n</span><span class=\"line\">20</span><span class=\"tei-line \">ihre entsetzliche Heiterkeit und Tiefe der Lust in allem \n</span><span class=\"tei-line\">Zerstören, in allen Wollüsten des Siegs und der Grau-\n</span><span class=\"tei-line\">samkeit – Alles fasste sich für Die, welche daran litten, \n</span><span class=\"tei-line\">in das Bild des „Barbaren“, des „bösen Feindes“, etwa \n</span><span class=\"tei-line\">des „Gothen“, des „Vandalen“ zusammen. Das tiefe, \n</span><span class=\"line\">25</span><span class=\"tei-line \">eisige Misstrauen, das der Deutsche erregt, sobald er \n</span><span class=\"tei-line\">zur Macht kommt, auch jetzt wieder – ist immer noch \n</span><span class=\"tei-line\">ein Nachschlag jenes unauslöschlichen Entsetzens, mit \n</span><span class=\"tei-line\">dem Jahrhunderte lang Europa dem Wüthen der blon-\n</span><span class=\"tei-line\">den germanischen Bestie zugesehn hat (obwohl zwi-\n</span><span class=\"line\">30</span><span class=\"tei-line \">schen alten Germanen und uns Deutschen kaum eine \n</span><span class=\"tei-line\">Begriffs-, geschweige eine Blutverwandtschaft besteht). \n</span><span class=\"tei-line\">Ich habe einmal auf die Verlegenheit Hesiod’s aufmerk-\n</span><span class=\"tei-line\">sam gemacht, als er die Abfolge der Cultur-Zeitalter \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

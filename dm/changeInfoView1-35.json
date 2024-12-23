@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.35",
+    "rootNode": "2.9.35",
+    "id": "srcD_surface_b27r",
+    "odd": "surface.odd",
+    "next": "2.9.36",
+    "previous": "2.9.34",
+    "nextId": "srcD_surface_b59r",
+    "previousId": "srcD_surface_b20r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"changeInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.changes\">Bearbeitungsschritte</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li><span class=\"changePreview\"><a href=\"/timeline/index.html#GM03firstVersion\">Erste Version von GM III</a></span></li><li><span class=\"changePreview\"><a href=\"/timeline/index.html#GM03completion\">Neuer Anfang und Schluss von GM III</a></span></li><li><span class=\"changePreview\"><a href=\"/timeline/index.html#GM03finalVersion\">Finale Dm-Fassung von GM III</a></span></li><li><span class=\"changePreview\"><a href=\"/timeline/index.html#proofreadingCb8\">Korrektur Cb8</a></span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "href": "/timeline/index.html",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

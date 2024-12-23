@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.41.5.8",
+    "rootNode": "2.5.12.8.41.5.8",
+    "id": "Ed_128_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.41.5.105",
+    "previous": "2.5.12.8.39.5.100",
+    "nextId": "Ed_129_id",
+    "previousId": "Ed_127_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0149.tif\">128</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">„Leben <span class=\"tei-hi2 spaced\">gegen</span> Leben“ ist – so viel liegt zunächst auf \n</span><span class=\"tei-line\">der Hand – physiologisch und nicht mehr psycholo-\n</span><span class=\"tei-line\">gisch nachgerechnet, einfach Unsinn. Er kann nur \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">scheinbar</span> sein; er muss eine Art vorläufigen Aus-\n</span><span class=\"line\">5</span><span class=\"tei-line \">drucks, eine Auslegung, Formel, Zurechtmachung, ein \n</span><span class=\"tei-line\">psychologisches Missverständniss von Etwas sein, dessen \n</span><span class=\"tei-line\">eigentliche Natur lange nicht verstanden, lange nicht \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">an sich</span> bezeichnet werden konnte, – ein blosses \n</span><span class=\"tei-line\">Wort, eingeklemmt in eine alte <span class=\"tei-hi2 spaced\">Lücke</span> der mensch-\n</span><span class=\"line\">10</span><span class=\"tei-line \">lichen Erkenntniss. Und dass ich kurz den Thatbestand \n</span><span class=\"tei-line\">dagegen stelle: <span class=\"tei-hi2 spaced\">das asketische Ideal entspringt \n<span class=\"tei-line\">dem Schutz- und Heil-Instinkte eines degene-\n</span>dem Schutz- und Heil-Instinkte eines degene-\n<span class=\"tei-line\">rirenden Lebens</span>rirenden Lebens</span>, welches sich mit allen Mitteln zu \n</span><span class=\"tei-line\">halten sucht und um sein Dasein kämpft; es deutet auf \n</span><span class=\"line\">15</span><span class=\"tei-line \">eine partielle physiologische Hemmung und Ermüdung \n</span><span class=\"tei-line\">hin, gegen welche die tiefsten, intakt gebliebenen In-\n</span><span class=\"tei-line\">stinkte des Lebens unausgesetzt mit neuen Mitteln und \n</span><span class=\"tei-line\">Erfindungen ankämpfen. Das asketische Ideal ist ein \n</span><span class=\"tei-line\">solches Mittel: es steht also gerade umgekehrt als es \n</span><span class=\"line\">20</span><span class=\"tei-line \">die Verehrer dieses Ideals meinen, – das Leben ringt \n</span><span class=\"tei-line\">in ihm und durch dasselbe mit dem Tode und <span class=\"tei-hi2 spaced\">gegen</span> \n</span><span class=\"tei-line\">den Tod, das asketische Ideal ist ein Kunstgriff in der \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Erhaltung</span> des Lebens. Dass dasselbe in dem Maasse, \n</span><span class=\"tei-line\">wie die Geschichte es lehrt, über den Menschen walten \n</span><span class=\"line\">25</span><span class=\"tei-line \">und mächtig werden konnte, in Sonderheit überall \n</span><span class=\"tei-line\">dort, wo die Civilisation und Zähmung des Menschen \n</span><span class=\"tei-line\">durchgesetzt wurde, darin drückt sich eine grosse That-\n</span><span class=\"tei-line\">sache aus, die <span class=\"tei-hi2 spaced\">Krankhaftigkeit</span> im bisherigen Ty-\n</span><span class=\"tei-line\">pus des Menschen, zum Mindesten des zahm gemachten \n</span><span class=\"line\">30</span><span class=\"tei-line \">Menschen, das physiologische Ringen des Menschen \n</span><span class=\"tei-line\">mit dem Tode (genauer: mit dem Überdrusse am Le-\n</span><span class=\"tei-line\">ben, mit der Ermüdung, mit dem Wunsche nach \n</span><span class=\"tei-line\">dem „Ende“). Der asketische Priester ist der fleisch-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

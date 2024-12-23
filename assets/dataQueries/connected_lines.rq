@@ -1,0 +1,24 @@
+# Select pages and their word count.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?from ?lineNumberFrom ?to where {
+    ?lineA tln:lineContinuesOn ?lineB;
+           tln:lineHasNumber ?lineNumberFrom.
+    ?pageFrom a tln:Page;
+                tln:hasNumber ?pageNumberFrom;
+                tln:hasLines/rdf:rest*/rdf:first ?lineA.
+    ?manuscriptFrom a tln:ArchivalManuscriptUnity;
+               tln:hasPages/rdf:rest*/rdf:first ?pageFrom;
+               tln:hasTitle ?titleFrom.
+    ?lineB tln:lineHasNumber ?lineNumberTo.
+    ?pageTo a tln:Page;
+                tln:hasNumber ?pageNumberTo;
+                tln:hasLines/rdf:rest*/rdf:first ?lineB.
+    ?manuscriptTo a tln:ArchivalManuscriptUnity;
+               tln:hasPages/rdf:rest*/rdf:first ?pageTo;
+               tln:hasTitle ?titleTo.
+   BIND(?titleFrom + ", " + ?pageNumberFrom as ?from)
+   BIND(?titleTo + ", " + ?pageNumberTo as ?to)
+  	
+} 

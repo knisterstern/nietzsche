@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.16.7.148",
+    "rootNode": "2.5.12.6.16.7.148",
+    "id": "Ed_47_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.16.7.235",
+    "previous": "2.5.12.6.16.7.66",
+    "nextId": "Ed_48_id",
+    "previousId": "Ed_46_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0068.tif\">47</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">gierde <span class=\"tei-hi2 spaced\">gegenwärtig</span> zu erhalten. Wir Deutschen be-\n</span><span class=\"tei-line\">trachten uns gewiss nicht als ein besonders grausames \n</span><span class=\"tei-line\">und hartherziges Volk, noch weniger als besonders \n</span><span class=\"tei-line\">leichtfertig und in-den-Tag-hineinleberisch; aber man \n</span><span class=\"line\">5</span><span class=\"tei-line \">sehe nur unsre alten Strafordnungen an, um dahinter \n</span><span class=\"tei-line\">zu kommen, was es auf Erden für Mühe hat, ein „Volk \n</span><span class=\"tei-line\">von Denkern“ heranzuzüchten (will sagen: <span class=\"tei-hi2 spaced\">das</span> Volk \n</span><span class=\"tei-line\">Europa’s, unter dem auch heute noch das Maximum \n</span><span class=\"tei-line\">von Zutrauen, Ernst, Geschmacklosigkeit und Sachlich-\n</span><span class=\"line\">10</span><span class=\"tei-line \">keit zu finden ist und das mit diesen Eigenschaften \n</span><span class=\"tei-line\">ein Anrecht darauf hat, alle Art von Mandarinen Euro-\n</span><span class=\"tei-line\">pa’s heran zu züchten). Diese Deutschen haben sich \n</span><span class=\"tei-line\">mit furchtbaren Mitteln ein Gedächtniss gemacht, um \n</span><span class=\"tei-line\">über ihre pöbelhaften Grund-Instinkte und deren bru-\n</span><span class=\"line\">15</span><span class=\"tei-line \">tale Plumpheit Herr zu werden: man denke an die \n</span><span class=\"tei-line\">alten deutschen Strafen, zum Beispiel an das Steinigen \n</span><span class=\"tei-line\">(– schon die Sage lässt den Mühlstein auf das Haupt \n</span><span class=\"tei-line\">des Schuldigen fallen), das Rädern (die eigenste Er-\n</span><span class=\"tei-line\">findung und Spezialität des deutschen Genius im Reich \n</span><span class=\"line\">20</span><span class=\"tei-line \">der Strafe!), das Werfen mit dem Pfahle, das Zerreissen- \n</span><span class=\"tei-line\">oder Zertretenlassen durch Pferde (das „Viertheilen“), \n</span><span class=\"tei-line\">das Sieden des Verbrechers in Öl oder Wein (noch im \n</span><span class=\"tei-line\">vierzehnten und fünfzehnten Jahrhundert), das beliebte \n</span><span class=\"tei-line\">Schinden („Riemenschneiden“), das Herausschneiden \n</span><span class=\"line\">25</span><span class=\"tei-line \">des Fleisches aus der Brust; auch wohl dass man den \n</span><span class=\"tei-line\">Übelthäter mit Honig bestrich und bei brennender \n</span><span class=\"tei-line\">Sonne den Fliegen überliess. Mit Hülfe solcher Bilder \n</span><span class=\"tei-line\">und Vorgänge behält man endlich fünf, sechs „ich will \n</span><span class=\"tei-line\">nicht“ im Gedächtnisse, in Bezug auf welche man sein \n</span><span class=\"line\">30</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">Versprechen</span> gegeben hat, um unter den Vortheilen \n</span><span class=\"tei-line\">der Societät zu leben, – und wirklich! mit Hülfe dieser \n</span><span class=\"tei-line\">Art von Gedächtniss kam man endlich „zur Ver-\n</span><span class=\"tei-line\">nunft“! – Ah, die Vernunft, der Ernst, die Herrschaft \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

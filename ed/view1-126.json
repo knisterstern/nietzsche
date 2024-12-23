@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.27.5.136",
+    "rootNode": "2.5.12.8.27.5.136",
+    "id": "Ed_107_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.27.5.223",
+    "previous": "2.5.12.8.27.5.50",
+    "nextId": "Ed_108_id",
+    "previousId": "Ed_106_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0128.tif\">107</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">das Wort „ohne Interesse“ interpretirte er sich in der \n</span><span class=\"tei-line\">allerpersönlichsten Weise, aus einer Erfahrung her-\n</span><span class=\"tei-line\">aus, die bei ihm zu den regelmässigsten gehört haben \n</span><span class=\"tei-line\">muss. Über wenig Dinge redet Schopenhauer so sicher \n</span><span class=\"line\">5</span><span class=\"tei-line \">wie über die Wirkung der ästhetischen Contemplation: \n</span><span class=\"tei-line\">er sagt ihr nach, dass sie gerade der <span class=\"tei-hi2 spaced\">geschlecht-\n<span class=\"tei-line\">lichen</span>lichen</span> „Interessirtheit“ entgegenwirke, ähnlich also \n</span><span class=\"tei-line\">wie Lupulin und Kampher, er ist nie müde geworden, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">dieses</span> Loskommen vom „Willen“ als den grossen Vor-\n</span><span class=\"line\">10</span><span class=\"tei-line \">zug und Nutzen des ästhetischen Zustandes zu verherr-\n</span><span class=\"tei-line\">lichen. Ja man möchte versucht sein zu fragen, ob \n</span><span class=\"tei-line\">nicht seine Grundconception von „Willen und Vorstel-\n</span><span class=\"tei-line\">lung“, der Gedanke, dass es eine Erlösung vom „Willen“ \n</span><span class=\"tei-line\">einzig durch die „Vorstellung“ geben könne, aus einer \n</span><span class=\"line\">15</span><span class=\"tei-line \">Verallgemeinerung jener Sexual-Erfahrung ihren Ur-\n</span><span class=\"tei-line\">sprung genommen habe. (Bei allen Fragen in Betreff \n</span><span class=\"tei-line\">der Schopenhauer’schen Philosophie ist, anbei bemerkt, \n</span><span class=\"tei-line\">niemals ausser Acht zu lassen, dass sie die Conception \n</span><span class=\"tei-line\">eines sechsundzwanzigjährigen Jünglings ist; so dass \n</span><span class=\"line\">20</span><span class=\"tei-line \">sie nicht nur an dem Spezifischen Schopenhauer’s, son-\n</span><span class=\"tei-line\">dern auch an dem Spezifischen jener Jahreszeit des Le-\n</span><span class=\"tei-line\">bens Antheil hat.) Hören wir zum Beispiel eine der \n</span><span class=\"tei-line\">ausdrücklichsten Stellen unter den zahllosen, die er zu \n</span><span class=\"tei-line\">Ehren des ästhetischen Zustandes geschrieben hat (Welt \n</span><span class=\"line\">25</span><span class=\"tei-line \">als Wille und Vorstellung I 231), hören wir den Ton \n</span><span class=\"tei-line\">heraus, das Leiden, das Glück, die Dankbarkeit, mit \n</span><span class=\"tei-line\">der solche Worte gesprochen worden sind. „Das ist der \n</span><span class=\"tei-line\">schmerzenslose Zustand, den Epikuros als das höchste \n</span><span class=\"tei-line\">Gut und als den Zustand der Götter pries; wir sind, \n</span><span class=\"line\">30</span><span class=\"tei-line \">für jenen Augenblick, des schnöden Willensdranges ent-\n</span><span class=\"tei-line\">ledigt, wir feiern den Sabbat der Zuchthausarbeit des \n</span><span class=\"tei-line\">Wollens, das Rad des Ixion steht still“… Welche \n</span><span class=\"tei-line\">Vehemenz der Worte! Welche Bilder der Qual und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.29.5.20",
+    "rootNode": "2.5.12.4.29.5.20",
+    "id": "Ed_12_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.29.5.113",
+    "previous": "2.5.12.4.27.5.126",
+    "nextId": "Ed_13_id",
+    "previousId": "Ed_11_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0033.tif\">12</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">haben zu ihrer Voraussetzung eine mächtige Leiblich-\n</span><span class=\"tei-line\">keit, eine blühende, reiche, selbst überschäumende Ge-\n</span><span class=\"tei-line\">sundheit, sammt dem, was deren Erhaltung bedingt, \n</span><span class=\"tei-line\">Krieg, Abenteuer, Jagd, Tanz, Kampfspiele und Alles \n</span><span class=\"line\">5</span><span class=\"tei-line \">überhaupt, was starkes, freies, frohgemuthes Handeln \n</span><span class=\"tei-line\">in sich schliesst. Die priesterlich-vornehme Werthungs-\n</span><span class=\"tei-line\">Weise hat – wir sahen es – andere Voraussetzungen: \n</span><span class=\"tei-line\">schlimm genug für sie, wenn es sich um Krieg han-\n</span><span class=\"tei-line\">delt! Die Priester sind, wie bekannt, die <span class=\"tei-hi2 spaced\">bösesten</span> \n</span><span class=\"line\">10</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">Feinde</span> – weshalb doch? Weil sie die ohnmächtig-\n</span><span class=\"tei-line\">sten sind. Aus der Ohnmacht wächst bei ihnen der \n</span><span class=\"tei-line\">Hass in’s Ungeheure und Unheimliche, in’s Geistigste \n</span><span class=\"tei-line\">und Giftigste. Die ganz grossen Hasser in der Welt-\n</span><span class=\"tei-line\">geschichte sind immer Priester gewesen, auch die geist-\n</span><span class=\"line\">15</span><span class=\"tei-line \">reichsten Hasser: – gegen den Geist der priesterlichen \n</span><span class=\"tei-line\">Rache kommt überhaupt aller übrige Geist kaum in \n</span><span class=\"tei-line\">Betracht. Die menschliche Geschichte wäre eine gar \n</span><span class=\"tei-line\">zu dumme Sache ohne den Geist, der von den Ohn-\n</span><span class=\"tei-line\">mächtigen her in sie gekommen ist: – nehmen wir so-\n</span><span class=\"line\">20</span><span class=\"tei-line \">fort das grösste Beispiel. Alles, was auf Erden gegen \n</span><span class=\"tei-line\">„die Vornehmen“, „die Gewaltigen“, „die Herren“, „die \n</span><span class=\"tei-line\">Machthaber“ gethan worden ist, ist nicht der Rede \n</span><span class=\"tei-line\">werth im Vergleich mit dem, was <span class=\"tei-hi2 spaced\">die Juden</span> gegen \n</span><span class=\"tei-line\">sie gethan haben: die Juden, jenes priesterliche Volk, \n</span><span class=\"line\">25</span><span class=\"tei-line \">das sich an seinen Feinden und Überwältigern zuletzt \n</span><span class=\"tei-line\">nur durch eine radikale Umwerthung von deren Wer-\n</span><span class=\"tei-line\">then, also durch einen Akt der <span class=\"tei-hi2 spaced\">geistigsten Rache</span> \n</span><span class=\"tei-line\">Genugthuung zu schaffen wusste. So allein war es \n</span><span class=\"tei-line\">eben einem priesterlichen Volke gemäss, dem Volke \n</span><span class=\"line\">30</span><span class=\"tei-line \">der zurückgetretensten priesterlichen Rachsucht. Die \n</span><span class=\"tei-line\">Juden sind es gewesen, die gegen die aristokratische \n</span><span class=\"tei-line\">Werthgleichung (gut = vornehm = mächtig = schön \n</span><span class=\"tei-line\">= glücklich = gottgeliebt) mit einer furchteinflössenden \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.29.9",
+    "rootNode": "2.7.2.2.29.9",
+    "id": "Cb_a16",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.39",
+    "previous": "2.7.2.2.27.13",
+    "nextId": "Cb_b1",
+    "previousId": "Cb_a15",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 10</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 284/270,25-30</li><li class=\"tei-ab2\"><a data-id=\"Ed_16_id\" data-doc=\"E40.xml\">Ed 16,22-28</a></li><li class=\"tei-ab2\"><a data-id=\"Cb_a16\" data-doc=\"K11.xml\">Cb1ab 16,21-27</a></li><li class=\"tei-ab2\"><a data-id=\"a11r\" data-doc=\"D20.xml\">Dm a11r,14-16</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_116\" data-doc=\"KGWIX.xml\">Mp XVII, 116r,2-8</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

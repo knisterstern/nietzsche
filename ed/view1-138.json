@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.33.5.168",
+    "rootNode": "2.5.12.8.33.5.168",
+    "id": "Ed_119_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.33.5.266",
+    "previous": "2.5.12.8.33.5.70",
+    "nextId": "Ed_120_id",
+    "previousId": "Ed_118_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0140.tif\">119</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">wir zweifeln nicht daran, lehrreicher noch als Gesund-\n</span><span class=\"tei-line\">sein, – die <span class=\"tei-hi2 spaced\">Krankmacher</span> scheinen uns heute nöthi-\n</span><span class=\"tei-line\">ger selbst als irgend welche Medizinmänner und „Hei-\n</span><span class=\"tei-line\">lande“. Wir vergewaltigen uns jetzt selbst, es ist kein \n</span><span class=\"line\">5</span><span class=\"tei-line \">Zweifel, wir Nussknacker der Seele, wir Fragenden und \n</span><span class=\"tei-line\">Fragwürdigen, wie als ob Leben nichts Anderes sei, \n</span><span class=\"tei-line\">als Nüsseknacken; ebendamit müssen wir nothwendig \n</span><span class=\"tei-line\">täglich immer noch fragwürdiger, <span class=\"tei-hi2 spaced\">würdiger</span> zu fra-\n</span><span class=\"tei-line\">gen werden, ebendamit vielleicht auch würdiger – zu \n</span><span class=\"line\">10</span><span class=\"tei-line \">leben?… Alle guten Dinge waren ehemals schlimme \n</span><span class=\"tei-line\">Dinge; aus jeder Erbsünde ist eine Erbtugend geworden. \n</span><span class=\"tei-line\">Die Ehe zum Beispiel schien lange eine Versündigung \n</span><span class=\"tei-line\">am Rechte der Gemeinde; man hat einst Busse dafür ge-\n</span><span class=\"tei-line\">zahlt, so unbescheiden zu sein und sich ein Weib für \n</span><span class=\"line\">15</span><span class=\"tei-line \">sich anzumaassen (dahin gehört zum Beispiel das jus \n</span><span class=\"tei-line\">primae noctis, heute noch in Cambodja das Vorrecht der \n</span><span class=\"tei-line\">Priester, dieser Bewahrer „alter guter Sitten“). Die sanf-\n</span><span class=\"tei-line\">ten, wohlwollenden, nachgiebigen, mitleidigen Gefühle \n</span><span class=\"tei-line\">– nachgerade so hoch im Werthe, dass sie fast „die \n</span><span class=\"line\">20</span><span class=\"tei-line \">Werthe an sich“ sind – hatten die längste Zeit gerade \n</span><span class=\"tei-line\">die Selbstverachtung gegen sich: man schämte sich der \n</span><span class=\"tei-line\">Milde, wie man sich heute der Härte schämt (vergl. \n</span><span class=\"tei-line\">„Jenseits von Gut und Böse“ S. 232). Die Unterwer-\n</span><span class=\"tei-line\">fung unter das <span class=\"tei-hi2 spaced\">Recht</span>: – oh mit was für Gewissens-\n</span><span class=\"line\">25</span><span class=\"tei-line \">Widerstande haben die vornehmen Geschlechter überall \n</span><span class=\"tei-line\">auf Erden ihrerseits Verzicht auf Vendetta geleistet und \n</span><span class=\"tei-line\">dem Recht über sich Gewalt eingeräumt! Das „Recht“ \n</span><span class=\"tei-line\">war lange ein vetitum, ein Frevel, eine Neuerung, es \n</span><span class=\"tei-line\">trat mit Gewalt auf, <span class=\"tei-hi2 spaced\">als</span> Gewalt, der man sich nur mit \n</span><span class=\"line\">30</span><span class=\"tei-line \">Scham vor sich selber fügte. Jeder kleinste Schritt \n</span><span class=\"tei-line\">auf der Erde ist ehedem mit geistigen und körper-\n</span><span class=\"tei-line\">lichen Martern erstritten worden: dieser ganze Gesichts-\n</span><span class=\"tei-line\">punkt, „dass nicht nur das Vorwärtsschreiten, nein! \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.69.5.31",
+    "rootNode": "2.5.12.8.69.5.31",
+    "id": "Ed_179_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.69.5.133",
+    "previous": "2.5.12.8.67.7.256",
+    "nextId": "Ed_180_id",
+    "previousId": "Ed_178_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0200.tif\">179</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">hingewiesen zu haben, ist dies: das asketische Ideal  \n</span><span class=\"tei-line\">hat auch in der geistigsten Sphäre einstweilen immer \n</span><span class=\"tei-line\">nur noch Eine Art von wirklichen Feinden und \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Schädigern</span>: das sind die Komödianten dieses Ideals, \n</span><span class=\"line\">5</span><span class=\"tei-line \">– denn sie wecken Misstrauen. Überall sonst, wo \n</span><span class=\"tei-line\">der Geist heute streng, mächtig und ohne Falsch-\n</span><span class=\"tei-line\">münzerei am Werke ist, entbehrt er jetzt überhaupt \n</span><span class=\"tei-line\">des Ideals – der populäre Ausdruck für diese Ab-\n</span><span class=\"tei-line\">stinenz ist „Atheismus“ –: <span class=\"tei-hi2 spaced\">abgerechnet seines \n<span class=\"line\">10</span><span class=\"tei-line \">Willens zur Wahrheit</span>Willens zur Wahrheit</span>. Dieser Wille aber, dieser \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Rest</span> von Ideal, ist, wenn man mir glauben will, jenes \n</span><span class=\"tei-line\">Ideal selbst in seiner strengsten, geistigsten Formulirung, \n</span><span class=\"tei-line\">esoterisch ganz und gar, alles Aussenwerks entkleidet, \n</span><span class=\"tei-line\">somit nicht sowohl sein Rest, als sein <span class=\"tei-hi2 spaced\">Kern</span>. Der \n</span><span class=\"line\">15</span><span class=\"tei-line \">unbedingte redliche Atheismus (– und <span class=\"tei-hi2 spaced\">seine</span> Luft allein \n</span><span class=\"tei-line\">athmen wir, wir geistigeren Menschen dieses Zeitalters!) \n</span><span class=\"tei-line\">steht demgemäss <span class=\"tei-hi2 spaced\">nicht</span> im Gegensatz zu jenem Ideale, \n</span><span class=\"tei-line\">wie es den Anschein hat; er ist vielmehr nur eine \n</span><span class=\"tei-line\">seiner letzten Entwicklungsphasen, eine seiner Schluss-\n</span><span class=\"line\">20</span><span class=\"tei-line \">formen und inneren Folgerichtigkeiten, – er ist die \n</span><span class=\"tei-line\">Ehrfurcht gebietende <span class=\"tei-hi2 spaced\">Katastrophe</span> einer zweitausend-\n</span><span class=\"tei-line\">jährigen Zucht zur Wahrheit, welche am Schlusse sich \n</span><span class=\"tei-line\">die <span class=\"tei-hi2 spaced\">Lüge im Glauben an Gott</span> verbietet. (Derselbe \n</span><span class=\"tei-line\">Entwicklungsgang in Indien, in vollkommner Unab-\n</span><span class=\"line\">25</span><span class=\"tei-line \">hängigkeit, und deshalb Etwas beweisend; dasselbe \n</span><span class=\"tei-line\">Ideal zum gleichen Schlusse zwingend; der entschei-\n</span><span class=\"tei-line\">dende Punkt fünf Jahrhunderte vor der europäischen \n</span><span class=\"tei-line\">Zeitrechnung erreicht, mit Buddha, genauer: schon mit \n</span><span class=\"tei-line\">der Sankhyam-Philosophie, diese dann durch Buddha \n</span><span class=\"line\">30</span><span class=\"tei-line \">popularisirt und zur Religion gemacht.) <span class=\"tei-hi2 spaced\">Was</span>, in aller \n</span><span class=\"tei-line\">Strenge gefragt, hat eigentlich über den christlichen \n</span><span class=\"tei-line\">Gott <span class=\"tei-hi2 spaced\">gesiegt</span>? Die Antwort steht in meiner „fröh-\n</span><span class=\"tei-line\">lichen Wissenschaft“ S. 290: „die christliche Moralität \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.7",
+    "rootNode": "2.5.12.6.7",
+    "id": "Ed_40_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.10",
+    "previous": "2.5.12.6.3",
+    "nextId": "Ed_41_id",
+    "previousId": "Ed_39_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0061.tif\">[40]</pb-facs-link></span><span class=\"tei-note3 note\">vakat</span>\n\n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

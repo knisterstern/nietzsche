@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "K11.xml",
+    "root": null,
+    "rootNode": "2.3.2.2.2",
+    "id": null,
+    "odd": "nietzsche-ed.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><h5 class=\"tei-title1\">Zur Genealogie der Moral. Korrekturbogen K 11</h5></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "type": "meta",
+        "webcomponents": 7,
+        "header": "short"
+    },
+    "collection": ""
+}

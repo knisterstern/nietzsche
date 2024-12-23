@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.37",
+    "rootNode": "2.9.37",
+    "id": "srcD_surface_b66r",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": "2.9.36",
+    "nextId": null,
+    "previousId": "srcD_surface_b59r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"pageInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.pageInfo\">Manuskriptbeschreibung</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li class=\"tei-msContents2\">Druckvorlage GM III 26-27</li><li class=\"tei-physDesc2\">Quartblatt, 17,5×21,7, liniiert, roter Farbschnitt, Trennkante Rekto rechts. Verso vakat; Rostspuren einer Heftklammer (Anheftung von b65rv).</li><li class=\"tei-additions2\">Bearbeitungsspuren fremder Hand: Markierung Seitenumbruch Cb: 178|179, Markierungen, Blaustift (Druckerei); Markierungen, Blaustift (N-Archiv); Markierungen, Orangebraunstift (N-Archiv); Markierung, Violettstift (N-Archiv).</li><li class=\"tei-handNotes2\"><span class=\"tei-handNote2\">schwarze Tinte (2), egh</span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

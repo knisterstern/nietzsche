@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.28.7.38",
+    "rootNode": "2.5.12.6.28.7.38",
+    "id": "Ed_60_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.30.3",
+    "previous": "2.5.12.6.26.7.82",
+    "nextId": "Ed_61_id",
+    "previousId": "Ed_59_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0081.tif\">60</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">auf diese Schädigungen und Feindseligkeiten der Ge-\n</span><span class=\"tei-line\">meinde verpfändet und verpflichtet hat. Was wird <span class=\"tei-hi2 spaced\">im \n<span class=\"tei-line\">andren Fall</span>andren Fall</span> geschehn? Die Gemeinschaft, der ge-\n</span><span class=\"tei-line\">täuschte Gläubiger, wird sich bezahlt machen, so gut \n</span><span class=\"line\">5</span><span class=\"tei-line \">er kann, darauf darf man rechnen. Es handelt sich \n</span><span class=\"tei-line\">hier am wenigsten um den unmittelbaren Schaden, den \n</span><span class=\"tei-line\">der Schädiger angestiftet hat: von ihm noch abgesehn, \n</span><span class=\"tei-line\">ist der Verbrecher vor allem ein „Brecher“, ein Ver-\n</span><span class=\"tei-line\">trags- und Wortbrüchiger <span class=\"tei-hi2 spaced\">gegen das Ganze</span>, in Be-\n</span><span class=\"line\">10</span><span class=\"tei-line \">zug auf alle Güter und Annehmlichkeiten des Gemein-\n</span><span class=\"tei-line\">lebens, an denen er bis dahin Antheil gehabt hat. Der \n</span><span class=\"tei-line\">Verbrecher ist ein Schuldner, der die ihm erwiesenen \n</span><span class=\"tei-line\">Vortheile und Vorschüsse nicht nur nicht zurückzahlt, \n</span><span class=\"tei-line\">sondern sich sogar an seinem Gläubiger vergreift: daher \n</span><span class=\"line\">15</span><span class=\"tei-line \">geht er von nun an, wie billig, nicht nur aller dieser \n</span><span class=\"tei-line\">Güter und Vortheile verlustig, – er wird vielmehr jetzt \n</span><span class=\"tei-line\">daran erinnert, <span class=\"tei-hi2 spaced\">was es mit diesen Gütern auf sich \n<span class=\"tei-line\">hat</span>hat</span>. Der Zorn des geschädigten Gläubigers, des Ge-\n</span><span class=\"tei-line\">meinwesens giebt ihn dem wilden und vogelfreien Zu-\n</span><span class=\"line\">20</span><span class=\"tei-line \">stande wieder zurück, vor dem er bisher behütet war: \n</span><span class=\"tei-line\">es stösst ihn von sich, – und nun darf sich jede Art \n</span><span class=\"tei-line\">Feindseligkeit an ihm auslassen. Die „Strafe“ ist auf \n</span><span class=\"tei-line\">dieser Stufe der Gesittung einfach das Abbild, der \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Mimus</span> des normalen Verhaltens gegen den gehassten, \n</span><span class=\"line\">25</span><span class=\"tei-line \">wehrlos gemachten, niedergeworfnen Feind, der nicht \n</span><span class=\"tei-line\">nur jedes Rechtes und Schutzes, sondern auch jeder \n</span><span class=\"tei-line\">Gnade verlustig gegangen ist; also das Kriegsrecht \n</span><span class=\"tei-line\">und Siegesfest des vae victis! in aller Schonungslosig-\n</span><span class=\"tei-line\">keit und Grausamkeit: – woraus es sich erklärt, dass \n</span><span class=\"line\">30</span><span class=\"tei-line \">der Krieg selbst (eingerechnet der kriegerische Opfer-\n</span><span class=\"tei-line\">kult) alle die <span class=\"tei-hi2 spaced\">Formen</span> hergegeben hat, unter denen die \n</span><span class=\"tei-line last\">Strafe in der Geschichte auftritt.</span></p>\n\n\n\n  \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

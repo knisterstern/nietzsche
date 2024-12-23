@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.63.3",
+    "rootNode": "2.5.12.8.63.3",
+    "id": "Ed_166_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.63.7.96",
+    "previous": "2.5.12.8.61.5.227",
+    "nextId": "Ed_167_id",
+    "previousId": "Ed_165_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0187.tif\">166</pb-facs-link></span>\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>24.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Und nun sehe man sich dagegen jene seltneren \n</span><span class=\"tei-line\">Fälle an, von denen ich sprach, die letzten Idealisten, \n</span><span class=\"tei-line\">die es heute unter Philosophen und Gelehrten giebt: \n</span><span class=\"line\">5</span><span class=\"tei-line \">hat man in ihnen vielleicht die gesuchten <span class=\"tei-hi2 spaced\">Gegner</span> des \n</span><span class=\"tei-line\">asketischen Ideals, dessen <span class=\"tei-hi2 spaced\">Gegen-Idealisten</span>? In \n</span><span class=\"tei-line\">der That, sie <span class=\"tei-hi2 spaced\">glauben</span> sich als solche, diese „Ungläu-\n</span><span class=\"tei-line\">bigen“ (denn das sind sie allesammt); es scheint gerade \n</span><span class=\"tei-line\">Das ihr letztes Stück Glaube, Gegner dieses Ideals zu \n</span><span class=\"line\">10</span><span class=\"tei-line \">sein, so ernsthaft sind sie an dieser Stelle, so leiden-\n</span><span class=\"tei-line\">schaftlich wird da gerade ihr Wort, ihre Gebärde: – \n</span><span class=\"tei-line\">brauchte es deshalb schon <span class=\"tei-hi2 spaced\">wahr</span> zu sein, was sie glau-\n</span><span class=\"tei-line\">ben?… Wir „Erkennenden“ sind nachgerade miss-\n</span><span class=\"tei-line\">trauisch gegen alle Art Gläubige; unser Misstrauen \n</span><span class=\"line\">15</span><span class=\"tei-line \">hat uns allmählich darauf eingeübt, umgekehrt zu \n</span><span class=\"tei-line\">schliessen, als man ehedem schloss: nämlich überall, \n</span><span class=\"tei-line\">wo die Stärke eines Glaubens sehr in den Vordergrund \n</span><span class=\"tei-line\">tritt, auf eine gewisse Schwäche der Beweisbarkeit, \n</span><span class=\"tei-line\">auf <span class=\"tei-hi2 spaced\">Unwahrscheinlichkeit</span> selbst des Geglaubten \n</span><span class=\"line\">20</span><span class=\"tei-line \">zu schliessen. Auch wir leugnen nicht, dass der Glaube \n</span><span class=\"tei-line\">„selig macht“: <span class=\"tei-hi2 spaced\">eben deshalb</span> leugnen wir, dass der \n</span><span class=\"tei-line\">Glaube Etwas <span class=\"tei-hi2 spaced\">beweist</span>, – ein starker Glaube, der \n</span><span class=\"tei-line\">selig macht, ist ein Verdacht gegen Das, woran er \n</span><span class=\"tei-line\">glaubt, er begründet nicht „Wahrheit“, er begründet \n</span><span class=\"line\">25</span><span class=\"tei-line \">eine gewisse Wahrscheinlichkeit – der <span class=\"tei-hi2 spaced\">Täuschung</span>. \n</span><span class=\"tei-line\">Wie steht es nun in diesem Falle? – Diese Verneinen-\n</span><span class=\"tei-line\">den und Abseitigen von Heute, diese Unbedingten in \n</span><span class=\"tei-line\">Einem, im Anspruch auf intellektuelle Sauberkeit, diese \n</span><span class=\"tei-line\">harten, strengen, enthaltsamen, heroischen Geister, \n</span><span class=\"line\">30</span><span class=\"tei-line \">welche die Ehre unsrer Zeit ausmachen, alle diese \n</span><span class=\"tei-line\">blassen Atheisten, Antichristen, Immoralisten, Nihilisten, \n</span><span class=\"tei-line\">diese Skeptiker, Ephektiker, <span class=\"tei-hi2 spaced\">Hektiker</span> des Geistes \n</span><span class=\"tei-line\">(letzteres sind sie sammt und sonders, in irgend einem \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.9",
+    "id": "GM01beginning",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM01beginning\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Beginn der Arbeit an GM</h5>Ns eigenen Angaben zufolge hat er mit der Arbeit an GM gegen den <pb-popover class=\"alternate tei-date1\" id=\"altref_1\"><span slot=\"default\">10. Juli 1887</span><template slot=\"alternate\">1887-07-10</template></pb-popover>begonnen.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

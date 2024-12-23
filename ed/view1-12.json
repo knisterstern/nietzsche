@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.17",
+    "rootNode": "2.5.12.2.17",
+    "id": "Ed_IX_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.19.5.79",
+    "previous": "2.5.12.2.15.5.56",
+    "nextId": "Ed_X_id",
+    "previousId": "Ed_VIII_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0014.tif\">IX</pb-facs-link></span>\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>5.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Im Grunde lag mir gerade damals etwas viel Wich-\n</span><span class=\"tei-line\">tigeres am Herzen als eignes oder fremdes Hypothesen-\n</span><span class=\"tei-line\">wesen über den Ursprung der Moral (oder, genauer: \n</span><span class=\"line\">5</span><span class=\"tei-line \">letzteres allein um eines Zweckes willen, zu dem es \n</span><span class=\"tei-line\">eins unter vielen Mitteln ist). Es handelte sich für \n</span><span class=\"tei-line\">mich um den <span class=\"tei-hi2 spaced\">Werth</span> der Moral, – und darüber \n</span><span class=\"tei-line\">hatte ich mich fast allein mit meinem grossen Lehrer \n</span><span class=\"tei-line\">Schopenhauer auseinanderzusetzen, an den wie an \n</span><span class=\"line\">10</span><span class=\"tei-line \">einen Gegenwärtigen jenes Buch, die Leidenschaft und \n</span><span class=\"tei-line\">der geheime Widerspruch jenes Buchs sich wendet \n</span><span class=\"tei-line\">(– denn auch jenes Buch war eine „Streitschrift“). \n</span><span class=\"tei-line\">Es handelte sich in Sonderheit um den Werth des „Un-\n</span><span class=\"tei-line\">egoistischen“, der Mitleids-, Selbstverleugnungs-, Selbst-\n</span><span class=\"line\">15</span><span class=\"tei-line \">opferungs-Instinkte, welche gerade Schopenhauer so \n</span><span class=\"tei-line\">lange vergoldet, vergöttlicht und verjenseitigt hatte, \n</span><span class=\"tei-line\">bis sie ihm schliesslich als die „Werthe an sich“ übrig \n</span><span class=\"tei-line\">blieben, auf Grund deren er zum Leben, auch zu sich \n</span><span class=\"tei-line\">selbst, <span class=\"tei-hi2 spaced\">Nein sagte</span>. Aber gerade gegen <span class=\"tei-hi2 spaced\">diese</span> Instinkte \n</span><span class=\"line\">20</span><span class=\"tei-line \">redete aus mir ein immer grundsätzlicherer Argwohn, \n</span><span class=\"tei-line\">eine immer tiefer grabende Skepsis! Gerade hier sah \n</span><span class=\"tei-line\">ich die <span class=\"tei-hi2 spaced\">grosse</span> Gefahr der Menschheit, ihre sublimste \n</span><span class=\"tei-line\">Lockung und Verführung – wohin doch? in’s Nichts? – \n</span><span class=\"tei-line\">gerade hier sah ich den Anfang vom Ende, das Stehen-\n</span><span class=\"line\">25</span><span class=\"tei-line \">bleiben, die zurückblickende Müdigkeit, den Willen \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">gegen</span> das Leben sich wendend, die letzte Krankheit \n</span><span class=\"tei-line\">sich zärtlich und schwermüthig ankündigend: ich ver-\n</span><span class=\"tei-line\">stand die immer mehr um sich greifende Mitleids-Moral, \n</span><span class=\"tei-line\">welche selbst die Philosophen ergriff und krank machte, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

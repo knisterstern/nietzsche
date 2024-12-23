@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.34.7.188",
+    "rootNode": "2.5.12.6.34.7.188",
+    "id": "Ed_69_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.34.7.292",
+    "previous": "2.5.12.6.34.7.102",
+    "nextId": "Ed_70_id",
+    "previousId": "Ed_68_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0090.tif\">69</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Vollkommenheit sein. Ich wollte sagen: auch das theil-\n</span><span class=\"tei-line\">weise <span class=\"tei-hi2 spaced\">Unnützlichwerden</span>, das Verkümmern und Ent-\n</span><span class=\"tei-line\">arten, das Verlustiggehn von Sinn und Zweckmässigkeit, \n</span><span class=\"tei-line\">kurz der Tod gehört zu den Bedingungen des wirk-\n</span><span class=\"line\">5</span><span class=\"tei-line \">lichen progressus: als welcher immer in Gestalt eines \n</span><span class=\"tei-line\">Willens und Wegs zu <span class=\"tei-hi2 spaced\">grösserer Macht</span> erscheint \n</span><span class=\"tei-line\">und immer auf Unkosten zahlreicher kleinerer Mächte \n</span><span class=\"tei-line\">durchgesetzt wird. Die Grösse eines „Fortschritts“ <span class=\"tei-hi2 spaced\">be-\n<span class=\"tei-line\">misst</span>misst</span> sich sogar nach der Masse dessen, was ihm Alles \n</span><span class=\"line\">10</span><span class=\"tei-line \">geopfert werden musste; die Menschheit als Masse dem \n</span><span class=\"tei-line\">Gedeihen einer einzelnen <span class=\"tei-hi2 spaced\">stärkeren</span> Species Mensch \n</span><span class=\"tei-line\">geopfert – das <span class=\"tei-hi2 spaced\">wäre</span> ein Fortschritt… – Ich hebe \n</span><span class=\"tei-line\">diesen Haupt-Gesichtspunkt der historischen Methodik \n</span><span class=\"tei-line\">hervor, um so mehr als er im Grunde dem gerade \n</span><span class=\"line\">15</span><span class=\"tei-line \">herrschenden Instinkte und Zeitgeschmack entgegen \n</span><span class=\"tei-line\">geht, welcher lieber sich noch mit der absoluten Zu-\n</span><span class=\"tei-line\">fälligkeit, ja mechanistischen Unsinnigkeit alles Gesche-\n</span><span class=\"tei-line\">hens vertragen würde, als mit der Theorie eines in allem \n</span><span class=\"tei-line\">Geschehn sich abspielenden <span class=\"tei-hi2 spaced\">Macht-Willens</span>. Die de-\n</span><span class=\"line\">20</span><span class=\"tei-line \">mokratische Idiosynkrasie gegen Alles, was herrscht \n</span><span class=\"tei-line\">und herrschen will, der moderne <span class=\"tei-hi2 spaced\">Misarchismus</span> (um \n</span><span class=\"tei-line\">ein schlechtes Wort für eine schlechte Sache zu bil-\n</span><span class=\"tei-line\">den) hat sich allmählich dermaassen in’s Geistige, Gei-\n</span><span class=\"tei-line\">stigste umgesetzt und verkleidet, dass er heute Schritt \n</span><span class=\"line\">25</span><span class=\"tei-line \">für Schritt bereits in die strengsten, anscheinend objek-\n</span><span class=\"tei-line\">tivsten Wissenschaften eindringt, eindringen <span class=\"tei-hi2 spaced\">darf</span>; ja \n</span><span class=\"tei-line\">er scheint mir schon über die ganze Physiologie und \n</span><span class=\"tei-line\">Lehre vom Leben Herr geworden zu sein, zu ihrem \n</span><span class=\"tei-line\">Schaden, wie sich von selbst versteht, indem er ihr \n</span><span class=\"line\">30</span><span class=\"tei-line \">einen Grundbegriff, den der eigentlichen <span class=\"tei-hi2 spaced\">Aktivität</span>, \n</span><span class=\"tei-line\">eskamotirt hat. Man stellt dagegen unter dem Druck \n</span><span class=\"tei-line\">jener Idiosynkrasie die „Anpassung“ in den Vor-\n</span><span class=\"tei-line\">dergrund, das heisst eine Aktivität zweiten Ranges, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

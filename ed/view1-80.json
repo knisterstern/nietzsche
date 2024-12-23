@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.30.3",
+    "rootNode": "2.5.12.6.30.3",
+    "id": "Ed_61_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.30.7.92",
+    "previous": "2.5.12.6.28.7.38",
+    "nextId": "Ed_62_id",
+    "previousId": "Ed_60_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0082.tif\">61</pb-facs-link></span>\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>10.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Mit erstarkender Macht nimmt ein Gemeinwesen \n</span><span class=\"tei-line\">die Vergehungen des Einzelnen nicht mehr so wichtig, \n</span><span class=\"tei-line\">weil sie ihm nicht mehr in gleichem Maasse wie früher \n</span><span class=\"line\">5</span><span class=\"tei-line \">für das Bestehn des Ganzen als gefährlich und um-\n</span><span class=\"tei-line\">stürzend gelten dürfen: der Übelthäter wird nicht mehr \n</span><span class=\"tei-line\">„friedlos gelegt“ und ausgestossen, der allgemeine Zorn \n</span><span class=\"tei-line\">darf sich nicht mehr wie früher dermaassen zügellos \n</span><span class=\"tei-line\">an ihm auslassen, – vielmehr wird von nun an der \n</span><span class=\"line\">10</span><span class=\"tei-line \">Übelthäter gegen diesen Zorn, sonderlich den der un-\n</span><span class=\"tei-line\">mittelbar Geschädigten, vorsichtig von Seiten des \n</span><span class=\"tei-line\">Ganzen vertheidigt und in Schutz genommen. Der \n</span><span class=\"tei-line\">Compromiss mit dem Zorn der zunächst durch die Übel-\n</span><span class=\"tei-line\">that Betroffenen; ein Bemühen darum, den Fall zu loka-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lisiren und einer weiteren oder gar allgemeinen Be-\n</span><span class=\"tei-line\">theiligung und Beunruhigung vorzubeugen; Versuche, \n</span><span class=\"tei-line\">Äquivalente zu finden und den ganzen Handel beizu-\n</span><span class=\"tei-line\">legen (die compositio); vor allem der immer bestimmter \n</span><span class=\"tei-line\">auftretende Wille, jedes Vergehn als in irgend einem \n</span><span class=\"line\">20</span><span class=\"tei-line \">Sinne <span class=\"tei-hi2 spaced\">abzahlbar</span> zu nehmen, also, wenigstens bis zu \n</span><span class=\"tei-line\">einem gewissen Maasse, den Verbrecher und seine That \n</span><span class=\"tei-line\">von einander zu <span class=\"tei-hi2 spaced\">isoliren</span> – das sind die Züge, die \n</span><span class=\"tei-line\">der ferneren Entwicklung des Strafrechts immer deut-\n</span><span class=\"tei-line\">licher aufgeprägt sind. Wächst die Macht und das \n</span><span class=\"line\">25</span><span class=\"tei-line \">Selbstbewusstsein eines Gemeinwesens, so mildert sich \n</span><span class=\"tei-line\">immer auch das Strafrecht; jede Schwächung und tiefere \n</span><span class=\"tei-line\">Gefährdung von jenem bringt dessen härtere Formen \n</span><span class=\"tei-line\">wieder an’s Licht. Der „Gläubiger“ ist immer in dem \n</span><span class=\"tei-line\">Grade menschlicher geworden, als er reicher geworden \n</span><span class=\"line\">30</span><span class=\"tei-line \">ist; zuletzt ist es selbst das <span class=\"tei-hi2 spaced\">Maass</span> seines Reichthums, \n</span><span class=\"tei-line\">wie viel Beeinträchtigung er aushalten kann, ohne daran \n</span><span class=\"tei-line\">zu leiden. Es wäre ein <span class=\"tei-hi2 spaced\">Machtbewusstsein</span> der Ge-\n</span><span class=\"tei-line\">sellschaft nicht undenkbar, bei dem sie sich den vor-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

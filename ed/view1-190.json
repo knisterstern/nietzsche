@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.65.5.46",
+    "rootNode": "2.5.12.8.65.5.46",
+    "id": "Ed_171_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.65.5.149",
+    "previous": "2.5.12.8.63.7.390",
+    "nextId": "Ed_172_id",
+    "previousId": "Ed_170_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0192.tif\">171</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Kampf bezieht sich, feiner geprüft, gar nicht auf das \n</span><span class=\"tei-line\">Ideal selbst, sondern nur auf dessen Aussenwerke, \n</span><span class=\"tei-line\">Einkleidung, Maskenspiel, auf dessen zeitweilige Ver-\n</span><span class=\"tei-line\">härtung, Verholzung, Verdogmatisirung – sie macht \n</span><span class=\"line\">5</span><span class=\"tei-line \">das Leben in ihm wieder frei, indem sie das Exote-\n</span><span class=\"tei-line\">rische an ihm verneint. Diese Beiden, Wissenschaft \n</span><span class=\"tei-line\">und asketisches Ideal, sie stehen ja auf Einem Boden \n</span><span class=\"tei-line\">– ich gab dies schon zu verstehn –: nämlich auf der \n</span><span class=\"tei-line\">gleichen Überschätzung der Wahrheit (richtiger: auf dem \n</span><span class=\"line\">10</span><span class=\"tei-line \">gleichen Glauben an die <span class=\"tei-hi2 spaced\">Un</span>abschätzbarkeit, <span class=\"tei-hi2 spaced\">Un</span>kriti-\n</span><span class=\"tei-line\">sirbarkeit der Wahrheit), eben damit sind sie sich \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">nothwendig</span> Bundesgenossen, – so dass sie, gesetzt, \n</span><span class=\"tei-line\">dass sie bekämpft werden, auch immer nur gemeinsam \n</span><span class=\"tei-line\">bekämpft und in Frage gestellt werden können. Eine \n</span><span class=\"line\">15</span><span class=\"tei-line \">Werthabschätzung des asketischen Ideals zieht unver-\n</span><span class=\"tei-line\">meidlich auch eine Werthabschätzung der Wissenschaft \n</span><span class=\"tei-line\">nach sich: dafür mache man sich bei Zeiten die \n</span><span class=\"tei-line\">Augen hell, die Ohren spitz! (Die <span class=\"tei-hi2 spaced\">Kunst</span>, vorweg \n</span><span class=\"tei-line\">gesagt, denn ich komme irgendwann des Längeren \n</span><span class=\"line\">20</span><span class=\"tei-line \">darauf zurück, – die Kunst, in der gerade die <span class=\"tei-hi2 spaced\">Lüge</span> \n</span><span class=\"tei-line\">sich heiligt, der <span class=\"tei-hi2 spaced\">Wille zur Täuschung</span> das gute Ge-\n</span><span class=\"tei-line\">wissen zur Seite hat, ist dem asketischen Ideale viel \n</span><span class=\"tei-line\">grundsätzlicher entgegengestellt als die Wissenschaft: \n</span><span class=\"tei-line\">so empfand es der Instinkt Plato’s, dieses grössten \n</span><span class=\"line\">25</span><span class=\"tei-line \">Kunstfeindes, den Europa bisher hervorgebracht hat. \n</span><span class=\"tei-line\">Plato <span class=\"tei-hi2 spaced\">gegen</span> Homer: das ist der ganze, der ächte An-\n</span><span class=\"tei-line\">tagonismus – dort der „Jenseitige“ besten Willens, der \n</span><span class=\"tei-line\">grosse Verleumder des Lebens, hier dessen unfreiwilli-\n</span><span class=\"tei-line\">ger Vergöttlicher, die <span class=\"tei-hi2 spaced\">goldene</span> Natur. Eine Künstler-\n</span><span class=\"line\">30</span><span class=\"tei-line \">Dienstbarkeit im Dienste des asketischen Ideals ist des-\n</span><span class=\"tei-line\">halb die eigentlichste Künstler-<span class=\"tei-hi2 spaced\">Corruption</span>, die es \n</span><span class=\"tei-line\">geben kann, leider eine der allergewöhnlichsten: denn \n</span><span class=\"tei-line\">Nichts ist corruptibler, als ein Künstler.) Auch physio-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

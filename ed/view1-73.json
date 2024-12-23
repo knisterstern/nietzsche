@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.24.3",
+    "rootNode": "2.5.12.6.24.3",
+    "id": "Ed_54_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.24.7.78",
+    "previous": "2.5.12.6.22.5.108",
+    "nextId": "Ed_55_id",
+    "previousId": "Ed_53_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0075.tif\">54</pb-facs-link></span>\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>7.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Mit diesen Gedanken, nebenbei gesagt, bin ich \n</span><span class=\"tei-line\">durchaus nicht Willens, unsren Pessimisten zu neuem \n</span><span class=\"tei-line\">Wasser auf ihre misstönigen und knarrenden Mühlen \n</span><span class=\"line\">5</span><span class=\"tei-line \">des Lebensüberdrusses zu verhelfen; im Gegentheil soll \n</span><span class=\"tei-line\">ausdrücklich bezeugt sein, dass damals, als die Mensch-\n</span><span class=\"tei-line\">heit sich ihrer Grausamkeit noch nicht schämte, das \n</span><span class=\"tei-line\">Leben heiterer auf Erden war als jetzt, wo es Pessi-\n</span><span class=\"tei-line\">misten giebt. Die Verdüsterung des Himmels über dem \n</span><span class=\"line\">10</span><span class=\"tei-line \">Menschen hat immer im Verhältniss dazu überhand \n</span><span class=\"tei-line\">genommen, als die Scham des Menschen <span class=\"tei-hi2 spaced\">vor dem \n<span class=\"tei-line\">Menschen</span>Menschen</span> gewachsen ist. Der müde pessimistische \n</span><span class=\"tei-line\">Blick, das Misstrauen zum Räthsel des Lebens, das \n</span><span class=\"tei-line\">eisige Nein des Ekels am Leben – das sind nicht die \n</span><span class=\"line\">15</span><span class=\"tei-line \">Abzeichen der <span class=\"tei-hi2 spaced\">bösesten</span> Zeitalter des Menschen-\n</span><span class=\"tei-line\">geschlechts: sie treten vielmehr erst an das Tageslicht, \n</span><span class=\"tei-line\">als die Sumpfpflanzen, die sie sind, wenn der Sumpf \n</span><span class=\"tei-line\">da ist, zu dem sie gehören, – ich meine die krankhafte \n</span><span class=\"tei-line\">Verzärtlichung und Vermoralisirung, vermöge deren \n</span><span class=\"line\">20</span><span class=\"tei-line \">das Gethier „Mensch“ sich schliesslich aller seiner In-\n</span><span class=\"tei-line\">stinkte schämen lernt. Auf dem Wege zum „Engel“\n</span><span class=\"tei-line\">(um hier nicht ein härteres Wort zu gebrauchen) hat \n</span><span class=\"tei-line\">sich der Mensch jenen verdorbenen Magen und jene \n</span><span class=\"tei-line\">belegte Zunge angezüchtet, durch die ihm nicht nur die \n</span><span class=\"line\">25</span><span class=\"tei-line \">Freude und Unschuld des Thiers widerlich, sondern \n</span><span class=\"tei-line\">das Leben selbst unschmackhaft geworden ist: – so \n</span><span class=\"tei-line\">dass er mitunter vor sich selbst mit zugehaltener Nase \n</span><span class=\"tei-line\">dasteht und mit Papst Innocenz dem Dritten miss-\n</span><span class=\"tei-line\">billigend den Katalog seiner Widerwärtigkeiten macht \n</span><span class=\"line\">30</span><span class=\"tei-line \">(„unreine Erzeugung, ekelhafte Ernährung im Mutter-\n</span><span class=\"tei-line\">leibe, Schlechtigkeit des Stoffs, aus dem der Mensch \n</span><span class=\"tei-line\">sich entwickelt, scheusslicher Gestank, Absonderung \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

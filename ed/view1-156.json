@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.45.6.157",
+    "rootNode": "2.5.12.8.45.6.157",
+    "id": "Ed_137_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.45.6.251",
+    "previous": "2.5.12.8.45.6.59",
+    "nextId": "Ed_138_id",
+    "previousId": "Ed_136_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0158.tif\">137</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Umkreis alles Gesunde nothwendig krank und alles \n</span><span class=\"tei-line\">Kranke nothwendig zahm wird. Er vertheidigt in der \n</span><span class=\"tei-line\">That gut genug seine kranke Heerde, dieser seltsame \n</span><span class=\"tei-line\">Hirt, – er vertheidigt sie auch gegen sich, gegen die \n</span><span class=\"line\">5</span><span class=\"tei-line \">in der Heerde selbst glimmende Schlechtigkeit, Tücke, \n</span><span class=\"tei-line\">Böswilligkeit und was sonst allen Süchtigen und Kran-\n</span><span class=\"tei-line\">ken unter einander zu eigen ist, er kämpft klug, hart \n</span><span class=\"tei-line\">und heimlich mit der Anarchie und der jederzeit be-\n</span><span class=\"tei-line\">ginnenden Selbstauflösung innerhalb der Heerde, in \n</span><span class=\"line\">10</span><span class=\"tei-line \">welcher jener gefährlichste Spreng- und Explosivstoff, \n</span><span class=\"tei-line\">das <span class=\"tei-hi2 spaced\">Ressentiment</span>, sich beständig häuft und häuft. \n</span><span class=\"tei-line\">Diesen Sprengstoff so zu entladen, dass er nicht die \n</span><span class=\"tei-line\">Heerde und nicht den Hirten zersprengt, das ist sein \n</span><span class=\"tei-line\">eigentliches Kunststück, auch seine oberste Nützlichkeit; \n</span><span class=\"line\">15</span><span class=\"tei-line \">wollte man den Werth der priesterlichen Existenz in \n</span><span class=\"tei-line\">die kürzeste Formel fassen, so wäre geradewegs zu \n</span><span class=\"tei-line\">sagen: der Priester ist der <span class=\"tei-hi2 spaced\">Richtungs-Veränderer</span> \n</span><span class=\"tei-line\">des Ressentiment. Jeder Leidende nämlich sucht in-\n</span><span class=\"tei-line\">stinktiv zu seinem Leid eine Ursache; genauer noch, \n</span><span class=\"line\">20</span><span class=\"tei-line \">einen Thäter, noch bestimmter, einen für Leid empfäng-\n</span><span class=\"tei-line\">lichen <span class=\"tei-hi2 spaced\">schuldigen</span> Thäter, – kurz, irgend etwas Le-\n</span><span class=\"tei-line\">bendiges, an dem er seine Affekte thätlich oder in \n</span><span class=\"tei-line\">effigie auf irgend einen Vorwand hin entladen kann: \n</span><span class=\"tei-line\">denn die Affekt-Entladung ist der grösste Erleichte-\n</span><span class=\"line\">25</span><span class=\"tei-line \">rungs- nämlich <span class=\"tei-hi2 spaced\">Betäubungs</span>-Versuch des Leidenden, \n</span><span class=\"tei-line\">sein unwillkürlich begehrtes Narcoticum gegen Qual \n</span><span class=\"tei-line\">irgend welcher Art. Hierin allein ist, meiner Vermu-\n</span><span class=\"tei-line\">thung nach, die wirkliche physiologische Ursächlichkeit \n</span><span class=\"tei-line\">des Ressentiment, der Rache und ihrer Verwandten, zu \n</span><span class=\"line\">30</span><span class=\"tei-line \">finden, in einem Verlangen also nach <span class=\"tei-hi2 spaced\">Betäubung von \n<span class=\"tei-line\">Schmerz durch Affekt</span>Schmerz durch Affekt</span>: – man sucht dieselbe ge-\n</span><span class=\"tei-line\">meinhin, sehr irrthümlich, wie mich dünkt, in dem De-\n</span><span class=\"tei-line\">fensiv-Gegenschlag, einer blossen Schutzmaassregel \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

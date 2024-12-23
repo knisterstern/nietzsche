@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.34.7.8",
+    "rootNode": "2.5.12.6.34.7.8",
+    "id": "Ed_67_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.34.7.102",
+    "previous": "2.5.12.6.32.7.318",
+    "nextId": "Ed_68_id",
+    "previousId": "Ed_66_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0088.tif\">67</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Wie treiben es doch die bisherigen Moral-Genealogen \n</span><span class=\"tei-line\">in diesem Falle? Naiv, wie sie es immer getrieben \n</span><span class=\"tei-line\">haben –: sie machen irgend einen „Zweck“ in der Strafe \n</span><span class=\"tei-line\">ausfindig, zum Beispiel Rache oder Abschreckung, \n</span><span class=\"line\">5</span><span class=\"tei-line \">setzen dann arglos diesen Zweck an den Anfang, als \n</span><span class=\"tei-line\">causa fiendi der Strafe, und – sind fertig. Der „Zweck \n</span><span class=\"tei-line\">im Rechte“ ist aber zu allerletzt für die Entstehungs-\n</span><span class=\"tei-line\">geschichte des Rechts zu verwenden: vielmehr giebt \n</span><span class=\"tei-line\">es für alle Art Historie gar keinen wichtigeren Satz \n</span><span class=\"line\">10</span><span class=\"tei-line \">als jenen, der mit solcher Mühe errungen ist, aber auch \n</span><span class=\"tei-line\">wirklich errungen <span class=\"tei-hi2 spaced\">sein sollte</span>, – dass nämlich die \n</span><span class=\"tei-line\">Ursache der Entstehung eines Dings und dessen schliess-\n</span><span class=\"tei-line\">liche Nützlichkeit, dessen thatsächliche Verwendung und \n</span><span class=\"tei-line\">Einordnung in ein System von Zwecken toto coelo aus-\n</span><span class=\"line\">15</span><span class=\"tei-line \">einander liegen; dass etwas Vorhandenes, irgendwie Zu-\n</span><span class=\"tei-line\">Stande-Gekommenes immer wieder von einer ihm über-\n</span><span class=\"tei-line\">legenen Macht auf neue Ansichten ausgelegt, neu in \n</span><span class=\"tei-line\">Beschlag genommen, zu einem neuen Nutzen umgebildet \n</span><span class=\"tei-line\">und umgerichtet wird; dass alles Geschehen in der or-\n</span><span class=\"line\">20</span><span class=\"tei-line \">ganischen Welt ein <span class=\"tei-hi2 spaced\">Überwältigen</span>, <span class=\"tei-hi2 spaced\">Herrwerden</span> \n</span><span class=\"tei-line\">und dass wiederum alles Überwältigen und Herrwerden \n</span><span class=\"tei-line\">ein Neu-Interpretieren, ein Zurechtmachen ist, bei dem \n</span><span class=\"tei-line\">der bisherige „Sinn“ und „Zweck“ nothwendig ver-\n</span><span class=\"tei-line\">dunkelt oder ganz ausgelöscht werden muss. Wenn \n</span><span class=\"line\">25</span><span class=\"tei-line \">man die <span class=\"tei-hi2 spaced\">Nützlichkeit</span> von irgend welchem physiolo-\n</span><span class=\"tei-line\">gischen Organ (oder auch einer Rechts-Institution, \n</span><span class=\"tei-line\">einer gesellschaftlichen Sitte, eines politischen Brauchs, \n</span><span class=\"tei-line\">einer Form in den Künsten oder im religiösen Cultus) \n</span><span class=\"tei-line\">noch so gut begriffen hat, so hat man damit noch \n</span><span class=\"line\">30</span><span class=\"tei-line \">nichts in Betreff seiner Entstehung begriffen: so unbe-\n</span><span class=\"tei-line\">quem und unangenehm dies älteren Ohren klingen \n</span><span class=\"tei-line\">mag, – denn von Alters her hatte man in dem nach-\n</span><span class=\"tei-line\">weisbaren Zwecke, in der Nützlichkeit eines Dings, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

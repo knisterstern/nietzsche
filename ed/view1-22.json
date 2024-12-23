@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.17.7.26",
+    "rootNode": "2.5.12.4.17.7.26",
+    "id": "Ed_3_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.17.7.114",
+    "previous": "2.5.12.4.15.9.79",
+    "nextId": "Ed_4_id",
+    "previousId": "Ed_2_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0024.tif\">3</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">delt, die Herkunft des Begriffs und Urtheils „gut“ zu \n</span><span class=\"tei-line\">ermitteln. „Man hat ursprünglich – so dekretieren \n</span><span class=\"tei-line\">sie – unegoistische Handlungen von Seiten Derer ge-\n</span><span class=\"tei-line\">lobt und gut genannt, denen sie erwiesen wurden, \n</span><span class=\"line\">5</span><span class=\"tei-line \">also denen sie <span class=\"tei-hi2 spaced\">nützlich</span> waren; später hat man diesen \n</span><span class=\"tei-line\">Ursprung des Lobes <span class=\"tei-hi2 spaced\">vergessen</span> und die unegoisti-\n</span><span class=\"tei-line\">schen Handlungen einfach, weil sie <span class=\"tei-hi2 spaced\">gewohnheits-\n<span class=\"tei-line\">mässig</span>mässig</span> immer als gut gelobt wurden, auch als gut \n</span><span class=\"tei-line\">empfunden – wie als ob sie an sich etwas Gutes wä-\n</span><span class=\"line\">10</span><span class=\"tei-line \">ren.“ Man sieht sofort: diese erste Ableitung enthält \n</span><span class=\"tei-line\">bereits alle typischen Züge der englischen Psychologen-\n</span><span class=\"tei-line\">Idiosynkrasie, – wir haben „die Nützlichkeit“, „das \n</span><span class=\"tei-line\">Vergessen“, „die Gewohnheit“ und am Schluss „den \n</span><span class=\"tei-line\">Irrthum“, Alles als Unterlage einer Werthschätzung, \n</span><span class=\"line\">15</span><span class=\"tei-line \">auf welche der höhere Mensch bisher wie auf eine Art \n</span><span class=\"tei-line\">Vorrecht des Menschen überhaupt stolz gewesen ist. \n</span><span class=\"tei-line\">Dieser Stolz <span class=\"tei-hi2 spaced\">soll</span> gedemüthigt, diese Werthschätzung \n</span><span class=\"tei-line\">entwerthet werden: ist das erreicht?… Nun liegt für \n</span><span class=\"tei-line\">mich erstens auf der Hand, dass von dieser Theorie \n</span><span class=\"line\">20</span><span class=\"tei-line \">der eigentliche Entstehungsheerd des Begriffs „gut“ \n</span><span class=\"tei-line\">an falscher Stelle gesucht und angesetzt wird: das Ur-\n</span><span class=\"tei-line\">theil „gut“ rührt <span class=\"tei-hi2 spaced\">nicht</span> von Denen her, welchen „Güte“ \n</span><span class=\"tei-line\">erwiesen wird! Vielmehr sind es „die Guten“ selber \n</span><span class=\"tei-line\">gewesen, das heisst die Vornehmen, Mächtigen, Höher-\n</span><span class=\"line\">25</span><span class=\"tei-line \">gestellten und Hochgesinnten, welche sich selbst und \n</span><span class=\"tei-line\">ihr Thun als gut, nämlich als ersten Ranges empfanden \n</span><span class=\"tei-line\">und ansetzten, im Gegensatz zu allem Niedrigen, Niedrig-\n</span><span class=\"tei-line\">Gesinnten, Gemeinen und Pöbelhaften. Aus diesem <span class=\"tei-hi2 spaced\">Pa-\n<span class=\"tei-line\">thos der Distanz</span>thos der Distanz</span> heraus haben sie sich das Recht, \n</span><span class=\"line\">30</span><span class=\"tei-line \">Werthe zu schaffen, Namen der Werthe auszuprägen, \n</span><span class=\"tei-line\">erst genommen: was gieng sie die Nützlichkeit an! Der \n</span><span class=\"tei-line\">Gesichtspunkt der Nützlichkeit ist gerade in Bezug auf \n</span><span class=\"tei-line\">ein solches heisses Herausquellen oberster rang-ord-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

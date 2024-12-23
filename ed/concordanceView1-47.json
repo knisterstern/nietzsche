@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.43.5.170",
+    "rootNode": "2.5.12.4.43.5.170",
+    "id": "Ed_28_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.45.5.12",
+    "previous": "2.5.12.4.43.5.87",
+    "nextId": "Ed_29_id",
+    "previousId": "Ed_27_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 13</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 292/278,27-295/281,5</li><li class=\"tei-ab2\"><a data-id=\"Ed_26_id\" data-doc=\"E40.xml\">Ed 26,1-28,26</a></li><li class=\"tei-ab2\"><a data-id=\"a14r\" data-doc=\"D20.xml\">Dm a14r,28-40, a15r,1-29</a></li></ul><p></p></div><div class=\"QV\"><h3>GM I 14</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 295/281,6-297/283,17</li><li class=\"tei-ab2\"><a data-id=\"Ed_28_id\" data-doc=\"E40.xml\">Ed 28,27-31,17</a></li><li class=\"tei-ab2\"><a data-id=\"a15r\" data-doc=\"D20.xml\">Dm a15r,30-38, a16r,1-36</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "concordance",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

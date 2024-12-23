@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.32.7.240",
+    "rootNode": "2.5.12.6.32.7.240",
+    "id": "Ed_65_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.32.7.318",
+    "previous": "2.5.12.6.32.7.145",
+    "nextId": "Ed_66_id",
+    "previousId": "Ed_64_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0086.tif\">65</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Gefühle vor, den Krieg mit denselben seitens aktiver \n</span><span class=\"tei-line\">und aggressiver Mächte, welche ihre Stärke zum Theil \n</span><span class=\"tei-line\">dazu verwendeten, der Ausschweifung des reaktiven \n</span><span class=\"tei-line\">Pathos Halt und Maass zu gebieten und einen Ver-\n</span><span class=\"line\">5</span><span class=\"tei-line \">gleich zu erzwingen. Überall, wo Gerechtigkeit geübt, \n</span><span class=\"tei-line\">Gerechtigkeit aufrecht erhalten wird, sieht man eine \n</span><span class=\"tei-line\">stärkere Macht in Bezug auf ihr unterstehende Schwä-\n</span><span class=\"tei-line\">chere (seien es Gruppen, seien es Einzelne) nach Mitteln \n</span><span class=\"tei-line\">suchen, unter diesen dem unsinnigen Wüthen des Res-\n</span><span class=\"line\">10</span><span class=\"tei-line \">sentiment ein Ende zu machen, indem sie theils das \n</span><span class=\"tei-line\">Objekt des Ressentiment aus den Händen der Rache \n</span><span class=\"tei-line\">herauszieht, theils an Stelle der Rache ihrerseits den \n</span><span class=\"tei-line\">Kampf gegen die Feinde des Friedens und der Ordnung \n</span><span class=\"tei-line\">setzt, theils Ausgleiche erfindet, vorschlägt, unter Um-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ständen aufnöthigt, theils gewisse Äquivalente von \n</span><span class=\"tei-line\">Schädigungen zur Norm erhebt, an welche von nun an \n</span><span class=\"tei-line\">das Ressentiment ein für alle Mal gewiesen ist. Das \n</span><span class=\"tei-line\">Entscheidenste aber, was die oberste Gewalt gegen \n</span><span class=\"tei-line\">die Übermacht der Gegen- und Nachgefühle thut und \n</span><span class=\"line\">20</span><span class=\"tei-line \">durchsetzt – sie thut es immer, sobald sie irgendwie \n</span><span class=\"tei-line\">stark genug dazu ist – ist die Aufrichtung des <span class=\"tei-hi2 spaced\">Ge-\n<span class=\"tei-line\">setzes</span>setzes</span>, die imperativische Erklärung darüber, was \n</span><span class=\"tei-line\">überhaupt unter ihren Augen als erlaubt, als recht, \n</span><span class=\"tei-line\">was als verboten, als unrecht zu gelten habe: indem \n</span><span class=\"line\">25</span><span class=\"tei-line \">sie nach Aufrichtung des Gesetzes Übergriffe und Will-\n</span><span class=\"tei-line\">kür-Akte Einzelner oder ganzer Gruppen als Frevel am \n</span><span class=\"tei-line\">Gesetz, als Auflehnung gegen die oberste Gewalt selbst \n</span><span class=\"tei-line\">behandelt, lenkt sie das Gefühl ihrer Untergebenen \n</span><span class=\"tei-line\">von dem nächsten durch solche Frevel angerichteten \n</span><span class=\"line\">30</span><span class=\"tei-line \">Schaden ab und erreicht damit auf die Dauer das \n</span><span class=\"tei-line\">Umgekehrte von dem, was alle Rache will, welche \n</span><span class=\"tei-line\">den Gesichtspunkt des Geschädigten allein sieht, \n</span><span class=\"tei-line\">allein gelten lässt –: von nun an wird das Auge für \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

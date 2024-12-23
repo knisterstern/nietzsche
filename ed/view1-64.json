@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.14.5.165",
+    "rootNode": "2.5.12.6.14.5.165",
+    "id": "Ed_45_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.16.7.66",
+    "previous": "2.5.12.6.14.5.71.5",
+    "nextId": "Ed_46_id",
+    "previousId": "Ed_44_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0066.tif\">45</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">dieser seltenen Freiheit, dieser Macht über sich und \n</span><span class=\"tei-line\">das Geschick hat sich bei ihm bis in seine unterste \n</span><span class=\"tei-line\">Tiefe hinabgesenkt und ist zum Instinkt geworden, zum \n</span><span class=\"tei-line\">dominirenden Instinkt: – wie wird er ihn heissen, \n</span><span class=\"line\">5</span><span class=\"tei-line \">diesen dominirenden Instinkt, gesetzt, dass er ein Wort \n</span><span class=\"tei-line\">dafür bei sich nöthig hat? Aber es ist kein Zweifel: \n</span><span class=\"tei-line\">dieser souveraine Mensch heisst ihn sein <span class=\"tei-hi2 spaced\">Gewissen</span>…\n</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">3.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Sein Gewissen?… Es lässt sich voraus errathen, \n</span><span class=\"line\">10</span><span class=\"tei-line \">dass der Begriff „Gewissen“, dem wir hier in seiner \n</span><span class=\"tei-line\">höchsten, fast befremdlichen Ausgestaltung begegnen, \n</span><span class=\"tei-line\">bereits eine lange Geschichte und Form-Verwandlung \n</span><span class=\"tei-line\">hinter sich hat. Für sich gut sagen dürfen und mit \n</span><span class=\"tei-line\">Stolz, also auch zu sich <span class=\"tei-hi2 spaced\">Ja sagen dürfen</span> – das ist, \n</span><span class=\"line\">15</span><span class=\"tei-line \">wie gesagt, eine reife Frucht, aber auch eine <span class=\"tei-hi2 spaced\">späte</span> \n</span><span class=\"tei-line\">Frucht: – wie lange musste diese Frucht herb und \n</span><span class=\"tei-line\">sauer am Baume hängen! Und eine noch viel längere \n</span><span class=\"tei-line\">Zeit war von einer solchen Frucht gar nichts zu sehn, – \n</span><span class=\"tei-line\">Niemand hätte sie versprechen dürfen, so gewiss auch \n</span><span class=\"line\">20</span><span class=\"tei-line \">Alles am Baume vorbereitet und gerade auf sie hin im \n</span><span class=\"tei-line\">Wachsen war! – „Wie macht man dem Menschen-Thiere \n</span><span class=\"tei-line\">ein Gedächtniss? Wie prägt man diesem theils stum-\n</span><span class=\"tei-line\">pfen, theils faseligen Augenblicks-Verstande, dieser leib-\n</span><span class=\"tei-line\">haften Vergesslichkeit Etwas so ein, dass es gegen-\n</span><span class=\"line\">25</span><span class=\"tei-line \">wärtig bleibt?“… Dies uralte Problem ist, wie man \n</span><span class=\"tei-line\">denken kann, nicht gerade mit zarten Antworten und \n</span><span class=\"tei-line\">Mitteln gelöst worden; vielleicht ist sogar nichts furcht-\n</span><span class=\"tei-line\">barer und unheimlicher an der ganzen Vorgeschichte \n</span><span class=\"tei-line\">des Menschen, als seine <span class=\"tei-hi2 spaced\">Memnotechnik</span>. „Man brennt \n</span><span class=\"line\">30</span><span class=\"tei-line \">Etwas ein, damit es im Gedächtniss bleibt: nur was \n</span><span class=\"tei-line\">nicht aufhört, <span class=\"tei-hi2 spaced\">weh zu thun</span>, bleibt im Gedächtniss“ – \n</span><span class=\"tei-line\">das ist ein Hauptsatz aus der allerältesten (leider \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

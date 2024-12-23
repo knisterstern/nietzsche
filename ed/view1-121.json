@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.23.5.36",
+    "rootNode": "2.5.12.8.23.5.36",
+    "id": "Ed_102_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.23.5.132",
+    "previous": "2.5.12.8.21.5.102",
+    "nextId": "Ed_103_id",
+    "previousId": "Ed_101_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0123.tif\">102</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Dem Dichter und Ausgestalter des Parsifal blieb ein \n</span><span class=\"tei-line\">tiefes, gründliches, selbst schreckliches Hineinleben und \n</span><span class=\"tei-line\">Hinabsteigen in mittelalterliche Seelen-Contraste, ein \n</span><span class=\"tei-line\">feindseliges Abseits von aller Höhe, Strenge und Zucht \n</span><span class=\"line\">5</span><span class=\"tei-line \">des Geistes, eine Art intellektueller <span class=\"tei-hi2 spaced\">Perversität</span> \n</span><span class=\"tei-line\">(wenn man mir das Wort nachsehen will) ebensowenig \n</span><span class=\"tei-line\">erspart als einem schwangeren Weibe die Widerlich-\n</span><span class=\"tei-line\">keiten und Wunderlichkeiten der Schwangerschaft: als \n</span><span class=\"tei-line\">welche man, wie gesagt, <span class=\"tei-hi2 spaced\">vergessen</span> muss, um sich \n</span><span class=\"line\">10</span><span class=\"tei-line \">des Kindes zu erfreuen. Man soll sich vor der Ver-\n</span><span class=\"tei-line\">wechselung hüten, in welche ein Künstler nur zu leicht \n</span><span class=\"tei-line\">selbst geräth, aus psychologischer contiguity, mit den \n</span><span class=\"tei-line\">Engländern zu reden: wie als ob er selber das <span class=\"tei-hi2 spaced\">wäre</span>, \n</span><span class=\"tei-line\">was er darstellen, ausdenken, ausdrücken kann. That-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sächlich steht es so, dass, <span class=\"tei-hi2 spaced\">wenn</span> er eben das wäre, er \n</span><span class=\"tei-line\">es schlechterdings nicht darstellen, ausdenken, aus-\n</span><span class=\"tei-line\">drücken würde; ein Homer hätte keinen Achill, ein \n</span><span class=\"tei-line\">Goethe keinen Faust gedichtet, wenn Homer ein Achill \n</span><span class=\"tei-line\">und wenn Goethe ein Faust gewesen wäre. Ein voll-\n</span><span class=\"line\">20</span><span class=\"tei-line \">kommner und ganzer Künstler ist in alle Ewigkeit von \n</span><span class=\"tei-line\">dem „Realen“, dem Wirklichen abgetrennt; andrerseits \n</span><span class=\"tei-line\">versteht man es, wie er an dieser ewigen „Unrealität“ \n</span><span class=\"tei-line\">und Falschheit seines innersten Daseins mitunter bis \n</span><span class=\"tei-line\">zur Verzweiflung müde werden kann, – und dass er \n</span><span class=\"line\">25</span><span class=\"tei-line \">dann wohl den Versuch macht, einmal in das gerade \n</span><span class=\"tei-line\">ihm Verbotenste, in’s Wirkliche überzugreifen, wirklich \n</span><span class=\"tei-line\">zu <span class=\"tei-hi2 spaced\">sein</span>. Mit welchem Erfolge? Man wird es errathen… \n</span><span class=\"tei-line\">Es ist das <span class=\"tei-hi2 spaced\">die typische Velleität</span> des Künstlers: \n</span><span class=\"tei-line\">dieselbe Velleität, welcher auch der altgewordne Wag-\n</span><span class=\"line\">30</span><span class=\"tei-line \">ner verfiel und die er so theuer, so verhängnissvoll hat \n</span><span class=\"tei-line\">büssen müssen (– er verlor durch sie den werthvollen \n</span><span class=\"tei-line\">Theil seiner Freunde). Zuletzt aber, noch ganz abge-\n</span><span class=\"tei-line\">sehn von dieser Velleität, wer möchte nicht überhaupt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

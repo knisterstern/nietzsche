@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.25",
+    "id": "GM02revision",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM02revision\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Revision von §1-11 zu GM II 1-13</h5>Um- und Ausarbeitung der ersten, nach 11 Abschnitten abgebrochenen Version von GM II, mit neuer, brauner Tinte, gegen <span class=\"tei-date2\">Ende Juli 1887</span>. Die ursprünglichen §1, §2 und §7 ersetzt N durch die neu verfassten Abschnitte GM II 1, 2 und 7, §6 erweitert er zu GM II 6, danach fügt er zwei komplett neue Abschnitte, GM II 9-10, ein und schließlich ergänzt er §9-10 und nummeriert sie zusammen mit §11 um zu GM II 11-13.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

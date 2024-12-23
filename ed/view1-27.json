@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.25.5.78",
+    "rootNode": "2.5.12.4.25.5.78",
+    "id": "Ed_8_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.25.5.172",
+    "previous": "2.5.12.4.23.5.97",
+    "nextId": "Ed_9_id",
+    "previousId": "Ed_7_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0029.tif\">8</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">und schildert, – bis endlich das Wort, nach dem Nieder-\n</span><span class=\"tei-line\">gange des Adels, zur Bezeichnung der seelischen \n</span><span class=\"tei-line\">noblesse übrig bleibt und gleichsam reif und süss wird. \n</span><span class=\"tei-line\">Im Worte <span class=\"tei-foreign\">κακός</span> wie in <span class=\"tei-foreign\">δειλός</span> (der Plebejer im Gegen-\n</span><span class=\"line\">5</span><span class=\"tei-line \">satz zum <span class=\"tei-foreign\">ἀγαϑός</span>) ist die Feigheit unterstrichen: dies \n</span><span class=\"tei-line\">giebt vielleicht einen Wink, in welcher Richtung man \n</span><span class=\"tei-line\">die etymologische Herkunft des mehrfach deutbaren \n</span><span class=\"tei-line\"><span class=\"tei-foreign\">ἀγαϑός</span> zu suchen hat. Im lateinischen malus (dem ich \n</span><span class=\"tei-line\"><span class=\"tei-foreign\">μέλας</span> zur Seite stelle) könnte der gemeine Mann als \n</span><span class=\"line\">10</span><span class=\"tei-line \">der Dunkelfarbige, vor allem als der Schwarzhaarige \n</span><span class=\"tei-line\">(„hic niger est –“) gekennzeichnet sein, als der vorari-\n</span><span class=\"tei-line\">sche Insasse des italischen Bodens, der sich von der \n</span><span class=\"tei-line\">herrschend gewordenen blonden, nämlich arischen Er-\n</span><span class=\"tei-line\">oberer-Rasse durch die Farbe am deutlichsten abhob; \n</span><span class=\"line\">15</span><span class=\"tei-line \">wenigstens bot mir das Gälische den genau entsprechen-\n</span><span class=\"tei-line\">den Fall, – fin (zum Beispiel im Namen Fin-Gal), das \n</span><span class=\"tei-line\">abzeichnende Wort des Adels, zuletzt der Gute, Edle, \n</span><span class=\"tei-line\">Reine, ursprünglich der Blondkopf, im Gegensatz zu \n</span><span class=\"tei-line\">den dunklen, schwarzhaarigen Ureinwohnern. Die Kel-\n</span><span class=\"line\">20</span><span class=\"tei-line \">ten, beiläufig gesagt, waren durchaus eine blonde \n</span><span class=\"tei-line\">Rasse; man thut Unrecht, wenn man jene Streifen einer \n</span><span class=\"tei-line\">wesentlich dunkelhaarigen Bevölkerung, die sich auf \n</span><span class=\"tei-line\">sorgfältigeren ethnographischen Karten Deutschlands \n</span><span class=\"tei-line\">bemerkbar machen, mit irgend welcher keltischen Her-\n</span><span class=\"line\">25</span><span class=\"tei-line \">kunft und Blutmischung in Zusammenhang bringt, wie \n</span><span class=\"tei-line\">dies noch Virchow thut: vielmehr schlägt an diesen \n</span><span class=\"tei-line\">Stellen die <span class=\"tei-hi2 spaced\">vorarische</span> Bevölkerung Deutschlands \n</span><span class=\"tei-line\">vor. (Das Gleiche gilt beinahe für ganz Europa: im \n</span><span class=\"tei-line\">Wesentlichen hat die unterworfene Rasse schliesslich \n</span><span class=\"line\">30</span><span class=\"tei-line \">daselbst wieder die Oberhand bekommen, in Farbe, \n</span><span class=\"tei-line\">Kürze des Schädels, vielleicht sogar in den intellek-\n</span><span class=\"tei-line\">tuellen und socialen Instinkten: wer steht uns dafür, \n</span><span class=\"tei-line\">ob nicht die moderne Demokratie, der noch modernere \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

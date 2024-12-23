@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.49.7.84",
+    "rootNode": "2.5.12.4.49.7.84",
+    "id": "Ed_35_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.49.7.179",
+    "previous": "2.5.12.4.47.5.221",
+    "nextId": "Ed_36_id",
+    "previousId": "Ed_34_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0056.tif\">35</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">wüstesten aller geschriebenen Ausbrüche, welche die \n</span><span class=\"tei-line\">Rache auf dem Gewissen hat. (Unterschätze man üb-\n</span><span class=\"tei-line\">rigens die tiefe Folgerichtigkeit des christlichen In-\n</span><span class=\"tei-line\">stinktes nicht, als er gerade dieses Buch des Hasses \n</span><span class=\"line\">5</span><span class=\"tei-line \">mit dem Namen des Jüngers der Liebe überschrieb, \n</span><span class=\"tei-line\">desselben, dem er jenes verliebt-schwärmerische Evan-\n</span><span class=\"tei-line\">gelium zu eigen gab –: darin steckt ein Stück Wahr-\n</span><span class=\"tei-line\">heit, wie viel litterarische Falschmünzerei auch zu die-\n</span><span class=\"tei-line\">sem Zwecke nöthig gewesen sein mag.) Die Römer \n</span><span class=\"line\">10</span><span class=\"tei-line \">waren ja die Starken und Vornehmen, wie sie stärker \n</span><span class=\"tei-line\">und vornehmer bisher auf Erden nie dagewesen, selbst \n</span><span class=\"tei-line\">niemals geträumt worden sind; jeder Überrest von \n</span><span class=\"tei-line\">ihnen, jede Inschrift entzückt, gesetzt, dass man erräth, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">was</span> da schreibt. Die Juden umgekehrt waren jenes \n</span><span class=\"line\">15</span><span class=\"tei-line \">priesterliche Volk des Ressentiment par excellence, dem \n</span><span class=\"tei-line\">eine volksthümlich-moralische Genialität sonder Gleichen \n</span><span class=\"tei-line\">innewohnte: man vergleiche nur die verwandt-begab-\n</span><span class=\"tei-line\">ten Völker, etwa die Chinesen oder die Deutschen, mit \n</span><span class=\"tei-line\">den Juden, um nachzufühlen, was ersten und was fünften \n</span><span class=\"line\">20</span><span class=\"tei-line \">Ranges ist. Wer von ihnen einstweilen <span class=\"tei-hi2 spaced\">gesiegt</span> hat, \n</span><span class=\"tei-line\">Rom oder Judäa? Aber es ist ja gar kein Zweifel: \n</span><span class=\"tei-line\">man erwäge doch, vor wem man sich heute in Rom \n</span><span class=\"tei-line\">selber als vor dem Inbegriff aller höchsten Werthe \n</span><span class=\"tei-line\">beugt – und nicht nur in Rom, sondern fast auf der \n</span><span class=\"line\">25</span><span class=\"tei-line \">halben Erde, überall wo nur der Mensch zahm gewor-\n</span><span class=\"tei-line\">den ist oder zahm werden will, – vor <span class=\"tei-hi2 spaced\">drei Juden</span>, \n</span><span class=\"tei-line\">wie man weiss, und <span class=\"tei-hi2 spaced\">Einer Jüdin</span> (vor Jesus von Na-\n</span><span class=\"tei-line\">zareth, dem Fischer Petrus, dem Teppichwirker Paulus \n</span><span class=\"tei-line\">und der Mutter des anfangs genannten Jesus, genannt \n</span><span class=\"line\">30</span><span class=\"tei-line \">Maria). Dies ist sehr merkwürdig: Rom ist ohne allen \n</span><span class=\"tei-line\">Zweifel unterlegen. Allerdings gab es in der Renais-\n</span><span class=\"tei-line\">sance ein glanzvoll-unheimliches Wiederaufwachen des \n</span><span class=\"tei-line\">klassischen Ideals, der vornehmen Werthungsweise aller \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

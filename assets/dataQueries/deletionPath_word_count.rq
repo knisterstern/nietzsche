@@ -1,0 +1,8 @@
+# Count number of words a word deletion path deletes (and select its writing instrument).
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+
+select distinct ?deletion_path (count(?word) as ?numWord) ?instrument where {
+  ?deletion_path a tln:WordDeletionPath;
+                   tln:hasStyle/tln:styleHasWritingInstrument ?instrument.
+  ?word tln:wordIsDeletedByPath ?deletion_path.
+} GROUP BY ?deletion_path ?instrument

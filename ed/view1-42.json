@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.37.5.231",
+    "rootNode": "2.5.12.4.37.5.231",
+    "id": "Ed_23_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.37.5.324",
+    "previous": "2.5.12.4.37.5.137",
+    "nextId": "Ed_24_id",
+    "previousId": "Ed_22_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0044.tif\">23</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">aussann und sie in Gold, Silber, Erz auszudrücken \n</span><span class=\"tei-line\">suchte: er wusste mit dem Widerspruch, den ihm die \n</span><span class=\"tei-line\">herrliche, aber ebenfalls so schauerliche, so gewalt-\n</span><span class=\"tei-line\">thätige Welt Homer’s bot, nicht anders fertig zu werden, \n</span><span class=\"line\">5</span><span class=\"tei-line \">als indem er aus Einem Zeitalter zwei machte, die er \n</span><span class=\"tei-line\">nunmehr hinter einander stellte – einmal das Zeitalter \n</span><span class=\"tei-line\">der Helden und Halbgötter von Troja und Theben, so \n</span><span class=\"tei-line\">wie jene Welt im Gedächtniss der vornehmen Ge-\n</span><span class=\"tei-line\">schlechter zurückgeblieben war, die in ihr die eignen \n</span><span class=\"line\">10</span><span class=\"tei-line \">Ahnherrn hatten; sodann das eherne Zeitalter, so wie \n</span><span class=\"tei-line\">jene gleiche Welt den Nachkommen der Niedergetre-\n</span><span class=\"tei-line\">tenen, Beraubten, Misshandelten, Weggeschleppten, \n</span><span class=\"tei-line\">Verkauften erschien: als ein Zeitalter von Erz, wie ge-\n</span><span class=\"tei-line\">sagt, hart, kalt, grausam, gefühl- und gewissenlos, \n</span><span class=\"line\">15</span><span class=\"tei-line \">Alles zermalmend und mit Blut übertünchend. Gesetzt, \n</span><span class=\"tei-line\">dass es wahr wäre, was jetzt jedenfalls als „Wahrheit“ \n</span><span class=\"tei-line\">geglaubt wird, dass es eben der <span class=\"tei-hi2 spaced\">Sinn aller Cultur</span> \n</span><span class=\"tei-line\">sei, aus dem Raubthiere „Mensch“ ein zahmes und \n</span><span class=\"tei-line\">civilisirtes Thier, ein <span class=\"tei-hi2 spaced\">Hausthier</span> herauszuzüchten, so \n</span><span class=\"line\">20</span><span class=\"tei-line \">müsste man unzweifelhaft alle jene Reaktions- und \n</span><span class=\"tei-line\">Ressentiments-Instinkte, mit deren Hülfe die vorneh-\n</span><span class=\"tei-line\">men Geschlechter sammt ihren Idealen schliesslich zu \n</span><span class=\"tei-line\">Schanden gemacht und überwältigt worden sind, als \n</span><span class=\"tei-line\">die eigentlichen <span class=\"tei-hi2 spaced\">Werkzeuge der Cultur</span> betrach-\n</span><span class=\"line\">25</span><span class=\"tei-line \">ten; womit allerdings noch nicht gesagt wäre, dass deren \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Träger</span> zugleich auch selber die Cultur darstellten. \n</span><span class=\"tei-line\">Vielmehr wäre das Gegentheil nicht nur wahrschein-\n</span><span class=\"tei-line\">lich – nein! es ist heute <span class=\"tei-hi2 spaced\">augenscheinlich</span>! Diese \n</span><span class=\"tei-line\">Träger der niederdrückenden und vergeltungslüsternen \n</span><span class=\"line\">30</span><span class=\"tei-line \">Instinkte, die Nachkommen alles europäischen und \n</span><span class=\"tei-line\">nicht europäischen Sklaventhums, aller vorarischen Be-\n</span><span class=\"tei-line\">völkerung in Sonderheit – sie stellen den <span class=\"tei-hi2 spaced\">Rück-\n<span class=\"tei-line\">gang</span>gang</span> der Menschheit dar! Diese „Werkzeuge der \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.25.7.24",
+    "rootNode": "2.5.12.2.25.7.24",
+    "id": "Ed_XIV_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.3",
+    "previous": "2.5.12.2.23.5.96",
+    "nextId": "Ed_XV_id",
+    "previousId": "Ed_XIII_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-body2\"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0019.tif\">XIV</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">einmal tief entzückt hat: erst dann nämlich darf er \n</span><span class=\"tei-line\">des Vorrechts geniessen, an dem halkyonischen Ele-\n</span><span class=\"tei-line\">ment, aus dem jenes Werk geboren ist, an seiner \n</span><span class=\"tei-line\">sonnigen Helle, Ferne, Weite und Gewissheit ehrfürch-\n</span><span class=\"line\">5</span><span class=\"tei-line \">tig Antheil zu haben. In andern Fällen macht die \n</span><span class=\"tei-line\">aphoristische Form Schwierigkeit: sie liegt darin, dass \n</span><span class=\"tei-line\">man diese Form heute <span class=\"tei-hi2 spaced\">nicht schwer genug</span> nimmt. \n</span><span class=\"tei-line\">Ein Aphorismus, rechtschaffen geprägt und ausgegossen, \n</span><span class=\"tei-line\">ist damit, dass er abgelesen ist, noch nicht „entziffert“; \n</span><span class=\"line\">10</span><span class=\"tei-line \">vielmehr hat nun erst dessen <span class=\"tei-hi2 spaced\">Auslegung</span> zu beginnen, \n</span><span class=\"tei-line\">zu der es einer Kunst der Auslegung bedarf. Ich habe \n</span><span class=\"tei-line\">in der dritten Abhandlung dieses Buchs ein Muster von \n</span><span class=\"tei-line\">dem dargeboten, was ich in einem solchen Falle „Aus-\n</span><span class=\"tei-line\">legung“ nenne: – dieser Abhandlung ist ein Aphoris-\n</span><span class=\"line\">15</span><span class=\"tei-line \">mus vorangestellt, sie selbst ist dessen Commentar. Frei-\n</span><span class=\"tei-line\">lich thut, um dergestalt das Lesen als <span class=\"tei-hi2 spaced\">Kunst</span> zu üben, \n</span><span class=\"tei-line\">Eins vor Allem noth, was heutzutage gerade am Besten \n</span><span class=\"tei-line\">verlernt worden ist – und darum hat es noch Zeit bis \n</span><span class=\"tei-line\">zur „Lesbarkeit“ meiner Schriften –, zu dem man bei-\n</span><span class=\"line\">20</span><span class=\"tei-line \">nahe Kuh und jedenfalls <span class=\"tei-hi2 spaced\">nicht</span> „moderner Mensch“ \n</span><span class=\"tei-line last\">sein muss: <span class=\"tei-hi2 spaced\">das Wiederkäuen</span>… </span></p>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line center\"><span class=\"tei-hi2 spaced\">Sils-Maria</span>, Oberengadin, \n</span><span class=\"tei-line center\">im Juli 1887.</span></p>\n\n\n        \n\n  \n</div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

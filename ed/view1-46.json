@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.43.5.87",
+    "rootNode": "2.5.12.4.43.5.87",
+    "id": "Ed_27_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.43.5.170",
+    "previous": "2.5.12.4.41",
+    "nextId": "Ed_28_id",
+    "previousId": "Ed_26_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0048.tif\">27</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Volks-Moral auch die Stärke von den <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">Ausserungen</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">Ausserungen</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">Äusserungen</span> (KGW/KSA)</span></p></template></pb-popover> \n</span><span class=\"tei-line\">der Stärke ab, wie als ob es hinter dem Starken \n</span><span class=\"tei-line\">ein indifferentes Substrat gäbe, dem es <span class=\"tei-hi2 spaced\">freistünde</span>, \n</span><span class=\"tei-line\">Stärke zu äussern oder auch nicht. Aber es giebt kein \n</span><span class=\"line\">5</span><span class=\"tei-line \">solches Substrat; es giebt kein „Sein“ hinter dem \n</span><span class=\"tei-line\">Thun, Wirken, Werden; „der Thäter“ ist zum Thun \n</span><span class=\"tei-line\">bloss hinzugedichtet, – das Thun ist Alles. Das Volk \n</span><span class=\"tei-line\">verdoppelt im Grunde das Thun, wenn es den Blitz \n</span><span class=\"tei-line\">leuchten lässt, das ist ein Thun-Thun: es setzt dasselbe \n</span><span class=\"line\">10</span><span class=\"tei-line \">Geschehen einmal als Ursache und dann noch einmal \n</span><span class=\"tei-line\">als deren Wirkung. Die Naturforscher machen es nicht \n</span><span class=\"tei-line\">besser, wenn sie sagen „die Kraft bewegt, die Kraft \n</span><span class=\"tei-line\">verursacht“ und dergleichen, – unsre ganze Wissen-\n</span><span class=\"tei-line\">schaft steht noch, trotz aller ihrer Kühle, ihrer Freiheit \n</span><span class=\"line\">15</span><span class=\"tei-line \">vom Affekt, unter der Verführung der Sprache und ist \n</span><span class=\"tei-line\">die untergeschobenen Wechselbälge, die „Subjekte“ nicht \n</span><span class=\"tei-line\">losgeworden (das Atom ist zum Beispiel ein solcher \n</span><span class=\"tei-line\">Wechselbalg, insgleichen das Kantische „Ding an \n</span><span class=\"tei-line\">sich“): was Wunder, wenn die zurückgetretenen, ver-\n</span><span class=\"line\">20</span><span class=\"tei-line \">steckt glimmenden Affekte Rache und Hass diesen \n</span><span class=\"tei-line\">Glauben für sich ausnützen und im Grunde sogar \n</span><span class=\"tei-line\">keinen Glauben inbrünstiger aufrecht erhalten als den, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">es stehe dem Starken frei</span>, schwach, und dem \n</span><span class=\"tei-line\">Raubvogel, Lamm zu sein: – damit gewinnen sie ja \n</span><span class=\"line\">25</span><span class=\"tei-line \">bei sich das Recht, dem Raubvogel es <span class=\"tei-hi2 spaced\">zuzurechnen</span>, \n</span><span class=\"tei-line\">Raubvogel zu sein… Wenn die Unterdrückten, Nieder-\n</span><span class=\"tei-line\">getretenen, Vergewaltigten aus der rachsüchtigen List \n</span><span class=\"tei-line\">der Ohnmacht heraus sich zureden: „lasst uns anders \n</span><span class=\"tei-line\">sein als die Bösen, nämlich gut! Und gut ist Jeder, \n</span><span class=\"line\">30</span><span class=\"tei-line \">der nicht vergewaltigt, der Niemanden verletzt, der \n</span><span class=\"tei-line\">nicht angreift, der nicht vergilt, der die Rache Gott \n</span><span class=\"tei-line\">übergiebt, der sich wie wir im Verborgenen hält, der \n</span><span class=\"tei-line\">allem Bösen aus dem Wege geht und wenig über-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

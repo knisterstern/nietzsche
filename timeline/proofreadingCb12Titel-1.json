@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.85",
+    "id": "proofreadingCb12Titel",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"proofreadingCb12Titel\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Korrektur Cb12 und Titelbogen</h5>Korrektur der letzten beiden Bogen, Bogen 12 (½ Bogen, S. 177-[184]: GM III 26-28, Inhaltsverzeichnis, Impressum) und Titelbogen (S. [I]-[XVI]: Titelblatt, Vorrede 1-8, Titelblatt GM I), <span class=\"tei-date2\">zwischen 15. und 18. Oktober 1887</span>.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.47.5.149",
+    "rootNode": "2.5.12.8.47.5.149",
+    "id": "Ed_141_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.55",
+    "previous": "2.5.12.8.47.5.61",
+    "nextId": "Ed_142_id",
+    "previousId": "Ed_140_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0162.tif\">141</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">licher noch an seinem Bauche (grob geredet, wie ge-\n</span><span class=\"tei-line\">sagt: womit noch keineswegs der Wunsch ausgedrückt \n</span><span class=\"tei-line\">ist, auch grob gehört, grob verstanden zu werden…) \n</span><span class=\"tei-line\">Ein starker und wohlgerathener Mensch verdaut seine \n</span><span class=\"line\">5</span><span class=\"tei-line \">Erlebnisse (Thaten, Unthaten eingerechnet) wie er seine \n</span><span class=\"tei-line\">Mahlzeiten verdaut, selbst wenn er harte Bissen zu ver-\n</span><span class=\"tei-line\">schlucken hat. Wird er mit einem Erlebnisse „nicht \n</span><span class=\"tei-line\">fertig“, so ist diese Art Indigestion so gut physiolo-\n</span><span class=\"tei-line\">gisch wie jene andere – und vielfach in der That nur \n</span><span class=\"line\">10</span><span class=\"tei-line \">eine der Folgen jener anderen. – Mit einer solchen \n</span><span class=\"tei-line\">Auffassung kann man, unter uns gesagt, immer noch \n</span><span class=\"tei-line\">der strengste Gegner alles Materialismus sein…]</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">17.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Ist er aber eigentlich ein <span class=\"tei-hi2 spaced\">Arzt</span>, dieser asketische \n</span><span class=\"line\">15</span><span class=\"tei-line \">Priester? – Wir begriffen schon, inwiefern es kaum \n</span><span class=\"tei-line\">erlaubt ist, ihn einen Arzt zu nennen, so gern er auch \n</span><span class=\"tei-line\">selbst sich als „Heiland“ fühlt, als „Heiland“ verehren \n</span><span class=\"tei-line\">lässt. Nur das Leiden selbst, die Unlust des Leiden-\n</span><span class=\"tei-line\">den wird von ihm bekämpft, <span class=\"tei-hi2 spaced\">nicht</span> deren Ursache, \n</span><span class=\"line\">20</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">nicht</span> das eigentliche Kranksein, – das muss unsren \n</span><span class=\"tei-line\">grundsätzlichsten Einwand gegen die priesterliche Me-\n</span><span class=\"tei-line\">dikation abgeben. Stellt man sich aber erst einmal in \n</span><span class=\"tei-line\">die Perspektive, wie der Priester sie allein kennt und \n</span><span class=\"tei-line\">hat, so kommt man nicht leicht zu Ende in der Be-\n</span><span class=\"line\">25</span><span class=\"tei-line \">wunderung, was er unter<span class=\"tei-sic1\">was unter<span class=\"tei-note3 note\">Erratum</span></span> ihr Alles gesehn, gesucht und \n</span><span class=\"tei-line\">gefunden hat. Die <span class=\"tei-hi2 spaced\">Milderung</span> des Leidens, das \n</span><span class=\"tei-line\">„Trösten“ jeder Art, – das erweist sich als sein Genie \n</span><span class=\"tei-line\">selbst: wie erfinderisch hat er seine Tröster-Aufgabe \n</span><span class=\"tei-line\">verstanden, wie unbedenklich und kühn hat er zu ihr \n</span><span class=\"line\">30</span><span class=\"tei-line \">die Mittel gewählt! Das Christenthum in Sonderheit \n</span><span class=\"tei-line\">dürfte man eine grosse Schatzkammer geistreichster \n</span><span class=\"tei-line\">Trostmittel nennen, so viel Erquickliches, Milderndes, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

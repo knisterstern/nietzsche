@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.35.5.248",
+    "rootNode": "2.5.12.4.35.5.248",
+    "id": "Ed_19_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.35.5.352",
+    "previous": "2.5.12.4.35.5.134",
+    "nextId": "Ed_20_id",
+    "previousId": "Ed_18_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0040.tif\">19</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">unterstreicht die nuance „aufrichtig“ und auch wohl \n</span><span class=\"tei-line\">„naiv“), so ist der Mensch des Ressentiment weder auf-\n</span><span class=\"tei-line\">richtig, noch naiv, noch mit sich selber ehrlich und ge-\n</span><span class=\"tei-line\">radezu. Seine Seele <span class=\"tei-hi2 spaced\">schielt</span>; sein Geist liebt Schlupf-\n</span><span class=\"line\">5</span><span class=\"tei-line \">winkel, Schleichwege und Hinterthüren, alles Versteckte \n</span><span class=\"tei-line\">muthet ihn an als <span class=\"tei-hi2 spaced\">seine</span> Welt, <span class=\"tei-hi2 spaced\">seine</span> Sicherheit, <span class=\"tei-hi2 spaced\">sein</span> \n</span><span class=\"tei-line\">Labsal; er versteht sich auf das Schweigen, das Nicht-\n</span><span class=\"tei-line\">Vergessen, das Warten, das vorläufige Sich-verkleinern, \n</span><span class=\"tei-line\">Sich-demüthigen. Eine Rasse solcher Menschen des \n</span><span class=\"line\">10</span><span class=\"tei-line \">Ressentiment wird nothwendig endlich <span class=\"tei-hi2 spaced\">klüger</span> sein \n</span><span class=\"tei-line\">als irgend eine vornehme Rasse, sie wird die Klugheit \n</span><span class=\"tei-line\">auch in ganz andrem Maasse ehren: nämlich als eine \n</span><span class=\"tei-line\">Existenzbedingung ersten Ranges, während die Klug-\n</span><span class=\"tei-line\">heit bei vornehmen Menschen leicht einen feinen Bei-\n</span><span class=\"line\">15</span><span class=\"tei-line \">geschmack von Luxus und Raffinement an sich hat: – \n</span><span class=\"tei-line\">sie ist eben hier lange nicht so wesentlich, als die voll-\n</span><span class=\"tei-line\">kommne Funktions-Sicherheit der regulirenden <span class=\"tei-hi2 spaced\">unbe-\n<span class=\"tei-line\">wussten</span>wussten</span> Instinkte oder selbst eine gewisse Unklugheit, \n</span><span class=\"tei-line\">etwa das tapfre Drauflosgehn, sei es auf die Gefahr, \n</span><span class=\"line\">20</span><span class=\"tei-line \">sei es auf den Feind, oder jene schwärmerische Plötz-\n</span><span class=\"tei-line\">lichkeit von Zorn, Liebe, Ehrfurcht, Dankbarkeit und \n</span><span class=\"tei-line\">Rache, an der sich zu allen Zeiten die vornehmen Seelen \n</span><span class=\"tei-line\">wiedererkannt haben. Das Ressentiment des vorneh-\n</span><span class=\"tei-line\">men Menschen selbst, wenn es an ihm auftritt, voll-\n</span><span class=\"line\">25</span><span class=\"tei-line \">zieht und erschöpft sich nämlich in einer sofortigen \n</span><span class=\"tei-line\">Reaktion, es <span class=\"tei-hi2 spaced\">vergiftet</span> darum nicht: andrerseits tritt \n</span><span class=\"tei-line\">es in unzähligen Fällen gar nicht auf, wo es bei allen \n</span><span class=\"tei-line\">Schwachen und Ohnmächtigen unvermeidlich ist. Seine \n</span><span class=\"tei-line\">Feinde, seine Unfälle, seine <span class=\"tei-hi2 spaced\">Unthaten</span> selbst nicht \n</span><span class=\"line\">30</span><span class=\"tei-line \">lange ernst nehmen können – das ist das Zeichen \n</span><span class=\"tei-line\">starker voller Naturen, in denen ein Überschuss plasti-\n</span><span class=\"tei-line\">scher, nachbildender, ausheilender, auch vergessen ma-\n</span><span class=\"tei-line\">chender Kraft ist (ein gutes Beispiel dafür aus der \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

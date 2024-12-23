@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.55.5.48.3",
+    "rootNode": "2.5.12.8.55.5.48.3",
+    "id": "Ed_154_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.55.5.128",
+    "previous": "2.5.12.8.53.5.281",
+    "nextId": "Ed_155_id",
+    "previousId": "Ed_153_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><p class=\"tei-p8 tei-p\"><span class=\"tei-line\">wird den in diese neun Worte gedrängten Inhalt des \n</span><span class=\"tei-line\">nunmehr Darzustellenden im Wesentlichen schon vor-\n</span><span class=\"line\">5</span><span class=\"tei-line \">wegnehmen. Die menschliche Seele einmal aus allen \n</span><span class=\"tei-line\">ihren Fugen zu lösen, sie in Schrecken, Fröste, Glu-\n</span><span class=\"tei-line\">then und Entzückungen derartig unterzutauchen, dass \n</span><span class=\"tei-line\">sie von allem Kleinen und Kleinlichen der Unlust, der \n</span><span class=\"tei-line\">Dumpfheit, der Verstimmung wie durch einen Blitz-\n</span><span class=\"line\">10</span><span class=\"tei-line \">schlag loskommt: welche Wege führen zu <span class=\"tei-hi2 spaced\">diesem</span> \n</span><span class=\"tei-line\">Ziele? Und welche von ihnen am sichersten?… Im \n</span><span class=\"tei-line\">Grunde haben alle grossen Affekte ein Vermögen dazu, \n</span><span class=\"tei-line\">vorausgesetzt, dass sie sich plötzlich entladen, Zorn, \n</span><span class=\"tei-line\">Furcht, Wollust, Rache, Hoffnung, Triumph, Verzweif-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lung, Grausamkeit; und wirklich hat der asketische \n</span><span class=\"tei-line\">Priester unbedenklich die <span class=\"tei-hi2 spaced\">ganze</span> Meute wilder Hunde \n</span><span class=\"tei-line\">im Menschen in seinen Dienst genommen und bald \n</span><span class=\"tei-line\">diesen, bald jenen losgelassen, immer zu dem gleichen \n</span><span class=\"tei-line\">Zwecke, den Menschen aus der langsamen Traurigkeit \n</span><span class=\"line\">20</span><span class=\"tei-line \">aufzuwecken, seinen dumpfen Schmerz, sein zögerndes \n</span><span class=\"tei-line\">Elend für Zeiten wenigstens in die Flucht zu jagen, \n</span><span class=\"tei-line\">immer auch unter einer religiösen Interpretation und \n</span><span class=\"tei-line\">„Rechtfertigung“. Jede derartige Ausschweifung des \n</span><span class=\"tei-line\">Gefühls macht sich hinterdrein <span class=\"tei-hi2 spaced\">bezahlt</span>, das versteht \n</span><span class=\"line\">25</span><span class=\"tei-line \">sich von selbst – sie macht den Kranken kränker –: \n</span><span class=\"tei-line\">und deshalb ist diese Art von Remeduren des Schmer-\n</span><span class=\"tei-line\">zes, nach modernem Maasse gemessen, eine „schuldige“ \n</span><span class=\"tei-line\">Art. Man muss jedoch, weil es die Billigkeit verlangt, \n</span><span class=\"tei-line\">um so mehr darauf bestehen, dass sie <span class=\"tei-hi2 spaced\">mit gutem \n<span class=\"line\">30</span><span class=\"tei-line \">Gewissen</span>Gewissen</span> angewendet worden ist, dass der asketische \n</span><span class=\"tei-line\">Priester sie im tiefsten Glauben an ihre Nützlichkeit, \n</span><span class=\"tei-line\">ja Unentbehrlichkeit verordnet hat, – und oft genug \n</span><span class=\"tei-line\">selbst vor dem Jammer, den er schuf, fast zerbrechend; \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

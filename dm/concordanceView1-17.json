@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.17",
+    "rootNode": "2.9.17",
+    "id": "srcD_surface_a14r",
+    "odd": "surface.odd",
+    "next": "2.9.18",
+    "previous": "2.9.16",
+    "nextId": "srcD_surface_a15r",
+    "previousId": "srcD_surface_a13r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 11</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 288/274,5-291/277,22</li><li class=\"tei-ab2\"><a data-id=\"Ed_20_id\" data-doc=\"E40.xml\">Ed 20,21-24,25</a></li><li class=\"tei-ab2\"><a data-id=\"a12r\" data-doc=\"D20.xml\">Dm a12r,29-38, a13r,1-38, a14r,1-8</a></li></ul><p></p></div><div class=\"QV\"><h3>GM I 12</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 291/277,23-292/278,26</li><li class=\"tei-ab2\"><a data-id=\"Ed_24_id\" data-doc=\"E40.xml\">Ed 24,26-25,33</a></li><li class=\"tei-ab2\"><a data-id=\"a14r\" data-doc=\"D20.xml\">Dm a14r,9-26</a></li></ul><p></p></div><div class=\"QV\"><h3>GM I 13</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 292/278,27-295/281,5</li><li class=\"tei-ab2\"><a data-id=\"Ed_26_id\" data-doc=\"E40.xml\">Ed 26,1-28,26</a></li><li class=\"tei-ab2\"><a data-id=\"a14r\" data-doc=\"D20.xml\">Dm a14r,28-40, a15r,1-29</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "querverweis",
+        "webcomponents": 7,
+        "type": "concordance"
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.35.5.352",
+    "rootNode": "2.5.12.4.35.5.352",
+    "id": "Ed_20_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.37.5.34",
+    "previous": "2.5.12.4.35.5.248",
+    "nextId": "Ed_21_id",
+    "previousId": "Ed_19_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0041.tif\">20</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">modernen Welt ist Mirabeau, welcher kein Gedächtniss \n</span><span class=\"tei-line\">für Insulte und Niederträchtigkeiten hatte, die man an \n</span><span class=\"tei-line\">ihm begieng, und der nur deshalb nicht vergeben konnte, \n</span><span class=\"tei-line\">weil er – vergass). Ein solcher Mensch schüttelt eben \n</span><span class=\"line\">5</span><span class=\"tei-line \">viel Gewürm mit Einem Ruck von sich, das sich bei \n</span><span class=\"tei-line\">Anderen eingräbt; hier allein ist auch das möglich, \n</span><span class=\"tei-line\">gesetzt, dass es überhaupt auf Erden möglich ist – die \n</span><span class=\"tei-line\">eigentliche „<span class=\"tei-hi2 spaced\">Liebe</span> zu seinen Feinden“. Wie viel Ehr-\n</span><span class=\"tei-line\">furcht vor seinen Feinden hat schon ein vornehmer \n</span><span class=\"line\">10</span><span class=\"tei-line \">Mensch! – und eine solche Ehrfurcht ist schon eine \n</span><span class=\"tei-line\">Brücke zur Liebe… Er verlangt ja seinen Feind für \n</span><span class=\"tei-line\">sich, als seine Auszeichnung, er hält ja keinen andren \n</span><span class=\"tei-line\">Feind aus, als einen solchen, an dem Nichts zu ver-\n</span><span class=\"tei-line\">achten und <span class=\"tei-hi2 spaced\">sehr Viel</span> zu ehren ist! Dagegen stelle \n</span><span class=\"line\">15</span><span class=\"tei-line \">man sich „den Feind“ vor, wie ihn der Mensch des \n</span><span class=\"tei-line\">Ressentiment concipirt – und hier gerade ist seine \n</span><span class=\"tei-line\">That, seine Schöpfung: er hat „den bösen Feind“ con-\n</span><span class=\"tei-line\">cipirt, „<span class=\"tei-hi2 spaced\">den Bösen</span>“, und zwar als Grundbegriff, von \n</span><span class=\"tei-line\">dem aus er sich als Nachbild und Gegenstück nun auch \n</span><span class=\"line\">20</span><span class=\"tei-line \">noch einen „Guten“ ausdenkt – sich selbst!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">11.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Gerade umgekehrt also wie bei dem Vornehmen, \n</span><span class=\"tei-line\">der den Grundbegriff „gut“ voraus und spontan, näm-\n</span><span class=\"tei-line\">lich von sich aus concipirt und von da aus erst eine \n</span><span class=\"line\">25</span><span class=\"tei-line \">Vorstellung von „schlecht“ sich schafft! Dies „schlecht“ \n</span><span class=\"tei-line\">vornehmen Ursprungs und jenes „böse“ aus dem Brau-\n</span><span class=\"tei-line\">kessel des ungesättigten Hasses – das erste eine Nach-\n</span><span class=\"tei-line\">schöpfung, ein Nebenher, eine Complementärfarbe, das \n</span><span class=\"tei-line\">zweite dagegen das Original, der Anfang, die eigent-\n</span><span class=\"line\">30</span><span class=\"tei-line \">liche <span class=\"tei-hi2 spaced\">That</span> in der Conception einer Sklaven-Moral – \n</span><span class=\"tei-line\">wie verschieden stehen die beiden scheinbar demselben \n</span><span class=\"tei-line\">Begriff „gut“ entgegengestellten Worte „schlecht“ und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

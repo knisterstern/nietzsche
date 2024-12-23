@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.23.5.96",
+    "rootNode": "2.5.12.2.23.5.96",
+    "id": "Ed_XIII_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.25.7.24",
+    "previous": "2.5.12.2.23.5.14",
+    "nextId": "Ed_XIV_id",
+    "previousId": "Ed_XII_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0018.tif\">XIII</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">lich gar nicht lohne, alle diese Dinge – die Probleme \n</span><span class=\"tei-line\">der Moral – so ernst zu nehmen. Mir nun scheint es \n</span><span class=\"tei-line\">umgekehrt gar keine Dinge zu geben, die es mehr \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">lohnten</span>, dass man sie ernst nimmt; zu welchem Lohne \n</span><span class=\"line\">5</span><span class=\"tei-line \">es zum Beispiel gehört, dass man eines Tags vielleicht \n</span><span class=\"tei-line\">die Erlaubniss erhält, sie <span class=\"tei-hi2 spaced\">heiter</span> zu nehmen. Die Hei-\n</span><span class=\"tei-line\">terkeit nämlich oder, um es in meiner Sprache zu sagen, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">die fröhliche Wissenschaft</span> – ist ein Lohn: ein \n</span><span class=\"tei-line\">Lohn für einen langen, tapferen, arbeitsamen und unter-\n</span><span class=\"line\">10</span><span class=\"tei-line \">irdischen Ernst, der freilich nicht Jedermanns Sache \n</span><span class=\"tei-line\">ist. An dem Tage aber, wo wir aus vollem Herzen \n</span><span class=\"tei-line\">sagen: „vorwärts! auch unsre alte Moral gehört<span class=\"tei-hi2 spaced\"> in die \n<span class=\"tei-line\">Komödie</span>Komödie</span>!“ haben wir für das dionysische Drama \n</span><span class=\"tei-line\">vom „Schicksal der Seele“ eine neue Verwicklung und \n</span><span class=\"line\">15</span><span class=\"tei-line \">Möglichkeit entdeckt –: und er wird sie sich schon \n</span><span class=\"tei-line\">zu Nutze machen, darauf darf man wetten, er, der \n</span><span class=\"tei-line\">grosse alte ewige Komödiendichter unsres Daseins!…</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">8.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Wenn diese Schrift irgend Jemandem unverständ-\n</span><span class=\"line\">20</span><span class=\"tei-line \">lich ist und schlecht zu Ohren geht, so liegt die Schuld, \n</span><span class=\"tei-line\">wie mich dünkt, nicht nothwendig an mir. Sie ist \n</span><span class=\"tei-line\">deutlich genug, vorausgesetzt, was ich voraussetze, dass \n</span><span class=\"tei-line\">man zuerst meine früheren Schriften gelesen und einige \n</span><span class=\"tei-line\">Mühe dabei nicht gespart hat: diese sind in der That \n</span><span class=\"line\">25</span><span class=\"tei-line \">nicht leicht zugänglich. Was zum Beispiel meinen \n</span><span class=\"tei-line\">„Zarathustra“ anbetrifft, so lasse ich Niemanden als \n</span><span class=\"tei-line\">dessen Kenner gelten, den nicht jedes seiner Worte \n</span><span class=\"tei-line\">irgendwann einmal tief verwundet und irgendwann \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

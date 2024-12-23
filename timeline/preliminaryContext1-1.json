@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.5",
+    "id": "preliminaryContext1",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"preliminaryContext1\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Enttäuschende Verkaufszahlen von JGB</h5>Trotz großer verlegerischer Bemühungen hat sich auch JGB, das im Sommer 1886 auf Ns eigene Kosten im Druck und Verlag von C. G. Naumann erschienen war, schlecht verkauft, was N vermutlich <span class=\"tei-date2\">Anfang Juni 1887</span> von seinem Verleger Naumann erfährt.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.89",
+    "id": "unboundCopySignature9-12.Titel",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"unboundCopySignature9-12.Titel\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Aushänger von Bogen 9-12 und Titelbogen</h5>N erbittet sich am <pb-popover class=\"alternate tei-date1\" id=\"altref_1\"><span slot=\"default\">3. November 1887</span><template slot=\"alternate\">1887-11-03</template></pb-popover> von Naumann die restlichen Aushänger.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

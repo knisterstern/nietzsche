@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.33.5.46",
+    "rootNode": "2.5.12.4.33.5.46",
+    "id": "Ed_16_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.35.5.38",
+    "previous": "2.5.12.4.31.5.107",
+    "nextId": "Ed_17_id",
+    "previousId": "Ed_15_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0037.tif\">16</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">sein – man hat ja Zeit… Kommt der Kirche in die-\n</span><span class=\"tei-line\">ser Absicht heute noch eine <span class=\"tei-hi2 spaced\">nothwendige</span> Aufgabe, \n</span><span class=\"tei-line\">überhaupt noch ein Recht auf Dasein zu? Oder könnte \n</span><span class=\"tei-line\">man ihrer entrathen? Quaeritur. Es scheint, dass sie \n</span><span class=\"line\">5</span><span class=\"tei-line \">jenen Gang eher hemmt und zurückhält, statt ihn zu \n</span><span class=\"tei-line\">beschleunigen? Nun, eben das könnte ihre Nützlichkeit \n</span><span class=\"tei-line\">sein… Sicherlich ist sie nachgerade etwas Gröb-\n</span><span class=\"tei-line\">liches und Bäurisches, das einer zarteren Intelligenz, \n</span><span class=\"tei-line\">einem eigentlich modernen Geschmacke widersteht. \n</span><span class=\"line\">10</span><span class=\"tei-line \">Sollte sie sich zum Mindesten nicht etwas raffinieren?… \n</span><span class=\"tei-line\">Sie entfremdet heute mehr, als dass sie verführte… \n</span><span class=\"tei-line\">Wer von uns würde wohl Freigeist sein, wenn es nicht \n</span><span class=\"tei-line\">die Kirche gäbe? Die Kirche widersteht uns, <span class=\"tei-hi2 spaced\">nicht</span> ihr \n</span><span class=\"tei-line\">Gift… Von der Kirche abgesehn lieben auch wir das \n</span><span class=\"line\">15</span><span class=\"tei-line \">Gift…“ – Dies der Epilog eines „Freigeistes“ zu \n</span><span class=\"tei-line\">meiner Rede, eines ehrlichen Thiers, wie er reichlich \n</span><span class=\"tei-line\">verrathen hat, überdies eines Demokraten; er hatte mir \n</span><span class=\"tei-line\">bis dahin zugehört und hielt es nicht aus, mich schwei-\n</span><span class=\"tei-line\">gen zu hören. Für mich nämlich giebt es an dieser \n</span><span class=\"line\">20</span><span class=\"tei-line \">Stelle viel zu schweigen. –</span></p>\n         \n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">10.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Der Sklavenaufstand in der Moral beginnt damit, \n</span><span class=\"tei-line\">dass das <span class=\"tei-hi2 spaced\">Ressentiment</span> selbst schöpferisch wird und \n</span><span class=\"tei-line\">Werthe gebiert: das Ressentiment solcher Wesen, denen \n</span><span class=\"line\">25</span><span class=\"tei-line \">die eigentliche Reaktion, die der That versagt ist, die \n</span><span class=\"tei-line\">sich nur durch eine imaginäre Rache schadlos halten. \n</span><span class=\"tei-line\">Während alle vornehme Moral aus einem triumphiren-\n</span><span class=\"tei-line\">den Ja-sagen zu sich selber herauswächst, sagt die \n</span><span class=\"tei-line\">Sklaven-Moral von vornherein Nein zu einem „Ausser-\n</span><span class=\"line\">30</span><span class=\"tei-line \">halb“, zu einem „Anders“, zu einem „Nicht-selbst“: und \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">dies</span> Nein ist ihre schöpferische That. Diese Umkeh-\n</span><span class=\"tei-line\">rung des werthe-setzenden Blicks – diese <span class=\"tei-hi2 spaced\">nothwen-\n<span class=\"tei-line\">dige</span>dige</span> Richtung nach Aussen statt zurück auf sich \n  \n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

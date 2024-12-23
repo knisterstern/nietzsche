@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.12.7.76",
+    "rootNode": "2.5.12.6.12.7.76",
+    "id": "Ed_42_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.12.7.162",
+    "previous": "2.5.12.6.10",
+    "nextId": "Ed_43_id",
+    "previousId": "Ed_41_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0063.tif\">42</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">einer Aufrechterhalterin der seelischen Ordnung, der \n</span><span class=\"tei-line\">Ruhe, der Etiquette: womit sofort abzusehn ist, inwie-\n</span><span class=\"tei-line\">fern es kein Glück, keine Heiterkeit, keine Hoffnung, \n</span><span class=\"tei-line\">keinen Stolz, keine <span class=\"tei-hi2 spaced\">Gegenwart</span> geben könnte ohne \n</span><span class=\"line\">5</span><span class=\"tei-line \">Vergesslichkeit. Der Mensch, in dem dieser Hemmungs-\n</span><span class=\"tei-line\">apparat beschädigt wird und aussetzt, ist einem Dys-\n</span><span class=\"tei-line\">peptiker zu vergleichen (und nicht nur zu vergleichen –) \n</span><span class=\"tei-line\">er wird mit Nichts „fertig“… Eben dieses nothwendig \n</span><span class=\"tei-line\">vergessliche Thier, an dem das Vergessen eine Kraft, \n</span><span class=\"line\">10</span><span class=\"tei-line \">eine Form der <span class=\"tei-hi2 spaced\">starken</span> Gesundheit darstellt, hat sich \n</span><span class=\"tei-line\">nun ein Gegenvermögen angezüchtet, ein Gedächtniss, \n</span><span class=\"tei-line\">mit Hülfe dessen für gewisse Fälle die Vergesslichkeit \n</span><span class=\"tei-line\">ausgehängt wird, – für die Fälle nämlich, dass ver-\n</span><span class=\"tei-line\">sprochen werden soll: somit keineswegs bloss ein pas-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sivisches Nicht-wieder-los-werden-können des einmal \n</span><span class=\"tei-line\">eingeritzten Eindrucks, nicht bloss die Indigestion an \n</span><span class=\"tei-line\">einem ein Mal verpfändeten Wort, mit dem man nicht \n</span><span class=\"tei-line\">wieder fertig wird, sondern ein aktives Nicht-wieder-\n</span><span class=\"tei-line\">los-werden-<span class=\"tei-hi2 spaced\">wollen</span>, ein Fort- und Fortwollen des ein \n</span><span class=\"line\">20</span><span class=\"tei-line \">Mal Gewollten, ein eigentliches <span class=\"tei-hi2 spaced\">Gedächtniss des \n<span class=\"tei-line\">Willens</span>Willens</span>: so dass zwischen das ursprüngliche „ich \n</span><span class=\"tei-line\">will“ „ich werde thun“ und die eigentliche Entladung \n</span><span class=\"tei-line\">des Willens, seinen <span class=\"tei-hi2 spaced\">Akt</span>, unbedenklich eine Welt von \n</span><span class=\"tei-line\">neuen fremden Dingen, Umständen, selbst Willensakten \n</span><span class=\"line\">25</span><span class=\"tei-line \">dazwischengelegt werden darf, ohne dass diese lange \n</span><span class=\"tei-line\">Kette des Willens springt. Was setzt das aber Alles \n</span><span class=\"tei-line\">voraus! Wie muss der Mensch, um dermaassen über \n</span><span class=\"tei-line\">die Zukunft voraus zu verfügen, erst gelernt haben \n</span><span class=\"tei-line\">das nothwendige vom zufälligen Geschehen scheiden, \n</span><span class=\"line\">30</span><span class=\"tei-line \">causal denken, das Ferne wie gegenwärtig sehn und \n</span><span class=\"tei-line\">vorwegnehmen, was Zweck ist, was Mittel dazu ist, mit \n</span><span class=\"tei-line\">Sicherheit ansetzen, überhaupt rechnen, berechnen \n</span><span class=\"tei-line\">können, – wie muss dazu der Mensch selbst vorerst \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

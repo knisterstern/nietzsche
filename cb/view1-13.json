@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.25.7",
+    "rootNode": "2.7.2.2.25.7",
+    "id": "Cb_a13",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.27.7",
+    "previous": "2.7.2.2.25.5",
+    "nextId": "Cb_a14",
+    "previousId": "Cb_a12",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0020.tif\">a13</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"7-8\"><span><span>Se<span class=\"tei-sic2\">e</span>lig-/keit</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"12\"><span><span>sein!<span class=\"tei-sic2\">…“</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">“…</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span>Böse<span class=\"tei-sic2\">,</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">“</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"27\"><span><span>Dar<span class=\"tei-sic2\">um</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"28\"><span><span>langen</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">schwarze Tinte (2), N</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

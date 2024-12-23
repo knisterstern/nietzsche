@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.67.7.256",
+    "rootNode": "2.5.12.8.67.7.256",
+    "id": "Ed_178_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.69.5.31",
+    "previous": "2.5.12.8.67.7.166.6",
+    "nextId": "Ed_179_id",
+    "previousId": "Ed_177_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0199.tif\">178</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">branntesten Wassern des Geistes, daher auch die widrige, \n</span><span class=\"tei-line\">übelriechende, verlogne, pseudo-alkoholische Luft über-\n</span><span class=\"tei-line\">all. Ich möchte wissen, wie viel Schiffsladungen von \n</span><span class=\"tei-line\">nachgemachtem Idealismus, von Helden-Kostümen und \n</span><span class=\"line\">5</span><span class=\"tei-line \">Klapperblech grosser Worte, wie viel Tonnen ver-\n</span><span class=\"tei-line\">zuckerten spirituosen Mitgefühls (Firma: la religion de \n</span><span class=\"tei-line\">la souffrance), wie viel Stelzbeine „edler Entrüstung“ \n</span><span class=\"tei-line\">zur Nachhülfe geistig Plattfüssiger, wie viel <span class=\"tei-hi2 spaced\">Komö-\n<span class=\"tei-line\">dianten</span>dianten</span> des christlich-moralischen Ideals heute aus \n</span><span class=\"line\">10</span><span class=\"tei-line \">Europa exportirt werden müssten, damit seine Luft \n</span><span class=\"tei-line\">wieder reinlicher röche… Ersichtlich steht in Hin-\n</span><span class=\"tei-line\">sicht auf diese Überproduktion eine neue <span class=\"tei-hi2 spaced\">Handels</span>-\n</span><span class=\"tei-line\">Möglichkeit offen, ersichtlich ist mit kleinen Ideal-\n</span><span class=\"tei-line\">Götzen und zugehörigen „Idealisten“ ein neues „Ge-\n</span><span class=\"line\">15</span><span class=\"tei-line \">schäft“ zu machen – man überhöre diesen Zaunspfahl \n</span><span class=\"tei-line\">nicht! Wer hat Muth genug dazu? – wir haben es \n</span><span class=\"tei-line\">in der <span class=\"tei-hi2 spaced\">Hand</span>, die ganze Erde zu „idealisiren“!… \n</span><span class=\"tei-line\">Aber was rede ich von Muth: hier thut Eins nur Noth, \n</span><span class=\"tei-line\">eben die Hand, eine unbefangne, eine sehr unbefangne \n</span><span class=\"line\">20</span><span class=\"tei-line \">Hand…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">27.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Genug! Genug! Lassen wir diese Curiositäten \n</span><span class=\"tei-line\">und Complexitäten des modernsten Geistes, an denen \n</span><span class=\"tei-line\">ebensoviel zum Lachen als zum Verdriessen ist: gerade \n</span><span class=\"line\">25</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">unser</span> Problem kann deren entrathen, das Problem \n</span><span class=\"tei-line\">von der <span class=\"tei-hi2 spaced\">Bedeutung</span> des asketischen Ideals, – was \n</span><span class=\"tei-line\">hat dasselbe mit Gestern und Heute zu thun! Jene \n</span><span class=\"tei-line\">Dinge sollen von mir in einem andren Zusammenhange \n</span><span class=\"tei-line\">gründlicher und härter angefasst werden (unter dem \n</span><span class=\"line\">30</span><span class=\"tei-line \">Titel „Zur Geschichte des europäischen Nihilismus“; \n</span><span class=\"tei-line\">ich verweise dafür auf ein Werk, das ich vorbereite: \n</span><span class=\"tei-line\"><span class=\"tei-hi2 bold\">Der Wille zur Macht,</span> rend=bold!!! CSS?!  <span class=\"tei-hi2 spaced\">Versuch einer Umwerthung \n<span class=\"tei-line\">aller Werthe</span>aller Werthe</span>). Worauf es mir allein ankommt hier \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

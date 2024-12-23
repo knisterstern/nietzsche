@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.36",
+    "rootNode": "2.9.36",
+    "id": "srcD_surface_b59r",
+    "odd": "surface.odd",
+    "next": "2.9.37",
+    "previous": "2.9.35",
+    "nextId": "srcD_surface_b66r",
+    "previousId": "srcD_surface_b27r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 25</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 420/402,1-423/405,27</li><li class=\"tei-ab2\"><a data-id=\"Ed_170_id\" data-doc=\"E40.xml\">Ed 170,19-175,5</a></li><li class=\"tei-ab2\"><a data-id=\"b57r\" data-doc=\"D20.xml\">Dm b57r,21-24</a>, <a data-id=\"b58r\" data-doc=\"D20.xml\">b58r,1-25</a>, <a data-id=\"b59r\" data-doc=\"D20.xml\">b59r,1-24</a>, <a data-id=\"b60r\" data-doc=\"D20.xml\">b60r,1-26</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "querverweis",
+        "webcomponents": 7,
+        "type": "concordance"
+    },
+    "collection": ""
+}

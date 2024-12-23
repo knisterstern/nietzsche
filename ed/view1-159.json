@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.47.5.61",
+    "rootNode": "2.5.12.8.47.5.61",
+    "id": "Ed_140_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.47.5.149",
+    "previous": "2.5.12.8.45.6.335",
+    "nextId": "Ed_141_id",
+    "previousId": "Ed_139_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0161.tif\">140</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Organisation der Kranken auf der einen Seite (– das \n</span><span class=\"tei-line\">Wort „Kirche“ ist dafür der populärste Name), eine Art \n</span><span class=\"tei-line\">vorläufiger Sicherstellung der Gesünder-Gerathenen, der \n</span><span class=\"tei-line\">Voller-Ausgegossenen auf der andern, die Aufreissung \n</span><span class=\"line\">5</span><span class=\"tei-line \">einer <span class=\"tei-hi2 spaced\">Kluft</span> somit zwischen Gesund und Krank – das \n</span><span class=\"tei-line\">war für lange Alles! Und es war Viel! es war <span class=\"tei-hi2 spaced\">sehr \n<span class=\"tei-line\">Viel</span>Viel</span>!… [Ich gehe in dieser Abhandlung, wie man sieht, \n</span><span class=\"tei-line\">von einer Voraussetzung aus, die ich in Hinsicht auf \n</span><span class=\"tei-line\">Leser, wie ich sie brauche, nicht erst zu begründen habe: \n</span><span class=\"line\">10</span><span class=\"tei-line \">dass „Sündhaftigkeit“ am Menschen kein Thatbestand \n</span><span class=\"tei-line\">ist, vielmehr nur die Interpretation eines Thatbestandes, \n</span><span class=\"tei-line\">nämlich einer physiologischen Verstimmung, – letztere \n</span><span class=\"tei-line\">unter einer moralisch-religiösen Perspektive gesehn, \n</span><span class=\"tei-line\">welche für uns nichts Verbindliches mehr hat. – Da-\n</span><span class=\"line\">15</span><span class=\"tei-line \">mit, dass Jemand sich „schuldig“, „sündig“ <span class=\"tei-hi2 spaced\">fühlt</span>, ist \n</span><span class=\"tei-line\">schlechterdings noch nicht bewiesen, dass er sich mit \n</span><span class=\"tei-line\">Recht so fühlt; so wenig Jemand gesund ist, bloss \n</span><span class=\"tei-line\">deshalb, weil er sich gesund fühlt. Man erinnere sich \n</span><span class=\"tei-line\">doch der berühmten Hexen-Prozesse: damals zweifelten \n</span><span class=\"line\">20</span><span class=\"tei-line \">die scharfsichtigsten und menschenfreundlichsten Rich-\n</span><span class=\"tei-line\">ter nicht daran, dass hier eine Schuld vorliege; die \n</span><span class=\"tei-line\">„Hexen“ <span class=\"tei-hi2 spaced\">selbst zweifelten nicht daran</span>, – und \n</span><span class=\"tei-line\">dennoch fehlte die Schuld. – Um jene Voraussetzung \n</span><span class=\"tei-line\">in erweiterter Form auszudrücken: der „seelische \n</span><span class=\"line\">25</span><span class=\"tei-line \">Schmerz“ selbst gilt mir überhaupt nicht als Thatbe-\n</span><span class=\"tei-line\">stand, sondern nur als eine Auslegung (Causal-Aus-\n</span><span class=\"tei-line\">legung) von bisher nicht exakt zu formulirenden That-\n</span><span class=\"tei-line\">beständen: somit als Etwas, das vollkommen noch in \n</span><span class=\"tei-line\">der Luft schwebt und wissenschaftlich unverbindlich \n</span><span class=\"line\">30</span><span class=\"tei-line \">ist, – ein fettes Wort eigentlich nur an Stelle eines \n</span><span class=\"tei-line\">sogar spindeldürren Fragezeichens. Wenn Jemand mit \n</span><span class=\"tei-line\">einem „seelischen Schmerz“ nicht fertig wird, so liegt \n</span><span class=\"tei-line\">das, grob geredet, <span class=\"tei-hi2 spaced\">nicht</span> an seiner „Seele“; wahrschein-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

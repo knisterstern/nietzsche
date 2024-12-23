@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.40.5.100",
+    "rootNode": "2.5.12.6.40.5.100",
+    "id": "Ed_76_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.42.5.50",
+    "previous": "2.5.12.6.40.5.8",
+    "nextId": "Ed_77_id",
+    "previousId": "Ed_75_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0097.tif\">76</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Gedächtnisses, in einem Willen, fürderhin vorsichtiger, \n</span><span class=\"tei-line\">misstrauischer, heimlicher zu Werke zu gehn, in der \n</span><span class=\"tei-line\">Einsicht, dass man für Vieles ein-für-alle-Mal zu schwach \n</span><span class=\"tei-line\">sei, in einer Art Verbesserung der Selbstbeurtheilung. \n</span><span class=\"line\">5</span><span class=\"tei-line \">Das, was durch die Strafe im Grossen erreicht werden \n</span><span class=\"tei-line\">kann, bei Mensch und Thier, ist die Vermehrung der \n</span><span class=\"tei-line\">Furcht, die Verschärfung der Klugheit, die Bemeiste-\n</span><span class=\"tei-line\">rung der Begierden: damit <span class=\"tei-hi2 spaced\">zähmt</span> die Strafe den Men-\n</span><span class=\"tei-line\">schen, aber sie macht ihn nicht „besser“, – man dürfte \n</span><span class=\"line\">10</span><span class=\"tei-line \">mit mehr Recht noch das Gegentheil behaupten. („Scha-\n</span><span class=\"tei-line\">den macht klug“, sagt das Volk: soweit er klug macht, \n</span><span class=\"tei-line\">macht er auch schlecht. Glücklicher Weise macht er \n</span><span class=\"tei-line\">oft genug dumm.)</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">16.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">15</span><span class=\"tei-line indent\">An dieser Stelle ist es nun nicht mehr zu umgehn, \n</span><span class=\"tei-line\">meiner eignen Hypothese über den Ursprung des \n</span><span class=\"tei-line\">„schlechten Gewissens“ zu einem ersten vorläufigen \n</span><span class=\"tei-line\">Ausdrucke zu verhelfen: sie ist nicht leicht zu Gehör \n</span><span class=\"tei-line\">zu bringen und will lange bedacht, bewacht und be-\n</span><span class=\"line\">20</span><span class=\"tei-line \">schlafen sein. Ich nehme das schlechte Gewissen als \n</span><span class=\"tei-line\">die tiefe Erkrankung, welcher der Mensch unter dem \n</span><span class=\"tei-line\">Druck jener gründlichsten aller Veränderungen ver-\n</span><span class=\"tei-line\">fallen musste, die er überhaupt erlebt hat, – jener Ver-\n</span><span class=\"tei-line\">änderung, als er sich endgültig in den Bann der Ge-\n</span><span class=\"line\">25</span><span class=\"tei-line \">sellschaft und des Friedens eingeschlossen fand. Nicht \n</span><span class=\"tei-line\">anders als es den Wasserthieren ergangen sein <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">muss</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">muss</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">muss,</span> (KGW/KSA)</span></p></template></pb-popover> \n</span><span class=\"tei-line\">als sie gezwungen wurden, entweder Landthiere zu \n</span><span class=\"tei-line\">werden oder zu Grunde zu gehn, so gieng es diesen \n</span><span class=\"tei-line\">der Wildniss, dem Kriege, dem Herumschweifen, dem \n</span><span class=\"line\">30</span><span class=\"tei-line \">Abenteuer glücklich angepassten Halbthieren, – mit \n</span><span class=\"tei-line\">Einem Male waren alle ihre Instinkte entwerthet und \n</span><span class=\"tei-line\">„ausgehängt“. Sie sollten nunmehr auf den Füssen \n</span><span class=\"tei-line\">gehn und „sich selber tragen“, wo sie bisher vom \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

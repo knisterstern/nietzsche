@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.25.5.172",
+    "rootNode": "2.5.12.4.25.5.172",
+    "id": "Ed_9_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.27.5.38",
+    "previous": "2.5.12.4.25.5.78",
+    "nextId": "Ed_10_id",
+    "previousId": "Ed_8_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0030.tif\">9</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Anarchismus und namentlich jener Hang zur „Commune“, \n</span><span class=\"tei-line\">zur primitivsten Gesellschafts-Form, der allen Socia-\n</span><span class=\"tei-line\">listen Europa’s jetzt gemeinsam ist, in der Hauptsache \n</span><span class=\"tei-line\">einen ungeheuren <span class=\"tei-hi2 spaced\">Nachschlag</span> zu bedeuten hat – \n</span><span class=\"line\">5</span><span class=\"tei-line \">und dass die Eroberer- und <span class=\"tei-hi2 spaced\">Herren-Rasse</span>, die der \n</span><span class=\"tei-line\">Arier, auch physiologisch im Unterliegen ist?…) Das \n</span><span class=\"tei-line\">lateinische bonus glaube ich als „den Krieger“ auslegen \n</span><span class=\"tei-line\">zu dürfen: vorausgesetzt, dass ich mit Recht bonus auf \n</span><span class=\"tei-line\">ein älteres duonus zurückführe (vergleiche bellum = \n</span><span class=\"line\">10</span><span class=\"tei-line \">duellum = duen-lum, worin mir jenes duonus erhalten \n</span><span class=\"tei-line\">scheint). Bonus somit als Mann des Zwistes, der Ent-\n</span><span class=\"tei-line\">zweiung (duo), als Kriegsmann: man sieht, was im alten \n</span><span class=\"tei-line\">Rom an einem Manne seine „Güte“ ausmachte. Unser \n</span><span class=\"tei-line\">deutsches „Gut“ selbst: sollte es nicht „den Göttlichen“, \n</span><span class=\"line\">15</span><span class=\"tei-line \">den Mann „göttlichen Geschlechts“ bedeuten? Und \n</span><span class=\"tei-line\">mit dem Volks- (ursprünglich Adels-)Namen der Gothen \n</span><span class=\"tei-line\">identisch sein? Die Gründe zu dieser Vermuthung \n</span><span class=\"tei-line\">gehören nicht hierher. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">6.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">Von dieser Regel, dass der politische Vorrangs-\n</span><span class=\"tei-line\">Begriff sich immer in einen seelischen Vorrangs-Begriff \n</span><span class=\"tei-line\">auslöst, macht es zunächst noch keine Ausnahme (ob-\n</span><span class=\"tei-line\">gleich es Anlass zu Ausnahmen giebt), wenn die höchste \n</span><span class=\"tei-line\">Kaste zugleich die <span class=\"tei-hi2 spaced\">priesterliche</span> Kaste ist und folg-\n</span><span class=\"line\">25</span><span class=\"tei-line \">lich zu ihrer Gesammt-Bezeichnung ein Prädikat be-\n</span><span class=\"tei-line\">vorzugt, das an ihre priesterliche Funktion erinnert. \n</span><span class=\"tei-line\">Da tritt zum Beispiel „rein“ und „unrein“ sich zum \n</span><span class=\"tei-line\">ersten Male als Ständeabzeichen gegenüber; und auch \n</span><span class=\"tei-line\">hier kommt später ein „gut“ und ein „schlecht“ in \n</span><span class=\"line\">30</span><span class=\"tei-line \">einem nicht mehr ständischen Sinne zur Entwicklung. \n</span><span class=\"tei-line\">Im Übrigen sei man davor gewarnt, diese Begriffe \n</span><span class=\"tei-line\">„rein“ und „unrein“ nicht von vornherein zu schwer, \n</span><span class=\"tei-line\">zu weit oder gar symbolisch zu nehmen: alle Begriffe \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

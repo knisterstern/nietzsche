@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.39.5.100",
+    "rootNode": "2.5.12.8.39.5.100",
+    "id": "Ed_127_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.41.5.8",
+    "previous": "2.5.12.8.39.5.8.5",
+    "nextId": "Ed_128_id",
+    "previousId": "Ed_126_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0148.tif\">127</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">jektivität“, – letztere nicht als „interesselose Anschau-\n</span><span class=\"tei-line\">ung“ verstanden (als welche ein Unbegriff und Wider-\n</span><span class=\"tei-line\">sinn ist), sondern als das Vermögen, sein Für und Wi-\n</span><span class=\"tei-line\">der <span class=\"tei-hi2 spaced\">in der Gewalt zu haben</span> und aus- und einzu-\n</span><span class=\"line\">5</span><span class=\"tei-line \">hängen: so dass man sich gerade die <span class=\"tei-hi2 spaced\">Verschieden-\n<span class=\"tei-line\">heit</span>heit</span> der Perspektiven und der Affekt-Interpretationen \n</span><span class=\"tei-line\">für die Erkenntniss nutzbar zu machen weiss. Hüten \n</span><span class=\"tei-line\">wir uns nämlich, meine Herrn Philosophen, von nun \n</span><span class=\"tei-line\">an besser vor der gefährlichen alten Begriffs-Fabelei, \n</span><span class=\"line\">10</span><span class=\"tei-line \">welche ein „reines, willenloses, schmerzloses, zeitloses \n</span><span class=\"tei-line\">Subjekt der Erkenntniss“ angesetzt hat, hüten wir uns \n</span><span class=\"tei-line\">vor den Fangarmen solcher contradiktorischen Begriffe \n</span><span class=\"tei-line\">wie „reine Vernunft“, „absolute Geistigkeit“, „Erkennt-\n</span><span class=\"tei-line\">niss an sich“: – hier wird immer ein Auge zu denken \n</span><span class=\"line\">15</span><span class=\"tei-line \">verlangt, das gar nicht gedacht werden kann, ein Auge, \n</span><span class=\"tei-line\">das durchaus keine Richtung haben soll, bei dem die \n</span><span class=\"tei-line\">aktiven und interpretirenden Kräfte unterbunden sein \n</span><span class=\"tei-line\">sollen, fehlen sollen, durch die doch Sehen erst ein Etwas-\n</span><span class=\"tei-line\">Sehen wird, hier wird also immer ein Widersinn und Un-\n</span><span class=\"line\">20</span><span class=\"tei-line \">begriff von Auge verlangt. Es giebt <span class=\"tei-hi2 spaced\">nur</span> ein perspek-\n</span><span class=\"tei-line\">tivisches Sehen, <span class=\"tei-hi2 spaced\">nur</span> ein perspektivisches „Erkennen“; \n</span><span class=\"tei-line\">und <span class=\"tei-hi2 spaced\">je mehr</span> Affekte wir über eine Sache zu Worte \n</span><span class=\"tei-line\">kommen lassen, <span class=\"tei-hi2 spaced\">je mehr</span> Augen, verschiedne Augen \n</span><span class=\"tei-line\">wir uns für dieselbe Sache einzusetzen wissen, um so \n</span><span class=\"line\">25</span><span class=\"tei-line \">vollständiger wird unser „Begriff“ dieser Sache, unsre \n</span><span class=\"tei-line\">„Objektivität“ sein. Den Willen aber überhaupt elimi-\n</span><span class=\"tei-line\">niren, die Affekte sammt und sonders aushängen, ge-\n</span><span class=\"tei-line\">setzt, dass wir dies vermöchten: wie? hiesse das nicht \n</span><span class=\"tei-line\">den Intellekt <span class=\"tei-hi2 spaced\">castriren</span>?…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">30</span>13.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Aber kehren wir zurück. Ein solcher Selbstwider-\n</span><span class=\"tei-line\">spruch, wie er sich im Asketen darzustellen scheint, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

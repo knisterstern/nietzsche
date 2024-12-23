@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.27.5.38",
+    "rootNode": "2.5.12.4.27.5.38",
+    "id": "Ed_10_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.27.5.126",
+    "previous": "2.5.12.4.25.5.172",
+    "nextId": "Ed_11_id",
+    "previousId": "Ed_9_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0031.tif\">10</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">der älteren Menschheit sind vielmehr anfänglich in \n</span><span class=\"tei-line\">einem uns kaum ausdenkbaren Maasse grob, plump, \n</span><span class=\"tei-line\">äusserlich, eng, geradezu und insbesondere <span class=\"tei-hi2 spaced\">unsym-\n<span class=\"tei-line\">bolisch</span>bolisch</span> verstanden worden. Der „Reine“ ist von \n</span><span class=\"line\">5</span><span class=\"tei-line \">Anfang an bloss ein Mensch, der sich wäscht, der sich \n</span><span class=\"tei-line\">gewisse Speisen verbietet, die Hautkrankheiten nach \n</span><span class=\"tei-line\">sich ziehen, der nicht mit den schmutzigen Weibern des \n</span><span class=\"tei-line\">niederen Volkes schläft, der einen Abscheu vor Blut hat, – \n</span><span class=\"tei-line\">nicht mehr, nicht viel mehr! Andrerseits erhellt es frei-\n</span><span class=\"line\">10</span><span class=\"tei-line \">lich aus der ganzen Art einer wesentlich priesterlichen \n</span><span class=\"tei-line\">Aristokratie, warum hier gerade frühzeitig sich die \n</span><span class=\"tei-line\">Werthungs-Gegensätze auf eine gefährliche Weise ver-\n</span><span class=\"tei-line\">innerlichen und verschärfen konnten; und in der That \n</span><span class=\"tei-line\">sind durch sie schliesslich Klüfte zwischen Mensch und \n</span><span class=\"line\">15</span><span class=\"tei-line \">Mensch aufgerissen worden, über die selbst ein Achill \n</span><span class=\"tei-line\">der Freigeisterei nicht ohne Schauder hinwegsetzen \n</span><span class=\"tei-line\">wird. Es ist von Anfang an etwas <span class=\"tei-hi2 spaced\">Ungesundes</span> in \n</span><span class=\"tei-line\">solchen priesterlichen Aristokratien und in den daselbst \n</span><span class=\"tei-line\">herrschenden, dem Handeln abgewendeten, theils brü-\n</span><span class=\"line\">20</span><span class=\"tei-line \">tenden, theils gefühls-explosiven Gewohnheiten, als \n</span><span class=\"tei-line\">deren Folge jene den Priestern aller Zeiten fast unver-\n</span><span class=\"tei-line\">meidlich anhaftende intestinale Krankhaftigkeit und \n</span><span class=\"tei-line\">Neurasthenie erscheint; was aber von ihnen selbst \n</span><span class=\"tei-line\">gegen diese ihre Krankhaftigkeit als Heilmittel erfun-\n</span><span class=\"line\">25</span><span class=\"tei-line \">den worden ist, – muss man nicht sagen, dass es sich \n</span><span class=\"tei-line\">zuletzt in seinen Nachwirkungen noch hundert Mal ge-\n</span><span class=\"tei-line\">fährlicher erwiesen hat, als die Krankheit, von der es \n</span><span class=\"tei-line\">erlösen sollte? Die Menschheit selbst krankt noch an \n</span><span class=\"tei-line\">den Nachwirkungen dieser priesterlichen Kur-Naive-\n</span><span class=\"line\">30</span><span class=\"tei-line \">täten! Denken wir zum Beispiel an gewisse Diätformen \n</span><span class=\"tei-line\">(Vermeidung des Fleisches), an das Fasten, an die ge-\n</span><span class=\"tei-line\">schlechtliche Enthaltsamkeit, an die Flucht „in die \n</span><span class=\"tei-line\">Wüste“ (Weir Mitchell’sche Isolirung, freilich ohne die \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

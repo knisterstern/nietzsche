@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.45.5.12",
+    "rootNode": "2.5.12.4.45.5.12",
+    "id": "Ed_29_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.45.5.102",
+    "previous": "2.5.12.4.43.5.170",
+    "nextId": "Ed_30_id",
+    "previousId": "Ed_28_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0050.tif\">29</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Wagehals: Ihr Auge muss sich erst an dieses falsche \n</span><span class=\"tei-line\">schillernde Licht gewöhnen… So! Genug! Reden Sie \n</span><span class=\"tei-line\">jetzt! Was geht da unten vor? Sprechen Sie aus, was \n</span><span class=\"tei-line\">Sie sehen, Mann der gefährlichsten Neugierde – jetzt \n</span><span class=\"line\">5</span><span class=\"tei-line \">bin <span class=\"tei-hi2 spaced\">ich</span> der, welcher zuhört. –\n</span><span class=\"tei-line indent\">– „Ich sehe Nichts, ich höre um so mehr. Es ist \n</span><span class=\"tei-line\">ein vorsichtiges tückisches leises Munkeln und Zu-\n</span><span class=\"tei-line\">sammenflüstern aus allen Ecken und Winkeln. Es \n</span><span class=\"tei-line\">scheint mir, dass man lügt; eine zuckrige Milde klebt \n</span><span class=\"line\">10</span><span class=\"tei-line \">an jedem Klange. Die Schwäche soll zum <span class=\"tei-hi2 spaced\">Verdienste</span> \n</span><span class=\"tei-line\">umgelogen werden, es ist kein Zweifel – es steht da-\n</span><span class=\"tei-line\">mit so, wie Sie es sagten.“ – \n</span><span class=\"tei-line indent\">– Weiter!\n</span><span class=\"tei-line indent\">– „und die Ohnmacht, die nicht vergilt, zur „Güte“; \n</span><span class=\"line\">15</span><span class=\"tei-line \">die ängstliche Niedrigkeit zur „Demuth“; die Unter-\n</span><span class=\"tei-line\">werfung vor Denen, die man hasst, zum „Gehorsam“ \n</span><span class=\"tei-line\">(nämlich gegen Einen, von dem sie sagen, er befehle \n</span><span class=\"tei-line\">diese Unterwerfung, – sie heissen ihn Gott). Das Un-\n</span><span class=\"tei-line\">offensive des Schwachen, die Feigheit selbst, an der er \n</span><span class=\"line\">20</span><span class=\"tei-line \">reich ist, sein An-der-Thür-stehn, sein unvermeidliches \n</span><span class=\"tei-line\">Warten-müssen kommt hier zu guten Namen, als <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">„Ge-\n<span class=\"tei-line\">duld,“</span>duld,“</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">„Ge-\n<span class=\"tei-line\">duld,“</span>duld,“</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">Geduld“,</span> (KGW/KSA)</span></p></template></pb-popover> es heisst auch wohl <span class=\"tei-hi2 spaced\">die</span> Tugend; das Sich-nicht-\n</span><span class=\"tei-line\">rächen-Können heisst Sich-nicht-rächen-Wollen, viel-\n</span><span class=\"tei-line\">leicht selbst Verzeihung („denn <span class=\"tei-hi2 spaced\">sie</span> wissen nicht, was \n</span><span class=\"line\">25</span><span class=\"tei-line \">sie thun – wir allein wissen es, was <span class=\"tei-hi2 spaced\">sie</span> thun!“). Auch \n</span><span class=\"tei-line\">redet man von der „Liebe zu seinen Feinden“ – und \n</span><span class=\"tei-line\">schwitzt dabei.“\n</span><span class=\"tei-line indent\">– Weiter!\n</span><span class=\"tei-line indent\">– „Sie sind elend, es ist kein Zweifel, alle diese \n</span><span class=\"line\">30</span><span class=\"tei-line \">Munkler und Winkel-Falschmünzer, ob sie schon warm \n</span><span class=\"tei-line\">bei einander hocken – aber sie sagen mir, ihr Elend \n</span><span class=\"tei-line\">sei eine Auswahl und Auszeichnung Gottes, man prügele \n</span><span class=\"tei-line\">die Hunde, die man am liebsten habe; vielleicht sei dies \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

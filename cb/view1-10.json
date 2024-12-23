@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.23.5",
+    "rootNode": "2.7.2.2.23.5",
+    "id": "Cb_a10",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.23.11",
+    "previous": "2.7.2.2.21.27",
+    "nextId": "Cb_a11",
+    "previousId": "Cb_a9",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0017.tif\">a10</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"3-4\"><span><span><span class=\"tei-hi2 spaced\">un<span class=\"tei-sic2\">n</span>sym-/bolisch</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">schwarze Tinte (2), N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"9\"><span><span>nich<span class=\"tei-sic2\">tm</span>ehr</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

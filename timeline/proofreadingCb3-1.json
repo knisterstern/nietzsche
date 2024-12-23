@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.47",
+    "id": "proofreadingCb3",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"proofreadingCb3\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Korrektur Cb3</h5>Korrektur von Bogen 3 (S. 33-48: GM I 15-17, GM II Titelblatt, GM II 1-4) <span class=\"tei-date2\">zwischen 14. und ca. 23. August 1887</span>. Da N auf den letzten beiden Seiten von GM I (S. 37-38) nachträglich noch eine längere „Anmerkung“ (GM I Anmerkung) anbringen lässt, verzögert sich der Korrekturdurchgang um einige Tage.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

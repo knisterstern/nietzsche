@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.10.4.2",
+    "rootNode": "2.5.10.4.2",
+    "id": "Ed_I_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.10.4.16",
+    "previous": "2.5.7",
+    "nextId": "Ed_II_id",
+    "previousId": "Ed_VordereUmschlaginnenseite_id",
+    "switchView": "2.5.10",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-titlePage\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0006.tif\">[I]</pb-facs-link></span>\n         \n         \n         <div class=\"tei-docTitle\">\n           <div class=\"tei-titlePart\">\n             <br class=\"special-br\"><span class=\"line \">1</span>Zur \n             <br class=\"tei-lb3\">Genealogie der Moral.</div>\n           <div class=\"tei-titlePart\">\n             <br class=\"tei-lb3\">Eine Streitschrift\n           </div>\n         </div>\n         <div class=\"tei-byline\">\n           <br class=\"tei-lb3\">von \n           \n             <br class=\"special-br\"><span class=\"line \">5</span>Friedrich Nietzsche.\n         </div>\n         \n           <br class=\"tei-lb3\">LEIPZIG\n           <br class=\"tei-lb3\">Verlag von C. G. Naumann.\n           <br class=\"tei-lb3\">1887.\n         \n         \n         \n</div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

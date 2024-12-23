@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.245",
+    "rootNode": "2.5.12.8.49.5.245",
+    "id": "Ed_144_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.338",
+    "previous": "2.5.12.8.49.5.147",
+    "nextId": "Ed_145_id",
+    "previousId": "Ed_143_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0165.tif\">144</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">zen der heissen Klimaten ist, ein Minimum von Stoff-\n</span><span class=\"tei-line\">verbrauch und Stoffwechsel, bei dem das Leben gerade \n</span><span class=\"tei-line\">noch besteht, ohne eigentlich noch in’s Bewusstsein zu \n</span><span class=\"tei-line\">treten. Auf dieses Ziel ist eine erstaunliche Menge \n</span><span class=\"line\">5</span><span class=\"tei-line \">menschlicher Energie verwandt worden – umsonst \n</span><span class=\"tei-line\">etwa?… Dass solche sportsmen der „Heiligkeit“, an \n</span><span class=\"tei-line\">denen alle Zeiten, fast alle Völker reich sind, in der \n</span><span class=\"tei-line\">That eine wirkliche Erlösung von dem gefunden haben, \n</span><span class=\"tei-line\">was sie mit einem so rigorösen training bekämpften, \n</span><span class=\"line\">10</span><span class=\"tei-line \">daran darf man durchaus nicht zweifeln, – sie kamen \n</span><span class=\"tei-line\">von jener tiefen physiologischen Depression mit Hülfe \n</span><span class=\"tei-line\">ihres Systems von Hypnotisirungs-Mitteln in unzähligen \n</span><span class=\"tei-line\">Fällen wirklich <span class=\"tei-hi2 spaced\">los</span>: weshalb ihre Methodik zu den all-\n</span><span class=\"tei-line\">gemeinsten ethnologischen Thatsachen zählt. Insglei-\n</span><span class=\"line\">15</span><span class=\"tei-line \">chen fehlt jede Erlaubniss dazu, um schon an sich eine \n</span><span class=\"tei-line\">solche Absicht auf Aushungerung der Leiblichkeit und \n</span><span class=\"tei-line\">der Begierde unter die Irrsinns-Symptome zu rechnen \n</span><span class=\"tei-line\">(wie es eine täppische Art von Roastbeef-fressenden \n</span><span class=\"tei-line\">„Freigeistern“ und Junker Christophen zu thun beliebt). \n</span><span class=\"line\">20</span><span class=\"tei-line \">Um so sicherer ist es, dass sie den <span class=\"tei-hi2 spaced\">Weg</span> zu allerhand \n</span><span class=\"tei-line\">geistigen Störungen abgiebt, abgeben kann, zu „inneren \n</span><span class=\"tei-line\">Lichtern“ zum Beispiel, wie bei den Hesychasten vom \n</span><span class=\"tei-line\">Berge Athos, zu Klang- und Gestalt-Hallucinationen, \n</span><span class=\"tei-line\">zu wollüstigen Überströmungen und Ekstasen der Sinn-\n</span><span class=\"line\">25</span><span class=\"tei-line \">lichkeit (Geschichte der heiligen Therese). Die Aus-\n</span><span class=\"tei-line\">legung, welche derartigen Zuständen von den mit ihnen \n</span><span class=\"tei-line\">Behafteten gegeben wird, ist immer so schwärmerisch-\n</span><span class=\"tei-line\">falsch wie möglich gewesen, dies versteht sich von \n</span><span class=\"tei-line\">selbst: nur überhöre man den Ton überzeugtester Dank-\n</span><span class=\"line\">30</span><span class=\"tei-line \">barkeit nicht, der eben schon im <span class=\"tei-hi2 spaced\">Willen</span> zu einer sol-\n</span><span class=\"tei-line\">chen Interpretations-Art zum Erklingen kommt. Der \n</span><span class=\"tei-line\">höchste Zustand, die <span class=\"tei-hi2 spaced\">Erlösung</span> selbst, jene endlich \n</span><span class=\"tei-line\">erreichte Gesammt-Hypnotisirung und Stille, gilt ihnen \n\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

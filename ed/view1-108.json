@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.54.7.98",
+    "rootNode": "2.5.12.6.54.7.98",
+    "id": "Ed_89_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.56.5.22",
+    "previous": "2.5.12.6.54.3",
+    "nextId": "Ed_90_id",
+    "previousId": "Ed_88_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0110.tif\">89</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">sten Grund der Dinge mit dem Problem von Strafe \n</span><span class=\"tei-line\">und Schuld zu inficiren und giftig zu machen, um \n</span><span class=\"tei-line\">sich aus diesem Labyrinth von „fixen Ideen“ ein für \n</span><span class=\"tei-line\">alle Mal den Ausweg abzuschneiden, sein <span class=\"tei-hi2 spaced\">Wille</span>, ein \n</span><span class=\"line\">5</span><span class=\"tei-line \">Ideal aufzurichten – das des „heiligen Gottes“ –, um \n</span><span class=\"tei-line\">Angesichts desselben seiner absoluten Unwürdigkeit \n</span><span class=\"tei-line\">handgreiflich gewiss zu sein. Oh über diese wahn-\n</span><span class=\"tei-line\">sinnige traurige Bestie Mensch! Welche Einfälle kommen \n</span><span class=\"tei-line\">ihr, welche Widernatur, welche Paroxysmen des Un-\n</span><span class=\"line\">10</span><span class=\"tei-line \">sinns, welche <span class=\"tei-hi2 spaced\">Bestialität der Idee</span> bricht sofort her-\n</span><span class=\"tei-line\">aus, wenn sie nur ein wenig verhindert wird, <span class=\"tei-hi2 spaced\">Bestie \n<span class=\"tei-line\">der That</span>der That</span> zu sein!… Dies Alles ist interessant bis \n</span><span class=\"tei-line\">zum Übermaass, aber auch von einer schwarzen düste-\n</span><span class=\"tei-line\">ren entnervenden Traurigkeit, dass man es sich gewalt-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sam verbieten muss, zu lange in diese Abgründe zu \n</span><span class=\"tei-line\">blicken. Hier ist <span class=\"tei-hi2 spaced\">Krankheit</span>, es ist kein Zweifel, die \n</span><span class=\"tei-line\">furchtbarste Krankheit, die bis jetzt im Menschen ge-\n</span><span class=\"tei-line\">wüthet hat: – und wer es noch zu hören vermag (aber \n</span><span class=\"tei-line\">man hat heute nicht mehr die Ohren dafür! –) wie in \n</span><span class=\"line\">20</span><span class=\"tei-line \">dieser Nacht von Marter und Widersinn der Schrei \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Liebe</span>, der Schrei des sehnsüchtigsten Entzückens, der \n</span><span class=\"tei-line\">Erlösung in der <span class=\"tei-hi2 spaced\">Liebe</span> geklungen hat, der wendet sich \n</span><span class=\"tei-line\">ab, von einem unbesieglichen Grausen erfasst… Im \n</span><span class=\"tei-line\">Menschen ist so viel Entsetzliches!… Die Erde war \n</span><span class=\"line\">25</span><span class=\"tei-line \">zu lange schon ein Irrenhaus!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">23.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Dies genüge ein für alle Mal über die Herkunft \n</span><span class=\"tei-line\">des „heiligen Gottes“. – Dass <span class=\"tei-hi2 spaced\">an sich</span> die Conception \n</span><span class=\"tei-line\">von Göttern nicht nothwendig zu dieser Verschlechte-\n</span><span class=\"line\">30</span><span class=\"tei-line \">rung der Phantasie führen muss, deren Vergegenwär-\n</span><span class=\"tei-line\">tigung wir uns für einen Augenblick nicht erlassen \n</span><span class=\"tei-line\">durften, dass es <span class=\"tei-hi2 spaced\">vornehmere</span> Arten giebt, sich der \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

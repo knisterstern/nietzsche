@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.19.5.79",
+    "rootNode": "2.5.12.2.19.5.79",
+    "id": "Ed_X_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.21.5.46",
+    "previous": "2.5.12.2.17",
+    "nextId": "Ed_XI_id",
+    "previousId": "Ed_IX_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0015.tif\">X</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">als das unheimlichste Symptom unsrer unheimlich ge-\n</span><span class=\"tei-line\">wordnen europäischen Cultur, als ihren Umweg zu einem \n</span><span class=\"tei-line\">neuen Buddhismus? zu einem Europäer-Buddhismus? \n</span><span class=\"tei-line\">zum – <span class=\"tei-hi2 spaced\">Nihilismus</span>?… Diese moderne Philosophen-\n</span><span class=\"line\">5</span><span class=\"tei-line \">Bevorzugung und Überschätzung des Mitleidens ist \n</span><span class=\"tei-line\">nämlich etwas Neues: gerade über den <span class=\"tei-hi2 spaced\">Unwerth</span> des \n</span><span class=\"tei-line\">Mitleidens waren bisher die Philosophen übereinge-\n</span><span class=\"tei-line\">kommen. Ich nenne nur Plato, Spinoza, La Roche-\n</span><span class=\"tei-line\">foucauld und Kant, vier Geister so verschieden von \n</span><span class=\"line\">10</span><span class=\"tei-line \">einander als möglich, aber in Einem Eins: in der Ge-\n</span><span class=\"tei-line\">ringschätzung des Mitleidens. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">6.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Dies Problem vom <span class=\"tei-hi2 spaced\">Werthe</span> des Mitleids und der \n</span><span class=\"tei-line\">Mitleids-Moral (– ich bin ein Gegner der schändlichen \n</span><span class=\"line\">15</span><span class=\"tei-line \">modernen Gefühlsverweichlichung –) scheint zunächst \n</span><span class=\"tei-line\">nur etwas Vereinzeltes, ein Fragezeichen für sich; wer \n</span><span class=\"tei-line\">aber einmal hier hängen bleibt, hier fragen <span class=\"tei-hi2 spaced\">lernt</span>, dem \n</span><span class=\"tei-line\">wird es gehn, wie es mir ergangen ist: – eine unge-\n</span><span class=\"tei-line\">heure neue Aussicht thut sich ihm auf, eine Möglich-\n</span><span class=\"line\">20</span><span class=\"tei-line \">keit fasst ihn wie ein Schwindel, jede Art Misstrauen, \n</span><span class=\"tei-line\">Argwohn, Furcht springt hervor, der Glaube an die \n</span><span class=\"tei-line\">Moral, an alle Moral wankt, – endlich wird eine neue \n</span><span class=\"tei-line\">Forderung laut. Sprechen wir sie aus, diese <span class=\"tei-hi2 spaced\">neue \n<span class=\"tei-line\">Forderung:</span>Forderung:</span> wir haben eine <span class=\"tei-hi2 spaced\">Kritik</span> der moralischen \n</span><span class=\"line\">25</span><span class=\"tei-line \">Werthe nöthig, <span class=\"tei-hi2 spaced\">der Werth dieser Werthe ist selbst \n<span class=\"tei-line\">erst einmal in Frage zu stellen</span>erst einmal in Frage zu stellen</span> – und dazu thut \n</span><span class=\"tei-line\">eine Kenntniss der Bedingungen und Umstände noth, \n</span><span class=\"tei-line\">aus denen sie gewachsen, unter denen sie sich ent-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

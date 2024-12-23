@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.15",
+    "rootNode": "2.9.15",
+    "id": "srcD_surface_a12r",
+    "odd": "surface.odd",
+    "next": "2.9.16",
+    "previous": "2.9.14",
+    "nextId": "srcD_surface_a13r",
+    "previousId": "srcD_surface_a11r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 10</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 286/272,13-287/273,12</li><li class=\"tei-ab2\"><a data-id=\"Ed_18_id\" data-doc=\"E40.xml\">Ed 18,18-19,23</a></li><li class=\"tei-ab2\"><a data-id=\"a12r\" data-doc=\"D20.xml\">Dm a12r,2-16</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_60v\" data-doc=\"KGWIX.xml\">Mp XVII, 60v,2-30,36-48,56-60</a></li></ul><ul><li class=\"tei-ab2\">KGW/KSA 287/273,6-8</li><li class=\"tei-ab2\"><a data-id=\"Ed_19_id\" data-doc=\"E40.xml\">Ed 19,16-18</a></li><li class=\"tei-ab2\"><a data-id=\"a12r\" data-doc=\"D20.xml\">Dm a12r,15</a></li><li class=\"tei-ab2\"><a data-id=\"WI8_1\" data-doc=\"KGWIX.xml\">W I 8, 1</a></li></ul><ul><li class=\"tei-ab2\">KGW/KSA 287/273,34-288/274,4</li><li class=\"tei-ab2\"><a data-id=\"Ed_20_id\" data-doc=\"E40.xml\">Ed 20,15-20</a></li><li class=\"tei-ab2\"><a data-id=\"a12r\" data-doc=\"D20.xml\">Dm a12r,25-28</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_89v\" data-doc=\"KGWIX.xml\">Mp XVII, 89v,53-60</a></li></ul><p></p></div><div class=\"QV\"><h3>GM I 11</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 288/274,6-21</li><li class=\"tei-ab2\"><a data-id=\"Ed_20_id\" data-doc=\"E40.xml\">Ed 20,22-21,7</a></li><li class=\"tei-ab2\"><a data-id=\"a12r\" data-doc=\"D20.xml\">Dm a12r,30-36</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_89v\" data-doc=\"KGWIX.xml\">Mp XVII, 89v,2-12,16-21</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "querverweis",
+        "webcomponents": 7,
+        "type": "genesis"
+    },
+    "collection": ""
+}

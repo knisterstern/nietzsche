@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.23.5.97",
+    "rootNode": "2.5.12.4.23.5.97",
+    "id": "Ed_7_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.25.5.78",
+    "previous": "2.5.12.4.21",
+    "nextId": "Ed_8_id",
+    "previousId": "Ed_6_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0028.tif\">7</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">dernen Geistes, der englischer Abkunft ist, brach da \n</span><span class=\"tei-line\">einmal wieder auf seinem heimischen Boden heraus, \n</span><span class=\"tei-line\">heftig wie ein schlammichter Vulkan und mit jener ver-\n</span><span class=\"tei-line\">salzten, überlauten, gemeinen Beredtsamkeit, mit der \n</span><span class=\"line\">5</span><span class=\"tei-line \">bisher alle Vulkane geredet haben. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">5.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">In Hinsicht auf <span class=\"tei-hi2 spaced\">unser</span> Problem, das aus guten \n</span><span class=\"tei-line\">Gründen ein <span class=\"tei-hi2 spaced\">stilles</span> Problem genannt werden kann \n</span><span class=\"tei-line\">und sich wählerisch nur an wenige Ohren wendet, ist \n</span><span class=\"line\">10</span><span class=\"tei-line \">es von keinem kleinen Interesse, festzustellen, dass viel-\n</span><span class=\"tei-line\">fach noch in jenen Worten und Wurzeln, die „gut“ \n</span><span class=\"tei-line\">bezeichnen, die Hauptnuance durchschimmert, auf welche \n</span><span class=\"tei-line\">hin die Vornehmen sich eben als Menschen höheren \n</span><span class=\"tei-line\">Ranges fühlten. Zwar benennen sie sich vielleicht in \n</span><span class=\"line\">15</span><span class=\"tei-line \">den häufigsten Fällen einfach nach ihrer Überlegenheit \n</span><span class=\"tei-line\">an Macht (als „die Mächtigen“, „die Herren“, „die Ge-\n</span><span class=\"tei-line\">bietenden“) oder nach dem sichtbarsten Abzeichen die-\n</span><span class=\"tei-line\">ser Überlegenheit, zum Beispiel als „die Reichen“, „die \n</span><span class=\"tei-line\">Besitzenden“ (das ist der Sinn von arya; und entspre-\n</span><span class=\"line\">20</span><span class=\"tei-line \">chend im Eranischen und Slavischen). Aber auch nach \n</span><span class=\"tei-line\">einem <span class=\"tei-hi2 spaced\">typischen Charakterzuge</span>: und dies ist der \n</span><span class=\"tei-line\">Fall, der uns hier angeht. Sie heissen sich zum Bei-\n</span><span class=\"tei-line\">spiel „die Wahrhaftigen“: voran der griechische Adel, \n</span><span class=\"tei-line\">dessen Mundstück der Megarische Dichter Theognis \n</span><span class=\"line\">25</span><span class=\"tei-line \">ist. Das dafür ausgeprägte Wort <span class=\"tei-foreign\">ἐσϑλός</span> bedeutet der \n</span><span class=\"tei-line\">Wurzel nach Einen, der <span class=\"tei-hi2 spaced\">ist</span>, der Realität hat, der wirk-\n</span><span class=\"tei-line\">lich ist, der wahr ist; dann, mit einer subjektiven \n</span><span class=\"tei-line\">Wendung, den Wahren als den Wahrhaftigen: in dieser \n</span><span class=\"tei-line\">Phase der Begriffs-Verwandlung wird es zum Schlag- \n</span><span class=\"line\">30</span><span class=\"tei-line \">und Stichwort des Adels und geht ganz und gar in \n</span><span class=\"tei-line\">den Sinn „adelig“ über, zur Abgrenzung vom <span class=\"tei-hi2 spaced\">lügen-\n<span class=\"tei-line\">haften</span>haften</span> gemeinen Mann, so wie Theognis ihn nimmt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

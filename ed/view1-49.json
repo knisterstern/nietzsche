@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.45.5.102",
+    "rootNode": "2.5.12.4.45.5.102",
+    "id": "Ed_30_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.45.5.184",
+    "previous": "2.5.12.4.45.5.12",
+    "nextId": "Ed_31_id",
+    "previousId": "Ed_29_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0051.tif\">30</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Elend auch eine Vorbereitung, eine Prüfung, eine Schu-\n</span><span class=\"tei-line\">lung, vielleicht sei es noch mehr – Etwas, das einst \n</span><span class=\"tei-line\">ausgeglichen und mit ungeheuren Zinsen in Gold, nein! \n</span><span class=\"tei-line\">in Glück ausgezahlt werde. Das heissen sie „die Selig-\n</span><span class=\"line\">5</span><span class=\"tei-line \">keit.“\n</span><span class=\"tei-line indent\">– Weiter!\n</span><span class=\"tei-line indent\">– „Jetzt geben sie mir zu verstehen, dass sie nicht \n</span><span class=\"tei-line\">nur besser seien als die Mächtigen, die Herrn der Erde, \n</span><span class=\"tei-line\">deren Speichel sie lecken müssen (<span class=\"tei-hi2 spaced\">nicht</span> aus Furcht, \n</span><span class=\"line\">10</span><span class=\"tei-line \">ganz und gar nicht aus Furcht! sondern weil es Gott \n</span><span class=\"tei-line\">gebietet, alle Obrigkeit zu ehren) – dass sie nicht nur \n</span><span class=\"tei-line\">besser seien, sondern es auch „besser hätten“, jedenfalls \n</span><span class=\"tei-line\">einmal besser haben würden. Aber genug! genug! Ich \n</span><span class=\"tei-line\">halte es nicht mehr aus. Schlechte Luft! Schlechte \n</span><span class=\"line\">15</span><span class=\"tei-line \">Luft! Diese Werkstätte, wo man <span class=\"tei-hi2 spaced\">Ideale fabrizirt</span> – \n</span><span class=\"tei-line\">mich dünkt, sie stinkt vor lauter Lügen.“\n</span><span class=\"tei-line indent\">– Nein! Noch einen Augenblick! Sie sagten noch \n</span><span class=\"tei-line\">nichts von dem Meisterstücke dieser Schwarzkünstler, \n</span><span class=\"tei-line\">welche Weiss, Milch und Unschuld aus jedem Schwarz \n</span><span class=\"line\">20</span><span class=\"tei-line \">herstellen: – haben Sie nicht bemerkt, was ihre Voll-\n</span><span class=\"tei-line\">endung im Raffinement ist, ihr kühnster, feinster, geist-\n</span><span class=\"tei-line\">reichster, lügenreichster Artisten-Griff? Geben Sie Acht! \n</span><span class=\"tei-line\">Diese Kellerthiere voll Rache und Hass – was machen \n</span><span class=\"tei-line\">sie doch gerade aus Rache und Hass? Hörten Sie je \n</span><span class=\"line\">25</span><span class=\"tei-line \">diese Worte? Würden Sie ahnen, wenn Sie nur ihren \n</span><span class=\"tei-line\">Worten trauten, dass Sie unter lauter Menschen des \n</span><span class=\"tei-line\">Ressentiment sind?…\n</span><span class=\"tei-line indent\">– „Ich verstehe, ich mache nochmals die Ohren \n</span><span class=\"tei-line\">auf (ach! ach! ach! und die Nase <span class=\"tei-hi2 spaced\">zu</span>). Jetzt höre ich \n</span><span class=\"line\">30</span><span class=\"tei-line \">erst, was sie so oft schon sagten: „Wir Guten – <span class=\"tei-hi2 spaced\">wir \n<span class=\"tei-line\">sind die Gerechten</span>sind die Gerechten</span>“ – was sie verlangen, das heissen \n</span><span class=\"tei-line\">sie nicht Vergeltung, sondern „den Triumph der <span class=\"tei-hi2 spaced\">Ge-\n<span class=\"tei-line\">rechtigkeit</span>rechtigkeit</span>“; was sie hassen, das ist nicht ihr Feind, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

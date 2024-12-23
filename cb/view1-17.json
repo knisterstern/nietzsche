@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.39",
+    "rootNode": "2.7.2.2.39",
+    "id": "Cb_b1",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.42.14",
+    "previous": "2.7.2.2.29.9",
+    "nextId": "Cb_b2",
+    "previousId": "Cb_a16",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0024.tif\">b1</pb-facs-link></span>\n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"4\"><span><span><span class=\"tei-sic2\">E n</span>tstehungsgeschichte</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung Zusammenschreibung, <span class=\"tei-ref1\">schwarze Tinte, Köselitz</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"6\"><span><span>dami<span class=\"tei-sic2\">t a</span>ls</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">Komma</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"11\"><span><span>honte<span class=\"tei-sic2\">n</span>se</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">u (honteuse)</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"15\"><span><span>de<span class=\"tei-sic2\">r</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">s (des)</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"20\"><span><span>Molekular<span class=\"tei-sic2\">u</span>m</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">e (Molekularem)</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

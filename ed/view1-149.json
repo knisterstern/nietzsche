@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.41.5.185",
+    "rootNode": "2.5.12.8.41.5.185",
+    "id": "Ed_130_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.43.6.66",
+    "previous": "2.5.12.8.41.5.105",
+    "nextId": "Ed_131_id",
+    "previousId": "Ed_129_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0151.tif\">130</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">zur Zeit des Todtentanzes): aber selbst noch dieser Ekel, \n</span><span class=\"tei-line\">diese Müdigkeit, dieser Verdruss an sich selbst – Alles \n</span><span class=\"tei-line\">tritt an ihm so mächtig heraus, dass es sofort wieder \n</span><span class=\"tei-line\">zu einer neuen Fessel wird. Sein Nein, das er zum \n</span><span class=\"line\">5</span><span class=\"tei-line \">Leben spricht, bringt wie durch einen Zauber eine \n</span><span class=\"tei-line\">Fülle zarterer Ja’s an’s Licht; ja wenn er sich <span class=\"tei-hi2 spaced\">ver-\n<span class=\"tei-line\">wundet</span>wundet</span>, dieser Meister der Zerstörung, Selbstzerstö-\n</span><span class=\"tei-line\">rung, – hinterdrein ist es die Wunde selbst, die ihn \n</span><span class=\"tei-line\">zwingt, <span class=\"tei-hi2 spaced\">zu leben</span>…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">10</span>14. </div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Je normaler die Krankhaftigkeit am Menschen ist \n</span><span class=\"tei-line\">– und wir können diese Normalität nicht in Abrede \n</span><span class=\"tei-line\">stellen –, um so höher sollte man die seltnen Fälle der \n</span><span class=\"tei-line\">seelisch-leiblichen Mächtigkeit, die <span class=\"tei-hi2 spaced\">Glücksfälle</span> des \n</span><span class=\"line\">15</span><span class=\"tei-line \">Menschen in Ehren halten, um so strenger die Wohl-\n</span><span class=\"tei-line\">gerathenen vor der schlechtesten Luft, der Kranken-Luft \n</span><span class=\"tei-line\">behüten. Thut man das?… Die Kranken sind die grösste \n</span><span class=\"tei-line\">Gefahr für die Gesunden; <span class=\"tei-hi2 spaced\">nicht</span> von den Stärksten \n</span><span class=\"tei-line\">kommt das Unheil für die Starken, sondern von den \n</span><span class=\"line\">20</span><span class=\"tei-line \">Schwächsten. Weiss man das?… In’s Grosse gerechnet, \n</span><span class=\"tei-line\">ist es durchaus nicht die Furcht vor dem Menschen, deren \n</span><span class=\"tei-line\">Verminderung man wünschen dürfte: denn diese Furcht \n</span><span class=\"tei-line\">zwingt die Starken dazu, stark, unter Umständen furcht-\n</span><span class=\"tei-line\">bar zu sein, – sie hält den wohlgerathenen Typus \n</span><span class=\"line\">25</span><span class=\"tei-line \">Mensch <span class=\"tei-hi2 spaced\">aufrecht</span>. Was zu fürchten ist, was verhäng-\n</span><span class=\"tei-line\">nissvoll wirkt wie kein andres Verhängniss, das wäre \n</span><span class=\"tei-line\">nicht die grosse Furcht, sondern der grosse <span class=\"tei-hi2 spaced\">Ekel</span> vor \n</span><span class=\"tei-line\">dem Menschen; insgleichen das grosse <span class=\"tei-hi2 spaced\">Mitleid</span> mit \n</span><span class=\"tei-line\">dem Menschen. Gesetzt, dass diese beiden eines Tages \n</span><span class=\"line\">30</span><span class=\"tei-line \">sich begatteten, so würde unvermeidlich sofort etwas \n</span><span class=\"tei-line\">vom Unheimlichsten zur Welt kommen, der „letzte \n</span><span class=\"tei-line\">Wille“ des Menschen, sein Wille zum Nichts, der Nihi-\n</span><span class=\"tei-line\">lismus. Und in der That: hierzu ist Viel vorbereitet. \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.23.5.132",
+    "rootNode": "2.5.12.8.23.5.132",
+    "id": "Ed_103_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.25.5.74",
+    "previous": "2.5.12.8.23.5.36",
+    "nextId": "Ed_104_id",
+    "previousId": "Ed_102_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0124.tif\">103</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">wünschen, um Wagner’s selber willen, dass er <span class=\"tei-hi2 spaced\">anders</span>  \n</span><span class=\"tei-line\">von uns und seiner Kunst Abschied genommen hätte, \n</span><span class=\"tei-line\">nicht mit einem Parsifal, sondern siegreicher, selbst-\n</span><span class=\"tei-line\">gewisser, Wagnerischer, – weniger irreführend, weniger  \n</span><span class=\"line\">5</span><span class=\"tei-line \">zweideutig in Bezug auf sein ganzes Wollen, weniger  \n</span><span class=\"tei-line\">Schopenhauerisch, weniger nihilistisch?… </span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">5.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Was bedeuten also asketische Ideale? Im Falle \n</span><span class=\"tei-line\">eines Künstlers, wir begreifen es nachgerade: <span class=\"tei-hi2 spaced\">gar \n<span class=\"line\">10</span><span class=\"tei-line \">Nichts</span>Nichts</span>!… Oder so Vielerlei, dass es so gut ist wie \n</span><span class=\"tei-line\">gar Nichts!… Eliminiren wir zunächst die Künstler: \n</span><span class=\"tei-line\">dieselben stehen lange nicht unabhängig genug in der \n</span><span class=\"tei-line\">Welt und <span class=\"tei-hi2 spaced\">gegen</span> die Welt, als dass ihre Werth-\n</span><span class=\"tei-line\">schätzungen und deren Wandel <span class=\"tei-hi2 spaced\">an sich</span> Theilnahme \n</span><span class=\"line\">15</span><span class=\"tei-line \">verdiente! Sie waren zu allen Zeiten Kammerdiener \n</span><span class=\"tei-line\">einer Moral oder Philosophie oder Religion; ganz ab-\n</span><span class=\"tei-line\">gesehn noch davon, dass sie leider oft genug die all-\n</span><span class=\"tei-line\">zugeschmeidigen Höflinge ihrer Anhänger- und Gön-\n</span><span class=\"tei-line\">nerschaft und spürnasige Schmeichler vor alten oder \n</span><span class=\"line\">20</span><span class=\"tei-line \">eben neu heraufkommenden Gewalten gewesen sind. \n</span><span class=\"tei-line\">Zum Mindesten brauchen sie immer eine Schutzwehr, \n</span><span class=\"tei-line\">einen Rückhalt, eine bereits begründete Autorität: die \n</span><span class=\"tei-line\">Künstler stehen nie für sich, das Alleinstehn geht wider \n</span><span class=\"tei-line\">ihre tiefsten Instinkte. So nahm zum Beispiel Richard \n</span><span class=\"line\">25</span><span class=\"tei-line \">Wagner den Philosophen Schopenhauer, als „die Zeit \n</span><span class=\"tei-line\">gekommen war“, zu seinem Vordermann, zu seiner \n</span><span class=\"tei-line\">Schutzwehr: – wer möchte es auch nur für denkbar \n</span><span class=\"tei-line\">halten, dass er den <span class=\"tei-hi2 spaced\">Muth</span> zu einem asketischen Ideal \n</span><span class=\"tei-line\">gehabt hätte, ohne den Rückhalt, den ihm die Philo-\n</span><span class=\"line\">30</span><span class=\"tei-line \">sophie Schopenhauer’s bot, ohne die in den siebziger \n</span><span class=\"tei-line\">Jahren in Europa <span class=\"tei-hi2 spaced\">zum Übergewicht</span> gelangende \n</span><span class=\"tei-line\">Autorität Schopenhauer’s? (dabei noch nicht in An-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.37.5.197",
+    "rootNode": "2.5.12.8.37.5.197",
+    "id": "Ed_125_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.39.5.8.5",
+    "previous": "2.5.12.8.37.5.100",
+    "nextId": "Ed_126_id",
+    "previousId": "Ed_124_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0146.tif\">125</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">gedeihen macht, – es muss wohl ein <span class=\"tei-hi2 spaced\">Interesse des \n<span class=\"tei-line\">Lebens selbst</span>Lebens selbst</span> sein, dass ein solcher Typus des \n</span><span class=\"tei-line\">Selbstwiderspruchs nicht ausstirbt. Denn ein asketisches \n</span><span class=\"tei-line\">Leben ist ein Selbstwiderspruch: hier herrscht ein \n</span><span class=\"line\">5</span><span class=\"tei-line \">Ressentiment sonder Gleichen, das eines ungesättigten \n</span><span class=\"tei-line\">Instinktes und Machtwillens, der Herr werden möchte, \n</span><span class=\"tei-line\">nicht über Etwas am Leben, sondern über das Leben \n</span><span class=\"tei-line\">selbst, über dessen tiefste, stärkste, unterste Bedingun-\n</span><span class=\"tei-line\">gen; hier wird ein Versuch gemacht, die Kraft zu ge-\n</span><span class=\"line\">10</span><span class=\"tei-line \">brauchen, um die Quellen der Kraft zu verstopfen; \n</span><span class=\"tei-line\">hier richtet sich der Blick grün und hämisch gegen \n</span><span class=\"tei-line\">das physiologische Gedeihen selbst, in Sonderheit \n</span><span class=\"tei-line\">gegen deren Ausdruck, die Schönheit, die Freude; wäh-\n</span><span class=\"tei-line\">rend am Missrathen, Verkümmern, am Schmerz, am \n</span><span class=\"line\">15</span><span class=\"tei-line \">Unfall, am Hässlichen, an der willkürlichen Einbusse, \n</span><span class=\"tei-line\">an der Entselbstung, Selbstgeisselung, Selbstopferung \n</span><span class=\"tei-line\">ein Wohlgefallen empfunden und <span class=\"tei-hi2 spaced\">gesucht</span> wird. Dies \n</span><span class=\"tei-line\">ist Alles im höchsten Grade paradox: wir stehen hier \n</span><span class=\"tei-line\">vor einer Zwiespältigkeit, die sich selbst zwiespältig \n</span><span class=\"line\">20</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">will</span>, welche sich selbst in diesem Leiden <span class=\"tei-hi2 spaced\">geniesst</span> \n</span><span class=\"tei-line\">und in dem Maasse sogar immer selbstgewisser und \n</span><span class=\"tei-line\">triumphirender wird, als ihre eigne Voraussetzung, \n</span><span class=\"tei-line\">die physiologische Lebensfähigkeit, <span class=\"tei-hi2 spaced\">abnimmt</span>. „Der \n</span><span class=\"tei-line\">Triumph gerade in der letzten Agonie“: unter diesem \n</span><span class=\"line\">25</span><span class=\"tei-line \">superlativischen Zeichen kämpfte von jeher das aske-\n</span><span class=\"tei-line\">tische Ideal; in diesem Räthsel von Verführung, in \n</span><span class=\"tei-line\">diesem Bilde von Entzücken und Qual erkannte es sein \n</span><span class=\"tei-line\">hellstes Licht, sein Heil, seinen endlichen Sieg. Crux, \n</span><span class=\"tei-line\">nux, lux – das gehört bei ihm in Eins. –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">30</span>12.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Gesetzt, dass ein solcher leibhafter Wille zur Con-\n</span><span class=\"tei-line\">tradiction und Widernatur dazu gebracht wird, zu <span class=\"tei-hi2 spaced\">phi-\n\n</span></span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

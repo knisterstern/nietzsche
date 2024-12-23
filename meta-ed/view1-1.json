@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "E40.xml",
+    "root": null,
+    "rootNode": "2.3",
+    "id": null,
+    "odd": "nietzsche-ed.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-teiHeader1 meta-chapter\"><pb-collapse opened=\"opened\"><span slot=\"collapse-trigger\"><h3 id=\"descChapter1\"><pb-i18n key=\"myapp.meta.descChapter1\">...msIdentifier...</pb-i18n></h3></span><span slot=\"collapse-content\"><table><tbody><tr><td><pb-i18n key=\"myapp.meta.repository\">...repository...</pb-i18n>:</td><td>Herzogin Anna Amalia Bibliothek, Weimar</td></tr><tr><td>Mette-Signatur:</td><td>E 40</td></tr><tr><td>HAAB-Signatur:</td><td>C 4620</td></tr></tbody></table></span></pb-collapse></div><div class=\"tei-teiHeader2 meta-chapter\"><pb-collapse opened=\"opened\"><span slot=\"collapse-trigger\"><h3 id=\"descChapter2\"><pb-i18n key=\"myapp.meta.descChapter2\">...contents...</pb-i18n></h3></span><span slot=\"collapse-content\"><div class=\"tei-ab3\">XIV S. (Titelseite, Titelrückseite, Vorrede), 1 Bl. (Titelseite Erste Abhandlung, Verso vakat), 182 S. (Erste Abhandlung, Zweite Abhandlung, Dritte Abhandlung), 1 Bl. (Inhaltsverzeichnis, Verso Impressum).</div></span></pb-collapse></div><div class=\"tei-teiHeader3 meta-chapter\"><pb-collapse opened=\"opened\"><span slot=\"collapse-trigger\"><h3 id=\"EDdescChapter3\"><pb-i18n key=\"myapp.meta.EDdescChapter3\">...contents...</pb-i18n></h3></span><span slot=\"collapse-content\"><pb-collapse opened=\"opened\"><span slot=\"collapse-trigger\"><h4 id=\"EDdescChapter3.1\"><pb-i18n key=\"myapp.meta.EDdescChapter31\">...subsection...</pb-i18n></h4></span><span slot=\"collapse-content\"><div class=\"tei-ab3\">„E 40 (D 20) Zur Genealogie der Moral, Eine Streitschrift; C. G. Naumann, Leipzig 1887.“ (<pb-link emit=\"transcription\" subscribe=\"transcription\" xml-id=\"Mette1932\">Mette, Der handschriftliche Nachlass [1932]</pb-link>, 6; <pb-link emit=\"transcription\" subscribe=\"transcription\" xml-id=\"Mette1933\">Mette, Sachlicher Vorbericht, BAW I [1933]</pb-link>, XXXVII)</div></span></pb-collapse><pb-collapse opened=\"opened\"><span slot=\"collapse-trigger\"><h4 id=\"EDdescChapter3.2\"><pb-i18n key=\"myapp.meta.EDdescChapter32\">...subsection...</pb-i18n></h4></span><span slot=\"collapse-content\"><div class=\"tei-ab3\">\n                            15,2×22,4, 184 S., grauer Pappumschlag, Umschlagvorderseite: Titel, Umschlagrückseite: Schriftenverzeichnis.</div></span></pb-collapse></span></pb-collapse></div><div class=\"tei-teiHeader4 meta-chapter\"></div><div class=\"tei-teiHeader5 meta-chapter\"></div><div class=\"tei-teiHeader6 meta-chapter\"></div><div class=\"tei-teiHeader7 meta-chapter\"></div><div class=\"tei-teiHeader8 meta-chapter\"></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "mode": "meta"
+    },
+    "collection": ""
+}

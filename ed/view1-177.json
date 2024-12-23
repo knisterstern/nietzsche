@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.57.5.44",
+    "rootNode": "2.5.12.8.57.5.44",
+    "id": "Ed_158_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.57.5.134",
+    "previous": "2.5.12.8.55.5.314",
+    "nextId": "Ed_159_id",
+    "previousId": "Ed_157_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0179.tif\">158</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">zähmt“, „geschwächt“, „entmuthigt“, „raffinirt“, „ver-\n</span><span class=\"tei-line\">zärtlicht“, „entmannt“ (also beinahe so viel als <span class=\"tei-hi2 spaced\">ge-\n<span class=\"tei-line\">schädigt</span>schädigt</span>…) Wenn es sich aber in der Hauptsache \n</span><span class=\"tei-line\">um Kranke, Verstimmte, Deprimirte handelt, so macht \n</span><span class=\"line\">5</span><span class=\"tei-line \">ein solches System den Kranken, gesetzt selbst, dass \n</span><span class=\"tei-line\">es ihn „besser“ machte, unter allen Umständen <span class=\"tei-hi2 spaced\">krän-\n<span class=\"tei-line\">ker</span>ker</span>; man frage nur die Irrenärzte, was eine methodi-\n</span><span class=\"tei-line\">sche Anwendung von Buss-Quälereien, Zerknirschungen \n</span><span class=\"tei-line\">und Erlösungskrämpfen immer mit sich führt. Ins-\n</span><span class=\"line\">10</span><span class=\"tei-line \">gleichen befrage man die Geschichte: überall, wo der \n</span><span class=\"tei-line\">asketische Priester diese Krankenbehandlung durch-\n</span><span class=\"tei-line\">gesetzt hat, ist jedes Mal die Krankhaftigkeit unheim-\n</span><span class=\"tei-line\">lich schnell in die Tiefe und Breite gewachsen. Was \n</span><span class=\"tei-line\">war immer der „Erfolg“? Ein zerrüttetes Nerven-\n</span><span class=\"line\">15</span><span class=\"tei-line \">system, hinzu zu dem, was sonst schon krank war; \n</span><span class=\"tei-line\">und das im Grössten wie im Kleinsten, bei Einzelnen \n</span><span class=\"tei-line\">wie bei Massen. Wir finden im Gefolge des Buss- und \n</span><span class=\"tei-line\">Erlösungs-training ungeheure epileptische Epidemien, \n</span><span class=\"tei-line\">die grössten, von denen die Geschichte weiss, wie die \n</span><span class=\"line\">20</span><span class=\"tei-line \">der St. Veit- und St. Johann-Tänzer des Mittelalters; \n</span><span class=\"tei-line\">wir finden als andre Form seines Nachspiels furcht-\n</span><span class=\"tei-line\">bare Lähmungen und Dauer-Depressionen, mit denen \n</span><span class=\"tei-line\">unter Umständen das Temperament eines Volkes oder \n</span><span class=\"tei-line\">einer Stadt (Genf, Basel) ein für alle Mal in sein Ge-\n</span><span class=\"line\">25</span><span class=\"tei-line \">gentheil umschlägt; – hierher gehört auch die Hexen-\n</span><span class=\"tei-line\">Hysterie, etwas dem Somnambulismus Verwandtes (acht \n</span><span class=\"tei-line\">grosse epidemische Ausbrüche derselben allein zwischen \n</span><span class=\"tei-line\">1564 und 1605) –; wir finden in seinem Gefolge ins-\n</span><span class=\"tei-line\">gleichen jene todsüchtigen Massen-Delirien, deren ent-\n</span><span class=\"line\">30</span><span class=\"tei-line \">setzlicher Schrei „evviva la morte“ über ganz Europa \n</span><span class=\"tei-line\">weg gehört wurde, unterbrochen bald von wollüstigen, \n</span><span class=\"tei-line\">bald von zerstörungswüthigen Idiosynkrasien: wie der \n</span><span class=\"tei-line\">gleiche Affektwechsel, mit den gleichen Intermittenzen \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

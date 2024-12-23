@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.9",
+    "rootNode": "2.9.9",
+    "id": "srcD_surface_a6r",
+    "odd": "surface.odd",
+    "next": "2.9.10",
+    "previous": "2.9.8",
+    "nextId": "srcD_surface_a7r",
+    "previousId": "srcD_surface_a5r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div class=\"tei-div8\"></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

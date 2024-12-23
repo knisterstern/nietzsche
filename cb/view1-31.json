@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.58.23",
+    "rootNode": "2.7.2.2.58.23",
+    "id": "Cb_b15",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.60.17",
+    "previous": "2.7.2.2.58.9",
+    "nextId": "Cb_b16",
+    "previousId": "Cb_b14",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0038.tif\">b15</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"12\"><span><span>all<span class=\"tei-sic2\">e v</span><span class=\"tei-hi2 spaced\">ornehmeren</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">bisher über alle anderen Ideale, über alle <span class=\"tei-hi2 underline\">vornehmeren</span> Ideale / <span class=\"tei-hi2 latin\">etc</span>)</span><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">anderen / Ideale, über / alle</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span>inneren<span class=\"tei-sic2\"></span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">nennen</span>)</span><span class=\"Koeselitz_black fnote\">nennen)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span><span class=\"tei-sic2\">B</span>elieben</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">b</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"21\"><span><span>He<span class=\"tei-sic2\">o</span>ren</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">r</span> (Herren))</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"24\"><span><span>gemeng<span class=\"tei-sic2\">t –</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">))</span><span class=\"Koeselitz_black fnote\">) Parenthese)</span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25\"><span><span>aber ist<span class=\"tei-sic2\"></span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">ist aber</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"27-28\"><span><span>ver-/jüdelt<span class=\"tei-sic2\">,</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"28\"><span><span>verchristlicht<span class=\"tei-sic2\">,</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\">del)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

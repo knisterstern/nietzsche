@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.16.7.235",
+    "rootNode": "2.5.12.6.16.7.235",
+    "id": "Ed_48_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.18.5.71",
+    "previous": "2.5.12.6.16.7.148",
+    "nextId": "Ed_49_id",
+    "previousId": "Ed_47_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0069.tif\">48</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">über die Affekte, diese ganze düstere Sache, welche \n</span><span class=\"tei-line\">Nachdenken heisst, alle diese Vorrechte und Prunk-\n</span><span class=\"tei-line\">stücke des Menschen: wie theuer haben sie sich be-\n</span><span class=\"tei-line\">zahlt gemacht! wie viel Blut und Grausen ist auf dem \n</span><span class=\"line\">5</span><span class=\"tei-line \">Grunde aller „guten Dinge“!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">4.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Aber wie ist denn jene andre „düstre Sache“, das \n</span><span class=\"tei-line\">Bewusstsein der Schuld, das ganze „schlechte Gewissen“ \n</span><span class=\"tei-line\">auf die Welt gekommen? – Und hiermit kehren wir zu \n</span><span class=\"line\">10</span><span class=\"tei-line \">unsern Genealogen der Moral zurück. Nochmals ge-\n</span><span class=\"tei-line\">sagt – oder habe ich’s noch gar nicht gesagt? – sie \n</span><span class=\"tei-line\">taugen nichts. Eine fünf Spannen lange eigne, bloss \n</span><span class=\"tei-line\">„moderne“ Erfahrung; kein Wissen, kein Wille zum \n</span><span class=\"tei-line\">Wissen des Vergangnen; noch weniger ein historischer \n</span><span class=\"line\">15</span><span class=\"tei-line \">Instinkt, ein hier gerade nöthiges „zweites Gesicht“ – \n</span><span class=\"tei-line\">und dennoch Geschichte der Moral treiben: das muss \n</span><span class=\"tei-line\">billigerweise mit Ergebnissen enden, die zur Wahrheit \n</span><span class=\"tei-line\">in einem nicht bloss spröden Verhältnisse stehn. Haben \n</span><span class=\"tei-line\">sich diese bisherigen Genealogen der Moral auch nur \n</span><span class=\"line\">20</span><span class=\"tei-line \">von Ferne Etwas davon träumen lassen, dass zum Bei-\n</span><span class=\"tei-line\">spiel jener moralische Hauptbegriff „Schuld“ seine Her-\n</span><span class=\"tei-line\">kunft aus dem sehr materiellen Begriff „Schulden“ ge-\n</span><span class=\"tei-line\">nommen hat? Oder dass die Strafe als eine <span class=\"tei-hi2 spaced\">Vergel-\n<span class=\"tei-line\">tung</span>tung</span> sich vollkommen abseits von jeder Voraussetzung \n</span><span class=\"line\">25</span><span class=\"tei-line \">über Freiheit oder Unfreiheit des Willens entwickelt \n</span><span class=\"tei-line\">hat? – und dies bis zu dem Grade, dass es vielmehr \n</span><span class=\"tei-line\">immer erst einer <span class=\"tei-hi2 spaced\">hohen</span> Stufe der Vermenschlichung \n</span><span class=\"tei-line\">bedarf, damit das Thier „Mensch“ anfängt, jene viel \n</span><span class=\"tei-line\">primitiveren Unterscheidungen „absichtlich“ „fahrläs-\n</span><span class=\"line\">30</span><span class=\"tei-line \">sig“ „zufällig“ „zurechnungsfähig“ und deren Gegen-\n</span><span class=\"tei-line\">sätze zu machen und bei der Zumessung der Strafe in \n</span><span class=\"tei-line\">Anschlag zu bringen. Jener jetzt so wohlfeile und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

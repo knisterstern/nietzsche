@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.51.5.84",
+    "rootNode": "2.5.12.8.51.5.84",
+    "id": "Ed_148_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.51.5.177",
+    "previous": "2.5.12.8.49.5.510",
+    "nextId": "Ed_149_id",
+    "previousId": "Ed_147_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0169.tif\">148</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">zugleich sind, Arbeitssklaven und Gefangene), so be-\n</span><span class=\"tei-line\">durfte es wenig mehr als einer kleinen Kunst des Na-\n</span><span class=\"tei-line\">menwechselns und der Umtaufung, um sie in verhassten \n</span><span class=\"tei-line\">Dingen fürderhin eine Wohlthat, ein relatives Glück \n</span><span class=\"line\">5</span><span class=\"tei-line \">sehn zu machen: – die Unzufriedenheit des Sklaven \n</span><span class=\"tei-line\">mit seinem Loos ist jedenfalls <span class=\"tei-hi2 spaced\">nicht</span> von den Priestern \n</span><span class=\"tei-line\">erfunden worden. – Ein noch geschätzteres Mittel im \n</span><span class=\"tei-line\">Kampf mit der Depression ist die Ordinirung einer \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">kleinen Freude</span>, die leicht zugänglich ist und zur \n</span><span class=\"line\">10</span><span class=\"tei-line \">Regel gemacht werden kann; man bedient sich dieser \n</span><span class=\"tei-line\">Medikation häufig in Verbindung mit der eben be-\n</span><span class=\"tei-line\">sprochnen. Die häufigste Form, in der die Freude der-\n</span><span class=\"tei-line\">gestalt als Kurmittel ordinirt wird, ist die Freude des \n</span><span class=\"tei-line\">Freude-<span class=\"tei-hi2 spaced\">Machens</span> (als Wohlthun, Beschenken, Erleich-\n</span><span class=\"line\">15</span><span class=\"tei-line \">tern, Helfen, Zureden, Trösten, Loben, Auszeichnen); \n</span><span class=\"tei-line\">der asketische Priester verordnet damit, dass er „Näch-\n</span><span class=\"tei-line\">stenliebe“ verordnet, im Grunde eine Erregung des \n</span><span class=\"tei-line\">stärksten, lebenbejahendsten Triebes, wenn auch in der \n</span><span class=\"tei-line\">vorsichtigsten Dosirung, – des <span class=\"tei-hi2 spaced\">Willens zur Macht</span>. \n</span><span class=\"line\">20</span><span class=\"tei-line \">Das Glück der „kleinsten Überlegenheit“, wie es alles \n</span><span class=\"tei-line\">Wohlthun, Nützen, Helfen, Auszeichnen mit sich bringt, \n</span><span class=\"tei-line\">ist das reichlichste Trostmittel, dessen sich die Physio-\n</span><span class=\"tei-line\">logisch-Gehemmten zu bedienen pflegen, gesetzt dass \n</span><span class=\"tei-line\">sie gut berathen sind: im andern Falle thun sie ein-\n</span><span class=\"line\">25</span><span class=\"tei-line \">ander weh, natürlich im Gehorsam gegen den gleichen \n</span><span class=\"tei-line\">Grundinstinkt. Wenn man nach den Anfängen des \n</span><span class=\"tei-line\">Christenthums in der römischen Welt sucht, so findet \n</span><span class=\"tei-line\">man Vereine zu gegenseitiger Unterstützung, Armen-, \n</span><span class=\"tei-line\">Kranken-, Begräbniss-Vereine, aufgewachsen auf dem \n</span><span class=\"line\">30</span><span class=\"tei-line \">untersten Boden der damaligen Gesellschaft, in denen \n</span><span class=\"tei-line\">mit Bewusstsein jenes Hauptmittel gegen die Depression, \n</span><span class=\"tei-line\">die kleine Freude, die des gegenseitigen Wohlthuns \n</span><span class=\"tei-line\">gepflegt wurde, – vielleicht war dies damals etwas \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

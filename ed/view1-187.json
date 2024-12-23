@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.63.7.202",
+    "rootNode": "2.5.12.8.63.7.202",
+    "id": "Ed_168_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.63.7.296",
+    "previous": "2.5.12.8.63.7.96",
+    "nextId": "Ed_169_id",
+    "previousId": "Ed_167_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0189.tif\">168</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">sie gerade fester gebunden, im Glauben gerade an die \n</span><span class=\"tei-line\">Wahrheit sind sie, wie Niemand anders sonst, fest und \n</span><span class=\"tei-line\">unbedingt. Ich kenne dies Alles vielleicht zu sehr \n</span><span class=\"tei-line\">aus der Nähe: jene verehrenswürdige Philosophen-\n</span><span class=\"line\">5</span><span class=\"tei-line \">Enthaltsamkeit, zu der ein solcher Glaube verpflichtet, \n</span><span class=\"tei-line\">jener Stoicismus des Intellekts, der sich das Nein zu-\n</span><span class=\"tei-line\">letzt eben so streng verbietet wie das Ja, jenes Stehen-\n</span><span class=\"tei-line\">bleiben-<span class=\"tei-hi2 spaced\">Wollen</span> vor dem Thatsächlichen, dem factum \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">brutum</span>, jener Fatalismus der „petits faits“ (ce petit \n</span><span class=\"line\">10</span><span class=\"tei-line \">faitalisme, wie ich ihn nenne), worin die französische \n</span><span class=\"tei-line\">Wissenschaft jetzt eine Art moralischen Vorrangs vor \n</span><span class=\"tei-line\">der deutschen sucht, jenes Verzichtleisten auf Interpre-\n</span><span class=\"tei-line\">tation überhaupt (auf das Vergewaltigen, Zurechtschie-\n</span><span class=\"tei-line\">ben, Abkürzen, Weglassen, Ausstopfen, Ausdichten, \n</span><span class=\"line\">15</span><span class=\"tei-line \">Umfälschen und was sonst zum <span class=\"tei-hi2 spaced\">Wesen</span> alles Interpre-\n</span><span class=\"tei-line\">tirens gehört) – das drückt, in’s Grosse gerechnet, \n</span><span class=\"tei-line\">ebensogut Ascetismus der Tugend aus, wie irgend eine \n</span><span class=\"tei-line\">Verneinung der Sinnlichkeit (es ist im Grunde nur ein \n</span><span class=\"tei-line\">modus dieser Verneinung). Was aber zu ihm <span class=\"tei-hi2 spaced\">zwingt</span>, \n</span><span class=\"line\">20</span><span class=\"tei-line \">jener unbedingte Wille zur Wahrheit, das ist der \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Glaube an das asketische Ideal selbst</span>, wenn \n</span><span class=\"tei-line\">auch als sein unbewusster Imperativ, man täusche sich \n</span><span class=\"tei-line\">hierüber nicht, – das ist der Glaube an einen <span class=\"tei-hi2 spaced\">meta-\n<span class=\"tei-line\">physischen</span>physischen</span> Werth, einen Werth <span class=\"tei-hi2 spaced\">an sich der Wahr-\n<span class=\"line\">25</span><span class=\"tei-line \">heit</span>heit</span>, wie er allein in jenem Ideal verbürgt und ver-\n</span><span class=\"tei-line\">brieft ist (er steht und fällt mit jenem Ideal). Es giebt, \n</span><span class=\"tei-line\">streng geurtheilt, gar keine „voraussetzungslose“ \n</span><span class=\"tei-line\">Wissenschaft, der Gedanke einer solchen ist unausdenk-\n</span><span class=\"tei-line\">bar, paralogisch: eine Philosophie, ein „Glaube“ muss \n</span><span class=\"line\">30</span><span class=\"tei-line \">immer erst da sein, damit aus ihm die Wissenschaft \n</span><span class=\"tei-line\">eine Richtung, einen Sinn, eine Grenze, eine Methode, \n</span><span class=\"tei-line\">ein <span class=\"tei-hi2 spaced\">Recht</span> auf Dasein gewinnt. (Wer es umgekehrt \n</span><span class=\"tei-line\">versteht, wer zum Beispiel sich anschickt, die Philoso-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

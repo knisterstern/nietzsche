@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.53.5.84",
+    "rootNode": "2.5.12.8.53.5.84",
+    "id": "Ed_151_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.53.5.186",
+    "previous": "2.5.12.8.51.5.276",
+    "nextId": "Ed_152_id",
+    "previousId": "Ed_150_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0172.tif\">151</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">darin, wenn irgend worin, seinen <span class=\"tei-hi2 spaced\">guten Geschmack</span> \n</span><span class=\"tei-line\">(– Andre mögen sagen: seine Rechtschaffenheit), dass \n</span><span class=\"tei-line\">er der schändlich <span class=\"tei-hi2 spaced\">vermoralisirten</span> Sprechweise wider-\n</span><span class=\"tei-line\">strebt, mit der nachgerade alles moderne Urtheilen \n</span><span class=\"line\">5</span><span class=\"tei-line \">über Mensch und Ding angeschleimt ist. Denn man \n</span><span class=\"tei-line\">täusche sich hierüber nicht: was das eigentlichste Merk-\n</span><span class=\"tei-line\">mal moderner Seelen, moderner Bücher ausmacht, das \n</span><span class=\"tei-line\">ist nicht die Lüge, sondern die eingefleischte <span class=\"tei-hi2 spaced\">Un-\n<span class=\"tei-line\">schuld</span>schuld</span> in der moralistischen Verlogenheit. Diese „Un-\n</span><span class=\"line\">10</span><span class=\"tei-line \">schuld“ überall wieder entdecken müssen – das macht \n</span><span class=\"tei-line\">vielleicht unser widerlichstes Stück Arbeit aus, an all \n</span><span class=\"tei-line\">der an sich nicht unbedenklichen Arbeit, deren sich \n</span><span class=\"tei-line\">heute ein Psychologe zu unterziehn hat; es ist ein \n</span><span class=\"tei-line\">Stück <span class=\"tei-hi2 spaced\">unsrer</span> grossen Gefahr, – es ist ein Weg, der \n</span><span class=\"line\">15</span><span class=\"tei-line \">vielleicht gerade <span class=\"tei-hi2 spaced\">uns</span> zum grossen Ekel führt… Ich \n</span><span class=\"tei-line\">zweifle nicht daran, <span class=\"tei-hi2 spaced\">wozu</span> allein moderne Bücher (ge-\n</span><span class=\"tei-line\">setzt, dass sie Dauer haben, was freilich nicht zu fürch-\n</span><span class=\"tei-line\">ten ist, und ebenfalls gesetzt, dass es einmal eine Nach-\n</span><span class=\"tei-line\">welt mit strengerem härteren <span class=\"tei-hi2 spaced\">gesünderen</span> Geschmack \n</span><span class=\"line\">20</span><span class=\"tei-line \">giebt) – wozu <span class=\"tei-hi2 spaced\">alles</span> Moderne überhaupt dieser Nach-\n</span><span class=\"tei-line\">welt dienen würde, dienen könnte: zu Brechmitteln, – \n</span><span class=\"tei-line\">und das vermöge seiner moralischen Versüsslichung \n</span><span class=\"tei-line\">und Falschheit, seines innerlichsten Femininismus, der \n</span><span class=\"tei-line\">sich gern „Idealismus“ nennt und jedenfalls Idealismus \n</span><span class=\"line\">25</span><span class=\"tei-line \">glaubt. Unsre Gebildeten von Heute, unsre „Guten“ lügen \n</span><span class=\"tei-line\">nicht – das ist wahr; aber es gereicht ihnen <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">zur Ehre! Die eigentliche Lüge, die ächte resolute \n</span><span class=\"tei-line\">„ehrliche“ Lüge (über deren Werth man Plato hören \n</span><span class=\"tei-line\">möge) wäre für sie etwas bei weitem zu Strenges, zu \n</span><span class=\"line\">30</span><span class=\"tei-line \">Starkes; es würde verlangen, was man von ihnen nicht \n</span><span class=\"tei-line\">verlangen <span class=\"tei-hi2 spaced\">darf</span>, dass sie die Augen gegen sich selbst \n</span><span class=\"tei-line\">aufmachten, dass sie zwischen „wahr“ und „falsch“ bei \n</span><span class=\"tei-line\">sich selber zu unterscheiden wüssten. Ihnen geziemt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

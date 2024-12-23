@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.48.5.132",
+    "rootNode": "2.5.12.6.48.5.132",
+    "id": "Ed_84_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.50.3",
+    "previous": "2.5.12.6.48.5.32",
+    "nextId": "Ed_85_id",
+    "previousId": "Ed_83_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0105.tif\">84</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ser Art von Logik nothwendig genau in dem Maasse zu, \n</span><span class=\"tei-line\">in dem die Macht des Geschlechts selbst zunimmt, in dem \n</span><span class=\"tei-line\">das Geschlecht selbst immer siegreicher, unabhängiger, \n</span><span class=\"tei-line\">geehrter, gefürchteter dasteht. Nicht etwa umgekehrt! \n</span><span class=\"line\">5</span><span class=\"tei-line \">Jeder Schritt zur Verkümmerung des Geschlechts, alle \n</span><span class=\"tei-line\">elenden Zufälle, alle Anzeichen von Entartung, von \n</span><span class=\"tei-line\">heraufkommender Auflösung <span class=\"tei-hi2 spaced\">vermindern</span> vielmehr \n</span><span class=\"tei-line\">immer auch die Furcht vor dem Geiste seines Begrün-\n</span><span class=\"tei-line\">ders und geben eine immer geringere Vorstellung von \n</span><span class=\"line\">10</span><span class=\"tei-line \">seiner Klugheit, Vorsorglichkeit und Macht-Gegenwart. \n</span><span class=\"tei-line\">Denkt man sich diese rohe Art Logik bis an ihr Ende \n</span><span class=\"tei-line\">gelangt: so müssen schliesslich die Ahnherrn der <span class=\"tei-hi2 spaced\">mäch-\n<span class=\"tei-line\">tigsten</span>tigsten</span> Geschlechter durch die Phantasie der wach-\n</span><span class=\"tei-line\">senden Furcht selbst in’s Ungeheure gewachsen und \n</span><span class=\"line\">15</span><span class=\"tei-line \">in das Dunkel einer göttlichen Unheimlichkeit und Un-\n</span><span class=\"tei-line\">vorstellbarkeit zurückgeschoben worden sein: – der \n</span><span class=\"tei-line\">Ahnherr wird zuletzt nothwendig in einen <span class=\"tei-hi2 spaced\">Gott</span> trans-\n</span><span class=\"tei-line\">figurirt. Vielleicht ist hier selbst der Ursprung der \n</span><span class=\"tei-line\">Götter, ein Ursprung also aus der <span class=\"tei-hi2 spaced\">Furcht</span>!… Und \n</span><span class=\"line\">20</span><span class=\"tei-line \">wem es nöthig scheinen sollte hinzuzufügen: „aber auch \n</span><span class=\"tei-line\">aus der Pietät!“ dürfte schwerlich damit für jene längste \n</span><span class=\"tei-line\">Zeit des Menschengeschlechts Recht behalten, für seine \n</span><span class=\"tei-line\">Urzeit. Um so mehr freilich für die <span class=\"tei-hi2 spaced\">mittlere</span> Zeit, in \n</span><span class=\"tei-line\">der die vornehmen Geschlechter sich herausbilden: – \n</span><span class=\"line\">25</span><span class=\"tei-line \">als welche in der That ihren Urhebern, den Ahnherren \n</span><span class=\"tei-line\">(Heroen, Göttern) alle die Eigenschaften mit Zins zu-\n</span><span class=\"tei-line\">rückgegeben haben, die inzwischen in ihnen selbst offen-\n</span><span class=\"tei-line\">bar geworden sind, die <span class=\"tei-hi2 spaced\">vornehmen</span> Eigenschaften. \n</span><span class=\"tei-line\">Wir werden auf die Veradligung und Veredelung der \n</span><span class=\"line\">30</span><span class=\"tei-line \">Götter (die freilich durchaus nicht deren „Heiligung“ \n</span><span class=\"tei-line\">ist) später noch einen Blick werfen: führen wir jetzt \n</span><span class=\"tei-line\">nur den Gang dieser ganzen Schuldbewusstseins-Ent-\n</span><span class=\"tei-line\">wicklung vorläufig zu Ende.</span></p>\n\n\n  \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.40.5.100",
+    "rootNode": "2.5.12.6.40.5.100",
+    "id": "Ed_76_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.42.5.50",
+    "previous": "2.5.12.6.40.5.8",
+    "nextId": "Ed_77_id",
+    "previousId": "Ed_75_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM II 15</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 337/321,21-23</li><li class=\"tei-ab2\"><a data-id=\"Ed_76_id\" data-doc=\"E40.xml\">Ed 76,10-13</a></li><li class=\"tei-ab2\"><a data-id=\"a33r\" data-doc=\"D20.xml\">Dm a33r,8-9</a></li><li class=\"tei-ab2\"><a data-id=\"NVII2_10\" data-doc=\"KGWIX.xml\">N VII 2, 10,2-6</a></li><li class=\"tei-ab2\"><a data-id=\"BW177_8v\" data-doc=\"KGWIX.xml\">BW 177, 8v,2-6</a> (?)</li></ul><ul><li class=\"tei-ab2\">KGW/KSA 337/321,22-23</li><li class=\"tei-ab2\"><a data-id=\"Ed_76_id\" data-doc=\"E40.xml\">Ed 76,12-13</a></li><li class=\"tei-ab2\"><a data-id=\"a33r\" data-doc=\"D20.xml\">Dm a33r,9</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVI_21r\" data-doc=\"KGWIX.xml\">Mp XVI, 21r,2-4</a></li></ul><p></p></div><div class=\"QV\"><h3>GM II 16</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 337/321,24-340/324,4 passim</li><li class=\"tei-ab2\"><a data-id=\"Ed_76_id\" data-doc=\"E40.xml\">Ed 76,14-79,8 passim</a></li><li class=\"tei-ab2\"><a data-id=\"a33r\" data-doc=\"D20.xml\">Dm a33r,16-39, a34r,1-12 passim</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_116v\" data-doc=\"KGWIX.xml\">Mp XVII, 116v,2-10</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

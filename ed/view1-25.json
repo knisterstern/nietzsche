@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.21",
+    "rootNode": "2.5.12.4.21",
+    "id": "Ed_6_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.23.5.97",
+    "previous": "2.5.12.4.17.7.209",
+    "nextId": "Ed_7_id",
+    "previousId": "Ed_5_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0027.tif\">6</pb-facs-link></span>\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>4.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Den Fingerzeig zum <span class=\"tei-hi2 spaced\">rechten</span> Wege gab mir die \n</span><span class=\"tei-line\">Frage, was eigentlich die von den verschiedenen Spra-\n</span><span class=\"tei-line\">chen ausgeprägten Bezeichnungen des „Guten“ in ety-\n</span><span class=\"line\">5</span><span class=\"tei-line \">mologischer Hinsicht zu bedeuten haben: da fand ich, \n</span><span class=\"tei-line\">dass sie allesammt auf die <span class=\"tei-hi2 spaced\">gleiche Begriffs-Ver-\n<span class=\"tei-line\">wandlung</span>wandlung</span> zurückleiten, – dass überall „vornehm“, \n</span><span class=\"tei-line\">„edel“ im ständischen Sinne der Grundbegriff ist, aus \n</span><span class=\"tei-line\">dem sich „gut“ im Sinne von „seelisch-vornehm“, \n</span><span class=\"line\">10</span><span class=\"tei-line \">„edel“, von „seelisch-hochgeartet“, „seelisch-privilegirt“ \n</span><span class=\"tei-line\">mit Nothwendigkeit heraus entwickelt: eine Entwick-\n</span><span class=\"tei-line\">lung, die immer parallel mit jener anderen läuft, welche \n</span><span class=\"tei-line\">„gemein“, „pöbelhaft“, „niedrig“ schliesslich in den \n</span><span class=\"tei-line\">Begriff „schlecht“ übergehen macht. Das beredteste \n</span><span class=\"line\">15</span><span class=\"tei-line \">Beispiel für das Letztere ist das deutsche Wort „schlecht“ \n</span><span class=\"tei-line\">selber: als welches mit „schlicht“ identisch ist – ver-\n</span><span class=\"tei-line\">gleiche „schlechtweg“, „schlechterdings“ – und ur-\n</span><span class=\"tei-line\">sprünglich den schlichten, den gemeinen Mann noch \n</span><span class=\"tei-line\">ohne einen verdächtigenden Seitenblick, einfach im Ge-\n</span><span class=\"line\">20</span><span class=\"tei-line \">gensatz zum Vornehmen bezeichnete. Um die Zeit des \n</span><span class=\"tei-line\">dreissigjährigen Kriegs ungefähr, also spät genug, ver-\n</span><span class=\"tei-line\">schiebt sich dieser Sinn in den jetzt gebräuchlichen. – \n</span><span class=\"tei-line\">Dies scheint mir in Betreff der Moral-Genealogie eine \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">wesentliche</span> Einsicht; dass sie so spät erst gefunden \n</span><span class=\"line\">25</span><span class=\"tei-line \">wird, liegt an dem hemmenden Einfluss, den das demo-\n</span><span class=\"tei-line\">kratische Vorurtheil innerhalb der modernen Welt in \n</span><span class=\"tei-line\">Hinsicht auf alle Fragen der Herkunft ausübt. Und \n</span><span class=\"tei-line\">dies bis in das anscheinend objektivste Gebiet der Natur-\n</span><span class=\"tei-line\">wissenschaft und Physiologie hinein, wie hier nur an-\n</span><span class=\"line\">30</span><span class=\"tei-line \">gedeutet werden soll. Welchen Unfug aber dieses Vor-\n</span><span class=\"tei-line\">urtheil, einmal bis zum Hass entzügelt, in Sonderheit \n</span><span class=\"tei-line\">für Moral und Historie anrichten kann, zeigt der be-\n</span><span class=\"tei-line\">rüchtigte Fall Buckle’s; der <span class=\"tei-hi2 spaced\">Plebejismus</span> des mo-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.36.7.159",
+    "rootNode": "2.5.12.6.36.7.159",
+    "id": "Ed_72_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.38.5.6",
+    "previous": "2.5.12.6.36.7.60",
+    "nextId": "Ed_73_id",
+    "previousId": "Ed_71_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0093.tif\">72</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">als Abzahlung des Schadens an den Geschädigten, in \n</span><span class=\"tei-line\">irgend einer Form (auch in der einer Affekt-Compen-\n</span><span class=\"tei-line\">sation). Strafe als Isolirung einer Gleichgewichts-Stö-\n</span><span class=\"tei-line\">rung, um ein Weitergreifen der Störung zu verhüten. \n</span><span class=\"line\">5</span><span class=\"tei-line \">Strafe als Furchteinflössen vor Denen, welche die Strafe \n</span><span class=\"tei-line\">bestimmen und exekutiren. Strafe als eine Art Aus-\n</span><span class=\"tei-line\">gleich für die Vortheile, welche der Verbrecher bis da-\n</span><span class=\"tei-line\">hin genossen hat (zum Beispiel wenn er als Bergwerks-\n</span><span class=\"tei-line\">sklave nutzbar gemacht wird). Strafe als Ausscheidung \n</span><span class=\"line\">10</span><span class=\"tei-line \">eines entartenden Elementes (unter Umständen eines \n</span><span class=\"tei-line\">ganzen Zweigs, wie nach chinesischem Rechte: somit \n</span><span class=\"tei-line\">als Mittel zur Reinerhaltung der Rasse oder zur Fest-\n</span><span class=\"tei-line\">haltung eines socialen Typus). Strafe als Fest, nämlich \n</span><span class=\"tei-line\">als Vergewaltigung und Verhöhnung eines endlich nie-\n</span><span class=\"line\">15</span><span class=\"tei-line \">dergeworfnen Feindes. Strafe als ein Gedächtniss-\n</span><span class=\"tei-line\">machen, sei es für Den, der die Strafe erleidet – die \n</span><span class=\"tei-line\">sogenannte „Besserung“, sei es für die Zeugen der \n</span><span class=\"tei-line\">Exekution. Strafe als Zahlung eines Honorars, ausbe-\n</span><span class=\"tei-line\">dungen Seitens der Macht, welche den Übelthäter vor \n</span><span class=\"line\">20</span><span class=\"tei-line \">den Ausschweifungen der Rache schützt. Strafe als \n</span><span class=\"tei-line\">Compromiss mit dem Naturzustand der Rache, sofern \n</span><span class=\"tei-line\">letzterer durch mächtige Geschlechter noch aufrecht \n</span><span class=\"tei-line\">erhalten und als Privilegium in Anspruch genommen \n</span><span class=\"tei-line\">wird. Strafe als Kriegserklärung und Kriegsmaassregel \n</span><span class=\"line\">25</span><span class=\"tei-line \">gegen einen Feind des Friedens, des Gesetzes, der Ord-\n</span><span class=\"tei-line\">nung, der Obrigkeit, den man als gefährlich für das \n</span><span class=\"tei-line\">Gemeinwesen, als vertragsbrüchig in Hinsicht auf dessen \n</span><span class=\"tei-line\">Voraussetzungen, als einen Empörer, Verräther und \n</span><span class=\"tei-line\">Friedensbrecher bekämpft, mit Mitteln, wie sie eben \n</span><span class=\"line\">30</span><span class=\"tei-line \">der Krieg an die Hand giebt. –\n</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">14.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Diese Liste ist gewiss nicht vollständig; ersichtlich \n</span><span class=\"tei-line\">ist die Strafe mit Nützlichkeiten aller Art überladen. \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

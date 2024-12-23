@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.25.5.177",
+    "rootNode": "2.5.12.8.25.5.177",
+    "id": "Ed_105_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.27.5.50",
+    "previous": "2.5.12.8.25.5.74",
+    "nextId": "Ed_106_id",
+    "previousId": "Ed_104_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0126.tif\">105</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">bietend, vielmehr die Sprache <span class=\"tei-hi2 spaced\">des</span> Willens selbst redend, \n</span><span class=\"tei-line\">unmittelbar aus dem „Abgrunde“ heraus, als dessen \n</span><span class=\"tei-line\">eigenste, ursprünglichste, unabgeleitetste Offenbarung. \n</span><span class=\"tei-line\">Mit dieser ausserordentlichen Werthsteigerung der Mu-\n</span><span class=\"line\">5</span><span class=\"tei-line \">sik, wie sie aus der Schopenhauer’schen Philosophie \n</span><span class=\"tei-line\">zu erwachsen schien, stieg mit Einem Male auch <span class=\"tei-hi2 spaced\">der \n<span class=\"tei-line\">Musiker</span>Musiker</span> selbst unerhört im Preise: er wurde nunmehr \n</span><span class=\"tei-line\">ein Orakel, ein Priester, ja mehr als ein Priester, eine \n</span><span class=\"tei-line\">Art Mundstück des „An-sich“ der Dinge, ein Telephon \n</span><span class=\"line\">10</span><span class=\"tei-line \">des Jenseits, – er redete fürderhin nicht nur Musik, \n</span><span class=\"tei-line\">dieser Bauchredner Gottes, – er redete Metaphysik: \n</span><span class=\"tei-line\">was Wunder, dass er endlich eines Tags <span class=\"tei-hi2 spaced\">asketische \n<span class=\"tei-line\">Ideale</span>Ideale</span> redete?… </span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">6.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">15</span><span class=\"tei-line indent\">Schopenhauer hat sich die Kantische Fassung des \n</span><span class=\"tei-line\">ästhetischen Problems zu Nutze gemacht, – obwohl er \n</span><span class=\"tei-line\">es ganz gewiss nicht mit Kantischen Augen angeschaut \n</span><span class=\"tei-line\">hat. Kant gedachte der Kunst eine Ehre zu erweisen, \n</span><span class=\"tei-line\">als er unter den Prädikaten des Schönen diejenigen be-\n</span><span class=\"line\">20</span><span class=\"tei-line \">vorzugte und in den Vordergrund stellte, welche die \n</span><span class=\"tei-line\">Ehre der Erkenntniss ausmachen: Unpersönlichkeit und \n</span><span class=\"tei-line\">Allgemeingültigkeit. Ob dies nicht in der Hauptsache \n</span><span class=\"tei-line\">ein Fehlgriff war, ist hier nicht am Orte zu verhandeln; \n</span><span class=\"tei-line\">was ich allein unterstreichen will, ist, dass Kant, gleich \n</span><span class=\"line\">25</span><span class=\"tei-line \">allen Philosophen, statt von den Erfahrungen des Künst-\n</span><span class=\"tei-line\">lers (des Schaffenden) aus das ästhetische Problem zu \n</span><span class=\"tei-line\">visiren, allein vom „Zuschauer“ aus über die Kunst und \n</span><span class=\"tei-line\">das Schöne nachgedacht und dabei unvermerkt den \n</span><span class=\"tei-line\">„Zuschauer“ selber in den Begriff „schön“ hinein be-\n</span><span class=\"line\">30</span><span class=\"tei-line \">kommen hat. Wäre aber wenigstens nur dieser „Zu-\n</span><span class=\"tei-line\">schauer“ den Philosophen des Schönen ausreichend \n</span><span class=\"tei-line\">bekannt gewesen! – nämlich als eine grosse <span class=\"tei-hi2 spaced\">persön-\n<span class=\"tei-line\">liche</span>liche</span> Thatsache und Erfahrung, als eine Fülle eigen-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

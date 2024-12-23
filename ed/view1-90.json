@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.36.7.60",
+    "rootNode": "2.5.12.6.36.7.60",
+    "id": "Ed_71_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.36.7.159",
+    "previous": "2.5.12.6.34.7.292",
+    "nextId": "Ed_72_id",
+    "previousId": "Ed_70_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0092.tif\">71</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">mals die Hand erfunden dachte zum Zweck des Grei-\n</span><span class=\"tei-line\">fens. Was nun jenes andre Element an der Strafe \n</span><span class=\"tei-line\">betrifft, das flüssige, ihren „Sinn“, so stellt in einem \n</span><span class=\"tei-line\">sehr späten Zustande der Cultur (zum Beispiel im heu-\n</span><span class=\"line\">5</span><span class=\"tei-line \">tigen Europa) der Begriff „Strafe“ in der That gar nicht \n</span><span class=\"tei-line\">mehr Einen Sinn vor, sondern eine ganze Synthesis \n</span><span class=\"tei-line\">von „Sinnen“: die bisherige Geschichte der Strafe über-\n</span><span class=\"tei-line\">haupt, die Geschichte ihrer Ausnützung zu den ver-\n</span><span class=\"tei-line\">schiedensten Zwecken, krystallisirt sich zuletzt in eine \n</span><span class=\"line\">10</span><span class=\"tei-line \">Art von Einheit, welche schwer löslich, schwer zu ana-\n</span><span class=\"tei-line\">lysiren und, was man hervorheben muss, ganz und gar \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">undefinirbar</span> ist. (Es ist heute unmöglich, bestimmt \n</span><span class=\"tei-line\">zu sagen, <span class=\"tei-hi2 spaced\">warum</span> eigentlich gestraft wird: alle Be-\n</span><span class=\"tei-line\">griffe, in denen sich ein ganzer Prozess semiotisch zu-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sammenfasst, entziehen sich der Definition; definirbar \n</span><span class=\"tei-line\">ist nur Das, was keine Geschichte hat.) In einem frü-\n</span><span class=\"tei-line\">heren Stadium erscheint dagegen jene Synthesis von \n</span><span class=\"tei-line\">„Sinnen“ noch löslicher, auch noch verschiebbarer; man \n</span><span class=\"tei-line\">kann noch wahrnehmen, wie für jeden einzelnen Fall \n</span><span class=\"line\">20</span><span class=\"tei-line \">die Elemente der Synthesis ihre Werthigkeit verändern \n</span><span class=\"tei-line\">und sich demgemäss umordnen, so dass bald dies, bald \n</span><span class=\"tei-line\">jenes Element auf Kosten der übrigen hervortritt und \n</span><span class=\"tei-line\">dominirt, ja unter Umständen Ein Element (etwa der \n</span><span class=\"tei-line\">Zweck der Abschreckung) den ganzen Rest von Ele-\n</span><span class=\"line\">25</span><span class=\"tei-line \">menten aufzuheben scheint. Um wenigstens eine Vor-\n</span><span class=\"tei-line\">stellung davon zu geben, wie unsicher, wie nachträg-\n</span><span class=\"tei-line\">lich, wie accidentiell „der Sinn“ der Strafe ist und wie \n</span><span class=\"tei-line\">ein und dieselbe Prozedur auf grundverschiedne Ab-\n</span><span class=\"tei-line\">sichten hin benützt, gedeutet, zurechtgemacht werden \n</span><span class=\"line\">30</span><span class=\"tei-line \">kann: so stehe hier das Schema, das sich mir selbst \n</span><span class=\"tei-line\">auf Grund eines verhältnissmässig kleinen und zufälli-\n</span><span class=\"tei-line\">gen Materials ergeben hat. Strafe als Unschädlich-\n</span><span class=\"tei-line\">machen, als Verhinderung weiteren Schädigens. Strafe \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

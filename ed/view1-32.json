@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.29.5.113",
+    "rootNode": "2.5.12.4.29.5.113",
+    "id": "Ed_13_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.31.5.24",
+    "previous": "2.5.12.4.29.5.20",
+    "nextId": "Ed_14_id",
+    "previousId": "Ed_12_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0034.tif\">13</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Folgerichtigkeit die Umkehrung gewagt und mit den \n</span><span class=\"tei-line\">Zähnen des abgründlichsten Hasses (des Hasses der \n</span><span class=\"tei-line\">Ohnmacht) festgehalten haben, nämlich „die Elenden \n</span><span class=\"tei-line\">sind allein die Guten, die Armen, Ohnmächtigen, Nied-\n</span><span class=\"line\">5</span><span class=\"tei-line \">rigen sind allein die Guten, die Leidenden, Entbehren-\n</span><span class=\"tei-line\">den, Kranken, Hässlichen sind auch die einzig Frommen, \n</span><span class=\"tei-line\">die einzig Gottseligen, für sie allein giebt es Selig-\n</span><span class=\"tei-line\">keit, – dagegen ihr, ihr Vornehmen und Gewaltigen, \n</span><span class=\"tei-line\">ihr seid in alle Ewigkeit die Bösen, die Grausamen, \n</span><span class=\"line\">10</span><span class=\"tei-line \">die Lüsternen, die Unersättlichen, die Gottlosen, ihr \n</span><span class=\"tei-line\">werdet auch ewig die Unseligen, Verfluchten und Ver-\n</span><span class=\"tei-line\">dammten sein!“… Man weiss, <span class=\"tei-hi2 spaced\">wer</span> die Erbschaft \n</span><span class=\"tei-line\">dieser jüdischen Umwerthung gemacht hat… Ich er-\n</span><span class=\"tei-line\">innere in Betreff der ungeheuren und über alle Maassen \n</span><span class=\"line\">15</span><span class=\"tei-line \">verhängnissvollen Initiative, welche die Juden mit die-\n</span><span class=\"tei-line\">ser grundsätzlichsten aller Kriegserklärungen gegeben \n</span><span class=\"tei-line\">haben, an den Satz, auf den ich bei einer anderen Ge-\n</span><span class=\"tei-line\">legenheit gekommen bin („Jenseits von Gut und Böse“ \n</span><span class=\"tei-line\">p. 118) – dass nämlich mit den Juden <span class=\"tei-hi2 spaced\">der Sklaven-\n<span class=\"line\">20</span><span class=\"tei-line \">aufstand in der Moral</span>aufstand in der Moral</span> beginnt: jener Aufstand, \n</span><span class=\"tei-line\">welcher eine zweitausendjährige Geschichte hinter sich \n</span><span class=\"tei-line\">hat und der uns heute nur deshalb aus den Augen ge-\n</span><span class=\"tei-line\">rückt ist, weil er – siegreich gewesen ist…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">8.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">25</span><span class=\"tei-line indent\">– Aber ihr versteht das nicht? Ihr habt keine \n</span><span class=\"tei-line\">Augen für Etwas, das zwei Jahrtausende gebraucht hat, \n</span><span class=\"tei-line\">um zum Siege zu kommen?… Daran ist Nichts zum \n</span><span class=\"tei-line\">Verwundern: alle <span class=\"tei-hi2 spaced\">langen</span> Dinge sind schwer zu sehn, \n</span><span class=\"tei-line\">zu übersehn. <span class=\"tei-hi2 spaced\">Das</span> aber ist das Ereigniss: aus dem \n</span><span class=\"line\">30</span><span class=\"tei-line \">Stamme jenes Baums der Rache und des Hasses, des \n</span><span class=\"tei-line\">jüdischen Hasses – des tiefsten und sublimsten, näm-\n</span><span class=\"tei-line\">lich Ideale schaffenden, Werthe umschaffenden Hasses, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

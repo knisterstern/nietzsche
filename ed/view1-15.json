@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.23.5.14",
+    "rootNode": "2.5.12.2.23.5.14",
+    "id": "Ed_XII_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.23.5.96",
+    "previous": "2.5.12.2.21.5.46",
+    "nextId": "Ed_XIII_id",
+    "previousId": "Ed_XI_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0017.tif\">XII</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">und so versteckte Land der Moral – der wirklich da-\n</span><span class=\"tei-line\">gewesenen, wirklich gelebten Moral – mit lauter neuen \n</span><span class=\"tei-line\">Fragen und gleichsam mit neuen Augen zu bereisen: \n</span><span class=\"tei-line\">und heisst dies nicht beinahe so viel als dieses Land \n</span><span class=\"line\">5</span><span class=\"tei-line \">erst <span class=\"tei-hi2 spaced\">entdecken</span>?… Wenn ich dabei, unter Anderen, \n</span><span class=\"tei-line\">auch an den genannten Dr. Rée dachte, so geschah es, \n</span><span class=\"tei-line\">weil ich gar nicht zweifelte, dass er von der Natur seiner \n</span><span class=\"tei-line\">Fragen selbst auf eine richtigere Methodik, um zu Ant-\n</span><span class=\"tei-line\">worten zu gelangen, gedrängt werden würde. Habe \n</span><span class=\"line\">10</span><span class=\"tei-line \">ich mich darin betrogen? Mein Wunsch war es jeden-\n</span><span class=\"tei-line\">falls, einem so scharfen und unbetheiligten Auge eine \n</span><span class=\"tei-line\">bessere Richtung, die Richtung zur wirklichen <span class=\"tei-hi2 spaced\">Histo-\n<span class=\"tei-line\">rie der Moral</span>rie der Moral</span> zu geben und ihn vor solchem eng-\n</span><span class=\"tei-line\">lischen Hypothesenwesen <span class=\"tei-hi2 spaced\">in’s Blaue</span> noch zur rechten \n</span><span class=\"line\">15</span><span class=\"tei-line \">Zeit zu warnen. Es liegt ja auf der Hand, welche Farbe \n</span><span class=\"tei-line\">für einen Moral-Genealogen hundert Mal wichtiger sein \n</span><span class=\"tei-line\">muss als gerade das Blaue: nämlich <span class=\"tei-hi2 spaced\">das Graue</span>, will \n</span><span class=\"tei-line\">sagen, das Urkundliche, das Wirklich-Feststellbare, das \n</span><span class=\"tei-line\">Wirklich-Dagewesene, kurz die ganze lange, schwer zu \n</span><span class=\"line\">20</span><span class=\"tei-line \">entziffernde Hieroglyphenschrift der menschlichen Moral-\n</span><span class=\"tei-line\">Vergangenheit! – <span class=\"tei-hi2 spaced\">Diese</span> war dem Dr. Rée unbekannt; \n</span><span class=\"tei-line\">aber er hatte Darwin gelesen: – und so reichen sich \n</span><span class=\"tei-line\">in seinen Hypothesen auf eine Weise, die zum Min-\n</span><span class=\"tei-line\">desten unterhaltend ist, die Darwin’sche Bestie und der \n</span><span class=\"line\">25</span><span class=\"tei-line \">allermodernste bescheidene Moral-Zärtling, der „nicht \n</span><span class=\"tei-line\">mehr beisst“, artig die Hand, letzterer mit dem Aus-\n</span><span class=\"tei-line\">druck einer gewissen gutmüthigen und feinen Indolenz \n</span><span class=\"tei-line\">im Gesicht, in die selbst ein Gran von Pessimismus, \n</span><span class=\"tei-line\">von Ermüdung eingemischt ist: als ob es sich eigent-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.35.5.28",
+    "rootNode": "2.5.12.8.35.5.28",
+    "id": "Ed_121_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.35.5.125",
+    "previous": "2.5.12.8.33.5.266",
+    "nextId": "Ed_122_id",
+    "previousId": "Ed_120_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0142.tif\">121</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ein tiefes Misstrauen um sie herum: dagegen gab es \n</span><span class=\"tei-line\">kein anderes Mittel als entschieden <span class=\"tei-hi2 spaced\">Furcht</span> vor sich \n</span><span class=\"tei-line\">erwecken. Und darauf haben sich zum Beispiel die \n</span><span class=\"tei-line\">alten Brahmanen verstanden! Die ältesten Philosophen \n</span><span class=\"line\">5</span><span class=\"tei-line \">wussten ihrem Dasein und Erscheinen einen Sinn, einen \n</span><span class=\"tei-line\">Halt und Hintergrund zu geben, auf den hin man sie \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">fürchten</span> lernte: genauer erwogen, aus einem noch \n</span><span class=\"tei-line\">fundamentaleren Bedürfnisse heraus, nämlich um vor \n</span><span class=\"tei-line\">sich selbst Furcht und Ehrfurcht zu gewinnen. Denn \n</span><span class=\"line\">10</span><span class=\"tei-line \">sie fanden in sich alle Werthurtheile <span class=\"tei-hi2 spaced\">gegen</span> sich ge-\n</span><span class=\"tei-line\">kehrt, sie hatten gegen „den Philosophen in sich“ jede \n</span><span class=\"tei-line\">Art Verdacht und Widerstand niederzukämpfen. Dies \n</span><span class=\"tei-line\">thaten sie, als Menschen furchtbarer Zeitalter, mit \n</span><span class=\"tei-line\">furchtbaren Mitteln: die Grausamkeit gegen sich, die \n</span><span class=\"line\">15</span><span class=\"tei-line \">erfinderische Selbstkasteiung – das war das Haupt-\n</span><span class=\"tei-line\">mittel dieser machtdurstigen Einsiedler und Gedanken-\n</span><span class=\"tei-line\">Neuerer, welche es nöthig hatten, in sich selbst erst \n</span><span class=\"tei-line\">die Götter und das Herkömmliche zu vergewaltigen, \n</span><span class=\"tei-line\">um selbst an ihre Neuerung <span class=\"tei-hi2 spaced\">glauben</span> zu können. Ich \n</span><span class=\"line\">20</span><span class=\"tei-line \">erinnere an die berühmte Geschichte des Königs \n</span><span class=\"tei-line\">Viçvamitra, der aus tausendjährigen Selbstmarterungen \n</span><span class=\"tei-line\">ein solches Machtgefühl und Zutrauen zu sich gewann, \n</span><span class=\"tei-line\">dass er es unternahm, einen <span class=\"tei-hi2 spaced\">neuen Himmel</span> zu bauen: \n</span><span class=\"tei-line\">das unheimliche Symbol der ältesten und jüngsten Phi-\n</span><span class=\"line\">25</span><span class=\"tei-line \">losophen-Geschichte auf Erden, – Jeder, der irgend-\n</span><span class=\"tei-line\">wann einmal einen „neuen Himmel“ gebaut hat, fand \n</span><span class=\"tei-line\">die Macht dazu erst in der <span class=\"tei-hi2 spaced\">eignen Hölle</span>… Drücken \n</span><span class=\"tei-line\">wir den ganzen Thatbestand in kurze Formeln zu-\n</span><span class=\"tei-line\">sammen: der philosophische Geist hat sich zunächst \n</span><span class=\"line\">30</span><span class=\"tei-line \">immer in die <span class=\"tei-hi2 spaced\">früher festgestellten</span> Typen des con-\n</span><span class=\"tei-line\">templativen Menschen verkleiden und verpuppen müssen, \n</span><span class=\"tei-line\">als Priester, Zauberer, Wahrsager, überhaupt als religiö-\n</span><span class=\"tei-line\">ser Mensch, um in irgend einem Maasse auch nur \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

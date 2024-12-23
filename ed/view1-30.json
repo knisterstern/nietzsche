@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.27.5.126",
+    "rootNode": "2.5.12.4.27.5.126",
+    "id": "Ed_11_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.29.5.20",
+    "previous": "2.5.12.4.27.5.38",
+    "nextId": "Ed_12_id",
+    "previousId": "Ed_10_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0032.tif\">11</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">darauf folgende Mastkur und Überernährung, in der das \n</span><span class=\"tei-line\">wirksamste Gegenmittel gegen alle Hysterie des aske-\n</span><span class=\"tei-line\">tischen Ideals besteht): hinzugerechnet die ganze sinnen-\n</span><span class=\"tei-line\">feindliche, faul- und raffinirtmachende Metaphysik der \n</span><span class=\"line\">5</span><span class=\"tei-line \">Priester, ihre Selbst-Hypnotisirung nach Art des \n</span><span class=\"tei-line\">Fakirs und Brahmanen – Brahman als gläserner Knopf \n</span><span class=\"tei-line\">und fixe Idee benutzt – und das schliessliche, nur zu \n</span><span class=\"tei-line\">begreifliche allgemeine Satthaben mit seiner Radikal-\n</span><span class=\"tei-line\">kur, dem <span class=\"tei-hi2 spaced\">Nichts</span> (oder Gott: – das Verlangen nach \n</span><span class=\"line\">10</span><span class=\"tei-line \">einer unio mystica mit Gott ist das Verlangen des \n</span><span class=\"tei-line\">Buddhisten in’s Nichts, Nirvâna – und nicht mehr!) \n</span><span class=\"tei-line\">Bei den Priestern wird eben <span class=\"tei-hi2 spaced\">Alles</span> gefährlicher, nicht \n</span><span class=\"tei-line\">nur Kurmittel und Heilkünste, sondern auch Hochmuth, \n</span><span class=\"tei-line\">Rache, Scharfsinn, Ausschweifung, Liebe, Herrschsucht, \n</span><span class=\"line\">15</span><span class=\"tei-line \">Tugend, Krankheit; – mit einiger Billigkeit liesse sich \n</span><span class=\"tei-line\">allerdings auch hinzufügen, dass erst auf dem Boden \n</span><span class=\"tei-line\">dieser <span class=\"tei-hi2 spaced\">wesentlich gefährlichen</span> Daseinsform des \n</span><span class=\"tei-line\">Menschen, der priesterlichen, der Mensch überhaupt \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">ein interessantes Thier</span> geworden ist, dass erst \n</span><span class=\"line\">20</span><span class=\"tei-line \">hier die menschliche Seele in einem höheren Sinne \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Tiefe</span> bekommen hat und <span class=\"tei-hi2 spaced\">böse</span> geworden ist – und \n</span><span class=\"tei-line\">das sind ja die beiden Grundformen der bisherigen \n</span><span class=\"tei-line\">Überlegenheit des Menschen über sonstiges Gethier!..</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">7.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">25</span><span class=\"tei-line indent\">– Man wird bereits errathen haben, wie leicht sich \n</span><span class=\"tei-line\">die priesterliche Werthungs-Weise von der ritterlich-\n</span><span class=\"tei-line\">aristokratischen abzweigen und dann zu deren Gegen-\n</span><span class=\"tei-line\">satze fortentwickeln kann; wozu es in Sonderheit jedes \n</span><span class=\"tei-line\">Mal einen Anstoss giebt, wenn die Priesterkaste und \n</span><span class=\"line\">30</span><span class=\"tei-line \">die Kriegerkaste einander eifersüchtig entgegentreten \n</span><span class=\"tei-line\">und über den Preis mit einander nicht einig werden \n</span><span class=\"tei-line\">wollen. Die ritterlich-aristokratischen Werthurtheile \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

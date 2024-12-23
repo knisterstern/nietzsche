@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.34.7.102",
+    "rootNode": "2.5.12.6.34.7.102",
+    "id": "Ed_68_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.34.7.188",
+    "previous": "2.5.12.6.34.7.8",
+    "nextId": "Ed_69_id",
+    "previousId": "Ed_67_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0089.tif\">68</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">einer Form, einer Einrichtung auch deren Entstehungs-\n</span><span class=\"tei-line\">grund zu begreifen geglaubt, das Auge als gemacht \n</span><span class=\"tei-line\">zum Sehen, die Hand als gemacht zum Greifen. So \n</span><span class=\"tei-line\">hat man sich auch die Strafe vorgestellt als erfunden \n</span><span class=\"line\">5</span><span class=\"tei-line \">zum Strafen. Aber alle Zwecke, alle Nützlichkeiten \n</span><span class=\"tei-line\">sind nur <span class=\"tei-hi2 spaced\">Anzeichen</span> davon, dass ein Wille zur Macht \n</span><span class=\"tei-line\">über etwas weniger Mächtiges Herr geworden ist und \n</span><span class=\"tei-line\">ihm von sich aus den Sinn einer Funktion aufgeprägt \n</span><span class=\"tei-line\">hat; und die ganze Geschichte eines „Dings“, eines Or-\n</span><span class=\"line\">10</span><span class=\"tei-line \">gans, eines Brauchs kann dergestalt eine fortgesetzte \n</span><span class=\"tei-line\">Zeichen-Kette von immer neuen Interpretationen und \n</span><span class=\"tei-line\">Zurechtmachungen sein, deren Ursachen selbst unter \n</span><span class=\"tei-line\">sich nicht im Zusammenhange zu sein brauchen, viel-\n</span><span class=\"tei-line\">mehr unter Umständen sich bloss zufällig hinter ein-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ander folgen und ablösen. „Entwicklung“ eines Dings, \n</span><span class=\"tei-line\">eines Brauchs, eines Organs ist demgemäss nichts weni-\n</span><span class=\"tei-line\">ger als sein progressus auf ein Ziel hin, noch weniger \n</span><span class=\"tei-line\">ein logischer und kürzester, mit dem kleinsten Aufwand \n</span><span class=\"tei-line\">von Kraft und Kosten erreichter progressus, – sondern \n</span><span class=\"line\">20</span><span class=\"tei-line \">die Aufeinanderfolge von mehr oder minder tiefgehen-\n</span><span class=\"tei-line\">den, mehr oder minder von einander unabhängigen, \n</span><span class=\"tei-line\">an ihm sich abspielenden Überwältigungsprozessen, \n</span><span class=\"tei-line\">hinzugerechnet die dagegen jedes Mal aufgewendeten \n</span><span class=\"tei-line\">Widerstände, die versuchten Form-Verwandlungen zum \n</span><span class=\"line\">25</span><span class=\"tei-line \">Zweck der Vertheidigung und Reaktion, auch die Re-\n</span><span class=\"tei-line\">sultate gelungener Gegenaktionen. Die Form ist flüssig, \n</span><span class=\"tei-line\">der „Sinn“ ist es aber noch mehr… Selbst innerhalb \n</span><span class=\"tei-line\">jedes einzelnen Organismus steht es nicht anders: mit \n</span><span class=\"tei-line\">jedem wesentlichen Wachsthum des Ganzen verschiebt \n</span><span class=\"line\">30</span><span class=\"tei-line \">sich auch der „Sinn“ der einzelnen Organe, – unter Um-\n</span><span class=\"tei-line\">ständen kann deren theilweises Zu-Grunde-Gehn, deren \n</span><span class=\"tei-line\">Zahl-Verminderung (zum Beispiel durch Vernichtung \n</span><span class=\"tei-line\">der Mittelglieder) ein Zeichen wachsender Kraft und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

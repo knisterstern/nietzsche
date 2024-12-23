@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.21.5.102",
+    "rootNode": "2.5.12.8.21.5.102",
+    "id": "Ed_101_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.23.5.36",
+    "previous": "2.5.12.8.21.5.22",
+    "nextId": "Ed_102_id",
+    "previousId": "Ed_100_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0122.tif\">101</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">erinnere sich, wie begeistert seiner Zeit Wagner in den \n</span><span class=\"tei-line\">Fusstapfen des Philosophen Feuerbach gegangen ist: \n</span><span class=\"tei-line\">Feuerbach’s Wort von der „gesunden Sinnlichkeit“ – \n</span><span class=\"tei-line\">das klang in den dreissiger und vierziger Jahren Wag-\n</span><span class=\"line\">5</span><span class=\"tei-line \">ner’n gleich vielen Deutschen (– sie nannten sich die \n<span class=\"tei-line\">„<span class=\"tei-hi2 spaced\">jungen</span> Deutschen“) wie das Wort der Erlösung. Hat \n</span>„<span class=\"tei-hi2 spaced\">jungen</span> Deutschen“) wie das Wort der Erlösung. Hat \n</span><span class=\"tei-line\">„<span class=\"tei-hi2 spaced\">jungen</span> Deutschen“) wie das Wort der Erlösung. Hat \n</span><span class=\"tei-line\">er schliesslich darüber <span class=\"tei-hi2 spaced\">umgelernt</span>? Da es zum Min-\n</span><span class=\"tei-line\">desten scheint, dass er zuletzt den Willen hatte, darüber \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">umzulehren</span>… Und nicht nur mit den Parsifal-\n</span><span class=\"line\">10</span><span class=\"tei-line \">Posaunen von der Bühne herab: – in der trüben, \n</span><span class=\"tei-line\">ebenso unfreien als rathlosen Schriftstellerei seiner letz-\n</span><span class=\"tei-line\">ten Jahre giebt es hundert Stellen, in denen sich ein \n</span><span class=\"tei-line\">heimlicher Wunsch und Wille, ein verzagter, unsicherer, \n</span><span class=\"tei-line\">uneingeständlicher Wille verräth, ganz eigentlich Um-\n</span><span class=\"line\">15</span><span class=\"tei-line \">kehr, Bekehrung, Verneinung, Christenthum, Mittel-\n</span><span class=\"tei-line\">alter zu predigen und seinen Jüngern zu sagen „es ist \n</span><span class=\"tei-line\">Nichts! Sucht das Heil wo anders!“ Sogar das „Blut \n</span><span class=\"tei-line\">des Erlösers“ wird einmal angerufen…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">4.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">Dass ich in einem solchen Falle, der vieles Pein-\n</span><span class=\"tei-line\">liche hat, meine Meinung sage – und es ist ein <span class=\"tei-hi2 spaced\">typi-\n<span class=\"tei-line\">scher</span>scher</span> Fall –: man thut gewiss am besten, einen Künst-\n</span><span class=\"tei-line\">ler in so weit von seinem Werke zu trennen, dass man \n</span><span class=\"tei-line\">ihn selbst nicht gleich ernst nimmt wie sein Werk. Er \n</span><span class=\"line\">25</span><span class=\"tei-line \">ist zuletzt nur die Vorausbedingung seines Werks, der \n</span><span class=\"tei-line\">Mutterschooss, der Boden, unter Umständen der Dünger \n</span><span class=\"tei-line\">und Mist, auf dem, aus dem es wächst, – und somit, \n</span><span class=\"tei-line\">in den meisten Fällen, Etwas, das man vergessen muss, \n</span><span class=\"tei-line\">wenn man sich des Werks selbst erfreuen will. Die \n</span><span class=\"line\">30</span><span class=\"tei-line \">Einsicht in die <span class=\"tei-hi2 spaced\">Herkunft</span> eines Werks geht die Phy-\n</span><span class=\"tei-line\">siologen und Vivisektoren des Geistes an: nie und \n</span><span class=\"tei-line\">nimmermehr die ästhetischen Menschen, die Artisten! \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

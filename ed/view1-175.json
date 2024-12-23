@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.55.5.222",
+    "rootNode": "2.5.12.8.55.5.222",
+    "id": "Ed_156_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.55.5.314",
+    "previous": "2.5.12.8.55.5.128",
+    "nextId": "Ed_157_id",
+    "previousId": "Ed_155_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0177.tif\">156</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">er soll sie in <span class=\"tei-hi2 spaced\">sich</span> suchen, in einer <span class=\"tei-hi2 spaced\">Schuld</span>, in einem \n</span><span class=\"tei-line\">Stück Vergangenheit, er soll sein Leiden selbst als \n</span><span class=\"tei-line\">einen <span class=\"tei-hi2 spaced\">Strafzustand</span> verstehn… Er hat gehört, er \n</span><span class=\"tei-line\">hat verstanden, der Unglückliche: jetzt geht es ihm \n</span><span class=\"line\">5</span><span class=\"tei-line \">wie der Henne, um die ein Strich gezogen ist. Er \n</span><span class=\"tei-line\">kommt aus diesem Kreis von Strichen nicht wieder \n</span><span class=\"tei-line\">heraus: aus dem Kranken ist „der Sünder“ gemacht… \n</span><span class=\"tei-line\">Und nun wird man den Aspekt dieses neuen Kranken, \n</span><span class=\"tei-line\">„des Sünders“, für ein paar Jahrtausende nicht los, – \n</span><span class=\"line\">10</span><span class=\"tei-line \">wird man ihn je wieder los? – wohin man nur sieht, \n</span><span class=\"tei-line\">überall der hypnotische Blick des Sünders, der sich \n</span><span class=\"tei-line\">immer in der Einen Richtung bewegt (in der Richtung \n</span><span class=\"tei-line\">auf „Schuld“, als der <span class=\"tei-hi2 spaced\">einzigen</span> Leidens-Causalität); \n</span><span class=\"tei-line\">überall das böse Gewissen, dies „grewliche thier“, mit \n</span><span class=\"line\">15</span><span class=\"tei-line \">Luther zu reden; überall die Vergangenheit zurückgekäut, \n</span><span class=\"tei-line\">die That verdreht, das „grüne Auge“ für alles Thun; \n</span><span class=\"tei-line\">überall das zum Lebensinhalt gemachte Missverstehen-\n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Wollen</span> des Leidens, dessen Umdeutung in Schuld-, \n</span><span class=\"tei-line\">Furcht- und Strafgefühle; überall die Geissel, das \n</span><span class=\"line\">20</span><span class=\"tei-line \">härene Hemd, der verhungernde Leib, die Zerknirsch-\n</span><span class=\"tei-line\">ung; überall das Sich-selbst-Rädern des Sünders in \n</span><span class=\"tei-line\">dem grausamen Räderwerk eines unruhigen, krankhaft-\n</span><span class=\"tei-line\">lüsternen Gewissens; überall die stumme Qual, die \n</span><span class=\"tei-line\">äusserste Furcht, die Agonie des gemarterten Herzens, \n</span><span class=\"line\">25</span><span class=\"tei-line \">die Krämpfe eines unbekannten Glücks, der Schrei nach \n</span><span class=\"tei-line\">„Erlösung“. In der That, mit diesem System von Pro-\n</span><span class=\"tei-line\">zeduren war die alte Depression, Schwere und Müdig-\n</span><span class=\"tei-line\">keit gründlich <span class=\"tei-hi2 spaced\">überwunden</span>, das Leben wurde wieder \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">sehr</span> interessant: wach, ewig wach, übernächtig, glü-\n</span><span class=\"line\">30</span><span class=\"tei-line \">hend, verkohlt, erschöpft und doch nicht müde – so \n</span><span class=\"tei-line\">nahm sich der Mensch aus, „der Sünder“, der in <span class=\"tei-hi2 spaced\">diese</span> \n</span><span class=\"tei-line\">Mysterien eingeweiht war. Dieser alte grosse Zauberer \n</span><span class=\"tei-line\">im Kampf mit der Unlust, der asketische Priester – \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

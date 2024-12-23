@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.29.6.102",
+    "rootNode": "2.5.12.8.29.6.102",
+    "id": "Ed_110_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.29.6.205",
+    "previous": "2.5.12.8.29.6.16",
+    "nextId": "Ed_111_id",
+    "previousId": "Ed_109_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0131.tif\">110</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Denn man muss diesen Thatbestand erst interpretiren: \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">an sich</span> steht er da dumm in alle Ewigkeit, wie jedes \n</span><span class=\"tei-line\">„Ding an sich“. Jedes Thier, somit auch la bête phi-\n</span><span class=\"tei-line\">losophe, strebt instinktiv nach einem Optimum von \n</span><span class=\"line\">5</span><span class=\"tei-line \">günstigen Bedingungen, unter denen es seine Kraft \n</span><span class=\"tei-line\">ganz herauslassen kann und sein Maximum im Macht-\n</span><span class=\"tei-line\">gefühl erreicht; jedes Thier perhorreszirt ebenso in-\n</span><span class=\"tei-line\">stinktiv und mit einer Feinheit der Witterung, die \n</span><span class=\"tei-line\">„höher ist als alle Vernunft“, alle Art Störenfriede und \n</span><span class=\"line\">10</span><span class=\"tei-line \">Hindernisse, die sich ihm über diesen Weg zum Opti-\n</span><span class=\"tei-line\">mum legen oder legen könnten (– es ist <span class=\"tei-hi2 spaced\">nicht</span> sein \n</span><span class=\"tei-line\">Weg zum „Glück“, von dem ich rede, sondern sein \n</span><span class=\"tei-line\">Weg zur Macht, zur That, zum mächtigsten Thun, und in \n</span><span class=\"tei-line\">den meisten Fällen thatsächlich sein Weg zum Unglück). \n</span><span class=\"line\">15</span><span class=\"tei-line \">Dergestalt perhorreszirt der Philosoph die <span class=\"tei-hi2 spaced\">Ehe</span> sammt \n</span><span class=\"tei-line\">dem, was zu ihr überreden möchte, – die Ehe als Hin-\n</span><span class=\"tei-line\">derniss und Verhängniss auf seinem Wege zum Opti-\n</span><span class=\"tei-line\">mum. Welcher grosse Philosoph war bisher verheirathet? \n</span><span class=\"tei-line\">Heraklit, Plato, Descartes, Spinoza, Leibniz, Kant, \n</span><span class=\"line\">20</span><span class=\"tei-line \">Schopenhauer – sie waren es nicht; mehr noch, man \n</span><span class=\"tei-line\">kann sie sich nicht einmal <span class=\"tei-hi2 spaced\">denken</span> als verheirathet. \n</span><span class=\"tei-line\">Ein verheiratheter Philosoph gehört <span class=\"tei-hi2 spaced\">in die Komödie</span>, \n</span><span class=\"tei-line\">das ist mein Satz: und jene Ausnahme Sokrates, der \n</span><span class=\"tei-line\">boshafte Sokrates hat sich, scheint es, ironice verhei-\n</span><span class=\"line\">25</span><span class=\"tei-line \">rathet, eigens um gerade <span class=\"tei-hi2 spaced\">diesen</span> Satz zu demonstriren. \n</span><span class=\"tei-line\">Jeder Philosoph würde sprechen, wie einst Buddha \n</span><span class=\"tei-line\">sprach, als ihm die Geburt eines Sohnes gemeldet \n</span><span class=\"tei-line\">wurde: „Râhula ist mir geboren, eine Fessel ist mir \n</span><span class=\"tei-line\">geschmiedet“ (Râhula bedeutet hier „ein kleiner Dä-\n</span><span class=\"line\">30</span><span class=\"tei-line \">mon“); jedem „freien Geiste“ müsste eine nachdenk-\n</span><span class=\"tei-line\">liche Stunde kommen, gesetzt, dass er vorher eine ge-\n</span><span class=\"tei-line\">dankenlose gehabt hat, wie sie einst demselben Buddha \n</span><span class=\"tei-line\">kam – „eng bedrängt, dachte er bei sich, ist das Le-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

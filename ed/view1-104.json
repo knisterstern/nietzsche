@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.50.3",
+    "rootNode": "2.5.12.6.50.3",
+    "id": "Ed_85_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.50.7.78",
+    "previous": "2.5.12.6.48.5.132",
+    "nextId": "Ed_86_id",
+    "previousId": "Ed_84_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0106.tif\">85</pb-facs-link></span>\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>20.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Das Bewusstsein, Schulden gegen die Gottheit zu \n</span><span class=\"tei-line\">haben, ist, wie die Geschichte lehrt, auch nach dem \n</span><span class=\"tei-line\">Niedergang der blutverwandtschaftlichen Organisations-\n</span><span class=\"line\">5</span><span class=\"tei-line \">form der „Gemeinschaft“ keineswegs zum Abschluss \n</span><span class=\"tei-line\">gekommen; die Menschheit hat, in gleicher Weise, wie \n</span><span class=\"tei-line\">sie die Begriffe „gut und schlecht“ von dem Geschlechts-\n</span><span class=\"tei-line\">Adel (sammt dessen psychologischem Grundhange, \n</span><span class=\"tei-line\">Rangordnungen anzusetzen) geerbt hat, mit der Erb-\n</span><span class=\"line\">10</span><span class=\"tei-line \">schaft der Geschlechts- und Stammgottheiten auch die \n</span><span class=\"tei-line\">des Drucks von noch unbezahlten Schulden und des \n</span><span class=\"tei-line\">Verlangens nach Ablösung derselben hinzubekommen. \n</span><span class=\"tei-line\">(Den Übergang machen jene breiten Sklaven- und \n</span><span class=\"tei-line\">Hörigen-Bevölkerungen, welche sich an den Götter-\n</span><span class=\"line\">15</span><span class=\"tei-line \">Cultus ihrer Herren, sei es durch Zwang, sei es durch \n</span><span class=\"tei-line\">Unterwürfigkeit und mimicry, angepasst haben: von \n</span><span class=\"tei-line\">ihnen aus fliesst dann diese Erbschaft nach allen Seiten \n</span><span class=\"tei-line\">über.) Das Schuldgefühl gegen die Gottheit hat meh-\n</span><span class=\"tei-line\">rere Jahrtausende nicht aufgehört zu wachsen, und zwar \n</span><span class=\"line\">20</span><span class=\"tei-line \">immer fort im gleichen Verhältnisse, wie der Gottes-\n</span><span class=\"tei-line\">begriff und das Gottesgefühl auf Erden gewachsen und \n</span><span class=\"tei-line\">in die Höhe getragen worden ist. (Die ganze Geschichte \n</span><span class=\"tei-line\">des ethnischen Kämpfens, Siegens, Sich-versöhnens, \n</span><span class=\"tei-line\">Sich-verschmelzens, Alles was der endgültigen Rang-\n</span><span class=\"line\">25</span><span class=\"tei-line \">ordnung aller Volks-Elemente in jeder grossen Rassen-\n</span><span class=\"tei-line\">Synthesis vorangeht, spiegelt sich in dem Genealogien-\n</span><span class=\"tei-line\">Wirrwarr ihrer Götter, in den Sagen von deren Käm-\n</span><span class=\"tei-line\">pfen, Siegen und Versöhnungen ab; der Fortgang \n</span><span class=\"tei-line\">zu Universal-Reichen ist immer auch der Fortgang \n</span><span class=\"line\">30</span><span class=\"tei-line \">zu Universal-Gottheiten, der Despotismus mit seiner \n</span><span class=\"tei-line\">Überwältigung des unabhängigen Adels bahnt immer \n</span><span class=\"tei-line\">auch irgend welchem Monotheismus den Weg.) Die \n</span><span class=\"tei-line\">Heraufkunft des christlichen Gottes, als des Maximal-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

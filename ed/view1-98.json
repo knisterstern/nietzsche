@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.42.5.252",
+    "rootNode": "2.5.12.6.42.5.252",
+    "id": "Ed_79_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.44.5.68",
+    "previous": "2.5.12.6.42.5.154",
+    "nextId": "Ed_80_id",
+    "previousId": "Ed_78_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0100.tif\">79</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">den unerwartetsten und aufregendsten Glückswürfen, \n</span><span class=\"tei-line\">die das „grosse Kind“ des Heraklit, heisse es Zeus \n</span><span class=\"tei-line\">oder Zufall, spielt, – er erweckt für sich ein Interesse, \n</span><span class=\"tei-line\">eine Spannung, eine Hoffnung, beinahe eine Gewiss-\n</span><span class=\"line\">5</span><span class=\"tei-line \">heit, als ob mit ihm sich Etwas ankündige, Etwas vor-\n</span><span class=\"tei-line\">bereite, als ob der Mensch kein Ziel, sondern nur ein \n</span><span class=\"tei-line\">Weg, ein Zwischenfall, eine Brücke, ein grosses Ver-\n</span><span class=\"tei-line\">sprechen sei…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">17.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">10</span><span class=\"tei-line indent\">Zur Voraussetzung dieser Hypothese über den Ur-\n</span><span class=\"tei-line\">sprung des schlechten Gewissens gehört erstens, dass \n</span><span class=\"tei-line\">jene Veränderung keine allmähliche, keine freiwillige \n</span><span class=\"tei-line\">war und sich nicht als ein organisches Hineinwachsen \n</span><span class=\"tei-line\">in neue Bedingungen darstellte, sondern als ein Bruch, \n</span><span class=\"line\">15</span><span class=\"tei-line \">ein Sprung, ein Zwang, ein unabweisbares Verhäng-\n</span><span class=\"tei-line\">niss, gegen das es keinen Kampf und nicht einmal ein \n</span><span class=\"tei-line\">Ressentiment gab. Zweitens aber, dass die Einfügung \n</span><span class=\"tei-line\">einer bisher ungehemmten und ungestalteten Bevölke-\n</span><span class=\"tei-line\">rung in eine feste Form, wie sie mit einem Gewaltakt \n</span><span class=\"line\">20</span><span class=\"tei-line \">ihren Anfang nahm, nur mit lauter Gewaltakten zu \n</span><span class=\"tei-line\">Ende geführt wurde, – dass der älteste „Staat“ dem-\n</span><span class=\"tei-line\">gemäss als eine furchtbare Tyrannei, als eine zer-\n</span><span class=\"tei-line\">drückende und rücksichtslose Maschinerie auftrat und \n</span><span class=\"tei-line\">fortarbeitete, bis ein solcher Rohstoff von Volk und \n</span><span class=\"line\">25</span><span class=\"tei-line \">Halbthier endlich nicht nur durchgeknetet und gefügig, \n</span><span class=\"tei-line\">sondern auch <span class=\"tei-hi2 spaced\">geformt</span> war. Ich gebrauchte das Wort \n</span><span class=\"tei-line\">„Staat“: es versteht sich von selbst, wer damit gemeint \n</span><span class=\"tei-line\">ist – irgend ein Rudel blonder Raubthiere, eine Er-\n</span><span class=\"tei-line\">oberer- und Herren-Rasse, welche, kriegerisch organi-\n</span><span class=\"line\">30</span><span class=\"tei-line \">sirt und mit der Kraft, zu organisiren, unbedenklich \n</span><span class=\"tei-line\">ihre furchtbaren Tatzen auf eine der Zahl nach viel-\n</span><span class=\"tei-line\">leicht ungeheuer überlegene, aber noch gestaltlose, \n</span><span class=\"tei-line\">noch schweifende Bevölkerung legt. Dergestalt beginnt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

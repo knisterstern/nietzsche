@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.16",
+    "rootNode": "2.9.16",
+    "id": "srcD_surface_a13r",
+    "odd": "surface.odd",
+    "next": "2.9.17",
+    "previous": "2.9.15",
+    "nextId": "srcD_surface_a14r",
+    "previousId": "srcD_surface_a12r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 11</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 289/275,18-23</li><li class=\"tei-ab2\"><a data-id=\"Ed_22_id\" data-doc=\"E40.xml\">Ed 22,7-14</a></li><li class=\"tei-ab2\"><a data-id=\"a13r\" data-doc=\"D20.xml\">Dm a13r,13-16</a></li><li class=\"tei-ab2\"><a data-id=\"NVII3_122\" data-doc=\"KGWIX.xml\">N VII 3, 122,2-12</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "querverweis",
+        "webcomponents": 7,
+        "type": "genesis"
+    },
+    "collection": ""
+}

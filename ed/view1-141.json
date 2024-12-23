@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.35.5.125",
+    "rootNode": "2.5.12.8.35.5.125",
+    "id": "Ed_122_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.37.5.6",
+    "previous": "2.5.12.8.35.5.28",
+    "nextId": "Ed_123_id",
+    "previousId": "Ed_121_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0143.tif\">122</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">möglich zu sein: das asketische Ideal</span> hat lange \n</span><span class=\"tei-line\">Zeit dem Philosophen als Erscheinungsform, als Exi-\n</span><span class=\"tei-line\">stenz-Voraussetzung gedient, – er musste es <span class=\"tei-hi2 spaced\">dar-\n<span class=\"tei-line\">stellen</span>stellen</span>, um Philosoph sein zu können, er musste an \n</span><span class=\"line\">5</span><span class=\"tei-line \">dasselbe <span class=\"tei-hi2 spaced\">glauben</span>, um es darstellen zu können. Die \n</span><span class=\"tei-line\">eigenthümlich weltverneinende, lebensfeindliche, sinnen-\n</span><span class=\"tei-line\">ungläubige, entsinnlichte Abseits-Haltung der Phi-\n</span><span class=\"tei-line\">losophen, welche bis auf die neueste Zeit festgehalten \n</span><span class=\"tei-line\">worden ist und damit beinahe als <span class=\"tei-hi2 spaced\">Philosophen-\n<span class=\"line\">10</span><span class=\"tei-line \">Attitüde an sich</span>Attitüde an sich</span> Geltung gewonnen hat, – sie ist \n</span><span class=\"tei-line\">vor Allem eine Folge des Nothstandes von Bedingun-\n</span><span class=\"tei-line\">gen, unter denen Philosophie überhaupt entstand und \n</span><span class=\"tei-line\">bestand: insofern nämlich die längste Zeit Philosophie \n</span><span class=\"tei-line\">auf Erden <span class=\"tei-hi2 spaced\">gar nicht möglich</span> gewesen wäre ohne \n</span><span class=\"line\">15</span><span class=\"tei-line \">eine asketische Hülle und Einkleidung, ohne ein \n</span><span class=\"tei-line\">asketisches Selbst-Missverständniss. Anschaulich und \n</span><span class=\"tei-line\">augenscheinlich ausgedrückt: der <span class=\"tei-hi2 spaced\">asketische Prie-\n<span class=\"tei-line\">ster</span>ster</span> hat bis auf die neueste Zeit die widrige und \n</span><span class=\"tei-line\">düstere Raupenform abgegeben, unter der allein die \n</span><span class=\"line\">20</span><span class=\"tei-line \">Philosophie leben durfte und herumschlich… Hat \n</span><span class=\"tei-line\">sich das wirklich <span class=\"tei-hi2 spaced\">verändert</span>? Ist das bunte und ge-\n</span><span class=\"tei-line\">fährliche Flügelthier, jener „Geist“, den diese Raupe \n</span><span class=\"tei-line\">in sich barg, wirklich, Dank einer sonnigeren, wärmeren, \n</span><span class=\"tei-line\">aufgehellteren Welt, zuletzt doch noch entkuttet und \n</span><span class=\"line\">25</span><span class=\"tei-line \">in’s Licht hinausgelassen worden? Ist heute schon \n</span><span class=\"tei-line\">genug Stolz, Wagniss, Tapferkeit, Selbstgewissheit, \n</span><span class=\"tei-line\">Wille des Geistes, Wille zur Verantwortlichkeit, <span class=\"tei-hi2 spaced\">Frei-\n<span class=\"tei-line\">heit des Willens</span>heit des Willens</span> vorhanden, dass wirklich nunmehr \n</span><span class=\"tei-line\">auf Erden „der Philosoph“ – <span class=\"tei-hi2 spaced\">möglich</span> ist?… </span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">30</span>11.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Jetzt erst, nachdem wir den <span class=\"tei-hi2 spaced\">asketischen Prie-\n<span class=\"tei-line\">ster</span>ster</span> in Sicht bekommen haben, rücken wir unsrem \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

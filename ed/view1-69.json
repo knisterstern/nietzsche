@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.20.5.8",
+    "rootNode": "2.5.12.6.20.5.8",
+    "id": "Ed_50_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.20.5.98",
+    "previous": "2.5.12.6.18.5.71",
+    "nextId": "Ed_51_id",
+    "previousId": "Ed_49_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0071.tif\">50</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Menschheit, die sie schuf oder gestattete, mancherlei \n</span><span class=\"tei-line\">Verdacht und Widerstand. Hier gerade wird <span class=\"tei-hi2 spaced\">ver-\n<span class=\"tei-line\">sprochen</span>sprochen</span>; hier gerade handelt es sich darum, Dem, \n</span><span class=\"tei-line\">der verspricht, ein Gedächtniss zu <span class=\"tei-hi2 spaced\">machen</span>; hier ge-\n</span><span class=\"line\">5</span><span class=\"tei-line \">rade, so darf man argwöhnen, wird eine Fundstätte für \n</span><span class=\"tei-line\">Hartes, Grausames, Peinliches sein. Der Schuldner, \n</span><span class=\"tei-line\">um Vertrauen für sein Versprechen der Zurückbezahlung \n</span><span class=\"tei-line\">einzuflössen, um eine Bürgschaft für den Ernst und die \n</span><span class=\"tei-line\">Heiligkeit seines Versprechens zu geben, um bei sich \n</span><span class=\"line\">10</span><span class=\"tei-line \">selbst die Zurückbezahlung als Pflicht, Verpflichtung \n</span><span class=\"tei-line\">seinem Gewissen einzuschärfen, verpfändet Kraft eines \n</span><span class=\"tei-line\">Vertrags dem Gläubiger für den Fall, dass er nicht \n</span><span class=\"tei-line\">zahlt, Etwas, das er sonst noch „besitzt“, über das er \n</span><span class=\"tei-line\">sonst noch Gewalt hat, zum Beispiel seinen Leib oder \n</span><span class=\"line\">15</span><span class=\"tei-line \">sein Weib oder seine Freiheit oder auch sein Leben \n</span><span class=\"tei-line\">(oder, unter bestimmten religiösen Voraussetzungen, \n</span><span class=\"tei-line\">selbst seine Seligkeit, sein Seelen-Heil, zuletzt gar den \n</span><span class=\"tei-line\">Frieden im Grabe: so in Ägypten, wo der Leichnam \n</span><span class=\"tei-line\">des Schuldners auch im Grabe vor dem Gläubiger keine \n</span><span class=\"line\">20</span><span class=\"tei-line \">Ruhe fand, – es hatte allerdings gerade bei den Ägyp-\n</span><span class=\"tei-line\">tern auch etwas auf sich mit dieser Ruhe). Nament-\n</span><span class=\"tei-line\">lich aber konnte der Gläubiger dem Leibe des Schuld-\n</span><span class=\"tei-line\">ners alle Arten Schmach und Folter anthun, zum \n</span><span class=\"tei-line\">Beispiel so viel davon herunterschneiden als der Grösse \n</span><span class=\"line\">25</span><span class=\"tei-line \">der Schuld angemessen schien: – und es gab früh-\n</span><span class=\"tei-line\">zeitig und überall von diesem Gesichtspunkte aus ge-\n</span><span class=\"tei-line\">naue, zum Theil entsetzlich in’s Kleine und Kleinste \n</span><span class=\"tei-line\">gehende Abschätzungen, <span class=\"tei-hi2 spaced\">zu Recht</span> bestehende Ab-\n</span><span class=\"tei-line\">schätzungen der einzelnen Glieder und Körperstellen. \n</span><span class=\"line\">30</span><span class=\"tei-line \">Ich nehme es bereits als Fortschritt, als Beweis freierer, \n</span><span class=\"tei-line\">grösser rechnender, <span class=\"tei-hi2 spaced\">römischerer</span> Rechtsauffassung, \n</span><span class=\"tei-line\">wenn die Zwölftafel-Gesetzgebung Rom’s dekretierte, es \n</span><span class=\"tei-line\">sei gleichgültig, wie viel oder wie wenig die Gläubiger \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

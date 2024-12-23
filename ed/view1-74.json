@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.24.7.78",
+    "rootNode": "2.5.12.6.24.7.78",
+    "id": "Ed_55_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.24.7.172",
+    "previous": "2.5.12.6.24.3",
+    "nextId": "Ed_56_id",
+    "previousId": "Ed_54_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0076.tif\">55</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">von Speichel, Urin und Koth“). Jetzt, wo das Leiden \n</span><span class=\"tei-line\">immer als erstes unter den Argumenten <span class=\"tei-hi2 spaced\">gegen</span> das \n</span><span class=\"tei-line\">Dasein aufmarschieren muss, als dessen schlimmstes \n</span><span class=\"tei-line\">Fragezeichen, thut man gut, sich der Zeiten zu er-\n</span><span class=\"line\">5</span><span class=\"tei-line \">innern, wo man umgekehrt urtheilte, weil man das \n</span><span class=\"tei-line\">Leiden-<span class=\"tei-hi2 spaced\">machen</span> nicht entbehren mochte und in ihm \n</span><span class=\"tei-line\">einen Zauber ersten Rangs, einen eigentlichen Verfüh-\n</span><span class=\"tei-line\">rungs-Köder <span class=\"tei-hi2 spaced\">zum</span> Leben sah. Vielleicht that damals \n</span><span class=\"tei-line\">– den Zärtlingen zum Trost gesagt – der Schmerz \n</span><span class=\"line\">10</span><span class=\"tei-line \">noch nicht so weh wie heute; wenigstens wird ein Arzt \n</span><span class=\"tei-line\">so schliessen dürfen, der Neger (diese als Repräsen-\n</span><span class=\"tei-line\">tanten des vorgeschichtlichen Menschen genommen –) \n</span><span class=\"tei-line\">bei schweren inneren Entzündungsfällen behandelt hat, \n</span><span class=\"tei-line\">welche auch den bestorganisirten Europäer fast zur \n</span><span class=\"line\">15</span><span class=\"tei-line \">Verzweiflung bringen; – bei Negern thun sie dies <span class=\"tei-hi2 spaced\">nicht</span>. \n</span><span class=\"tei-line\">(Die Curve der menschlichen Schmerzfähigkeit scheint \n</span><span class=\"tei-line\">in der That ausserordentlich und fast plötzlich zu sinken, \n</span><span class=\"tei-line\">sobald man erst die oberen Zehn-Tausend oder Zehn-\n</span><span class=\"tei-line\">Millionen der Übercultur hinter sich hat; und ich für \n</span><span class=\"line\">20</span><span class=\"tei-line \">meine Person zweifle nicht, dass, gegen Eine schmerz-\n</span><span class=\"tei-line\">hafte Nacht eines einzigen hysterischen Bildungs-Weib-\n</span><span class=\"tei-line\">chens gehalten, die Leiden aller Thiere insgesammt, \n</span><span class=\"tei-line\">welche bis jetzt zum Zweck wissenschaftlicher Ant-\n</span><span class=\"tei-line\">worten mit dem Messer befragt worden sind, einfach \n</span><span class=\"line\">25</span><span class=\"tei-line \">nicht in Betracht kommen.) Vielleicht ist es sogar er-\n</span><span class=\"tei-line\">laubt, die Möglichkeit zuzulassen, dass auch jene Lust \n</span><span class=\"tei-line\">an der Grausamkeit eigentlich nicht ausgestorben zu \n</span><span class=\"tei-line\">sein brauchte: nur bedürfte sie, im Verhältniss dazu, \n</span><span class=\"tei-line\">wie heute der Schmerz mehr weh thut, einer gewissen \n</span><span class=\"line\">30</span><span class=\"tei-line \">Sublimirung und Subtilisirung, sie müsste namentlich \n</span><span class=\"tei-line\">in’s Imaginative und Seelische übersetzt auftreten und \n</span><span class=\"tei-line\">geschmückt mit lauter so unbedenklichen Namen, dass \n</span><span class=\"tei-line\">von ihnen her auch dem zartesten hypokritischen Ge-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

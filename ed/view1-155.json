@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.45.6.59",
+    "rootNode": "2.5.12.8.45.6.59",
+    "id": "Ed_136_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.45.6.157",
+    "previous": "2.5.12.8.43.6.443",
+    "nextId": "Ed_137_id",
+    "previousId": "Ed_135_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0157.tif\">136</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">in seinem Willen zur Macht, damit er das Vertrauen \n</span><span class=\"tei-line\">und die Furcht der Kranken hat, damit er ihnen Halt, \n</span><span class=\"tei-line\">Widerstand, Stütze, Zwang, Zuchtmeister, Tyrann, Gott \n</span><span class=\"tei-line\">sein kann. Er hat sie zu vertheidigen, seine Heerde \n</span><span class=\"line\">5</span><span class=\"tei-line \">– gegen wen? Gegen die Gesunden, es ist kein Zwei-\n</span><span class=\"tei-line\">fel, auch gegen den Neid auf die Gesunden; er muss \n</span><span class=\"tei-line\">der natürliche Widersacher <span class=\"tei-hi2 spaced\">und Verächter</span> aller rohen, \n</span><span class=\"tei-line\">stürmischen, zügellosen, harten, gewaltthätig-raubthier-\n</span><span class=\"tei-line\">haften Gesundheit und Mächtigkeit sein. Der Priester \n</span><span class=\"line\">10</span><span class=\"tei-line \">ist die erste Form des <span class=\"tei-hi2 spaced\">delikateren</span> Thiers, das leich-\n</span><span class=\"tei-line\">ter noch verachtet als hasst. Es wird ihm nicht er-\n</span><span class=\"tei-line\">spart bleiben, Krieg zu führen mit den Raubthieren, \n</span><span class=\"tei-line\">einen Krieg der List (des „Geistes“) mehr als der Ge-\n</span><span class=\"tei-line\">walt, wie sich von selbst versteht, – er wird es dazu \n</span><span class=\"line\">15</span><span class=\"tei-line \">unter Umständen nöthig haben, beinahe einen neuen \n</span><span class=\"tei-line\">Raubthier-Typus an sich herauszubilden, mindestens \n</span><span class=\"tei-line\">zu <span class=\"tei-hi2 spaced\">bedeuten</span>, – eine neue Thier-Furchtbarkeit, in \n</span><span class=\"tei-line\">welcher der Eisbär, die geschmeidige kalte abwartende \n</span><span class=\"tei-line\">Tigerkatze und nicht am wenigsten der Fuchs zu einer \n</span><span class=\"line\">20</span><span class=\"tei-line \">ebenso anziehenden als furchteinflössenden Einheit ge-\n</span><span class=\"tei-line\">bunden scheinen. Gesetzt, dass die Noth ihn zwingt, so \n</span><span class=\"tei-line\">tritt er dann wohl bärenhaft-ernst, ehrwürdig, klug, kalt, \n</span><span class=\"tei-line\">trügerisch-überlegen, als Herold und Mundstück geheim-\n</span><span class=\"tei-line\">nissvollerer Gewalten, mitten unter die andere Art Raub-\n</span><span class=\"line\">25</span><span class=\"tei-line \">thiere selbst, entschlossen, auf diesem Boden Leid, Zwie-\n</span><span class=\"tei-line\">spalt, Selbstwiderspruch, wo er kann, auszusäen und, \n</span><span class=\"tei-line\">seiner Kunst nur zu gewiss, über <span class=\"tei-hi2 spaced\">Leidende</span> jederzeit \n</span><span class=\"tei-line\">Herr zu werden. Er bringt Salben und Balsam mit, \n</span><span class=\"tei-line\">es ist kein Zweifel; aber erst hat er nöthig, zu verwun-\n</span><span class=\"line\">30</span><span class=\"tei-line \">den, um Arzt zu sein; indem er dann den Schmerz \n</span><span class=\"tei-line\">stillt, den die Wunde macht, <span class=\"tei-hi2 spaced\">vergiftet er zugleich \n<span class=\"tei-line\">die Wunde</span>die Wunde</span> – darauf vor Allem nämlich versteht er \n</span><span class=\"tei-line\">sich, dieser Zauberer und Raubthier-Bändiger, in dessen \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

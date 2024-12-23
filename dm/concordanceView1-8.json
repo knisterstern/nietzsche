@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.8",
+    "rootNode": "2.9.8",
+    "id": "srcD_surface_a5r",
+    "odd": "surface.odd",
+    "next": "2.9.9",
+    "previous": "2.9.7",
+    "nextId": "srcD_surface_a6r",
+    "previousId": "srcD_surface_a4r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM I 1</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 271,1-272,19/257,3-258,19</li><li class=\"tei-ab2\"><a data-id=\"Ed_1_id\" data-doc=\"E40.xml\">Ed 1,1-2,22</a></li><li class=\"tei-ab2\"><a data-id=\"Cb_a1\" data-doc=\"K11.xml\">Cb1ab 1,1-2,22</a></li><li class=\"tei-ab2\"><a data-id=\"a5r\" data-doc=\"D20.xml\">Dm a5r,2-25</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "querverweis",
+        "webcomponents": 7,
+        "type": "concordance"
+    },
+    "collection": ""
+}

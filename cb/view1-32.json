@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.60.17",
+    "rootNode": "2.7.2.2.60.17",
+    "id": "Cb_b16",
+    "odd": "nietzsche-ed.odd",
+    "next": null,
+    "previous": "2.7.2.2.58.23",
+    "nextId": null,
+    "previousId": "Cb_b15",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-text\"><div class=\"content \"><div class=\"tei-body2\"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0039.tif\">b16</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"7\"><span><span><span class=\"tei-sic2\">E</span>twas</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">e</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Blaustift</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25\"><span><span>Rea<span class=\"tei-sic2\">c</span>tion</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">k</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Rotstift</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25\"><span><span>durch die</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">der</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25-26\"><span><span>is<span class=\"tei-sic2\">t / u</span>nd</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">Komma</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"26\"><span><span>und sich</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\"><span class=\"tei-hi2 latin\">die sich nur</span></span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"25-26\"><span><span>Reaction … durch</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">Reaktion, die der That, versagt ist, die sich nur durch usw</span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"33\"><span><span><span class=\"tei-sic2\">a</span>ussen</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"Koeselitz_black fnote\"><span class=\"tei-hi2 latin\">A</span>)</span><span class=\"tei-note3 note\">Markierung mit <span class=\"tei-ref1\">Tinte</span></span></span></li></ol>\n          \n          \n        \n        \n      </div>\n   </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

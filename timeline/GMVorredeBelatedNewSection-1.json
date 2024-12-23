@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.79",
+    "id": "GMVorredeBelatedNewSection",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GMVorredeBelatedNewSection\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">(Ungültiger) Nachtrag eines weiteren Abschnitts für die Vorrede</h5>N schickt Naumann am <pb-popover class=\"alternate tei-date1\" id=\"altref_1\"><span slot=\"default\">5. Oktober 1887</span><template slot=\"alternate\">1887-10-05</template></pb-popover> einen Ms-Nachtrag zur Vorrede mit einem neuen Abschnitt 8, der dem Schlussabschnitt (GM Vorrede 8) vorangestellt werden sollte, erklärt den Nachtrag jedoch noch am gleichen Tag für ungültig.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.67.7.69",
+    "rootNode": "2.5.12.8.67.7.69",
+    "id": "Ed_176_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.67.7.166.6",
+    "previous": "2.5.12.8.65.5.440",
+    "nextId": "Ed_177_id",
+    "previousId": "Ed_175_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 26</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 424/406,23-28</li><li class=\"tei-ab2\"><a data-id=\"Ed_176_id\" data-doc=\"E40.xml\">Ed 176,5-10</a></li><li class=\"tei-ab2\"><a data-id=\"b63r\" data-doc=\"D20.xml\">Dm b63r,5-10</a></li><li class=\"tei-ab2\"><a data-id=\"NVII3_93\" data-doc=\"KGWIX.xml\">N VII 3, 93,32-40</a>, <a data-id=\"NVII3_79\" data-doc=\"KGWIX.xml\">N VII 3, 79-80</a>, <a data-id=\"NVII3_48\" data-doc=\"KGWIX.xml\">N VII 3, 48</a>, <a data-id=\"NVII3_40\" data-doc=\"KGWIX.xml\">N VII 3, 40,31-36</a></li><li class=\"tei-ab2\"><a data-id=\"b61r\" data-doc=\"D20.xml\">Dm b61r,19-21</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

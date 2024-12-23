@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.44.5.68",
+    "rootNode": "2.5.12.6.44.5.68",
+    "id": "Ed_80_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.44.5.161",
+    "previous": "2.5.12.6.42.5.252",
+    "nextId": "Ed_81_id",
+    "previousId": "Ed_79_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0101.tif\">80</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">ja der „Staat“ auf Erden: ich denke, jene Schwärmerei \n</span><span class=\"tei-line\">ist abgethan, welche ihn mit einem „Vertrage“ beginnen \n</span><span class=\"tei-line\">liess. Wer befehlen kann, wer von Natur „Herr“ ist, \n</span><span class=\"tei-line\">wer gewaltthätig in Werk und Gebärde auftritt – was \n</span><span class=\"line\">5</span><span class=\"tei-line \">hat der mit Verträgen zu schaffen! Mit solchen Wesen \n</span><span class=\"tei-line\">rechnet man nicht, sie kommen wie das Schicksal, ohne \n</span><span class=\"tei-line\">Grund, Vernunft, Rücksicht, Vorwand, sie sind da wie \n</span><span class=\"tei-line\">der Blitz da ist, zu furchtbar, zu plötzlich, zu über-\n</span><span class=\"tei-line\">zeugend, zu „anders“, um selbst auch nur gehasst zu \n</span><span class=\"line\">10</span><span class=\"tei-line \">werden. Ihr Werk ist ein instinktives Formen-schaffen, \n</span><span class=\"tei-line\">Formen-aufdrücken, es sind die unfreiwilligsten, unbe-\n</span><span class=\"tei-line\">wusstesten Künstler, die es giebt: – in Kürze steht etwas \n</span><span class=\"tei-line\">Neues da, wo sie erscheinen, ein Herrschafts-Gebilde, \n</span><span class=\"tei-line\">das <span class=\"tei-hi2 spaced\">lebt</span>, in dem Theile und Funktionen abgegrenzt \n</span><span class=\"line\">15</span><span class=\"tei-line \">und bezüglich gemacht sind, in dem Nichts überhaupt \n</span><span class=\"tei-line\">Platz findet, dem nicht erst ein „Sinn“ in Hinsicht auf \n</span><span class=\"tei-line\">das Ganze eingelegt ist. Sie wissen nicht, was Schuld, \n</span><span class=\"tei-line\">was Verantwortlichkeit, was Rücksicht ist, diese gebo-\n</span><span class=\"tei-line\">renen Organisatoren; in ihnen waltet jener furchtbare \n</span><span class=\"line\">20</span><span class=\"tei-line \">Künstler-Egoismus, der wie Erz blickt und sich im \n</span><span class=\"tei-line\">„Werke“, wie die Mutter in ihrem Kinde, in alle Ewig-\n</span><span class=\"tei-line\">keit voraus gerechtfertigt weiss. <span class=\"tei-hi2 spaced\">Sie</span> sind es nicht, \n</span><span class=\"tei-line\">bei denen das „schlechte Gewissen“ gewachsen ist, das \n</span><span class=\"tei-line\">versteht sich von vornherein, – aber es würde nicht \n</span><span class=\"line\">25</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">ohne sie</span> gewachsen sein, dieses hässliche Gewächs, \n</span><span class=\"tei-line\">es würde fehlen, wenn nicht unter dem Druck ihrer \n</span><span class=\"tei-line\">Hammerschläge, ihrer Künstler-Gewaltsamkeit ein un-\n</span><span class=\"tei-line\">geheures Quantum Freiheit aus der Welt, mindestens \n</span><span class=\"tei-line\">aus der Sichtbarkeit geschafft und gleichsam <span class=\"tei-hi2 spaced\">latent</span> \n</span><span class=\"line\">30</span><span class=\"tei-line \">gemacht worden wäre. Dieser gewaltsam latent ge-\n</span><span class=\"tei-line\">machte <span class=\"tei-hi2 spaced\">Instinkt der Freiheit</span> – wir begriffen es \n</span><span class=\"tei-line\">schon – dieser zurückgedrängte, zurückgetretene, in’s \n</span><span class=\"tei-line\">Innere eingekerkerte und zuletzt nur an sich selbst \n\n\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

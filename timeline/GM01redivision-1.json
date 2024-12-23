@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.11",
+    "id": "GM01redivision",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM01redivision\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Zwischenrevision von GM I 4-7</h5>Im Zug der ersten Niederschrift vermutlich <span class=\"tei-date2\">kurz vor oder um Mitte Juli 1887</span> nimmt N eine kleine erste Revision der Abschnittsunterteilung vor. Er vereint §5 und 6 zu §5 (später GM I 4), nummeriert §7-9 zu §6-8 (später GM I 5-7) um und setzt die Abhandlung anschließend mit §9 (später GM I 8) fort.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.29.6.16",
+    "rootNode": "2.5.12.8.29.6.16",
+    "id": "Ed_109_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.29.6.102",
+    "previous": "2.5.12.8.27.5.223",
+    "nextId": "Ed_110_id",
+    "previousId": "Ed_108_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0130.tif\">109</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">schlechtlichkeit in der That als persönlichen Feind be-\n</span><span class=\"tei-line\">handelt hat (einbegriffen deren Werkzeug, das Weib, \n</span><span class=\"tei-line\">dieses „instrumentum diaboli“), Feinde <span class=\"tei-hi2 spaced\">nöthig</span> hatte, \n</span><span class=\"tei-line\">um guter Dinge zu bleiben; dass er die grimmigen \n</span><span class=\"line\">5</span><span class=\"tei-line \">galligen schwarzgrünen Worte liebte; dass er zürnte, \n</span><span class=\"tei-line\">um zu zürnen, aus Passion; dass er krank geworden \n</span><span class=\"tei-line\">wäre, <span class=\"tei-hi2 spaced\">Pessimist</span> geworden wäre (– denn er war es \n</span><span class=\"tei-line\">nicht, so sehr er es auch wünschte) ohne seine Feinde, \n</span><span class=\"tei-line\">ohne Hegel, das Weib, die Sinnlichkeit und den ganzen \n</span><span class=\"line\">10</span><span class=\"tei-line \">Willen zum Dasein, Dableiben. Schopenhauer wäre \n</span><span class=\"tei-line\">sonst <span class=\"tei-hi2 spaced\">nicht</span> dageblieben, darauf darf man wetten, er \n</span><span class=\"tei-line\">wäre davongelaufen: seine Feinde aber hielten ihn fest, \n</span><span class=\"tei-line\">seine Feinde verführten ihn immer wieder zum Dasein, \n</span><span class=\"tei-line\">sein Zorn war, ganz wie bei den antiken Cynikern, sein \n</span><span class=\"line\">15</span><span class=\"tei-line \">Labsal, seine Erholung, sein Entgelt, sein remedium \n</span><span class=\"tei-line\">gegen den Ekel, sein <span class=\"tei-hi2 spaced\">Glück</span>. So viel in Hinsicht auf \n</span><span class=\"tei-line\">das Persönlichste am Fall Schopenhauer’s; andrerseits \n</span><span class=\"tei-line\">ist an ihm noch etwas Typisches, – und hier erst \n</span><span class=\"tei-line\">kommen wir wieder auf unser Problem. Es besteht \n</span><span class=\"line\">20</span><span class=\"tei-line \">unbestreitbar, so lange es Philosophen auf Erden giebt \n</span><span class=\"tei-line\">und überall, wo es Philosophen gegeben hat (von In-\n</span><span class=\"tei-line\">dien bis England, um die entgegengesetzten Pole der \n</span><span class=\"tei-line\">Begabung für Philosophie zu nehmen) eine eigentliche \n</span><span class=\"tei-line\">Philosophen-Gereiztheit und -Rancune gegen die Sinn-\n</span><span class=\"line\">25</span><span class=\"tei-line \">lichkeit – Schopenhauer ist nur deren beredtester und, \n</span><span class=\"tei-line\">wenn man das Ohr dafür hat, auch hinreissendster und \n</span><span class=\"tei-line\">entzückendster Ausbruch –; es besteht insgleichen eine \n</span><span class=\"tei-line\">eigentliche Philosophen-Voreingenommenheit und -Herz-\n</span><span class=\"tei-line\">lichkeit in Bezug auf das ganze asketische Ideal, darüber \n</span><span class=\"line\">30</span><span class=\"tei-line \">und dagegen soll man sich nichts vormachen. Beides \n</span><span class=\"tei-line\">gehört, wie gesagt, zum Typus; fehlt Beides an einem \n</span><span class=\"tei-line\">Philosophen, so ist er – dessen sei man sicher – \n</span><span class=\"tei-line\">immer nur ein „sogenannter“. Was <span class=\"tei-hi2 spaced\">bedeutet</span> das? \n  \n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

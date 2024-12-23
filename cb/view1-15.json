@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.27.13",
+    "rootNode": "2.7.2.2.27.13",
+    "id": "Cb_a15",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.29.9",
+    "previous": "2.7.2.2.27.7",
+    "nextId": "Cb_a16",
+    "previousId": "Cb_a14",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0022.tif\">a15</pb-facs-link></span>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"1\"><span><span>diese<span class=\"tei-sic2\">m</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n          \n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"18\"><span><span><span class=\"tei-sic2\">inneren B</span>elieben</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"21\"><span><span>He<span class=\"tei-sic2\">o</span>ren</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"24\"><span><span>gemengt<span class=\"tei-sic2\"> –</span></span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note1 Nnote\">)</span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

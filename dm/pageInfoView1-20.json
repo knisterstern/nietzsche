@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.20",
+    "rootNode": "2.9.20",
+    "id": "srcD_surface_a17r",
+    "odd": "surface.odd",
+    "next": "2.9.21",
+    "previous": "2.9.19",
+    "nextId": "srcD_surface_a18r",
+    "previousId": "srcD_surface_a16r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"pageInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.pageInfo\">Manuskriptbeschreibung</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li class=\"tei-msContents2\">Druckvorlage GM I 15</li><li class=\"tei-physDesc2\">Folioblatt, ca. 23×12,2, liniiert, Trennkante unten. Verso vakat. Rekto und Verso geringfügige Eindruckspuren einer Heftklammer (Anheftung von a18rv). Ursprünglich unterer Blattteil: a19rv.</li><li class=\"tei-additions2\">Bearbeitungsspuren fremder Hand: Markierung Seitenumbruch Cb/Ed: 31|32 („32“), Rotstift (Druckerei); Markierungen, Blaustift (N-Archiv).</li><li class=\"tei-handNotes2\"><span class=\"tei-handNote2\">schwarze Tinte (1), egh</span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

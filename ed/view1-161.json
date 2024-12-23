@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.55",
+    "rootNode": "2.5.12.8.49.5.55",
+    "id": "Ed_142_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.147",
+    "previous": "2.5.12.8.47.5.149",
+    "nextId": "Ed_143_id",
+    "previousId": "Ed_141_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0163.tif\">142</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Narkotisirendes ist in ihm gehäuft, so viel Gefährlich-\n</span><span class=\"tei-line\">stes und Verwegenstes zu diesem Zweck gewagt, so \n</span><span class=\"tei-line\">fein, so raffinirt, so südländisch-raffinirt ist von ihm \n</span><span class=\"tei-line\">insbesondere errathen worden, mit was für Stimulanz-\n</span><span class=\"line\">5</span><span class=\"tei-line \">Affekten die tiefe Depression, die bleierne Ermüdung, \n</span><span class=\"tei-line\">die schwarze Traurigkeit der Physiologisch-Gehemmten \n</span><span class=\"tei-line\">wenigstens für Zeiten besiegt werden kann. Denn all-\n</span><span class=\"tei-line\">gemein gesprochen: bei allen grossen Religionen han-\n</span><span class=\"tei-line\">delte es sich in der Hauptsache um die Bekämpfung \n</span><span class=\"line\">10</span><span class=\"tei-line \">einer gewissen, zur Epidemie gewordnen Müdigkeit \n</span><span class=\"tei-line\">und Schwere. Man kann es von vornherein als wahr-\n</span><span class=\"tei-line\">scheinlich ansetzen, dass von Zeit zu Zeit an bestimm-\n</span><span class=\"tei-line\">ten Stellen der Erde fast nothwendig ein <span class=\"tei-hi2 spaced\">physiolo-\n<span class=\"tei-line\">gisches Hemmungsgefühl</span>gisches Hemmungsgefühl</span> über breite Massen Herr \n</span><span class=\"line\">15</span><span class=\"tei-line \">werden muss, welches aber, aus Mangel an physiolo-\n</span><span class=\"tei-line\">gischem Wissen, nicht als solches in’s Bewusstsein tritt, \n</span><span class=\"tei-line\">so dass dessen „Ursache“, dessen Remedur auch nur \n</span><span class=\"tei-line\">psychologisch-moralisch gesucht und versucht werden \n</span><span class=\"tei-line\">kann (– dies nämlich ist meine allgemeinste Formel \n</span><span class=\"line\">20</span><span class=\"tei-line \">für Das, was gemeinhin eine „<span class=\"tei-hi2 spaced\">Religion</span>“ genannt wird). \n</span><span class=\"tei-line\">Ein solches Hemmungsgefühl kann verschiedenster Ab-\n</span><span class=\"tei-line\">kunft sein: etwa als Folge der Kreuzung von zu fremd-\n</span><span class=\"tei-line\">artigen Rassen (oder von Ständen – Stände drücken \n</span><span class=\"tei-line\">immer auch Abkunfts- und Rassen-Differenzen aus: der \n</span><span class=\"line\">25</span><span class=\"tei-line \">europäische „Weltschmerz“, der „Pessimismus“ des \n</span><span class=\"tei-line\">neunzehnten Jahrhunderts ist wesentlich die Folge einer \n</span><span class=\"tei-line\">unsinnig plötzlichen Stände-Mischung); oder bedingt \n</span><span class=\"tei-line\">durch eine fehlerhafte Emigration – eine Rasse in ein \n</span><span class=\"tei-line\">Klima gerathen, für das ihre Anpassungskraft nicht \n</span><span class=\"line\">30</span><span class=\"tei-line \">ausreicht (der Fall der Inder in Indien); oder die Nach-\n</span><span class=\"tei-line\">wirkung von Alter und Ermüdung der Rasse (Pariser \n</span><span class=\"tei-line\">Pessimismus von 1850 an); oder einer falschen Diät \n</span><span class=\"tei-line\">(Alkoholismus des Mittelalters; der Unsinn der Vege-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

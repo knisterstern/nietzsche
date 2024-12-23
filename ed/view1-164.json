@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.338",
+    "rootNode": "2.5.12.8.49.5.338",
+    "id": "Ed_145_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.426",
+    "previous": "2.5.12.8.49.5.245",
+    "nextId": "Ed_146_id",
+    "previousId": "Ed_144_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0166.tif\">145</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">immer als das Geheimniss an sich, zu dessen Ausdruck \n</span><span class=\"tei-line\">auch die höchsten Symbole nicht ausreichen, als Ein- und \n</span><span class=\"tei-line\">Heimkehr in den Grund der Dinge, als Freiwerden von \n</span><span class=\"tei-line\">allem Wahne, als „Wissen“, als „Wahrheit“, als „Sein“, \n</span><span class=\"line\">5</span><span class=\"tei-line \">als Loskommen von jedem Ziele, jedem Wunsche, jedem \n</span><span class=\"tei-line\">Thun, als ein Jenseits auch von Gut und Böse. „Gutes \n</span><span class=\"tei-line\">und Böses, sagt der Buddhist, – Beides sind Fesseln: \n</span><span class=\"tei-line\">über Beides wurde der Vollendete Herr“; „Gethanes und \n</span><span class=\"tei-line\">Ungethanes, sagt der Gläubige des Vedânta, schafft ihm \n</span><span class=\"line\">10</span><span class=\"tei-line \">keinen Schmerz; das Gute und das Böse schüttelt er als \n</span><span class=\"tei-line\">ein Weiser von sich; sein Reich leidet durch keine \n</span><span class=\"tei-line\">That mehr; über Gutes und Böses, über Beides gieng \n</span><span class=\"tei-line\">er hinaus“: – eine gesammt-indische Auffassung also, \n</span><span class=\"tei-line\">ebenso brahmanistisch als buddhistisch. (Weder in der \n</span><span class=\"line\">15</span><span class=\"tei-line \">indischen, noch in der christlichen Denkweise gilt jene \n</span><span class=\"tei-line\">„Erlösung“ als <span class=\"tei-hi2 spaced\">erreichbar</span> durch Tugend, durch mo-\n</span><span class=\"tei-line\">ralische Besserung, so hoch der Hypnotisirungs-Werth \n</span><span class=\"tei-line\">der Tugend auch von ihnen angesetzt wird: dies halte \n</span><span class=\"tei-line\">man fest, – es entspricht dies übrigens einfach dem \n</span><span class=\"line\">20</span><span class=\"tei-line \">Thatbestande. Hierin <span class=\"tei-hi2 spaced\">wahr</span> geblieben zu sein, darf viel-\n</span><span class=\"tei-line\">leicht als das beste Stück Realismus in den drei \n</span><span class=\"tei-line\">grössten, sonst so gründlich vermoralisirten Religionen \n</span><span class=\"tei-line\">betrachtet werden. „Für den Wissenden giebt es keine \n</span><span class=\"tei-line\">Pflicht“… „Durch <span class=\"tei-hi2 spaced\">Zulegung</span> von Tugenden kommt \n</span><span class=\"line\">25</span><span class=\"tei-line \">Erlösung nicht zu Stande: denn sie besteht im Eins-\n</span><span class=\"tei-line\">sein mit dem keiner Zulegung von Vollkommenheit \n</span><span class=\"tei-line\">fähigen Brahman; und ebenso wenig in der <span class=\"tei-hi2 spaced\">Ablegung</span> \n</span><span class=\"tei-line\">von Fehlern: denn das Brahman, mit dem Eins zu sein \n</span><span class=\"tei-line\">Das ist, was Erlösung ausmacht, ist ewig rein“ – diese \n</span><span class=\"line\">30</span><span class=\"tei-line \">Stellen aus dem Commentare des Çankara, citirt von \n</span><span class=\"tei-line\">dem ersten wirklichen <span class=\"tei-hi2 spaced\">Kenner</span> der indischen Philoso-\n</span><span class=\"tei-line\">phie in Europa, meinem Freunde Paul Deussen.) Die \n</span><span class=\"tei-line\">„Erlösung“ in den grossen Religionen wollen wir also \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

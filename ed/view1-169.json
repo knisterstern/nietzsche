@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.51.5.276",
+    "rootNode": "2.5.12.8.51.5.276",
+    "id": "Ed_150_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.53.5.84",
+    "previous": "2.5.12.8.51.5.177",
+    "nextId": "Ed_151_id",
+    "previousId": "Ed_149_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0171.tif\">150</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">in ihr nöthig hat, Herr über dies Gelüst zu bleiben. \n</span><span class=\"tei-line\">(So war es zum Beispiel <span class=\"tei-hi2 spaced\">griechisch</span>: Plato bezeugt \n</span><span class=\"tei-line\">es an hundert Stellen, Plato, der seines Gleichen kannte \n</span><span class=\"tei-line\">– <span class=\"tei-hi2 spaced\">und</span> sich selbst…)</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">5</span>19.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Die Mittel des asketischen Priesters, welche wir \n</span><span class=\"tei-line\">bisher kennen lernten – die Gesammt-Dämpfung des \n</span><span class=\"tei-line\">Lebensgefühls, die machinale Thätigkeit, die kleine \n</span><span class=\"tei-line\">Freude, vor Allem die der „Nächstenliebe“, die Heerden-\n</span><span class=\"line\">10</span><span class=\"tei-line \">Organisation, die Erweckung des Gemeinde-Macht-\n</span><span class=\"tei-line\">gefühls, demzufolge der Verdruss des Einzelnen an sich \n</span><span class=\"tei-line\">durch seine Lust am Gedeihen der Gemeinde übertäubt \n</span><span class=\"tei-line\">wird – das sind, nach modernem Maasse gemessen, \n</span><span class=\"tei-line\">seine <span class=\"tei-hi2 spaced\">unschuldigen</span> Mittel im Kampfe mit der Un-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lust: wenden wir uns jetzt zu den interessanteren, den \n</span><span class=\"tei-line\">„schuldigen“. Bei ihnen allen handelt es sich um Eins: \n</span><span class=\"tei-line\">um irgend eine <span class=\"tei-hi2 spaced\">Ausschweifung des Gefühls</span>, – \n</span><span class=\"tei-line\">diese gegen die dumpfe lähmende lange Schmerzhaftig-\n</span><span class=\"tei-line\">keit als wirksamstes Mittel der Betäubung benutzt; \n</span><span class=\"line\">20</span><span class=\"tei-line \">weshalb die priesterliche Erfindsamkeit im Ausdenken \n</span><span class=\"tei-line\">dieser Einen Frage geradezu unerschöpflich gewesen \n</span><span class=\"tei-line\">ist: „<span class=\"tei-hi2 spaced\">wodurch</span> erzielt man eine Ausschweifung des \n</span><span class=\"tei-line\">Gefühls?“… Das klingt hart: es liegt auf der Hand, \n</span><span class=\"tei-line\">dass es lieblicher klänge und besser vielleicht zu Ohren \n</span><span class=\"line\">25</span><span class=\"tei-line \">gienge, wenn ich etwa sagte „der asketische Priester \n</span><span class=\"tei-line\">hat sich jederzeit die <span class=\"tei-hi2 spaced\">Begeisterung</span> zu Nutze ge-\n</span><span class=\"tei-line\">macht, die in allen starken Affekten liegt“. Aber \n</span><span class=\"tei-line\">wozu die verweichlichten Ohren unsrer modernen Zärt-\n</span><span class=\"tei-line\">linge noch streicheln? Wozu <span class=\"tei-hi2 spaced\">unsrerseits</span> ihrer Tar-\n</span><span class=\"line\">30</span><span class=\"tei-line \">tüfferie der Worte auch nur einen Schritt breit nach-\n</span><span class=\"tei-line\">geben? Für uns Psychologen läge darin bereits eine \n</span><span class=\"tei-line\">Tartüfferie <span class=\"tei-hi2 spaced\">der That</span>; abgesehen davon, dass es uns \n</span><span class=\"tei-line\">Ekel machen würde. Ein Psychologe nämlich hat heute \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

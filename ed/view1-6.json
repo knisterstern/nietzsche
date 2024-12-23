@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.3",
+    "rootNode": "2.5.12.2.3",
+    "id": "Ed_III_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.9.5.63",
+    "previous": "2.5.10.4.16",
+    "nextId": "Ed_IV_id",
+    "previousId": "Ed_II_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0008.tif\">[III]</pb-facs-link></span>\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>VORREDE.</div>\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">1.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Wir sind uns unbekannt, wir Erkennenden, wir \n</span><span class=\"tei-line\">selbst uns selbst: das hat seinen guten Grund. Wir \n</span><span class=\"line\">5</span><span class=\"tei-line \">haben nie nach uns gesucht, – wie sollte es geschehn, \n</span><span class=\"tei-line\">dass wir eines Tags uns <span class=\"tei-hi2 spaced\">fänden</span>? Mit Recht hat man \n</span><span class=\"tei-line\">gesagt: „wo euer Schatz ist, da ist auch euer Herz“; \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">unser</span> Schatz ist, wo die Bienenkörbe unsrer Erkennt-\n</span><span class=\"tei-line\">niss stehn. Wir sind immer dazu unterwegs, als ge-\n</span><span class=\"line\">10</span><span class=\"tei-line \">borne Flügelthiere und Honigsammler des Geistes, wir \n</span><span class=\"tei-line\">kümmern uns von Herzen eigentlich nur um Eins – \n</span><span class=\"tei-line\">Etwas „heimzubringen“. Was das Leben sonst, die so-\n</span><span class=\"tei-line\">genannten „Erlebnisse“ angeht, – wer von uns hat \n</span><span class=\"tei-line\">dafür auch nur Ernst genug? Oder Zeit genug? Bei \n</span><span class=\"line\">15</span><span class=\"tei-line \">solchen Sachen waren wir, fürchte ich, nie recht „bei \n</span><span class=\"tei-line\">der Sache“: wir haben eben unser Herz nicht dort – \n</span><span class=\"tei-line\">und nicht einmal unser Ohr! Vielmehr wie ein Göttlich-\n</span><span class=\"tei-line\">Zerstreuter und In-sich-Versenkter, dem die Glocke \n</span><span class=\"tei-line\">eben mit aller Macht ihre zwölf Schläge des Mittags \n</span><span class=\"line\">20</span><span class=\"tei-line \">in’s Ohr gedröhnt hat, mit einem Male aufwacht und \n</span><span class=\"tei-line\">sich fragt „was hat es da eigentlich geschlagen?“ so \n</span><span class=\"tei-line\">reiben auch wir uns mitunter <span class=\"tei-hi2 spaced\">hinterdrein</span> die Ohren \n</span><span class=\"tei-line\">und fragen, ganz erstaunt, ganz betreten „was haben wir \n</span><span class=\"tei-line\">da eigentlich erlebt? mehr noch: wer <span class=\"tei-hi2 spaced\">sind</span> wir eigent-\n</span><span class=\"line\">25</span><span class=\"tei-line \">lich?“ und zählen nach, hinterdrein, wie gesagt, alle \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

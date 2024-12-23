@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.51",
+    "id": "GM03completion",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM03completion\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Neuer Anfang und Schluss von GM III</h5><span class=\"tei-date2\">Mitte/Ende August 1887</span> ergänzt N die erste Version von GM III um einen neuen Anfangsabschnitt, GM III 1, und, nachdem er die ursprünglichen Abschnitte §1-22 umnummeriert hat zu GM III 2-23, um fünf weitere Abschnitte, GM III 24-28. Daran anschließend folgt noch das Inhaltsverzeichnis zu GM I-III.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

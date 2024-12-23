@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.65.5.244",
+    "rootNode": "2.5.12.8.65.5.244",
+    "id": "Ed_173_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.65.5.344",
+    "previous": "2.5.12.8.65.5.149",
+    "nextId": "Ed_174_id",
+    "previousId": "Ed_172_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 25</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 422/404,23-26</li><li class=\"tei-ab2\"><a data-id=\"Ed_173_id\" data-doc=\"E40.xml\">Ed 173,27-30</a></li><li class=\"tei-ab2\"><a data-id=\"b60r\" data-doc=\"D20.xml\">Dm b60r,3-5</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_71v\" data-doc=\"KGWIX.xml\">Mp XVII, 71v,26-28</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.61.5.227",
+    "rootNode": "2.5.12.8.61.5.227",
+    "id": "Ed_165_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.63.3",
+    "previous": "2.5.12.8.61.5.133",
+    "nextId": "Ed_166_id",
+    "previousId": "Ed_164_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0186.tif\">165</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">denn ich freue mich ihrer Arbeit. Aber damit, dass \n</span><span class=\"tei-line\">jetzt in der Wissenschaft streng gearbeitet wird und \n</span><span class=\"tei-line\">dass es zufriedne Arbeiter giebt, ist schlechterdings \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">nicht</span> bewiesen, dass die Wissenschaft als Ganzes heute \n</span><span class=\"line\">5</span><span class=\"tei-line \">ein Ziel, einen Willen, ein Ideal, eine Leidenschaft des \n</span><span class=\"tei-line\">grossen Glaubens habe. Das Gegentheil, wie gesagt, \n</span><span class=\"tei-line\">ist der Fall: wo sie nicht die jüngste Erscheinungs-\n</span><span class=\"tei-line\">form des asketischen Ideals ist, – es handelt sich da \n</span><span class=\"tei-line\">um zu seltne, vornehme, ausgesuchte Fälle, als dass \n</span><span class=\"line\">10</span><span class=\"tei-line \">damit das Gesammturtheil umgebogen werden könnte \n</span><span class=\"tei-line\">– ist die Wissenschaft heute ein <span class=\"tei-hi2 spaced\">Versteck</span> für alle \n</span><span class=\"tei-line\">Art Missmuth, Unglauben, Nagewurm, despectio sui, \n</span><span class=\"tei-line\">schlechtes Gewissen, – sie ist die <span class=\"tei-hi2 spaced\">Unruhe</span> der Ideal-\n</span><span class=\"tei-line\">losigkeit selbst, das Leiden am <span class=\"tei-hi2 spaced\">Mangel</span> der grossen \n</span><span class=\"line\">15</span><span class=\"tei-line \">Liebe, das Ungenügen an einer <span class=\"tei-hi2 spaced\">unfreiwilligen</span> Ge-\n</span><span class=\"tei-line\">nügsamkeit. Oh was verbirgt heute nicht Alles Wissen-\n</span><span class=\"tei-line\">schaft! wie viel <span class=\"tei-hi2 spaced\">soll</span> sie mindestens verbergen! Die \n</span><span class=\"tei-line\">Tüchtigkeit unsrer besten Gelehrten, ihr besinnungs-\n</span><span class=\"tei-line\">loser Fleiss, ihr Tag und Nacht rauchender Kopf, ihre \n</span><span class=\"line\">20</span><span class=\"tei-line \">Handwerks-Meisterschaft selbst – wie oft hat das Alles \n</span><span class=\"tei-line\">seinen eigentlichen Sinn darin, sich selbst irgend Etwas \n</span><span class=\"tei-line\">nicht mehr sichtbar werden zu lassen! Die Wissen-\n</span><span class=\"tei-line\">schaft als Mittel der Selbst-Betäubung: <span class=\"tei-hi2 spaced\">kennt ihr \n<span class=\"tei-line\">das</span>das</span>?… Man verwundet sie – Jeder erfährt es, der \n</span><span class=\"line\">25</span><span class=\"tei-line \">mit Gelehrten umgeht – mitunter durch ein harmloses \n</span><span class=\"tei-line\">Wort bis auf den Knochen, man erbittert seine ge-\n</span><span class=\"tei-line\">lehrten Freunde gegen sich, im Augenblick, wo man \n</span><span class=\"tei-line\">sie zu ehren meint, man bringt sie ausser Rand und \n</span><span class=\"tei-line\">Band, bloss weil man zu grob war, um zu errathen, \n</span><span class=\"line\">30</span><span class=\"tei-line \">mit wem man es eigentlich zu thun hat, mit <span class=\"tei-hi2 spaced\">Leiden-\n<span class=\"tei-line\">den</span>den</span>, die es sich selbst nicht eingestehn wollen, was \n</span><span class=\"tei-line\">sie sind, mit Betäubten und Besinnungslosen, die nur \n</span><span class=\"tei-line\">Eins fürchten: <span class=\"tei-hi2 spaced\">zum Bewusstsein zu kommen</span>…</span></p>\n\n\n  \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

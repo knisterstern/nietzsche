@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.34.7.292",
+    "rootNode": "2.5.12.6.34.7.292",
+    "id": "Ed_70_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.36.7.60",
+    "previous": "2.5.12.6.34.7.188",
+    "nextId": "Ed_71_id",
+    "previousId": "Ed_69_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0091.tif\">70</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">eine blosse Reaktivität, ja man hat das Leben selbst \n</span><span class=\"tei-line\">als eine immer zweckmässigere innere Anpassung an \n</span><span class=\"tei-line\">äussere Umstände definirt (Herbert Spencer). Damit \n</span><span class=\"tei-line\">ist aber das Wesen des Lebens verkannt, sein <span class=\"tei-hi2 spaced\">Wille \n<span class=\"line\">5</span><span class=\"tei-line \">zur Macht</span>zur Macht</span>; damit ist der principielle Vorrang über-\n</span><span class=\"tei-line\">sehn, den die spontanen, angreifenden, übergreifenden, \n</span><span class=\"tei-line\">neu-auslegenden, neu-richtenden und gestaltenden Kräfte \n</span><span class=\"tei-line\">haben, auf deren Wirkung erst die „Anpassung“ folgt; \n</span><span class=\"tei-line\">damit ist im Organismus selbst die herrschaftliche Rolle \n</span><span class=\"line\">10</span><span class=\"tei-line \">der höchsten Funktionäre abgeleugnet, in denen der \n</span><span class=\"tei-line\">Lebenswille aktiv und formgebend erscheint. Man er-\n</span><span class=\"tei-line\">innert sich, was Huxley Spencern zum Vorwurf gemacht \n</span><span class=\"tei-line\">hat, – seinen „administrativen Nihilismus“: aber es han-\n</span><span class=\"tei-line\">delt sich noch um <span class=\"tei-hi2 spaced\">mehr</span> als um’s „Administriren“…\n</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">15</span>13.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Man hat also, um zur Sache, nämlich zur <span class=\"tei-hi2 spaced\">Strafe</span> \n</span><span class=\"tei-line\">zurückzukehren, zweierlei an ihr zu unterscheiden: ein-\n</span><span class=\"tei-line\">mal das relativ <span class=\"tei-hi2 spaced\">Dauerhafte</span> an ihr, den Brauch, den \n</span><span class=\"tei-line\">Akt, das „Drama“, eine gewisse strenge Abfolge von \n</span><span class=\"line\">20</span><span class=\"tei-line \">Prozeduren, andrerseits das <span class=\"tei-hi2 spaced\">Flüssige</span> an ihr, den Sinn, \n</span><span class=\"tei-line\">den Zweck, die Erwartung, welche sich an die Aus-\n</span><span class=\"tei-line\">führung solcher Prozeduren knüpft. Hierbei wird ohne \n</span><span class=\"tei-line\">Weiteres vorausgesetzt, per analogiam, gemäss dem \n</span><span class=\"tei-line\">eben entwickelten Hauptgesichtspunkte der historischen \n</span><span class=\"line\">25</span><span class=\"tei-line \">Methodik, dass die Prozedur selbst etwas Älteres, Frü-\n</span><span class=\"tei-line\">heres als ihre Benützung zur Strafe sein wird, dass \n</span><span class=\"tei-line\">letztere erst in die (längst vorhandene, aber in einem \n</span><span class=\"tei-line\">anderen Sinne übliche) Prozedur <span class=\"tei-hi2 spaced\">hineingelegt</span>, hinein-\n</span><span class=\"tei-line\">gedeutet worden ist, kurz, dass es <span class=\"tei-hi2 spaced\">nicht</span> so steht, wie \n</span><span class=\"line\">30</span><span class=\"tei-line \">unsre naiven Moral- und Rechtsgenealogen bisher an-\n</span><span class=\"tei-line\">nahmen, welche sich allesammt die Prozedur <span class=\"tei-hi2 spaced\">erfunden</span> \n</span><span class=\"tei-line\">dachten zum Zweck der Strafe, so wie man sich ehe-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

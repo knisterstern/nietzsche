@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.31.5.24",
+    "rootNode": "2.5.12.4.31.5.24",
+    "id": "Ed_14_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.31.5.107",
+    "previous": "2.5.12.4.29.5.113",
+    "nextId": "Ed_15_id",
+    "previousId": "Ed_13_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0035.tif\">14</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">dessen Gleichen nie auf Erden dagewesen ist – wuchs \n</span><span class=\"tei-line\">etwas ebenso Unvergleichliches heraus, eine <span class=\"tei-hi2 spaced\">neue \n<span class=\"tei-line\">Liebe</span>Liebe</span>, die tiefste und sublimste aller Arten Liebe: – \n</span><span class=\"tei-line\">und aus welchem andern Stamme hätte sie auch wachsen \n</span><span class=\"line\">5</span><span class=\"tei-line \">können?… Dass man aber ja nicht vermeine, sie sei \n</span><span class=\"tei-line\">etwa als die eigentliche Verneinung jenes Durstes nach \n</span><span class=\"tei-line\">Rache, als der Gegensatz des jüdischen Hasses empor-\n</span><span class=\"tei-line\">gewachsen! Nein, das Umgekehrte ist die Wahrheit! \n</span><span class=\"tei-line\">Diese Liebe wuchs aus ihm heraus, als seine Krone, als \n</span><span class=\"line\">10</span><span class=\"tei-line \">die triumphirende, in der reinsten Helle und Sonnenfülle \n</span><span class=\"tei-line\">sich breit und breiter entfaltende Krone, welche mit \n</span><span class=\"tei-line\">demselben Drange gleichsam im Reiche des Lichts und \n</span><span class=\"tei-line\">der Höhe auf die Ziele jenes Hasses, auf Sieg, auf Beute, \n</span><span class=\"tei-line\">auf Verführung aus war, mit dem die Wurzeln jenes \n</span><span class=\"line\">15</span><span class=\"tei-line \">Hasses sich immer gründlicher und begehrlicher in \n</span><span class=\"tei-line\">Alles, was Tiefe hatte und böse war, hinunter senkten. \n</span><span class=\"tei-line\">Dieser Jesus von Nazareth, als das leibhafte Evange-\n</span><span class=\"tei-line\">lium der Liebe, dieser den Armen, den Kranken, den \n</span><span class=\"tei-line\">Sündern die Seligkeit und den Sieg bringende „Er-\n</span><span class=\"line\">20</span><span class=\"tei-line \">löser“ – war er nicht gerade die Verführung in ihrer \n</span><span class=\"tei-line\">unheimlichsten und unwiderstehlichsten Form, die Ver-\n</span><span class=\"tei-line\">führung und der Umweg zu eben jenen <span class=\"tei-hi2 spaced\">jüdischen</span> \n</span><span class=\"tei-line\">Werthen und Neuerungen des Ideals? Hat Israel nicht \n</span><span class=\"tei-line\">gerade auf dem Umwege dieses „Erlösers“, dieses \n</span><span class=\"line\">25</span><span class=\"tei-line \">scheinbaren Widersachers und Auflösers Israel’s, das \n</span><span class=\"tei-line\">letzte Ziel seiner sublimen Rachsucht erreicht? Gehört \n</span><span class=\"tei-line\">es nicht in die geheime schwarze Kunst einer wahrhaft \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">grossen</span> Politik der Rache, einer weitsichtigen, unter-\n</span><span class=\"tei-line\">irdischen, langsam-greifenden und vorausrechnenden \n</span><span class=\"line\">30</span><span class=\"tei-line \">Rache, dass Israel selber das eigentliche Werkzeug \n</span><span class=\"tei-line\">seiner Rache vor aller Welt wie etwas Todfeindliches \n</span><span class=\"tei-line\">verleugnen und an’s Kreuz schlagen musste, damit „alle \n</span><span class=\"tei-line\">Welt“, nämlich alle Gegner Israel’s unbedenklich ge-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

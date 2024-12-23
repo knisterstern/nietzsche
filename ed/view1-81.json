@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.30.7.92",
+    "rootNode": "2.5.12.6.30.7.92",
+    "id": "Ed_62_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.32.7.51",
+    "previous": "2.5.12.6.30.3",
+    "nextId": "Ed_63_id",
+    "previousId": "Ed_61_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0083.tif\">62</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">nehmsten Luxus gönnen dürfte, den es für sie giebt, – \n</span><span class=\"tei-line\">ihren Schädiger <span class=\"tei-hi2 spaced\">straflos</span> zu lassen. „Was gehen mich \n</span><span class=\"tei-line\">eigentlich meine Schmarotzer an? dürfte sie dann spre-\n</span><span class=\"tei-line\">chen. Mögen sie leben und gedeihen: dazu bin ich \n</span><span class=\"line\">5</span><span class=\"tei-line \">noch stark genug!“… Die Gerechtigkeit, welche damit \n</span><span class=\"tei-line\">anhob „Alles ist abzahlbar, Alles muss abgezahlt wer-\n</span><span class=\"tei-line\">den“, endet damit, durch die Finger zu sehn und den \n</span><span class=\"tei-line\">Zahlungsunfähigen laufen zu lassen, – sie endet wie \n</span><span class=\"tei-line\">jedes gute Ding auf Erden, <span class=\"tei-hi2 spaced\">sich selbst aufhebend</span>. \n</span><span class=\"line\">10</span><span class=\"tei-line \">Diese Selbstaufhebung der Gerechtigkeit: man weiss, \n</span><span class=\"tei-line\">mit welch schönem Namen sie sich nennt – <span class=\"tei-hi2 spaced\">Gnade</span>; \n</span><span class=\"tei-line\">sie bleibt, wie sich von selbst versteht, das Vorrecht \n</span><span class=\"tei-line\">des Mächtigsten, besser noch, sein Jenseits des Rechts.</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">11.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">15</span><span class=\"tei-line indent\">– Hier ein ablehnendes Wort gegen neuerdings \n</span><span class=\"tei-line\">hervorgetretene Versuche, den Ursprung der Gerechtig-\n</span><span class=\"tei-line\">keit auf einem ganz andren Boden zu suchen, – nämlich \n</span><span class=\"tei-line\">auf dem des Ressentiment. Den Psychologen voran \n</span><span class=\"tei-line\">in’s Ohr gesagt, gesetzt dass sie Lust haben sollten, \n</span><span class=\"line\">20</span><span class=\"tei-line \">das Ressentiment selbst einmal aus der Nähe zu stu-\n</span><span class=\"tei-line\">dieren: diese Pflanze blüht jetzt am schönsten unter \n</span><span class=\"tei-line\">Anarchisten und Antisemiten, übrigens so wie sie immer \n</span><span class=\"tei-line\">geblüht hat, im Verborgnen, dem Veilchen gleich, wenn \n</span><span class=\"tei-line\">schon mit andrem Duft. Und wie aus Gleichem noth-\n</span><span class=\"line\">25</span><span class=\"tei-line \">wendig immer Gleiches hervorgehn muss, so wird es \n</span><span class=\"tei-line\">nicht überraschen, gerade wieder aus solchen Kreisen \n</span><span class=\"tei-line\">Versuche hervorgehen zu sehn, wie sie schon öfter \n</span><span class=\"tei-line\">dagewesen sind – vergleiche oben Seite 30 –, die \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Rache</span> unter dem Namen der <span class=\"tei-hi2 spaced\">Gerechtigkeit</span> zu hei-\n</span><span class=\"line\">30</span><span class=\"tei-line \">ligen – wie als ob Gerechtigkeit im Grunde nur eine \n</span><span class=\"tei-line\">Fortentwicklung vom Gefühle des Verletzt-seins wäre – \n</span><span class=\"tei-line\">und mit der Rache die <span class=\"tei-hi2 spaced\">reaktiven</span> Affekte überhaupt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

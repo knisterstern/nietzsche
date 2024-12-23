@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.44.5.161",
+    "rootNode": "2.5.12.6.44.5.161",
+    "id": "Ed_81_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.46.7.84",
+    "previous": "2.5.12.6.44.5.68",
+    "nextId": "Ed_82_id",
+    "previousId": "Ed_80_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0102.tif\">81</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">noch sich entladende und auslassende Instinkt der \n</span><span class=\"tei-line\">Freiheit: das, nur das ist in seinem Anbeginn das \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">schlechte Gewissen</span>.</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">18.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">5</span><span class=\"tei-line indent\">Man hüte sich, von diesem ganzen Phänomen des-\n</span><span class=\"tei-line\">halb schon gering zu denken, weil es von vornherein \n</span><span class=\"tei-line\">hässlich und schmerzhaft ist. Im Grunde ist es ja die-\n</span><span class=\"tei-line\">selbe aktive Kraft, die in jenen Gewalt-Künstlern und \n</span><span class=\"tei-line\">Organisatoren grossartiger am Werke ist und Staaten \n</span><span class=\"line\">10</span><span class=\"tei-line \">baut, welche hier, innerlich, kleiner, kleinlicher, in der \n</span><span class=\"tei-line\">Richtung nach rückwärts, im „Labyrinth der Brust“, \n</span><span class=\"tei-line\">um mit Goethe zu reden, sich das schlechte Gewissen \n</span><span class=\"tei-line\">schafft und negative Ideale baut, eben jener <span class=\"tei-hi2 spaced\">Instinkt \n<span class=\"tei-line\">der Freiheit</span>der Freiheit</span> (in meiner Sprache geredet: der Wille \n</span><span class=\"line\">15</span><span class=\"tei-line \">zur Macht): nur dass der Stoff, an dem sich die form-\n</span><span class=\"tei-line\">bildende und vergewaltigende Natur dieser Kraft aus-\n</span><span class=\"tei-line\">lässt, hier eben der Mensch selbst, sein ganzes thieri-\n</span><span class=\"tei-line\">sches altes Selbst ist – und <span class=\"tei-hi2 spaced\">nicht</span>, wie in jenem \n</span><span class=\"tei-line\">grösseren und augenfälligeren Phänomen, der <span class=\"tei-hi2 spaced\">andre</span> \n</span><span class=\"line\">20</span><span class=\"tei-line \">Mensch, die <span class=\"tei-hi2 spaced\">andren</span> Menschen. Diese heimliche Selbst-\n</span><span class=\"tei-line\">Vergewaltigung, diese Künstler-Grausamkeit, diese Lust, \n</span><span class=\"tei-line\">sich selbst als einem schweren widerstrebenden leiden-\n</span><span class=\"tei-line\">den Stoffe eine Form zu geben, einen Willen, eine Kri-\n</span><span class=\"tei-line\">tik, einen Widerspruch, eine Verachtung, ein Nein ein-\n</span><span class=\"line\">25</span><span class=\"tei-line \">zubrennen, diese unheimliche und entsetzlich-lustvolle \n</span><span class=\"tei-line\">Arbeit einer mit sich selbst willig-zwiespältigen Seele, \n</span><span class=\"tei-line\">welche sich leiden macht, aus Lust am Leidenmachen, \n</span><span class=\"tei-line\">dieses ganze <span class=\"tei-hi2 spaced\">aktivische</span> „schlechte Gewissen“ hat \n</span><span class=\"tei-line\">zuletzt – man erräth es schon – als der eigentliche \n</span><span class=\"line\">30</span><span class=\"tei-line \">Mutterschooss idealer und imaginativer Ereignisse auch \n<span class=\"tei-line\">eine Fülle von neuer befremdlicher Schönheit und Be-\n</span>eine Fülle von neuer befremdlicher Schönheit und Be-\n</span><span class=\"tei-line\">eine Fülle von neuer befremdlicher Schönheit und Be-\n</span><span class=\"tei-line\">jahung an’s Licht gebracht und vielleicht überhaupt \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

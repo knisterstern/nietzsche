@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.7",
+    "id": "preliminaryContext2",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"preliminaryContext2\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Genealogische Anfrage aus Weimar</h5>Der Weimarer Goethe-Forscher C. A. H. Burkhardt erbittet am <pb-popover class=\"alternate tei-date1\" id=\"altref_1\"><span slot=\"default\">6. Juli 1887</span><template slot=\"alternate\">1887-07-06</template></pb-popover> Auskunft über Ns Großmutter väterlicherseits, die zum Bekanntenkreis Goethes gehört haben könnte.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

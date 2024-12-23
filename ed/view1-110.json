@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.56.5.115",
+    "rootNode": "2.5.12.6.56.5.115",
+    "id": "Ed_91_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.58.5.34",
+    "previous": "2.5.12.6.56.5.22",
+    "nextId": "Ed_92_id",
+    "previousId": "Ed_90_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0112.tif\">91</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Griechen der stärksten, tapfersten Zeit selbst bei sich \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">zugelassen</span> als Grund von vielem Schlimmen und Ver-\n</span><span class=\"tei-line\">hängnissvollen: – Thorheit, <span class=\"tei-hi2 spaced\">nicht</span> Sünde! versteht ihr \n</span><span class=\"tei-line\">das?… Selbst aber diese Störung im Kopfe war ein \n</span><span class=\"line\">5</span><span class=\"tei-line \">Problem – „ja, wie ist sie auch nur möglich? woher mag \n</span><span class=\"tei-line\">sie eigentlich gekommen sein, bei Köpfen, wie <span class=\"tei-hi2 spaced\">wir</span> sie \n</span><span class=\"tei-line\">haben, wir Menschen der edlen Abkunft, des Glücks, der \n</span><span class=\"tei-line\">Wohlgerathenheit, der besten Gesellschaft, der Vornehm-\n</span><span class=\"tei-line\">heit, der Tugend?“ – so fragte sich Jahrhunderte lang \n</span><span class=\"line\">10</span><span class=\"tei-line \">der vornehme Grieche Angesichts jedes ihm unverständ-\n</span><span class=\"tei-line\">lichen Greuels und Frevels, mit dem sich Einer von \n</span><span class=\"tei-line\">seines Gleichen befleckt hatte. „Es muss ihn wohl ein \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Gott</span> bethört haben“, sagte er sich endlich, den Kopf \n</span><span class=\"tei-line\">schüttelnd… Dieser Ausweg ist <span class=\"tei-hi2 spaced\">typisch</span> für Grie-\n</span><span class=\"line\">15</span><span class=\"tei-line \">chen… Dergestalt dienten damals die Götter dazu, \n</span><span class=\"tei-line\">den Menschen bis zu einem gewissen Grade auch im \n</span><span class=\"tei-line\">Schlimmen zu rechtfertigen, sie dienten als Ursachen \n</span><span class=\"tei-line\">des Bösen – damals nahmen sie nicht die Strafe auf \n</span><span class=\"tei-line\">sich, sondern, wie es <span class=\"tei-hi2 spaced\">vornehmer</span> ist, die Schuld…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">20</span>24.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Ich schliesse mit drei Fragezeichen, man sieht \n</span><span class=\"tei-line\">es wohl. „Wird hier eigentlich ein Ideal aufgerichtet \n</span><span class=\"tei-line\">oder eines abgebrochen?“ so fragt man mich vielleicht… \n</span><span class=\"tei-line\">Aber habt ihr euch selber je genug gefragt, wie theuer \n</span><span class=\"line\">25</span><span class=\"tei-line \">sich auf Erden die Aufrichtung <span class=\"tei-hi2 spaced\">jedes</span> Ideals bezahlt \n</span><span class=\"tei-line\">gemacht hat? Wie viel Wirklichkeit immer dazu ver-\n</span><span class=\"tei-line\">leumdet und verkannt, wie viel Lüge geheiligt, wie viel \n</span><span class=\"tei-line\">Gewissen verstört, wie viel „Gott“ jedes Mal geopfert \n</span><span class=\"tei-line\">werden musste? Damit ein Heiligthum aufgerichtet \n</span><span class=\"line\">30</span><span class=\"tei-line \">werden kann, <span class=\"tei-hi2 spaced\">muss ein Heiligthum zerbrochen \n<span class=\"tei-line\">werden</span>werden</span>: das ist das Gesetz – man zeige mir den \n</span><span class=\"tei-line\">Fall, wo es nicht erfüllt ist!… Wir modernen Men-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

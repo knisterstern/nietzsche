@@ -1,0 +1,9 @@
+# Select manuscripts and their page count.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?manuscript (count(?page) as ?numpage) {	 
+    ?manuscript a tln:ArchivalManuscriptUnity;
+        tln:hasManuscriptType "Mappe";
+    	tln:hasPages/rdf:rest*/rdf:first ?page.
+} GROUP BY(?manuscript) ORDER BY (?manuscript)

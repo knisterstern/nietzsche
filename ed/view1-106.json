@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.52.7.59",
+    "rootNode": "2.5.12.6.52.7.59",
+    "id": "Ed_87_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.54.3",
+    "previous": "2.5.12.6.50.7.78",
+    "nextId": "Ed_88_id",
+    "previousId": "Ed_86_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0108.tif\">87</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">endgültige Ablösung ein-für-alle-Mal sich pessimistisch \n</span><span class=\"tei-line\">zuschliessen, jetzt <span class=\"tei-hi2 spaced\">soll</span> der Blick trostlos vor einer \n</span><span class=\"tei-line\">ehernen Unmöglichkeit abprallen, zurückprallen, jetzt \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">sollen</span> jene Begriffe „Schuld“ und „Pflicht“ sich rück-\n</span><span class=\"line\">5</span><span class=\"tei-line \">wärts wenden – gegen <span class=\"tei-hi2 spaced\">wen</span> denn? Man kann nicht \n</span><span class=\"tei-line\">zweifeln: zunächst gegen den „Schuldner“, in dem nun-\n</span><span class=\"tei-line\">mehr das schlechte Gewissen sich dermaassen festsetzt, \n</span><span class=\"tei-line\">einfrisst, ausbreitet und polypenhaft in jede Breite und \n</span><span class=\"tei-line\">Tiefe wächst, bis endlich mit der Unlösbarkeit der \n</span><span class=\"line\">10</span><span class=\"tei-line \">Schuld auch die Unlösbarkeit der Busse, der Gedanke \n</span><span class=\"tei-line\">ihrer Unabzahlbarkeit (der „<span class=\"tei-hi2 spaced\">ewigen</span> Strafe“) concipirt \n</span><span class=\"tei-line\">ist –; endlich aber sogar gegen den „Gläubiger“, an \n</span><span class=\"tei-line\">die causa prima des Menschen, denke man dabei nun \n</span><span class=\"tei-line\">an den Anfang des menschlichen Geschlechts, an seinen \n</span><span class=\"line\">15</span><span class=\"tei-line \">Ahnherrn, der nunmehr mit einem Fluche behaftet \n</span><span class=\"tei-line\">wird („Adam“, „Erbsünde“, „Unfreiheit des Willens“) \n</span><span class=\"tei-line\">oder an die Natur, aus deren Schooss der Mensch ent-\n</span><span class=\"tei-line\">steht und in die nunmehr das böse Princip hineinge-\n</span><span class=\"tei-line\">legt wird („Verteufelung der Natur“) oder an das Da-\n</span><span class=\"line\">20</span><span class=\"tei-line \">sein überhaupt, das als <span class=\"tei-hi2 spaced\">unwerth an sich</span> übrig \n</span><span class=\"tei-line\">bleibt (nihilistische Abkehr von ihm, Verlangen in’s \n</span><span class=\"tei-line\">Nichts oder Verlangen in seinen „Gegensatz“, in ein \n</span><span class=\"tei-line\">Anders-sein, Buddhismus und Verwandtes) – bis wir \n</span><span class=\"tei-line\">mit Einem Male vor dem paradoxen und entsetzlichen \n</span><span class=\"line\">25</span><span class=\"tei-line \">Auskunftsmittel stehn, an dem die gemarterte Mensch-\n</span><span class=\"tei-line\">heit eine zeitweilige Erleichterung gefunden hat, jenem \n</span><span class=\"tei-line\">Geniestreich des <span class=\"tei-hi2 spaced\">Christenthums</span>: Gott selbst sich für \n</span><span class=\"tei-line\">die Schuld des Menschen opfernd, Gott selbst sich an \n</span><span class=\"tei-line\">sich selbst bezahlt machend, Gott als der Einzige, der \n</span><span class=\"line\">30</span><span class=\"tei-line \">vom Menschen ablösen kann, was für den Menschen \n</span><span class=\"tei-line\">selbst unablösbar geworden ist – der Gläubiger sich \n</span><span class=\"tei-line\">für seinen Schuldner opfernd, aus <span class=\"tei-hi2 spaced\">Liebe</span> (sollte man’s \n</span><span class=\"tei-line\">glauben? –), aus Liebe zu seinem Schuldner!…</span></p>\n\n\n  \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

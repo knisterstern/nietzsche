@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.16",
+    "rootNode": "2.9.16",
+    "id": "srcD_surface_a13r",
+    "odd": "surface.odd",
+    "next": "2.9.17",
+    "previous": "2.9.15",
+    "nextId": "srcD_surface_a14r",
+    "previousId": "srcD_surface_a12r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"pageInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.pageInfo\">Manuskriptbeschreibung</pb-i18n></h2></span><span slot=\"collapse-content\"><ul><li class=\"tei-msContents2\">Druckvorlage GM I 11</li><li class=\"tei-physDesc2\">Folioblatt, 22,9×35,9, liniiert. Verso vakat.</li><li class=\"tei-additions2\">Bearbeitungsspuren fremder Hand: Markierung Seitenumbrüche Cb/Ed: 21|22 („22“), 22|23 („23“), 23|24 („24“), Rotstift (Druckerei); Markierungen, Blaustift (N-Archiv).</li><li class=\"tei-handNotes2\"><span class=\"tei-handNote2\">schwarze Tinte (1), egh</span></li></ul></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

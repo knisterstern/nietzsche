@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.35.5.38",
+    "rootNode": "2.5.12.4.35.5.38",
+    "id": "Ed_17_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.35.5.134",
+    "previous": "2.5.12.4.33.5.46",
+    "nextId": "Ed_18_id",
+    "previousId": "Ed_16_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0038.tif\">17</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">selber – gehört eben zum Ressentiment: die Sklaven-\n</span><span class=\"tei-line\">Moral bedarf, um zu entstehn, immer zuerst einer Ge-\n</span><span class=\"tei-line\">gen- und Aussenwelt, sie bedarf, physiologisch gespro-\n</span><span class=\"tei-line\">chen, äusserer Reize, um überhaupt zu agiren, – ihre \n</span><span class=\"line\">5</span><span class=\"tei-line \">Aktion ist von Grund aus Reaktion. Das Umgekehrte \n</span><span class=\"tei-line\">ist bei der vornehmen Werthungsweise der Fall: sie \n</span><span class=\"tei-line\">agirt und wächst spontan, sie sucht ihren Gegensatz \n</span><span class=\"tei-line\">nur auf, um zu sich selber noch dankbarer, noch froh-\n</span><span class=\"tei-line\">lockender Ja zu sagen, – ihr negativer Begriff „nied-\n</span><span class=\"line\">10</span><span class=\"tei-line \">rig“ „gemein“ „schlecht“ ist nur ein nachgebornes \n</span><span class=\"tei-line\">blasses Contrastbild im Verhältniss zu ihrem positiven, \n</span><span class=\"tei-line\">durch und durch mit Leben und Leidenschaft durch-\n</span><span class=\"tei-line\">tränkten Grundbegriff „wir Vornehmen, wir Guten, wir \n</span><span class=\"tei-line\">Schönen, wir Glücklichen!“ Wenn die vornehme Wer-\n</span><span class=\"line\">15</span><span class=\"tei-line \">thungsweise sich vergreift und an der Realität ver-\n</span><span class=\"tei-line\">sündigt, so geschieht dies in Bezug auf die Sphäre, \n</span><span class=\"tei-line\">welche ihr <span class=\"tei-hi2 spaced\">nicht</span> genügend bekannt ist, ja gegen deren \n</span><span class=\"tei-line\">wirkliches Kennen sie sich spröde zur Wehre setzt: sie \n</span><span class=\"tei-line\">verkennt unter Umständen die von ihr verachtete Sphäre, \n</span><span class=\"line\">20</span><span class=\"tei-line \">die des gemeinen Mannes, des niedren Volks; andrer-\n</span><span class=\"tei-line\">seits erwäge man, dass jedenfalls der Affekt der Ver-\n</span><span class=\"tei-line\">achtung, des Herabblickens, des Überlegen-Blickens, \n</span><span class=\"tei-line\">gesetzt, dass er das Bild des Verachteten <span class=\"tei-hi2 spaced\">fälscht</span>, bei \n</span><span class=\"tei-line\">weitem hinter der Fälschung zurückbleiben wird, mit \n</span><span class=\"line\">25</span><span class=\"tei-line \">der der zurückgetretene Hass, die Rache des Ohnmäch-\n</span><span class=\"tei-line\">tigen sich an seinem Gegner – in effigie natürlich – \n</span><span class=\"tei-line\">vergreifen wird. In der That ist in der Verachtung zu \n</span><span class=\"tei-line\">viel Nachlässigkeit, zu viel Leicht-Nehmen, zu viel Weg-\n</span><span class=\"tei-line\">blicken und Ungeduld mit eingemischt, selbst zu viel \n</span><span class=\"line\">30</span><span class=\"tei-line \">eignes Frohgefühl, als dass sie im Stande wäre, ihr \n</span><span class=\"tei-line\">Objekt zum eigentlichen Zerrbild und Scheusal umzu-\n</span><span class=\"tei-line\">wandeln. Man überhöre doch die beinahe wohlwollenden \n</span><span class=\"tei-line\">nuances nicht, welche zum Beispiel der griechische Adel \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

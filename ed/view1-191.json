@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.65.5.149",
+    "rootNode": "2.5.12.8.65.5.149",
+    "id": "Ed_172_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.65.5.244",
+    "previous": "2.5.12.8.65.5.46",
+    "nextId": "Ed_173_id",
+    "previousId": "Ed_171_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0193.tif\">172</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">logisch nachgerechnet, ruht die Wissenschaft auf dem \n</span><span class=\"tei-line\">gleichen Boden wie das asketische Ideal: eine gewisse \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Verarmung des Lebens</span> ist hier wie dort die Voraus-\n</span><span class=\"tei-line\">setzung, – die Affekte kühl geworden, das tempo ver-\n</span><span class=\"line\">5</span><span class=\"tei-line \">langsamt, die Dialektik an Stelle des Instinktes, der \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Ernst</span> den Gesichtern und Gebärden aufgedrückt (der \n</span><span class=\"tei-line\">Ernst, dieses unmissverständlichste Abzeichen des müh-\n</span><span class=\"tei-line\">sameren Stoffwechsels, des ringenden, schwerer arbei-\n</span><span class=\"tei-line\">tenden Lebens). Man sehe sich die Zeiten eines Volkes \n</span><span class=\"line\">10</span><span class=\"tei-line \">an, in denen der Gelehrte in den Vordergrund tritt: \n</span><span class=\"tei-line\">es sind Zeiten der Ermüdung, oft des Abends, des \n</span><span class=\"tei-line\">Niederganges, – die überströmende Kraft, die Lebens-\n</span><span class=\"tei-line\">Gewissheit, die <span class=\"tei-hi2 spaced\">Zukunfts</span>-Gewissheit sind dahin. Das \n</span><span class=\"tei-line\">Übergewicht des Mandarinen bedeutet niemals etwas \n</span><span class=\"line\">15</span><span class=\"tei-line \">Gutes: so wenig als die Heraufkunft der Demokratie, \n</span><span class=\"tei-line\">der Friedens-Schiedsgerichte an Stelle der Kriege, der \n</span><span class=\"tei-line\">Frauen-Gleichberechtigung, der Religion des Mitleids \n</span><span class=\"tei-line\">und was es sonst Alles für Symptome des absinkenden \n</span><span class=\"tei-line\">Lebens giebt. (Wissenschaft als Problem gefasst; was \n</span><span class=\"line\">20</span><span class=\"tei-line \">bedeutet Wissenschaft? – vergl. darüber die Vorrede \n</span><span class=\"tei-line\">zur „Geburt der Tragödie“.) – Nein! diese „moderne \n</span><span class=\"tei-line\">Wissenschaft“ – macht euch nur dafür die Augen \n</span><span class=\"tei-line\">auf! – ist einstweilen die <span class=\"tei-hi2 spaced\">beste</span> Bundesgenossin des \n</span><span class=\"tei-line\">asketischen Ideals, und gerade deshalb, weil sie die \n</span><span class=\"line\">25</span><span class=\"tei-line \">unbewussteste, die unfreiwilligste, die heimlichste und \n</span><span class=\"tei-line\">unterirdischste ist! Sie haben bis jetzt Ein Spiel ge-\n</span><span class=\"tei-line\">spielt, die „Armen des Geistes“ und die wissenschaft-\n</span><span class=\"tei-line\">lichen Widersacher jenes Ideals (man hüte sich, anbei \n</span><span class=\"tei-line\">gesagt, zu denken, dass sie deren Gegensatz seien, \n</span><span class=\"line\">30</span><span class=\"tei-line \">etwa als die <span class=\"tei-hi2 spaced\">Reichen</span> des Geistes: – das sind sie \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">nicht</span>, ich nannte sie Hektiker des Geistes). Diese be-\n</span><span class=\"tei-line\">rühmten <span class=\"tei-hi2 spaced\">Siege</span> der letzteren: unzweifelhaft, es sind \n</span><span class=\"tei-line\">Siege – aber worüber? Das asketische Ideal wurde \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

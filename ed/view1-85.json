@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.32.7.318",
+    "rootNode": "2.5.12.6.32.7.318",
+    "id": "Ed_66_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.34.7.8",
+    "previous": "2.5.12.6.32.7.240",
+    "nextId": "Ed_67_id",
+    "previousId": "Ed_65_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0087.tif\">66</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">eine immer <span class=\"tei-hi2 spaced\">unpersönlichere</span> Abschätzung der That \n</span><span class=\"tei-line\">eingeübt, sogar das Auge des Geschädigten selbst (ob-\n</span><span class=\"tei-line\">schon dies am allerletzten, wie voran bemerkt wurde). – \n</span><span class=\"tei-line\">Demgemäss giebt es erst von der Aufrichtung des Ge-\n</span><span class=\"line\">5</span><span class=\"tei-line \">setzes an „Recht“ und „Unrecht“ (und <span class=\"tei-hi2 spaced\">nicht</span>, wie Düh-\n</span><span class=\"tei-line\">ring will, von dem Akte der Verletzung an). <span class=\"tei-hi2 spaced\">An sich</span>\n</span><span class=\"tei-line\">von Recht und Unrecht reden entbehrt alles Sinn’s, \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">an sich</span> kann natürlich ein Verletzen, Vergewaltigen, \n</span><span class=\"tei-line\">Ausbeuten, Vernichten nichts „Unrechtes“ sein, inso-\n</span><span class=\"line\">10</span><span class=\"tei-line \">fern das Leben <span class=\"tei-hi2 spaced\">essentiell</span>, nämlich in seinen Grund-\n</span><span class=\"tei-line\">funktionen verletzend, vergewaltigend, ausbeutend, ver-\n</span><span class=\"tei-line\">nichtend fungirt und gar nicht gedacht werden kann \n</span><span class=\"tei-line\">ohne diesen Charakter. Man muss sich sogar noch \n</span><span class=\"tei-line\">etwas Bedenklicheres eingestehn: dass, vom höchsten \n</span><span class=\"line\">15</span><span class=\"tei-line \">biologischen Standpunkte aus, Rechtszustände immer \n</span><span class=\"tei-line\">nur <span class=\"tei-hi2 spaced\">Ausnahme-Zustände</span> sein dürfen, als theilweise \n</span><span class=\"tei-line\">Restriktionen des eigentlichen Lebenswillens, der auf \n</span><span class=\"tei-line\">Macht aus ist, und sich dessen Gesammtzwecke als \n</span><span class=\"tei-line\">Einzelmittel unterordnend: nämlich als Mittel, <span class=\"tei-hi2 spaced\">grössere</span> \n</span><span class=\"line\">20</span><span class=\"tei-line \">Macht-Einheiten zu schaffen. Eine Rechtsordnung sou-\n</span><span class=\"tei-line\">verain und allgemein gedacht, nicht als Mittel im Kampf \n</span><span class=\"tei-line\">von Macht-Complexen, sondern als Mittel <span class=\"tei-hi2 spaced\">gegen</span> allen \n</span><span class=\"tei-line\">Kampf überhaupt, etwa gemäss der Communisten-\n</span><span class=\"tei-line\">Schablone Dühring’s, dass jeder Wille jeden Willen als \n</span><span class=\"line\">25</span><span class=\"tei-line \">gleich zu nehmen habe, wäre ein <span class=\"tei-hi2 spaced\">lebensfeindliches</span> \n</span><span class=\"tei-line\">Princip, eine Zerstörerin und Auflöserin des Menschen, \n</span><span class=\"tei-line\">ein Attentat auf die Zukunft des Menschen, ein Zeichen \n</span><span class=\"tei-line\">von Ermüdung, ein Schleichweg zum Nichts. –</span></p>\n\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">12.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">30</span><span class=\"tei-line indent\">Hier noch ein Wort über Ursprung und Zweck \n</span><span class=\"tei-line\">der Strafe – zwei Probleme, die auseinander fallen oder \n</span><span class=\"tei-line\">fallen sollten: leider wirft man sie gewöhnlich in Eins. \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

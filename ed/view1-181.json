@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.59.5.211",
+    "rootNode": "2.5.12.8.59.5.211",
+    "id": "Ed_162_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.61.5.28",
+    "previous": "2.5.12.8.59.5.117",
+    "nextId": "Ed_163_id",
+    "previousId": "Ed_161_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0183.tif\">162</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">land gehabt hat, und an die Lutherische Tonart, die \n</span><span class=\"tei-line\">gerade ihm in seinen Zwiegesprächen mit Gott am \n</span><span class=\"tei-line\">besten gefiel. Luther’s Widerstand gegen die Mittler-\n</span><span class=\"tei-line\">Heiligen der Kirche (insbesondere gegen „des Teuffels \n</span><span class=\"line\">5</span><span class=\"tei-line \">Saw den Bapst“) war, daran ist kein Zweifel, im letz-\n</span><span class=\"tei-line\">ten Grunde der Widerstand eines Rüpels, den die \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">gute Etiquette</span> der Kirche verdross, jene Ehrfurchts-\n</span><span class=\"tei-line\">Etiquette des hieratischen Geschmacks, welche nur die \n</span><span class=\"tei-line\">Geweihteren und Schweigsameren in das Allerheiligste \n</span><span class=\"line\">10</span><span class=\"tei-line \">einlässt und es gegen die Rüpel zuschliesst. Diese \n</span><span class=\"tei-line\">sollen ein für alle Mal gerade hier nicht das Wort \n</span><span class=\"tei-line\">haben, – aber Luther, der Bauer, wollte es schlechter-\n</span><span class=\"tei-line\">dings anders, so war es ihm nicht <span class=\"tei-hi2 spaced\">deutsch</span> genug: \n</span><span class=\"tei-line\">er wollte vor Allem direkt reden, selber reden, „un-\n</span><span class=\"line\">15</span><span class=\"tei-line \">genirt“ mit seinem Gotte reden… Nun, er hat’s ge-\n</span><span class=\"tei-line\">than. – Das asketische Ideal, man erräth es wohl, war \n</span><span class=\"tei-line\">niemals und nirgendswo eine Schule des guten Ge-\n</span><span class=\"tei-line\">schmacks, noch weniger der guten Manieren, – es war \n</span><span class=\"tei-line\">im besten Fall eine Schule der hieratischen Manieren –: \n</span><span class=\"line\">20</span><span class=\"tei-line \">das macht, es hat selber Etwas im Leibe, das allen \n</span><span class=\"tei-line\">guten Manieren <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">todtfeind</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">todtfeind</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">todfeind</span> (KGW/KSA)</span></p></template></pb-popover> ist, – Mangel an Maass, \n</span><span class=\"tei-line\">Widerwillen gegen Maass, es ist selbst ein „non plus \n</span><span class=\"tei-line\">ultra“.</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">23.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">25</span><span class=\"tei-line indent\">Das asketische Ideal hat nicht nur die Gesundheit \n</span><span class=\"tei-line\">und den Geschmack verdorben, es hat noch etwas \n</span><span class=\"tei-line\">Drittes, Viertes, Fünftes, Sechstes verdorben – ich \n</span><span class=\"tei-line\">werde mich hüten zu sagen <span class=\"tei-hi2 spaced\">was</span> Alles (wann käme ich \n</span><span class=\"tei-line\">zu Ende!). Nicht was dies Ideal <span class=\"tei-hi2 spaced\">gewirkt</span> hat, soll hier \n</span><span class=\"line\">30</span><span class=\"tei-line \">von mir an’s Licht gestellt werden; vielmehr ganz allein \n</span><span class=\"tei-line\">nur, was es <span class=\"tei-hi2 spaced\">bedeutet</span>, worauf es rathen lässt, was \n</span><span class=\"tei-line\">hinter ihm, unter ihm, in ihm versteckt liegt, wofür es \n</span><span class=\"tei-line\">der vorläufige, undeutliche, mit Fragezeichen und Miss-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

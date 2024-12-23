@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.22.5.20",
+    "rootNode": "2.5.12.6.22.5.20",
+    "id": "Ed_52_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.22.5.108",
+    "previous": "2.5.12.6.20.5.98",
+    "nextId": "Ed_53_id",
+    "previousId": "Ed_51_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0073.tif\">52</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Folter niemals wieder ganz eingebüsst habe? (selbst \n</span><span class=\"tei-line\">beim alten Kant nicht: der kategorische Imperativ \n</span><span class=\"tei-line\">riecht nach Grausamkeit…) Hier ebenfalls ist jene \n</span><span class=\"tei-line\">unheimliche und vielleicht unlösbar gewordne Ideen-\n</span><span class=\"line\">5</span><span class=\"tei-line \">Verhäkelung „Schuld und Leid“ zuerst eingehäkelt \n</span><span class=\"tei-line\">worden. Nochmals gefragt: in wiefern kann Leiden \n</span><span class=\"tei-line\">eine Ausgleichung von „Schulden“ sein? Insofern \n</span><span class=\"tei-line\">Leiden-<span class=\"tei-hi2 spaced\">machen</span> im höchsten Grade wohl that, insofern \n</span><span class=\"tei-line\">der Geschädigte für den Nachtheil, hinzugerechnet die \n</span><span class=\"line\">10</span><span class=\"tei-line \">Unlust über den Nachtheil, einen ausserordentlichen \n</span><span class=\"tei-line\">Gegen-Genuss eintauschte: das Leiden-<span class=\"tei-hi2 spaced\">machen</span>, – \n</span><span class=\"tei-line\">ein eigentliches <span class=\"tei-hi2 spaced\">Fest</span>, Etwas, das, wie gesagt, um \n</span><span class=\"tei-line\">so höher im Preise stand, je mehr es dem Range und \n</span><span class=\"tei-line\">der gesellschaftlichen Stellung des Gläubigers wider-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sprach. Dies vermuthungsweise gesprochen: denn sol-\n</span><span class=\"tei-line\">chen unterirdischen Dingen ist schwer auf den Grund \n</span><span class=\"tei-line\">zu sehn, abgesehn davon, dass es peinlich ist; und \n</span><span class=\"tei-line\">wer hier den Begriff der „Rache“ plump dazwischen \n</span><span class=\"tei-line\">wirft, hat sich den Einblick eher noch verdeckt und \n</span><span class=\"line\">20</span><span class=\"tei-line \">verdunkelt, als leichter gemacht (– Rache selbst führt \n</span><span class=\"tei-line\">ja eben auf das gleiche Problem zurück: „wie kann \n</span><span class=\"tei-line\">Leiden-machen eine Genugthuung sein?“) Es widersteht, \n</span><span class=\"tei-line\">wie mir scheint, der Delikatesse, noch mehr der Tar-\n</span><span class=\"tei-line\">tüfferie zahmer Hausthiere (will sagen moderner Men-\n</span><span class=\"line\">25</span><span class=\"tei-line \">schen, will sagen uns), es sich in aller Kraft vorstellig \n</span><span class=\"tei-line\">zu machen, bis zu welchem Grade die <span class=\"tei-hi2 spaced\">Grausamkeit</span> \n</span><span class=\"tei-line\">die grosse Festfreude der älteren Menschheit aus-\n</span><span class=\"tei-line\">macht, ja als Ingredienz fast jeder ihrer Freuden zu-\n</span><span class=\"tei-line\">gemischt ist; wie naiv andrerseits, wie unschuldig ihr \n</span><span class=\"line\">30</span><span class=\"tei-line \">Bedürfniss nach Grausamkeit auftritt, wie grundsätzlich \n</span><span class=\"tei-line\">gerade die „uninteressirte Bosheit“ (oder, mit Spinoza \n</span><span class=\"tei-line\">zu reden, die sympathia malevolens) von ihr als <span class=\"tei-hi2 spaced\">nor-\n<span class=\"tei-line\">male</span>male</span> Eigenschaft des Menschen angesetzt wird –: \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

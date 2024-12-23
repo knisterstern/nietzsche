@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.40.5.8",
+    "rootNode": "2.5.12.6.40.5.8",
+    "id": "Ed_75_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.40.5.100",
+    "previous": "2.5.12.6.38.5.103",
+    "nextId": "Ed_76_id",
+    "previousId": "Ed_74_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.genesis\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM II 15</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 336/320,17-20</li><li class=\"tei-ab2\"><a data-id=\"Ed_75_id\" data-doc=\"E40.xml\">Ed 75,3-6</a></li><li class=\"tei-ab2\"><a data-id=\"a32r\" data-doc=\"D20.xml\">Dm a32r,28-30</a></li><li class=\"tei-ab2\"><a data-id=\"MpVII_97v\" data-doc=\"KGWIX.xml\">Mp XVII, 97v</a> (?)</li></ul><ul><li class=\"tei-ab2\">KGW/KSA 336/320,19-20,29-32</li><li class=\"tei-ab2\"><a data-id=\"Ed_75_id\" data-doc=\"E40.xml\">Ed 75,4-6,16-20</a></li><li class=\"tei-ab2\"><a data-id=\"a32r\" data-doc=\"D20.xml\">Dm a32r,29-30,34-36</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_67v\" data-doc=\"KGWIX.xml\">Mp XVII, 67v,14-28</a></li></ul><ul><li class=\"tei-ab2\">KGW/KSA 336/320,23-25</li><li class=\"tei-ab2\"><a data-id=\"Ed_75_id\" data-doc=\"E40.xml\">Ed 75,9-12</a></li><li class=\"tei-ab2\"><a data-id=\"a32r\" data-doc=\"D20.xml\">Dm a32r,31-33</a></li><li class=\"tei-ab2\"><a data-id=\"MpXVII_67r\" data-doc=\"KGWIX.xml\">Mp XVII, 67r,14-22</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "genesis",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

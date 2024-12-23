@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.31.5.107",
+    "rootNode": "2.5.12.4.31.5.107",
+    "id": "Ed_15_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.33.5.46",
+    "previous": "2.5.12.4.31.5.24",
+    "nextId": "Ed_16_id",
+    "previousId": "Ed_14_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0036.tif\">15</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">rade an diesem Köder anbeissen konnten? Und wüsste \n</span><span class=\"tei-line\">man sich andrerseits, aus allem Raffinement des Geistes \n</span><span class=\"tei-line\">heraus, überhaupt noch einen <span class=\"tei-hi2 spaced\">gefährlicheren</span> Köder \n</span><span class=\"tei-line\">auszudenken? Etwas, das an verlockender, berauschen-\n</span><span class=\"line\">5</span><span class=\"tei-line \">der, betäubender, verderbender Kraft jenem Symbol \n</span><span class=\"tei-line\">des „heiligen Kreuzes“ gleichkäme, jener schauerlichen \n</span><span class=\"tei-line\">Paradoxie eines „Gottes am Kreuze“, jenem Mysterium \n</span><span class=\"tei-line\">einer unausdenkbaren letzten äussersten Grausamkeit \n</span><span class=\"tei-line\">und Selbstkreuzigung Gottes <span class=\"tei-hi2 spaced\">zum Heile des Men-\n<span class=\"line\">10</span><span class=\"tei-line \">schen</span>schen</span>?… Gewiss ist wenigstens, dass sub hoc signo \n</span><span class=\"tei-line\">Israel mit seiner Rache und Umwerthung aller Werthe \n</span><span class=\"tei-line\">bisher über alle anderen Ideale, über alle <span class=\"tei-hi2 spaced\">vornehme-\n<span class=\"tei-line\">ren</span>ren</span> Ideale immer wieder triumphirt hat. – –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">9.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">15</span><span class=\"tei-line indent\">– „Aber was reden Sie noch von <span class=\"tei-hi2 spaced\">vornehmeren</span> \n</span><span class=\"tei-line\">Idealen! Fügen wir uns in die Thatsachen: das Volk \n</span><span class=\"tei-line\">hat gesiegt – oder „die Sklaven“, oder „der Pöbel“, \n</span><span class=\"tei-line\">oder „die Heerde“, oder wie Sie es zu nennen belieben \n</span><span class=\"tei-line\">– wenn dies durch die Juden geschehen ist, wohlan! \n</span><span class=\"line\">20</span><span class=\"tei-line \">so hatte nie ein Volk eine welthistorischere Mission. \n</span><span class=\"tei-line\">„Die Herren“ sind abgethan; die Moral des gemeinen \n</span><span class=\"tei-line\">Mannes hat gesiegt. Man mag diesen Sieg zugleich \n</span><span class=\"tei-line\">als eine Blutvergiftung nehmen (er hat die Rassen \n</span><span class=\"tei-line\">durch einander gemengt) – ich widerspreche nicht; \n</span><span class=\"line\">25</span><span class=\"tei-line \">unzweifelhaft ist aber diese Intoxikation <span class=\"tei-hi2 spaced\">gelungen</span>. \n</span><span class=\"tei-line\">Die „Erlösung“ des Menschengeschlechtes (nämlich von \n</span><span class=\"tei-line\">„den Herren“) ist auf dem besten Wege; Alles ver-\n</span><span class=\"tei-line\">jüdelt oder verchristlicht oder verpöbelt sich zusehends \n</span><span class=\"tei-line\">(was liegt an Worten!). Der Gang dieser Vergiftung, \n</span><span class=\"line\">30</span><span class=\"tei-line \">durch den ganzen Leib der Menschheit hindurch, scheint \n</span><span class=\"tei-line\">unaufhaltsam, ihr tempo und Schritt darf sogar von \n</span><span class=\"tei-line\">nun an immer langsamer, feiner, unhörbarer, besonnener \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

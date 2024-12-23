@@ -1,0 +1,24 @@
+:root {
+   --scroll-top: 128px;
+}
+body {
+   --pb-base-font-family: SourceSansRegular;
+   --ed-content-font-family: var(--pb-base-font-family);
+   --pb-view-scroll-margin-top: var(--scroll-top, 128px);
+}
+.myhighlight {
+   scroll-margin-top: var(--scroll-top, 128px);
+}
+        
+#view1 {
+   flex: 1 1;
+   display: flex;
+   align-self: center;
+   max-width: 60em;
+} 
+.content-body {
+   position: relative;
+   display: flex;
+   justify-content: center;
+   padding: 0 20px;
+}

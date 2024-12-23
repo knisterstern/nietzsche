@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.59.5.20",
+    "rootNode": "2.5.12.8.59.5.20",
+    "id": "Ed_160_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.59.5.117",
+    "previous": "2.5.12.8.57.5.134",
+    "nextId": "Ed_161_id",
+    "previousId": "Ed_159_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0181.tif\">160</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">dies Folglich einfach zu; zum Mindesten will ich es \n</span><span class=\"tei-line\">nicht erst beweisen. Ein einziger Fingerzeig: er gilt \n</span><span class=\"tei-line\">dem Grundbuche der christlichen Litteratur, ihrem \n</span><span class=\"tei-line\">eigentlichen Modell, ihrem „Buche an sich“. Noch in-\n</span><span class=\"line\">5</span><span class=\"tei-line \">mitten der griechisch-römischen Herrlichkeit, welche \n</span><span class=\"tei-line\">auch eine Bücher-Herrlichkeit war, Angesichts einer \n</span><span class=\"tei-line\">noch nicht verkümmerten und zertrümmerten antiken \n</span><span class=\"tei-line\">Schriften-Welt, zu einer Zeit, da man noch einige Bücher \n</span><span class=\"tei-line\">lesen konnte, um deren Besitz man jetzt halbe Littera-\n</span><span class=\"line\">10</span><span class=\"tei-line \">turen eintauschen würde, wagte es bereits die Einfalt und \n</span><span class=\"tei-line\">Eitelkeit christlicher Agitatoren – man heisst sie Kir-\n</span><span class=\"tei-line\">chenväter – zu dekretiren: „auch <span class=\"tei-hi2 spaced\">wir</span> haben unsre \n</span><span class=\"tei-line\">klassische Litteratur, <span class=\"tei-hi2 spaced\">wir brauchen die der Grie-\n<span class=\"tei-line\">chen nicht</span>chen nicht</span>“, – und dabei wies man stolz auf Legen-\n</span><span class=\"line\">15</span><span class=\"tei-line \">denbücher, Apostelbriefe und apologetische Traktätlein \n</span><span class=\"tei-line\">hin, ungefähr so, wie heute die englische „Heilsarmee“ \n</span><span class=\"tei-line\">mit einer verwandten Litteratur ihren Kampf gegen \n</span><span class=\"tei-line\">Shakespeare und andre „Heiden“ kämpft. Ich liebe das \n</span><span class=\"tei-line\">„neue Testament“ nicht, man erräth es bereits; es be-\n</span><span class=\"line\">20</span><span class=\"tei-line \">unruhigt mich beinahe, mit meinem Geschmack in Be-\n</span><span class=\"tei-line\">treff dieses geschätztesten, überschätztesten Schrift-\n</span><span class=\"tei-line\">werks dermaassen allein zu stehn (der Geschmack zweier \n</span><span class=\"tei-line\">Jahrtausende ist <span class=\"tei-hi2 spaced\">gegen</span> mich): aber was hilft es! „Hier \n</span><span class=\"tei-line\">stehe ich, ich kann nicht anders“, – ich habe den \n</span><span class=\"line\">25</span><span class=\"tei-line \">Muth zu meinem schlechten Geschmack. Das <span class=\"tei-hi2 spaced\">alte</span> \n</span><span class=\"tei-line\">Testament – ja das ist ganz etwas Anderes: alle Ach-\n</span><span class=\"tei-line\">tung vor dem alten Testament! In ihm finde ich grosse \n</span><span class=\"tei-line\">Menschen, eine heroische Landschaft und Etwas vom \n</span><span class=\"tei-line\">Allerseltensten auf Erden, die unvergleichliche Naivetät \n</span><span class=\"line\">30</span><span class=\"tei-line \">des <span class=\"tei-hi2 spaced\">starken Herzens</span>; mehr noch, ich finde ein Volk. \n</span><span class=\"tei-line\">Im neuen dagegen lauter kleine Sekten-Wirthschaft,  \n</span><span class=\"tei-line\">lauter Rokoko der Seele, lauter Verschnörkeltes, Wink-\n</span><span class=\"tei-line\">liges, Wunderliches, lauter Conventikel-Luft, nicht zu \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

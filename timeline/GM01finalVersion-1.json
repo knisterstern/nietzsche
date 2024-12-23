@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.19",
+    "id": "GM01finalVersion",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM01finalVersion\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Finale Version von GM I</h5>Wahrscheinlich kurz <span class=\"tei-date2\">nach dem 20. Juli 1887</span>, nachdem N die erste Dm-Fassung zurückerhalten hat, entfernt er Titelblatt und §1 und nummeriert §2 um zu „1.“, so dass die ursprünglichen Abschnitte §2-18 nun GM I 1-17 sind (die Umnummerierung nimmt N jedoch nur bei der ersten Nummer selbst vor).</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

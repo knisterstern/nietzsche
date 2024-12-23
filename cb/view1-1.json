@@ -1,0 +1,22 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": null,
+    "rootNode": "2.7.2.2.8",
+    "id": "Cb_a1",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.11.9",
+    "previous": null,
+    "nextId": "Cb_a2",
+    "previousId": null,
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0008.tif\">a1</pb-facs-link></span>\n          \n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"6\"><span><span>dami<span class=\"tei-sic2\">t a</span>ls</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"11\"><span><span>honte<span class=\"tei-sic2\">n</span>se</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            <ol class=\"cbApp\"><li class=\"cbLem\" data-loc=\"20\"><span><span>Molekular<span class=\"tei-sic2\">u</span>m</span></span>]<span style=\"margin-left: 0.5em;\"><span class=\"tei-note3 note\">Markierung, <span class=\"tei-ref1\">Blaustift, N</span></span></span></li></ol>\n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "cb",
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.41",
+    "id": "GM03firstVersion",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM03firstVersion\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Erste Version von GM III</h5>Niederschrift  der ersten Version von GM III in 22 Abschnitten (später GM III 2-23) <span class=\"tei-date2\">Anfang/Mitte August 1887</span>.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

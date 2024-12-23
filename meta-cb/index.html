@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="/resources/css/styles.css">
+  <link rel="stylesheet" href="/resources/css/mystyle.css">
+  <link rel="stylesheet" href="/resources/css/theme.css">
+  <link rel="stylesheet" href="/resources/css/meta.css">
+  <script src="/resources/scripts/json-dealer.js"></script>
+  <script src="/resources/scripts/myfunctions.js"></script>
+  <script src="/resources/scripts/meta.js"></script>
+  <script src="/resources/scripts/myscroll.js"></script>
+  <script src="/resources/scripts/debug.js"></script>
+  <script>
+         const existingPBs = {
+            
+                
+                 dm: 
+                         
+                         JSON.parse(JSON.stringify([{"id":"srcD_surface_a1r","n":null},{"id":"srcD_surface_a1v","n":null},{"id":"srcD_surface_a2r","n":null},{"id":"srcD_surface_a2v","n":null},{"id":"srcD_surface_a3r","n":null},{"id":"srcD_surface_a3v","n":null},{"id":"srcD_surface_a4r","n":null},{"id":"srcD_surface_a5r","n":null},{"id":"srcD_surface_a6r","n":null},{"id":"srcD_surface_a7r","n":null},{"id":"srcD_surface_a8r","n":null},{"id":"srcD_surface_a9r","n":null},{"id":"srcD_surface_a10r","n":null},{"id":"srcD_surface_a11r","n":null},{"id":"srcD_surface_a12r","n":null},{"id":"srcD_surface_a13r","n":null},{"id":"srcD_surface_a14r","n":null},{"id":"srcD_surface_a15r","n":null},{"id":"srcD_surface_a16r","n":null},{"id":"srcD_surface_a17r","n":null},{"id":"srcD_surface_a18r","n":null},{"id":"srcD_surface_a18v","n":null},{"id":"srcD_surface_a19r","n":null},{"id":"srcD_surface_a20r","n":null},{"id":"srcD_surface_a21r","n":null},{"id":"srcD_surface_a22r","n":null},{"id":"srcD_surface_a27r","n":null},{"id":"srcD_surface_a29r","n":null},{"id":"srcD_surface_b1r","n":null},{"id":"srcD_surface_b6r","n":null},{"id":"srcD_surface_b15r","n":null},{"id":"srcD_surface_b20r","n":null},{"id":"srcD_surface_b27r","n":null},{"id":"srcD_surface_b59r","n":null},{"id":"srcD_surface_b66r","n":null}])) 
+                        
+                 ,
+               
+           
+                
+                 cb: 
+                        
+                         JSON.parse(JSON.stringify([{"id":"Cb_a1","n":null},{"id":"Cb_a2","n":null},{"id":"Cb_a3","n":null},{"id":"Cb_a4","n":null},{"id":"Cb_a5","n":null},{"id":"Cb_a6","n":null},{"id":"Cb_a7","n":null},{"id":"Cb_a8","n":null},{"id":"Cb_a9","n":null},{"id":"Cb_a10","n":null},{"id":"Cb_a11","n":null},{"id":"Cb_a12","n":null},{"id":"Cb_a13","n":null},{"id":"Cb_a14","n":null},{"id":"Cb_a15","n":null},{"id":"Cb_a16","n":null},{"id":"Cb_b1","n":null},{"id":"Cb_b2","n":null},{"id":"Cb_b3","n":null},{"id":"Cb_b4","n":null},{"id":"Cb_b5","n":null},{"id":"Cb_b6","n":null},{"id":"Cb_b7","n":null},{"id":"Cb_b8","n":null},{"id":"Cb_b9","n":null},{"id":"Cb_b10","n":null},{"id":"Cb_b11","n":null},{"id":"Cb_b12","n":null},{"id":"Cb_b13","n":null},{"id":"Cb_b14","n":null},{"id":"Cb_b15","n":null},{"id":"Cb_b16","n":null},{"id":"Cb_146","n":null},{"id":"Cb_159","n":null}])) 
+                        
+                 ,
+               
+           
+                
+                 ed: 
+                        
+                         JSON.parse(JSON.stringify([{"id":"Ed_Umschlag_id","n":"[Umschlag]"},{"id":"Ed_Umschlagrückseite_id","n":"[Umschlagrückseite]"},{"id":"Ed_VordereUmschlaginnenseite_id","n":"[Vordere Umschlaginnenseite]"},{"id":"Ed_I_id","n":"[I]"},{"id":"Ed_II_id","n":"[II]"},{"id":"Ed_III_id","n":"[III]"},{"id":"Ed_IV_id","n":"IV"},{"id":"Ed_V_id","n":"V"},{"id":"Ed_VI_id","n":"VI"},{"id":"Ed_VII_id","n":"VII"},{"id":"Ed_VIII_id","n":"VIII"},{"id":"Ed_IX_id","n":"IX"},{"id":"Ed_X_id","n":"X"},{"id":"Ed_XI_id","n":"XI"},{"id":"Ed_XII_id","n":"XII"},{"id":"Ed_XIII_id","n":"XIII"},{"id":"Ed_XIV_id","n":"XIV"},{"id":"Ed_XV_id","n":"[XV]"},{"id":"Ed_XVI_id","n":"[XVI]"},{"id":"Ed_1_id","n":"1"},{"id":"Ed_2_id","n":"2"},{"id":"Ed_3_id","n":"3"},{"id":"Ed_4_id","n":"4"},{"id":"Ed_5_id","n":"5"},{"id":"Ed_6_id","n":"6"},{"id":"Ed_7_id","n":"7"},{"id":"Ed_8_id","n":"8"},{"id":"Ed_9_id","n":"9"},{"id":"Ed_10_id","n":"10"},{"id":"Ed_11_id","n":"11"},{"id":"Ed_12_id","n":"12"},{"id":"Ed_13_id","n":"13"},{"id":"Ed_14_id","n":"14"},{"id":"Ed_15_id","n":"15"},{"id":"Ed_16_id","n":"16"},{"id":"Ed_17_id","n":"17"},{"id":"Ed_18_id","n":"18"},{"id":"Ed_19_id","n":"19"},{"id":"Ed_20_id","n":"20"},{"id":"Ed_21_id","n":"21"},{"id":"Ed_22_id","n":"22"},{"id":"Ed_23_id","n":"23"},{"id":"Ed_24_id","n":"24"},{"id":"Ed_25_id","n":"25"},{"id":"Ed_26_id","n":"26"},{"id":"Ed_27_id","n":"27"},{"id":"Ed_28_id","n":"28"},{"id":"Ed_29_id","n":"29"},{"id":"Ed_30_id","n":"30"},{"id":"Ed_31_id","n":"31"},{"id":"Ed_32_id","n":"32"},{"id":"Ed_33_id","n":"33"},{"id":"Ed_34_id","n":"34"},{"id":"Ed_35_id","n":"35"},{"id":"Ed_36_id","n":"36"},{"id":"Ed_37_id","n":"37"},{"id":"Ed_38_id","n":"38"},{"id":"Ed_39_id","n":"[39]"},{"id":"Ed_40_id","n":"[40]"},{"id":"Ed_41_id","n":"[41]"},{"id":"Ed_42_id","n":"42"},{"id":"Ed_43_id","n":"43"},{"id":"Ed_44_id","n":"44"},{"id":"Ed_45_id","n":"45"},{"id":"Ed_46_id","n":"46"},{"id":"Ed_47_id","n":"47"},{"id":"Ed_48_id","n":"48"},{"id":"Ed_49_id","n":"49"},{"id":"Ed_50_id","n":"50"},{"id":"Ed_51_id","n":"51"},{"id":"Ed_52_id","n":"52"},{"id":"Ed_53_id","n":"53"},{"id":"Ed_54_id","n":"54"},{"id":"Ed_55_id","n":"55"},{"id":"Ed_56_id","n":"56"},{"id":"Ed_57_id","n":"57"},{"id":"Ed_58_id","n":"58"},{"id":"Ed_59_id","n":"59"},{"id":"Ed_60_id","n":"60"},{"id":"Ed_61_id","n":"61"},{"id":"Ed_62_id","n":"62"},{"id":"Ed_63_id","n":"63"},{"id":"Ed_64_id","n":"64"},{"id":"Ed_65_id","n":"65"},{"id":"Ed_66_id","n":"66"},{"id":"Ed_67_id","n":"67"},{"id":"Ed_68_id","n":"68"},{"id":"Ed_69_id","n":"69"},{"id":"Ed_70_id","n":"70"},{"id":"Ed_71_id","n":"71"},{"id":"Ed_72_id","n":"72"},{"id":"Ed_73_id","n":"73"},{"id":"Ed_74_id","n":"74"},{"id":"Ed_75_id","n":"75"},{"id":"Ed_76_id","n":"76"},{"id":"Ed_77_id","n":"77"},{"id":"Ed_78_id","n":"78"},{"id":"Ed_79_id","n":"79"},{"id":"Ed_80_id","n":"80"},{"id":"Ed_81_id","n":"81"},{"id":"Ed_82_id","n":"82"},{"id":"Ed_83_id","n":"83"},{"id":"Ed_84_id","n":"84"},{"id":"Ed_85_id","n":"85"},{"id":"Ed_86_id","n":"86"},{"id":"Ed_87_id","n":"87"},{"id":"Ed_88_id","n":"88"},{"id":"Ed_89_id","n":"89"},{"id":"Ed_90_id","n":"90"},{"id":"Ed_91_id","n":"91"},{"id":"Ed_92_id","n":"92"},{"id":"Ed_93_id","n":"93"},{"id":"Ed_94_id","n":"[94]"},{"id":"Ed_95_id","n":"[95]"},{"id":"Ed_96_id","n":"[96]"},{"id":"Ed_97_id","n":"[97]"},{"id":"Ed_98_id","n":"98"},{"id":"Ed_99_id","n":"99"},{"id":"Ed_100_id","n":"100"},{"id":"Ed_101_id","n":"101"},{"id":"Ed_102_id","n":"102"},{"id":"Ed_103_id","n":"103"},{"id":"Ed_104_id","n":"104"},{"id":"Ed_105_id","n":"105"},{"id":"Ed_106_id","n":"106"},{"id":"Ed_107_id","n":"107"},{"id":"Ed_108_id","n":"108"},{"id":"Ed_109_id","n":"109"},{"id":"Ed_110_id","n":"110"},{"id":"Ed_111_id","n":"111"},{"id":"Ed_112_id","n":"112"},{"id":"Ed_113_id","n":"113"},{"id":"Ed_114_id","n":"114"},{"id":"Ed_115_id","n":"115"},{"id":"Ed_116_id","n":"116"},{"id":"Ed_117_id","n":"117"},{"id":"Ed_118_id","n":"118"},{"id":"Ed_119_id","n":"119"},{"id":"Ed_120_id","n":"120"},{"id":"Ed_121_id","n":"121"},{"id":"Ed_122_id","n":"122"},{"id":"Ed_123_id","n":"123"},{"id":"Ed_124_id","n":"124"},{"id":"Ed_125_id","n":"125"},{"id":"Ed_126_id","n":"126"},{"id":"Ed_127_id","n":"127"},{"id":"Ed_128_id","n":"128"},{"id":"Ed_129_id","n":"129"},{"id":"Ed_130_id","n":"130"},{"id":"Ed_131_id","n":"131"},{"id":"Ed_132_id","n":"132"},{"id":"Ed_133_id","n":"133"},{"id":"Ed_134_id","n":"134"},{"id":"Ed_135_id","n":"135"},{"id":"Ed_136_id","n":"136"},{"id":"Ed_137_id","n":"137"},{"id":"Ed_138_id","n":"138"},{"id":"Ed_139_id","n":"139"},{"id":"Ed_140_id","n":"140"},{"id":"Ed_141_id","n":"141"},{"id":"Ed_142_id","n":"142"},{"id":"Ed_143_id","n":"143"},{"id":"Ed_144_id","n":"144"},{"id":"Ed_145_id","n":"145"},{"id":"Ed_146_id","n":"146"},{"id":"Ed_147_id","n":"147"},{"id":"Ed_148_id","n":"148"},{"id":"Ed_149_id","n":"149"},{"id":"Ed_150_id","n":"150"},{"id":"Ed_151_id","n":"151"},{"id":"Ed_152_id","n":"152"},{"id":"Ed_153_id","n":"153"},{"id":"Ed_154_id","n":"154"},{"id":"Ed_155_id","n":"155"},{"id":"Ed_156_id","n":"156"},{"id":"Ed_157_id","n":"157"},{"id":"Ed_158_id","n":"158"},{"id":"Ed_159_id","n":"159"},{"id":"Ed_160_id","n":"160"},{"id":"Ed_161_id","n":"161"},{"id":"Ed_162_id","n":"162"},{"id":"Ed_163_id","n":"163"},{"id":"Ed_164_id","n":"164"},{"id":"Ed_165_id","n":"165"},{"id":"Ed_166_id","n":"166"},{"id":"Ed_167_id","n":"167"},{"id":"Ed_168_id","n":"168"},{"id":"Ed_169_id","n":"169"},{"id":"Ed_170_id","n":"170"},{"id":"Ed_171_id","n":"171"},{"id":"Ed_172_id","n":"172"},{"id":"Ed_173_id","n":"173"},{"id":"Ed_174_id","n":"174"},{"id":"Ed_175_id","n":"175"},{"id":"Ed_176_id","n":"176"},{"id":"Ed_177_id","n":"177"},{"id":"Ed_178_id","n":"178"},{"id":"Ed_179_id","n":"179"},{"id":"Ed_180_id","n":"180"},{"id":"Ed_181_id","n":"181"},{"id":"Ed_182_id","n":"182"},{"id":"Ed_183_id","n":"[183]"},{"id":"Ed_184_id","n":"[184]"}])) 
+                        
+                 ,
+               
+           
+               
+            
+         }
+  </script>
+</head>
+<body>
+   <pb-page api-version="1.0.0" unresolved="unresolved" locales="./resources/i18n//.json" locale-fallback-ns="app common">
+       <nav class="navbar navbar-expand-lg bg-light">
+    <div class="container-fluid">
+       <a class="navbar-brand" href="/">Der späte Nietzsche</a>
+       <ul class="myNavbar">
+<!--          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+          </button>-->
+          <li><a class="myNavItem nav-link active" aria-current="page" href="/">Druckmanuskripte</a></li>
+          <li><a class="myNavItem nav-link" aria-current="page" href="/spn/index.html">Mappen</a></li>
+       </ul>
+    </div>
+</nav>
+
+       <main class="container">
+         <pb-document id="document1" path="K11.xml" odd="nietzsche-ed" view="single" data-origin-path="meta-cb"></pb-document>
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="toc-panel" aria-labelledby="offcanvasExampleLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasExampleLabel">Metadaten</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body toc">
+          <!DOCTYPE html>
+<ul><li><pb-link emit="transcription" subscribe="transcription" xml-id="descChapter1"><pb-i18n key="myapp.meta.descChapter1">...key...</pb-i18n></pb-link></li><li><pb-collapse><span slot="collapse-trigger"><pb-link emit="transcription" subscribe="transcription" xml-id="descChapter2"><pb-i18n key="myapp.meta.descChapter2">...key...</pb-i18n></pb-link></span><span slot="collapse-content"><pb-link emit="transcription" subscribe="transcription" xml-id="descChapter2.1"><pb-i18n key="myapp.meta.descChapter21">...key...</pb-i18n></pb-link></span></pb-collapse></li><li><pb-collapse><span slot="collapse-trigger"><pb-link emit="transcription" subscribe="transcription" xml-id="EDdescChapter3"><pb-i18n key="myapp.meta.EDdescChapter3">...key...</pb-i18n></pb-link></span><span slot="collapse-content"><pb-link emit="transcription" subscribe="transcription" xml-id="EDdescChapter3.1"><pb-i18n key="myapp.meta.EDdescChapter31">...key...</pb-i18n></pb-link><pb-link emit="transcription" subscribe="transcription" xml-id="EDdescChapter3.2"><pb-i18n key="myapp.meta.EDdescChapter32">...key...</pb-i18n></pb-link></span></pb-collapse></li></ul>
+        </div>
+      </div>
+       <app-toolbar class="toolbar" sticky="sticky">
+   <paper-icon-button id="tocToggle" class="toc-toggle" icon="icons:view-list" data-bs-toggle="offcanvas" data-bs-target="#toc-panel"></paper-icon-button>
+   <div id="toolbar-start" style="display: none"></div>
+    <pb-progress subscribe="transcription" indeterminate="indeterminate" bottom-item="bottom-item"></pb-progress>
+</app-toolbar>
+
+
+      <div class="myrow">
+          <div class="mycol mytext">
+             <section class="breadcrumbs">
+                <pb-view id="title-view1" src="document1" xpath="//teiHeader/fileDesc/titleStmt/title[1]" view="single" static="">
+                       <pb-param name="header" value="short"/>
+                       <pb-param name="type" value="meta"/>
+                      </pb-view>                
+              </section>
+              <main class="content-body">
+                 <pb-view id="view1" static="" no-scroll="no-scroll" src="document1" xpath="//teiHeader" column-separator=".tei-cb" view="single" subscribe="transcription" emit="transcription">
+                       <pb-param name="mode" value="meta"></pb-param>
+                       <pb-param name="odd" value="surface.odd"></pb-param>
+                 </pb-view>
+              </main>
+          </div>
+      </div>
+
+       </main>
+  </pb-page>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
+  <script type="module" src="/resources/scripts/pb-components-bundle.js"></script>
+</body>
+</html>

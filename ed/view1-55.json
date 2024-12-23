@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.49.7.179",
+    "rootNode": "2.5.12.4.49.7.179",
+    "id": "Ed_36_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.49.7.277",
+    "previous": "2.5.12.4.49.7.84",
+    "nextId": "Ed_37_id",
+    "previousId": "Ed_35_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0057.tif\">36</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Dinge: Rom selber bewegte sich wie ein aufgeweckter \n</span><span class=\"tei-line\">Scheintodter unter dem Druck des neuen, darüber ge-\n</span><span class=\"tei-line\">bauten judaisirten Rom, das den Aspekt einer öku-\n</span><span class=\"tei-line\">menischen Synagoge darbot und „Kirche“ hiess: aber \n</span><span class=\"line\">5</span><span class=\"tei-line \">sofort triumphirte wieder Judäa, Dank jener gründ-\n</span><span class=\"tei-line\">lich pöbelhaften (deutschen und englischen) Ressenti-\n</span><span class=\"tei-line\">ments-Bewegung, welche man die Reformation nennt, \n</span><span class=\"tei-line\">hinzugerechnet, was aus ihr folgen musste, die Wieder-\n</span><span class=\"tei-line\">herstellung der Kirche, – die Wiederherstellung auch \n</span><span class=\"line\">10</span><span class=\"tei-line \">der alten Grabesruhe des klassischen Rom. In einem \n</span><span class=\"tei-line\">sogar entscheidenderen und tieferen Sinne als damals \n</span><span class=\"tei-line\">kam Judäa noch einmal mit der französischen Revo-\n</span><span class=\"tei-line\">lution zum Siege über das klassische Ideal: die letzte \n</span><span class=\"tei-line\">politische Vornehmheit, die es in Europa gab, die des \n</span><span class=\"line\">15</span><span class=\"tei-line \">siebzehnten und achtzehnten <span class=\"tei-hi2 spaced\">französischen</span> Jahr-\n</span><span class=\"tei-line\">hunderts brach unter den volksthümlichen Ressentiments-\n</span><span class=\"tei-line\">Instinkten zusammen, – es wurde niemals auf Erden \n</span><span class=\"tei-line\">ein grösserer Jubel, eine lärmendere Begeisterung ge-\n</span><span class=\"tei-line\">hört! Zwar geschah mitten darin das Ungeheuerste, \n</span><span class=\"line\">20</span><span class=\"tei-line \">das Unerwartetste: das antike Ideal selbst trat <span class=\"tei-hi2 spaced\">leib-\n<span class=\"tei-line\">haft</span>haft</span> und mit unerhörter Pracht vor Auge und Gewissen \n</span><span class=\"tei-line\">der Menschheit, – und noch einmal, stärker, einfacher, \n</span><span class=\"tei-line\">eindringlicher als je, erscholl, gegenüber der alten Lü-\n</span><span class=\"tei-line\">gen-Losung des Ressentiment vom <span class=\"tei-hi2 spaced\">Vorrecht der \n<span class=\"line\">25</span><span class=\"tei-line \">Meisten</span>Meisten</span>, gegenüber dem Willen zur Niederung, zur \n</span><span class=\"tei-line\">Erniedrigung, zur Ausgleichung, zum Abwärts und \n</span><span class=\"tei-line\">Abendwärts des Menschen die furchtbare und ent-\n</span><span class=\"tei-line\">zückende Gegenlosung vom <span class=\"tei-hi2 spaced\">Vorrecht der Wenig-\n<span class=\"tei-line\">sten</span>sten</span>! Wie ein letzter Fingerzeig zum <span class=\"tei-hi2 spaced\">andren</span> Wege \n</span><span class=\"line\">30</span><span class=\"tei-line \">erschien Napoleon, jener einzelnste und spätestgeborne \n</span><span class=\"tei-line\">Mensch, den es jemals gab, und in ihm das fleisch-\n</span><span class=\"tei-line\">gewordne Problem des <span class=\"tei-hi2 spaced\">vornehmen Ideals an sich</span> \n</span><span class=\"tei-line\">– man überlege wohl, <span class=\"tei-hi2 spaced\">was</span> es für ein Problem ist: \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.55.5.314",
+    "rootNode": "2.5.12.8.55.5.314",
+    "id": "Ed_157_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.57.5.44",
+    "previous": "2.5.12.8.55.5.222",
+    "nextId": "Ed_158_id",
+    "previousId": "Ed_156_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0178.tif\">157</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">er hatte ersichtlich gesiegt, <span class=\"tei-hi2 spaced\">sein</span> Reich war gekommen: \n</span><span class=\"tei-line\">schon klagte man nicht mehr <span class=\"tei-hi2 spaced\">gegen</span> den Schmerz, \n</span><span class=\"tei-line\">man <span class=\"tei-hi2 spaced\">lechzte</span> nach dem Schmerz; „<span class=\"tei-hi2 spaced\">mehr</span> Schmerz! \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">mehr</span> Schmerz!“ so schrie das Verlangen seiner Jünger \n</span><span class=\"line\">5</span><span class=\"tei-line \">und Eingeweihten Jahrhunderte lang. Jede Ausschwei-\n</span><span class=\"tei-line\">fung des Gefühls, die wehe that, Alles was zerbrach, \n</span><span class=\"tei-line\">umwarf, zermalmte, entrückte, verzückte, das Geheim-\n</span><span class=\"tei-line\">niss der Folterstätten, die Erfindsamkeit der Hölle \n</span><span class=\"tei-line\">selbst – Alles war nunmehr entdeckt, errathen, aus-\n</span><span class=\"line\">10</span><span class=\"tei-line \">genützt, Alles stand dem Zauberer zu Diensten, Alles \n</span><span class=\"tei-line\">diente fürderhin dem Siege seines Ideals, des asketi-\n</span><span class=\"tei-line\">schen Ideals… „Mein Reich ist nicht von <span class=\"tei-hi2 spaced\">dieser</span> \n</span><span class=\"tei-line\">Welt“ – redete er nach wie vor: hatte er wirklich das \n</span><span class=\"tei-line\">Recht noch, so zu reden?… Goethe hat behauptet, \n</span><span class=\"line\">15</span><span class=\"tei-line \">es gäbe nur sechs und dreissig tragische Situationen: \n</span><span class=\"tei-line\">man erräth daraus, wenn man’s sonst nicht wüsste, dass \n</span><span class=\"tei-line\">Goethe kein asketischer Priester war. Der – kennt \n</span><span class=\"tei-line\">mehr…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">21.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">In Hinsicht auf <span class=\"tei-hi2 spaced\">diese</span> ganze Art der priesterlichen \n</span><span class=\"tei-line\">Medikation, die „schuldige“ Art, ist jedes Wort Kritik \n</span><span class=\"tei-line\">zu viel. Dass eine solche Ausschweifung des Gefühls, \n</span><span class=\"tei-line\">wie sie in diesem Falle der asketische Priester seinen \n</span><span class=\"tei-line\">Kranken zu verordnen pflegt (unter den heiligsten Na-\n</span><span class=\"line\">25</span><span class=\"tei-line \">men, wie sich von selbst versteht, insgleichen durch-\n</span><span class=\"tei-line\">drungen von der Heiligkeit seines Zwecks), irgend einem \n</span><span class=\"tei-line\">Kranken wirklich <span class=\"tei-hi2 spaced\">genützt</span> habe, wer hätte wohl Lust, \n</span><span class=\"tei-line\">eine Behauptung der Art aufrecht zu halten? Zum \n</span><span class=\"tei-line\">Mindesten sollte man sich über das Wort „nützen“ ver-\n</span><span class=\"line\">30</span><span class=\"tei-line \">stehn. Will man damit ausdrücken, ein solches System \n</span><span class=\"tei-line\">von Behandlung habe den Menschen <span class=\"tei-hi2 spaced\">verbessert</span>, so \n</span><span class=\"tei-line\">widerspreche ich nicht: nur dass ich hinzufüge, was \n</span><span class=\"tei-line\">bei mir „verbessert“ heisst – ebenso viel wie „ge-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

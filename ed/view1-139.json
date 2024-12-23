@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.33.5.266",
+    "rootNode": "2.5.12.8.33.5.266",
+    "id": "Ed_120_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.35.5.28",
+    "previous": "2.5.12.8.33.5.168",
+    "nextId": "Ed_121_id",
+    "previousId": "Ed_119_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0141.tif\">120</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">das Schreiten, die Bewegung, die Veränderung ihre \n</span><span class=\"tei-line\">unzähligen Märtyrer nöthig gehabt hat“, klingt gerade \n</span><span class=\"tei-line\">heute uns so fremd, – ich habe ihn in der „Morgen-\n</span><span class=\"tei-line\">röthe“ S. 17 ff. an’s Licht gestellt. „Nichts ist theurer \n</span><span class=\"line\">5</span><span class=\"tei-line \">erkauft, heisst es daselbst S. 19, als das Wenige von \n</span><span class=\"tei-line\">menschlicher Vernunft und vom Gefühle der Freiheit, \n</span><span class=\"tei-line\">was jetzt unsern Stolz ausmacht. Dieser Stolz aber ist \n</span><span class=\"tei-line\">es, dessentwegen es uns jetzt fast unmöglich wird, mit \n</span><span class=\"tei-line\">jenen ungeheuren Zeitstrecken der „Sittlichkeit der \n</span><span class=\"line\">10</span><span class=\"tei-line \">Sitte“ zu empfinden, welche der „Weltgeschichte“ vor-\n</span><span class=\"tei-line\">ausliegen, als die wirkliche und entscheidende Haupt-\n</span><span class=\"tei-line\">geschichte, welche den Charakter der Menschheit fest-\n</span><span class=\"tei-line\">gestellt hat: wo das Leiden als Tugend, die Grausam-\n</span><span class=\"tei-line\">keit als Tugend, die Verstellung als Tugend, die Rache \n</span><span class=\"line\">15</span><span class=\"tei-line \">als Tugend, die Verleugnung der Vernunft als Tugend, \n</span><span class=\"tei-line\">dagegen das Wohlbefinden als Gefahr, die Wissbe-\n</span><span class=\"tei-line\">gierde als Gefahr, der Friede als Gefahr, das Mitleiden \n</span><span class=\"tei-line\">als Gefahr, das Bemitleidetwerden als Schimpf, die Ar-\n</span><span class=\"tei-line\">beit als Schimpf, der Wahnsinn als Göttlichkeit, die \n</span><span class=\"line\">20</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">Veränderung</span> als das Unsittliche und Verderben-\n</span><span class=\"tei-line\">schwangere an sich überall in Geltung war!“ –</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">10.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">In demselben Buche S. 39 ist auseinandergesetzt, \n</span><span class=\"tei-line\">in welcher Schätzung, unter welchem <span class=\"tei-hi2 spaced\">Druck</span> von \n</span><span class=\"line\">25</span><span class=\"tei-line \">Schätzung das älteste Geschlecht contemplativer Men-\n</span><span class=\"tei-line\">schen zu leben hatte, – genau so weit verachtet als es \n</span><span class=\"tei-line\">nicht gefürchtet wurde! Die Contemplation ist in ver-\n</span><span class=\"tei-line\">mummter Gestalt, in einem zweideutigen Ansehn, mit \n</span><span class=\"tei-line\">einem bösen Herzen und oft mit einem geängstigten \n</span><span class=\"line\">30</span><span class=\"tei-line \">Kopfe zuerst auf der Erde erschienen: daran ist kein \n</span><span class=\"tei-line\">Zweifel. Das Inaktive, Brütende, Unkriegerische in \n</span><span class=\"tei-line\">den Instinkten contemplativer Menschen legte lange \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

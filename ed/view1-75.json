@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.24.7.172",
+    "rootNode": "2.5.12.6.24.7.172",
+    "id": "Ed_56_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.24.7.254",
+    "previous": "2.5.12.6.24.7.78",
+    "nextId": "Ed_57_id",
+    "previousId": "Ed_55_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0077.tif\">56</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">wissen kein Verdacht kommt (das „tragische Mitleiden“ \n</span><span class=\"tei-line\">ist ein solcher Name; ein andrer ist „les nostalgies de \n</span><span class=\"tei-line\">la croix“). Was eigentlich gegen das Leiden empört, \n</span><span class=\"tei-line\">ist nicht das Leiden an sich, sondern das Sinnlose des \n</span><span class=\"line\">5</span><span class=\"tei-line \">Leidens: aber weder für den Christen, der in das Leiden \n</span><span class=\"tei-line\">eine ganze geheime Heils-Maschinerie hineininterpretirt \n</span><span class=\"tei-line\">hat, noch für den naiven Menschen älterer Zeiten, der \n</span><span class=\"tei-line\">alles Leiden sich in Hinsicht auf Zuschauer oder auf \n</span><span class=\"tei-line\">Leiden-Macher auszulegen verstand, gab es überhaupt \n</span><span class=\"line\">10</span><span class=\"tei-line \">ein solches <span class=\"tei-hi2 spaced\">sinnloses</span> Leiden. Damit das verborgne, \n</span><span class=\"tei-line\">unentdeckte, zeugenlose Leiden aus der Welt geschafft \n</span><span class=\"tei-line\">und ehrlich negirt werden konnte, war man damals \n</span><span class=\"tei-line\">beinahe dazu genöthigt, Götter zu erfinden und Zwischen-\n</span><span class=\"tei-line\">wesen aller Höhe und Tiefe, kurz Etwas, das auch im \n</span><span class=\"line\">15</span><span class=\"tei-line \">Verborgnen schweift, das auch im Dunklen sieht \n</span><span class=\"tei-line\">und das sich nicht leicht ein interessantes schmerz-\n</span><span class=\"tei-line\">haftes Schauspiel entgehen lässt. Mit Hülfe solcher \n</span><span class=\"tei-line\">Erfindungen nämlich verstand sich damals das Leben \n</span><span class=\"tei-line\">auf das Kunststück, auf das es sich immer verstanden \n</span><span class=\"line\">20</span><span class=\"tei-line \">hat, sich selbst zu rechtfertigen, sein „Übel“ zu recht-\n</span><span class=\"tei-line\">fertigen; jetzt bedürfte es vielleicht dazu andrer Hülfs-\n</span><span class=\"tei-line\">Erfindungen (zum Beispiel Leben als Räthsel, Leben \n</span><span class=\"tei-line\">als Erkenntnissproblem). „Jedes Übel ist gerechtfertigt, \n</span><span class=\"tei-line\">an dessen Anblick ein Gott sich erbaut“: so klang die \n</span><span class=\"line\">25</span><span class=\"tei-line \">vorzeitliche Logik des Gefühls – und wirklich, war es \n</span><span class=\"tei-line\">nur die vorzeitliche? Die Götter als Freunde <span class=\"tei-hi2 spaced\">grau-\n<span class=\"tei-line\">samer</span>samer</span> Schauspiele gedacht – oh wie weit ragt diese \n</span><span class=\"tei-line\">uralte Vorstellung selbst noch in unsre europäische \n</span><span class=\"tei-line\">Vermenschlichung hinein! man mag hierüber etwa mit \n</span><span class=\"line\">30</span><span class=\"tei-line \">Calvin und Luther zu Rathe gehn. Gewiss ist jeden-\n</span><span class=\"tei-line\">falls, dass noch die <span class=\"tei-hi2 spaced\">Griechen</span> ihren Göttern keine an-\n</span><span class=\"tei-line\">genehmere Zukost zu ihrem Glücke zu bieten wussten, \n</span><span class=\"tei-line\">als die Freuden der Grausamkeit. Mit welchen Augen \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

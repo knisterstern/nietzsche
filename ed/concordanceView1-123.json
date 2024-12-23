@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.25.5.74",
+    "rootNode": "2.5.12.8.25.5.74",
+    "id": "Ed_104_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.25.5.177",
+    "previous": "2.5.12.8.23.5.132",
+    "nextId": "Ed_105_id",
+    "previousId": "Ed_103_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 5</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 362/344,22-364/346,17</li><li class=\"tei-ab2\"><a data-id=\"Ed_103_id\" data-doc=\"E40.xml\">Ed 103,7-105,13</a></li><li class=\"tei-ab2\"><a data-id=\"b6r\" data-doc=\"D20.xml\">Dm b6r,16-24</a>, <a data-id=\"b7r\" data-doc=\"D20.xml\">b7r,1-25</a>, <a data-id=\"b8r\" data-doc=\"D20.xml\">b8r,1-6</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "concordance",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

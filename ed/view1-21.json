@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.15.9.79",
+    "rootNode": "2.5.12.4.15.9.79",
+    "id": "Ed_2_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.17.7.26",
+    "previous": "2.5.12.4.15.3",
+    "nextId": "Ed_3_id",
+    "previousId": "Ed_1_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0023.tif\">2</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">vielleicht nicht einmal über die Schwelle des Bewusst-\n</span><span class=\"tei-line\">seins gelangt ist? Oder gar ein lüsterner Geschmack \n</span><span class=\"tei-line\">am Befremdlichen, am Schmerzhaft-Paradoxen, am Frag-\n</span><span class=\"tei-line\">würdigen und Unsinnigen des Daseins? Oder endlich \n</span><span class=\"line\">5</span><span class=\"tei-line \">– von Allem Etwas, ein wenig Gemeinheit, ein wenig \n</span><span class=\"tei-line\">Verdüsterung, ein wenig Antichristlichkeit, ein wenig \n</span><span class=\"tei-line\">Kitzel und Bedürfniss nach Pfeffer?… Aber man sagt \n</span><span class=\"tei-line\">mir, dass es einfach alte, kalte, langweilige Frösche \n</span><span class=\"tei-line\">seien, die am Menschen herum, in den Menschen hinein \n</span><span class=\"line\">10</span><span class=\"tei-line \">kriechen und hüpfen, wie als ob sie da so recht in \n</span><span class=\"tei-line\">ihrem Elemente wären, nämlich in einem <span class=\"tei-hi2 spaced\">Sumpfe</span>. \n</span><span class=\"tei-line\">Ich höre das mit Widerstand, mehr noch, ich glaube \n</span><span class=\"tei-line\">nicht daran; und wenn man wünschen darf, wo man \n</span><span class=\"tei-line\">nicht wissen kann, so wünsche ich von Herzen, dass es \n</span><span class=\"line\">15</span><span class=\"tei-line \">umgekehrt mit ihnen stehen möge, – dass diese For-\n</span><span class=\"tei-line\">scher und Mikroskopiker der Seele im Grunde tapfere, \n</span><span class=\"tei-line\">grossmüthige und stolze Thiere seien, welche ihr Herz \n</span><span class=\"tei-line\">wie ihren Schmerz im Zaum zu halten wissen und sich \n</span><span class=\"tei-line\">dazu erzogen haben, der Wahrheit alle Wünschbarkeit \n</span><span class=\"line\">20</span><span class=\"tei-line \">zu opfern, <span class=\"tei-hi2 spaced\">jeder</span> Wahrheit, sogar der schlichten, her-\n</span><span class=\"tei-line\">ben, hässlichen, widrigen, unchristlichen, unmoralischen \n</span><span class=\"tei-line\">Wahrheit… Denn es giebt solche Wahrheiten. –</span></p>\n\n          \n\n  \n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">2.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Alle Achtung also vor den guten Geistern, die in \n</span><span class=\"line\">25</span><span class=\"tei-line \">diesen Historikern der Moral walten mögen! Aber \n</span><span class=\"tei-line\">gewiss ist leider, dass ihnen der <span class=\"tei-hi2 spaced\">historische Geist</span> \n</span><span class=\"tei-line\">selber abgeht, dass sie gerade von allen guten Geistern \n</span><span class=\"tei-line\">der Historie selbst in Stich gelassen worden sind! Sie \n</span><span class=\"tei-line\">denken allesammt, wie es nun einmal alter Philosophen-\n</span><span class=\"line\">30</span><span class=\"tei-line \">Brauch ist, <span class=\"tei-hi2 spaced\">wesentlich</span> unhistorisch; daran ist kein \n</span><span class=\"tei-line\">Zweifel. Die Stümperei ihrer Moral-Genealogie kommt \n</span><span class=\"tei-line\">gleich am Anfang zu Tage, da, wo es sich darum han-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

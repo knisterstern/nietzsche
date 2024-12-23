@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.50.7.78",
+    "rootNode": "2.5.12.6.50.7.78",
+    "id": "Ed_86_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.52.7.59",
+    "previous": "2.5.12.6.50.3",
+    "nextId": "Ed_87_id",
+    "previousId": "Ed_85_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0107.tif\">86</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Gottes, der bisher erreicht worden ist, hat deshalb auch \n</span><span class=\"tei-line\">das Maximum des Schuldgefühls auf Erden zur Er-\n</span><span class=\"tei-line\">scheinung gebracht. Angenommen, dass wir nachge-\n</span><span class=\"tei-line\">rade in die <span class=\"tei-hi2 spaced\">umgekehrte</span> Bewegung eingetreten sind, \n</span><span class=\"line\">5</span><span class=\"tei-line \">so dürfte man mit keiner kleinen Wahrscheinlichkeit \n</span><span class=\"tei-line\">aus dem unaufhaltsamen Niedergang des Glaubens an \n</span><span class=\"tei-line\">den christlichen Gott ableiten, dass es jetzt bereits auch \n</span><span class=\"tei-line\">schon einen erheblichen Niedergang des menschlichen \n</span><span class=\"tei-line\">Schuldbewusstseins gäbe; ja die Aussicht ist nicht ab-\n</span><span class=\"line\">10</span><span class=\"tei-line \">zuweisen, dass der vollkommne und endgültige Sieg \n</span><span class=\"tei-line\">des Atheismus die Menschheit von diesem ganzen Ge-\n</span><span class=\"tei-line\">fühl, Schulden gegen ihren Anfang, ihre causa prima \n</span><span class=\"tei-line\">zu haben, lösen dürfte. Atheismus und eine Art <span class=\"tei-hi2 spaced\">zwei-\n<span class=\"tei-line\">ter Unschuld</span>ter Unschuld</span> gehören zu einander. –</span></p>\n  \n\n  \n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">15</span>21.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Dies vorläufig im Kurzen und Groben über den Zu-\n</span><span class=\"tei-line\">sammenhang der Begriffe „Schuld“, „Pflicht“ mit religiö-\n</span><span class=\"tei-line\">sen Voraussetzungen: ich habe absichtlich die eigentliche \n</span><span class=\"tei-line\">Moralisirung dieser Begriffe (die Zurückschiebung der-\n</span><span class=\"line\">20</span><span class=\"tei-line \">selben in’s Gewissen, noch bestimmter, die Verwicklung \n</span><span class=\"tei-line\">des <span class=\"tei-hi2 spaced\">schlechten</span> Gewissens mit dem Gottesbegriffe) bis-\n</span><span class=\"tei-line\">her bei Seite gelassen und am Schluss des vorigen Ab-\n</span><span class=\"tei-line\">schnittes sogar geredet, wie als ob es diese Moralisi-\n</span><span class=\"tei-line\">rung gar nicht gäbe, folglich, wie als ob es mit jenen \n</span><span class=\"line\">25</span><span class=\"tei-line \">Begriffen nunmehr nothwendig zu Ende gienge, nachdem \n</span><span class=\"tei-line\">deren Voraussetzung gefallen ist, der Glaube an unsern \n</span><span class=\"tei-line\">„Gläubiger“, an Gott. Der Thatbestand weicht davon in \n</span><span class=\"tei-line\">einer furchtbaren Weise ab. Mit der Moralisirung der \n</span><span class=\"tei-line\">Begriffe Schuld und Pflicht, mit ihrer Zurückschiebung \n</span><span class=\"line\">30</span><span class=\"tei-line \">in’s <span class=\"tei-hi2 spaced\">schlechte</span> Gewissen ist ganz eigentlich der Ver-\n</span><span class=\"tei-line\">such gegeben, die Richtung der eben beschriebenen \n</span><span class=\"tei-line\">Entwicklung <span class=\"tei-hi2 spaced\">umzukehren</span>, mindestens ihre Bewegung \n</span><span class=\"tei-line\">stillzustellen: jetzt <span class=\"tei-hi2 spaced\">soll</span> gerade die Aussicht auf eine \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

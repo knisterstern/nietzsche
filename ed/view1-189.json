@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.63.7.390",
+    "rootNode": "2.5.12.8.63.7.390",
+    "id": "Ed_170_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.65.5.46",
+    "previous": "2.5.12.8.63.7.296",
+    "nextId": "Ed_171_id",
+    "previousId": "Ed_169_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0191.tif\">170</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Rechtfertigung bedarf, hier ist eine Lücke in jeder \n</span><span class=\"tei-line\">Philosophie – woher kommt das? Weil das asketische \n</span><span class=\"tei-line\">Ideal über alle Philosophie bisher <span class=\"tei-hi2 spaced\">Herr</span> war, weil \n</span><span class=\"tei-line\">Wahrheit als Sein, als Gott, als oberste Instanz selbst \n</span><span class=\"line\">5</span><span class=\"tei-line \">gesetzt wurde, weil Wahrheit gar nicht Problem sein \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">durfte</span>. Versteht man dies „durfte“? – Von dem \n</span><span class=\"tei-line\">Augenblick an, wo der Glaube an den Gott des aske-\n</span><span class=\"tei-line\">tischen Ideals verneint ist, <span class=\"tei-hi2 spaced\">giebt es auch ein neues \n<span class=\"tei-line\">Problem</span>Problem</span>: das vom <span class=\"tei-hi2 spaced\">Werthe</span> der Wahrheit. – Der \n</span><span class=\"line\">10</span><span class=\"tei-line \">Wille zur Wahrheit bedarf einer Kritik – bestimmen \n</span><span class=\"tei-line\">wir hiermit unsre eigene Aufgabe –, der Werth der \n</span><span class=\"tei-line\">Wahrheit ist versuchsweise einmal <span class=\"tei-hi2 spaced\">in Frage zu \n<span class=\"tei-line\">stellen</span>stellen</span>… (Wem dies zu kurz gesagt scheint, dem \n</span><span class=\"tei-line\">sei empfohlen, jenen Abschnitt der „fröhlichen Wissen-\n</span><span class=\"line\">15</span><span class=\"tei-line \">schaft“ nachzulesen, welcher den Titel trägt: „Inwie-\n</span><span class=\"tei-line\">fern auch wir noch fromm sind“ S. 260 ff, am besten \n</span><span class=\"tei-line\">das ganze fünfte Buch des genannten Werks, insgleichen \n</span><span class=\"tei-line\">die Vorrede zur „Morgenröthe“.) </span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">25.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">20</span><span class=\"tei-line indent\">Nein! Man komme mir nicht mit der Wissenschaft, \n</span><span class=\"tei-line\">wenn ich nach dem natürlichen Antagonisten des aske-\n</span><span class=\"tei-line\">tischen Ideals suche, wenn ich frage: „<span class=\"tei-hi2 spaced\">wo</span> ist der gegne-\n</span><span class=\"tei-line\">rische Wille, in dem sich sein <span class=\"tei-hi2 spaced\">gegnerisches Ideal</span> \n</span><span class=\"tei-line\">ausdrückt?“ Dazu steht die Wissenschaft lange nicht \n</span><span class=\"line\">25</span><span class=\"tei-line \">genug auf sich selber, sie bedarf in jedem Betrachte \n</span><span class=\"tei-line\">erst eines Werth-Ideals, einer wertheschaffenden Macht, \n</span><span class=\"tei-line\">in deren <span class=\"tei-hi2 spaced\">Dienste</span> sie an sich selber <span class=\"tei-hi2 spaced\">glauben darf</span>, \n</span><span class=\"tei-line\">– sie selbst ist niemals wertheschaffend. Ihr Verhält-\n</span><span class=\"tei-line\">niss zum asketischen Ideal ist an sich durchaus noch \n</span><span class=\"line\">30</span><span class=\"tei-line \">nicht antagonistisch; sie stellt in der Hauptsache so-\n</span><span class=\"tei-line\">gar eher noch die vorwärtstreibende Kraft in dessen \n</span><span class=\"tei-line\">innerer Ausgestaltung dar. Ihr Widerspruch und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

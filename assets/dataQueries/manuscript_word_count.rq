@@ -1,0 +1,11 @@
+# Select manuscripts and their word count.
+PREFIX tln: <http://www.nie.org/ontology/nietzsche#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+select ?manuscript (count(?word) as ?numword) {	 
+    ?manuscript a tln:ArchivalManuscriptUnity;
+        tln:hasManuscriptType "Mappe";
+    	tln:hasPages/rdf:rest*/rdf:first ?page.
+  	?page a tln:Page;
+         tln:hasWords/rdf:rest*/rdf:first ?word.	
+} GROUP BY(?manuscript) ORDER BY (?manuscript)

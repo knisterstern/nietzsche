@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.37.5.34",
+    "rootNode": "2.5.12.4.37.5.34",
+    "id": "Ed_21_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.37.5.137",
+    "previous": "2.5.12.4.35.5.352",
+    "nextId": "Ed_22_id",
+    "previousId": "Ed_20_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0042.tif\">21</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">„böse“ da! Aber es ist <span class=\"tei-hi2 spaced\">nicht</span> derselbe Begriff „gut“: viel-\n</span><span class=\"tei-line\">mehr frage man sich doch, <span class=\"tei-hi2 spaced\">wer</span> eigentlich „böse“ ist, \n</span><span class=\"tei-line\">im Sinne der Moral des Ressentiment. In aller Strenge \n</span><span class=\"tei-line\">geantwortet: <span class=\"tei-hi2 spaced\">eben</span> der „Gute“ der andren Moral, eben \n</span><span class=\"line\">5</span><span class=\"tei-line \">der Vornehme, der Mächtige, der Herrschende, nur um-\n</span><span class=\"tei-line\">gefärbt, nur umgedeutet, nur umgesehn durch das Gift-\n</span><span class=\"tei-line\">auge des Ressentiment. Hier wollen wir Eins am we-\n</span><span class=\"tei-line\">nigsten leugnen: wer jene „Guten“ nur als Feinde \n</span><span class=\"tei-line\">kennen lernte, lernte auch nichts als <span class=\"tei-hi2 spaced\">böse Feinde</span> \n</span><span class=\"line\">10</span><span class=\"tei-line \">kennen, und dieselben Menschen, welche so streng durch \n</span><span class=\"tei-line\">Sitte, Verehrung, Brauch, Dankbarkeit, noch mehr \n</span><span class=\"tei-line\">durch gegenseitige Bewachung, durch Eifersucht inter \n</span><span class=\"tei-line\">pares in Schranken gehalten sind, die andrerseits im \n</span><span class=\"tei-line\">Verhalten zu einander so erfinderisch in Rücksicht, \n</span><span class=\"line\">15</span><span class=\"tei-line \">Selbstbeherrschung, Zartsinn, Treue, Stolz und Freund-\n</span><span class=\"tei-line\">schaft sich beweisen, – sie sind nach Aussen hin, dort \n</span><span class=\"tei-line\">wo das Fremde, <span class=\"tei-hi2 spaced\">die</span> Fremde beginnt, nicht viel besser \n</span><span class=\"tei-line\">als losgelassne Raubthiere. Sie geniessen da die Frei-\n</span><span class=\"tei-line\">heit von allem socialen Zwang, sie halten sich in der \n</span><span class=\"line\">20</span><span class=\"tei-line \">Wildniss schadlos für die Spannung, welche eine lange \n</span><span class=\"tei-line\">Einschliessung und Einfriedigung in den Frieden der \n</span><span class=\"tei-line\">Gemeinschaft giebt, sie treten in die Unschuld des \n</span><span class=\"tei-line\">Raubthier-Gewissens <span class=\"tei-hi2 spaced\">zurück</span>, als frohlockende Unge-\n</span><span class=\"tei-line\">heuer, welche vielleicht von einer scheusslichen Ab-\n</span><span class=\"line\">25</span><span class=\"tei-line \">folge von Mord, Niederbrennung, Schändung, Folterung \n</span><span class=\"tei-line\">mit einem Übermuthe und seelischen Gleichgewichte \n</span><span class=\"tei-line\">davongehen, wie als ob nur ein Studentenstreich voll-\n</span><span class=\"tei-line\">bracht sei, überzeugt davon, dass die Dichter für lange \n</span><span class=\"tei-line\">nun wieder Etwas zu singen und zu rühmen haben. \n</span><span class=\"line\">30</span><span class=\"tei-line \">Auf dem Grunde aller dieser vornehmen Rassen ist \n</span><span class=\"tei-line\">das Raubthier, die prachtvolle nach Beute und Sieg \n</span><span class=\"tei-line\">lüstern schweifende <span class=\"tei-hi2 spaced\">blonde Bestie</span> nicht zu ver-\n</span><span class=\"tei-line\">kennen; es bedarf für diesen verborgenen Grund von \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

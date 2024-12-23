@@ -1,0 +1,10 @@
+{
+   "title": "Zur Genealogie der Moral",
+   "files": [{ "name":"D20.xml", "target": "dm", "prefix":"srcD_surface_", "type": "doc"},
+             { "name":"K11.xml", "target": "cb", "type": "doc"},
+             { "name":"E40.xml", "target": "ed", "type": "doc"},
+             { "name":"D20_xAppendix.xml", "target": "appendix", "type": "appendix"} ],
+    "appendices": [{"title": "Dokumente zur Entstehungs- und Druckgeschichte", "target":"appendix"},
+                 {"title":"Querverweise","target":"qv"},
+                 {"title": "Chronik", "target":"timeline"}]
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.16.7.66",
+    "rootNode": "2.5.12.6.16.7.66",
+    "id": "Ed_46_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.16.7.148",
+    "previous": "2.5.12.6.14.5.165",
+    "nextId": "Ed_47_id",
+    "previousId": "Ed_45_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0067.tif\">46</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">auch allerlängsten) Psychologie auf Erden. Man möchte \n</span><span class=\"tei-line\">selbst sagen, dass es überall, wo es jetzt noch auf Erden \n</span><span class=\"tei-line\">Feierlichkeit, Ernst, Geheimniss, düstere Farben im \n</span><span class=\"tei-line\">Leben von Mensch und Volk giebt, Etwas von der \n</span><span class=\"line\">5</span><span class=\"tei-line \">Schrecklichkeit <span class=\"tei-hi2 spaced\">nachwirkt</span>, mit der ehemals überall \n</span><span class=\"tei-line\">auf Erden versprochen, verpfändet, gelobt worden ist: \n</span><span class=\"tei-line\">die Vergangenheit, die längste tiefste härteste Ver-\n</span><span class=\"tei-line\">gangenheit, haucht uns an und quillt in uns herauf, \n</span><span class=\"tei-line\">wenn wir „ernst“ werden. Es gieng niemals ohne Blut, \n</span><span class=\"line\">10</span><span class=\"tei-line \">Martern, Opfer ab, wenn der Mensch es nöthig hielt, \n</span><span class=\"tei-line\">sich ein Gedächtniss zu machen; die schauerlichsten \n</span><span class=\"tei-line\">Opfer und Pfänder (wohin die Erstlingsopfer gehören), \n</span><span class=\"tei-line\">die widerlichsten Verstümmelungen (zum Beispiel die \n</span><span class=\"tei-line\">Castrationen), die grausamsten Ritualformen aller reli-\n</span><span class=\"line\">15</span><span class=\"tei-line \">giösen Culte (und alle Religionen sind auf dem unter-\n</span><span class=\"tei-line\">sten Grunde Systeme von Grausamkeiten) – alles Das \n</span><span class=\"tei-line\">hat in jenem Instinkte seinen Ursprung, welcher im \n</span><span class=\"tei-line\">Schmerz das mächtigste Hülfsmittel der Memnonik er-\n</span><span class=\"tei-line\">rieth. In einem gewissen Sinne gehört die ganze As-\n</span><span class=\"line\">20</span><span class=\"tei-line \">ketik hierher: ein paar Ideen sollen unauslöschlich, \n</span><span class=\"tei-line\">allgegenwärtig, unvergessbar, „fix“ gemacht werden, \n</span><span class=\"tei-line\">zum Zweck der Hypnotisirung des ganzen nervösen \n</span><span class=\"tei-line\">und intellektuellen Systems durch diese „fixen Ideen“ – \n</span><span class=\"tei-line\">und die asketischen Prozeduren und Lebensformen sind \n</span><span class=\"line\">25</span><span class=\"tei-line \">Mittel dazu, um jene Ideen aus der Concurrenz mit allen \n</span><span class=\"tei-line\">übrigen Ideen zu lösen, um sie „unvergesslich“ zu machen. \n</span><span class=\"tei-line\">Je schlechter die Menschheit „bei Gedächtniss“ war, um \n</span><span class=\"tei-line\">so furchtbarer ist immer der Aspekt ihrer Bräuche; \n</span><span class=\"tei-line\">die Härte der Strafgesetze giebt in Sonderheit einen \n</span><span class=\"line\">30</span><span class=\"tei-line \">Maassstab dafür ab, wie viel Mühe sie hatte, gegen die \n</span><span class=\"tei-line\">Vergesslichkeit zum Sieg zu kommen und ein paar \n</span><span class=\"tei-line\">primitive Erfordernisse des socialen Zusammenlebens \n</span><span class=\"tei-line\">diesen Augenblicks-Sklaven des Affekts und der Be-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.38.5.6",
+    "rootNode": "2.5.12.6.38.5.6",
+    "id": "Ed_73_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.38.5.103",
+    "previous": "2.5.12.6.36.7.159",
+    "nextId": "Ed_74_id",
+    "previousId": "Ed_72_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0094.tif\">73</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Um so eher darf man von ihr eine <span class=\"tei-hi2 spaced\">vermeintliche</span> \n</span><span class=\"tei-line\">Nützlichkeit in Abzug bringen, die allerdings im popu-\n</span><span class=\"tei-line\">lären Bewusstsein als ihre wesentlichste gilt, – der \n</span><span class=\"tei-line\">Glaube an die Strafe, der heute aus mehreren Gründen \n</span><span class=\"line\">5</span><span class=\"tei-line \">wackelt, findet gerade an ihr immer noch seine kräf-\n</span><span class=\"tei-line\">tigste Stütze. Die Strafe soll den Werth haben, das \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Gefühl der Schuld</span> im Schuldigen aufzuwecken, man \n</span><span class=\"tei-line\">sucht in ihr das eigentliche instrumentum jener seeli-\n</span><span class=\"tei-line\">schen Reaktion, welche „schlechtes Gewissen“, „Ge-\n</span><span class=\"line\">10</span><span class=\"tei-line \">wissensbiss“ genannt wird. Aber damit vergreift man \n</span><span class=\"tei-line\">sich selbst für heute noch an der Wirklichkeit und der \n</span><span class=\"tei-line\">Psychologie: und wie viel mehr für die längste Ge-\n</span><span class=\"tei-line\">schichte des Menschen, seine Vorgeschichte! Der ächte \n</span><span class=\"tei-line\">Gewissensbiss ist gerade unter Verbrechern und Sträf-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lingen etwas äusserst Seltenes, die Gefängnisse, die \n</span><span class=\"tei-line\">Zuchthäuser sind <span class=\"tei-hi2 spaced\">nicht</span> die Brutstätten, an denen diese \n</span><span class=\"tei-line\">Species von Nagewurm mit Vorliebe gedeiht: – darin \n</span><span class=\"tei-line\">kommen alle gewissenhaften Beobachter überein, die \n</span><span class=\"tei-line\">in vielen Fällen ein derartiges Urtheil ungern genug \n</span><span class=\"line\">20</span><span class=\"tei-line \">und wider die eigensten Wünsche abgeben. In’s Grosse \n</span><span class=\"tei-line\">gerechnet, härtet und kältet die Strafe ab; sie concen-\n</span><span class=\"tei-line\">trirt; sie verschärft das Gefühl der Entfremdung; sie \n</span><span class=\"tei-line\">stärkt die Widerstandskraft. Wenn es vorkommt, dass \n</span><span class=\"tei-line\">sie die Energie zerbricht und eine erbärmliche Prostra-\n</span><span class=\"line\">25</span><span class=\"tei-line \">tion und Selbsterniedrigung zu Wege bringt, so ist ein \n</span><span class=\"tei-line\">solches Ergebniss sicherlich noch weniger erquicklich \n</span><span class=\"tei-line\">als die durchschnittliche Wirkung der Strafe: als welche \n</span><span class=\"tei-line\">sich durch einen trocknen düsteren Ernst charakterisirt. \n</span><span class=\"tei-line\">Denken wir aber gar an jene Jahrtausende <span class=\"tei-hi2 spaced\">vor</span> der \n</span><span class=\"line\">30</span><span class=\"tei-line \">Geschichte des Menschen, so darf man unbedenklich \n</span><span class=\"tei-line\">urtheilen, dass gerade durch die Strafe die Entwicklung \n</span><span class=\"tei-line\">des Schuldgefühls am kräftigsten <span class=\"tei-hi2 spaced\">aufgehalten</span> wor-\n</span><span class=\"tei-line\">den ist, – wenigstens in Hinsicht auf die Opfer, an \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

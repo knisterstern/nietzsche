@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.21.5.22",
+    "rootNode": "2.5.12.8.21.5.22",
+    "id": "Ed_100_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.21.5.102",
+    "previous": "2.5.12.8.19.7.94",
+    "nextId": "Ed_101_id",
+    "previousId": "Ed_99_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0121.tif\">100</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">gemeint? Man könnte nämlich versucht sein, das Um-\n</span><span class=\"tei-line\">gekehrte zu muthmaassen, selbst zu wünschen, – dass \n</span><span class=\"tei-line\">der Wagner’sche Parsifal heiter gemeint sei, gleichsam \n</span><span class=\"tei-line\">als Schlussstück und Satyrdrama, mit dem der Tragiker \n</span><span class=\"line\">5</span><span class=\"tei-line \">Wagner auf eine gerade ihm gebührende und würdige \n</span><span class=\"tei-line\">Weise von uns, auch von sich, vor Allem <span class=\"tei-hi2 spaced\">von der \n<span class=\"tei-line\">Tragödie</span>Tragödie</span> habe Abschied nehmen wollen, nämlich mit \n</span><span class=\"tei-line\">einem Excess höchster und muthwilligster Parodie auf \n</span><span class=\"tei-line\">das Tragische selbst, auf den ganzen schauerlichen \n</span><span class=\"line\">10</span><span class=\"tei-line \">Erden-Ernst und Erden-Jammer von Ehedem, auf die \n</span><span class=\"tei-line\">endlich überwundene <span class=\"tei-hi2 spaced\">gröbste Form</span> in der Widernatur \n</span><span class=\"tei-line\">des asketischen Ideals. So wäre es, wie gesagt, eines \n</span><span class=\"tei-line\">grossen Tragikers gerade würdig gewesen: als welcher, \n</span><span class=\"tei-line\">wie jeder Künstler, erst dann auf den letzten Gipfel \n</span><span class=\"line\">15</span><span class=\"tei-line \">seiner Grösse kommt, wenn er sich und seine Kunst \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">unter</span> sich zu sehen weiss, – wenn er über sich zu \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">lachen</span> weiss. Ist der „Parsifal“ Wagner’s sein heim-\n</span><span class=\"tei-line\">liches Überlegenheits-Lachen über sich selbst, der \n</span><span class=\"tei-line\">Triumph seiner errungenen letzten höchsten Künstler-\n</span><span class=\"line\">20</span><span class=\"tei-line \">Freiheit, Künstler-Jenseitigkeit? Man möchte es, wie \n</span><span class=\"tei-line\">gesagt, wünschen: denn was würde der <span class=\"tei-hi2 spaced\">ernstgemeinte</span> \n</span><span class=\"tei-line\">Parsifal sein? Hat man wirklich nöthig, in ihm (wie \n</span><span class=\"tei-line\">man sich gegen mich ausgedrückt hat) „die Ausgeburt \n</span><span class=\"tei-line\">eines tollgewordenen Hasses auf Erkenntniss, Geist und \n</span><span class=\"line\">25</span><span class=\"tei-line \">Sinnlichkeit“ zu sehn? Einen Fluch auf Sinne und \n</span><span class=\"tei-line\">Geist in Einem Hass und Athem? Eine Apostasie und \n</span><span class=\"tei-line\">Umkehr zu christlich-krankhaften und obskurantistischen \n</span><span class=\"tei-line\">Idealen? Und zuletzt gar ein Sich-selbst-Verneinen, \n</span><span class=\"tei-line\">Sich-selbst-Durchstreichen von Seiten eines Künstlers, \n</span><span class=\"line\">30</span><span class=\"tei-line \">der bis dahin mit aller Macht seines Willens auf das \n</span><span class=\"tei-line\">Umgekehrte, nämlich auf <span class=\"tei-hi2 spaced\">höchste Vergeistigung \n<span class=\"tei-line\">und Versinnlichung</span>und Versinnlichung</span> seiner Kunst aus gewesen war? \n</span><span class=\"tei-line\">Und nicht nur seiner Kunst: auch seines Lebens. Man \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

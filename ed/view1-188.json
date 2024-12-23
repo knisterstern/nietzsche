@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.63.7.296",
+    "rootNode": "2.5.12.8.63.7.296",
+    "id": "Ed_169_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.63.7.390",
+    "previous": "2.5.12.8.63.7.202",
+    "nextId": "Ed_170_id",
+    "previousId": "Ed_168_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0190.tif\">169</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">phie „auf streng wissenschaftliche Grundlage“ zu stellen, \n</span><span class=\"tei-line\">der hat dazu erst nöthig, nicht nur die Philosophie, \n</span><span class=\"tei-line\">sondern auch die Wahrheit selber <span class=\"tei-hi2 spaced\">auf den Kopf zu \n<span class=\"tei-line\">stellen</span>stellen</span>: die ärgste Anstands-Verletzung, die es in \n</span><span class=\"line\">5</span><span class=\"tei-line \">Hinsicht auf zwei so ehrwürdige Frauenzimmer geben \n</span><span class=\"tei-line\">kann!) Ja, es ist kein Zweifel – und hiermit lasse ich \n</span><span class=\"tei-line\">meine „fröhliche Wissenschaft“ zu Worte kommen, \n</span><span class=\"tei-line\">vergl. deren fünftes Buch S. 263 – „der Wahrhaftige, in \n</span><span class=\"tei-line\">jenem verwegenen und letzten Sinne, wie ihn der \n</span><span class=\"line\">10</span><span class=\"tei-line \">Glaube an die Wissenschaft voraussetzt, <span class=\"tei-hi2 spaced\">bejaht da-\n<span class=\"tei-line\">mit eine andre Welt</span>mit eine andre Welt</span> als die des Lebens, der Natur \n</span><span class=\"tei-line\">und der Geschichte; und insofern er diese „andre Welt“ \n</span><span class=\"tei-line\">bejaht, wie? muss er nicht eben damit ihr Gegenstück, \n</span><span class=\"tei-line\">diese Welt, <span class=\"tei-hi2 spaced\">unsre</span> Welt – verneinen?… Es ist immer \n</span><span class=\"line\">15</span><span class=\"tei-line \">noch ein <span class=\"tei-hi2 spaced\">metaphysischer Glaube</span>, auf dem unser \n</span><span class=\"tei-line\">Glaube an die Wissenschaft ruht, – auch wir Erken-\n</span><span class=\"tei-line\">nenden von Heute, wir Gottlosen und Antimetaphy-\n</span><span class=\"tei-line\">siker, auch wir nehmen <span class=\"tei-hi2 spaced\">unser</span> Feuer noch von jenem \n</span><span class=\"tei-line\">Brande, den ein Jahrtausende alter Glaube entzündet \n</span><span class=\"line\">20</span><span class=\"tei-line \">hat, jener Christen-Glaube, der auch der Glaube Pla-\n</span><span class=\"tei-line\">to’s war, dass Gott die Wahrheit ist, dass die Wahr-\n</span><span class=\"tei-line\">heit <span class=\"tei-hi2 spaced\">göttlich</span> ist… Aber wie, wenn gerade dies \n</span><span class=\"tei-line\">immer mehr unglaubwürdig wird, wenn Nichts sich \n</span><span class=\"tei-line\">mehr als göttlich erweist, es sei denn der Irrthum, \n</span><span class=\"line\">25</span><span class=\"tei-line \">die Blindheit, die Lüge, – wenn Gott selbst sich als \n</span><span class=\"tei-line\">unsre <span class=\"tei-hi2 spaced\">längste Lüge</span> erweist?“ – – An dieser Stelle \n</span><span class=\"tei-line\">thut es Noth, Halt zu machen und sich lange zu be-\n</span><span class=\"tei-line\">sinnen. Die Wissenschaft selber <span class=\"tei-hi2 spaced\">bedarf</span> nunmehr \n</span><span class=\"tei-line\">einer Rechtfertigung (womit noch nicht einmal gesagt \n</span><span class=\"line\">30</span><span class=\"tei-line \">sein soll, dass es eine solche für sie giebt). Man sehe \n</span><span class=\"tei-line\">sich auf diese Frage die ältesten und die jüngsten Philo-\n</span><span class=\"tei-line\">sophien an: in ihnen allen fehlt ein Bewusstsein darüber, \n</span><span class=\"tei-line\">inwiefern der Wille zur Wahrheit selbst erst einer \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

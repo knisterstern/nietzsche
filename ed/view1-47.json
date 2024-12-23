@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.43.5.170",
+    "rootNode": "2.5.12.4.43.5.170",
+    "id": "Ed_28_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.45.5.12",
+    "previous": "2.5.12.4.43.5.87",
+    "nextId": "Ed_29_id",
+    "previousId": "Ed_27_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0049.tif\">28</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">haupt vom Leben verlangt, gleich uns den Geduldigen, \n</span><span class=\"tei-line\">Demüthigen, Gerechten“ – so heisst das, kalt und ohne \n</span><span class=\"tei-line\">Voreingenommenheit angehört, eigentlich nichts weiter \n</span><span class=\"tei-line\">als: „wir Schwachen sind nun einmal schwach; es ist \n</span><span class=\"line\">5</span><span class=\"tei-line \">gut, wenn wir nichts thun, <span class=\"tei-hi2 spaced\">wozu wir nicht stark \n<span class=\"tei-line\">genug sind</span>genug sind</span>“ – aber dieser herbe Thatbestand, diese \n</span><span class=\"tei-line\">Klugheit niedrigsten Ranges, welche selbst Insekten \n</span><span class=\"tei-line\">haben (die sich wohl todt stellen, um nicht „zu viel“ zu \n</span><span class=\"tei-line\">thun, bei grosser Gefahr), hat sich Dank jener Falsch-\n</span><span class=\"line\">10</span><span class=\"tei-line \">münzerei und Selbstverlogenheit der Ohnmacht in den \n</span><span class=\"tei-line\">Prunk der entsagenden stillen abwartenden Tugend \n</span><span class=\"tei-line\">gekleidet, gleich als ob die Schwäche des Schwachen \n</span><span class=\"tei-line\">selbst – das heisst doch sein <span class=\"tei-hi2 spaced\">Wesen</span>, sein Wirken, \n</span><span class=\"tei-line\">seine ganze einzige unvermeidliche, unablösbare Wirk-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lichkeit – eine freiwillige Leistung, etwas Gewolltes, \n</span><span class=\"tei-line\">Gewähltes, eine <span class=\"tei-hi2 spaced\">That</span>, ein <span class=\"tei-hi2 spaced\">Verdienst</span> sei. Diese \n</span><span class=\"tei-line\">Art Mensch hat den Glauben an das indifferente wahl-\n</span><span class=\"tei-line\">freie „Subjekt“ <span class=\"tei-hi2 spaced\">nöthig</span> aus einem Instinkte der Selbst-\n</span><span class=\"tei-line\">erhaltung, Selbstbejahung heraus, in dem jede Lüge \n</span><span class=\"line\">20</span><span class=\"tei-line \">sich zu heiligen pflegt. Das Subjekt (oder, dass wir \n</span><span class=\"tei-line\">populärer reden, die <span class=\"tei-hi2 spaced\">Seele</span>) ist vielleicht deshalb bis \n</span><span class=\"tei-line\">jetzt auf Erden der beste Glaubenssatz gewesen, weil \n</span><span class=\"tei-line\">er der Überzahl der Sterblichen, den Schwachen und \n</span><span class=\"tei-line\">Niedergedrückten jeder Art, jene sublime Selbstbetrü-\n</span><span class=\"line\">25</span><span class=\"tei-line \">gerei ermöglichte, die Schwäche selbst als Freiheit, ihr \n</span><span class=\"tei-line\">So- und So-sein als <span class=\"tei-hi2 spaced\">Verdienst</span> auszulegen.</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">14.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Will Jemand ein wenig in das Geheimniss hinab \n</span><span class=\"tei-line\">und hinunter sehn, wie man auf Erden <span class=\"tei-hi2 spaced\">Ideale fabri-\n<span class=\"line\">30</span><span class=\"tei-line \">zirt</span>zirt</span>? Wer hat den Muth dazu?… Wohlan! Hier ist \n</span><span class=\"tei-line\">der Blick offen in diese dunkle Werkstätte. Warten \n</span><span class=\"tei-line\">Sie noch einen Augenblick, mein Herr Vorwitz und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

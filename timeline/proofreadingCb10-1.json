@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.83",
+    "id": "proofreadingCb10",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"proofreadingCb10\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Korrektur Cb10</h5>Nach mehrtägiger Verspätung der entsprechenden Postsendung Korrektur von Bogen 10 (S. 145-160: GM III 17-22) <span class=\"tei-date2\">zwischen 15. und 19. Oktober 1887</span>.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.11.5.60",
+    "rootNode": "2.5.12.2.11.5.60",
+    "id": "Ed_V_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.13.5.37",
+    "previous": "2.5.12.2.9.5.63",
+    "nextId": "Ed_VI_id",
+    "previousId": "Ed_IV_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0010.tif\">V</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">nicht beliebig, nicht sporadisch entstanden sein, son-\n</span><span class=\"tei-line\">dern aus einer gemeinsamen Wurzel heraus, aus einem \n</span><span class=\"tei-line\">in der Tiefe gebietenden, immer bestimmter redenden, \n</span><span class=\"tei-line\">immer Bestimmteres verlangenden <span class=\"tei-hi2 spaced\">Grundwillen</span> der \n</span><span class=\"line\">5</span><span class=\"tei-line \">Erkenntniss. So allein nämlich geziemt es sich bei \n</span><span class=\"tei-line\">einem Philosophen. Wir haben kein Recht darauf, \n</span><span class=\"tei-line\">irgend worin <span class=\"tei-hi2 spaced\">einzeln</span> zu sein: wir dürfen weder ein-\n</span><span class=\"tei-line\">zeln irren, noch einzeln die Wahrheit treffen. Vielmehr \n</span><span class=\"tei-line\">mit der Nothwendigkeit, mit der ein Baum seine Früchte \n</span><span class=\"line\">10</span><span class=\"tei-line \">trägt, wachsen aus uns unsre Gedanken, unsre Werthe, \n</span><span class=\"tei-line\">unsre Ja’s und Nein’s und Wenn’s und Ob’s – ver-\n</span><span class=\"tei-line\">wandt und bezüglich allesammt unter einander und \n</span><span class=\"tei-line\">Zeugnisse Eines Willens, Einer Gesundheit, Eines Erd-\n</span><span class=\"tei-line\">reichs, Einer Sonne. – Ob sie <span class=\"tei-hi2 spaced\">euch</span> schmecken, diese \n</span><span class=\"line\">15</span><span class=\"tei-line \">unsre Früchte? – Aber was geht das die Bäume an! \n</span><span class=\"tei-line\">Was geht das <span class=\"tei-hi2 spaced\">uns</span> an, uns Philosophen!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">3.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Bei einer mir eignen Bedenklichkeit, die ich un-\n</span><span class=\"tei-line\">gern eingestehe – sie bezieht sich nämlich auf die \n</span><span class=\"line\">20</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">Moral</span>, auf Alles, was bisher auf Erden als Moral ge-\n</span><span class=\"tei-line\">feiert worden ist –, einer Bedenklichkeit, welche in \n</span><span class=\"tei-line\">meinem Leben so früh, so unaufgefordert, so unauf-\n</span><span class=\"tei-line\">haltsam, so in Widerspruch gegen Umgebung, Alter, \n</span><span class=\"tei-line\">Beispiel, Herkunft auftrat, dass ich beinahe das Recht \n</span><span class=\"line\">25</span><span class=\"tei-line \">hätte, sie mein „A priori“ zu nennen, – musste meine \n</span><span class=\"tei-line\">Neugierde ebenso wie mein Verdacht bei Zeiten an der \n</span><span class=\"tei-line\">Frage Halt machen, <span class=\"tei-hi2 spaced\">welchen Ursprung</span> eigentlich \n</span><span class=\"tei-line\">unser Gut und Böse habe. In der That gieng mir be-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

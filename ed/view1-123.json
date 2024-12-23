@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.25.5.74",
+    "rootNode": "2.5.12.8.25.5.74",
+    "id": "Ed_104_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.25.5.177",
+    "previous": "2.5.12.8.23.5.132",
+    "nextId": "Ed_105_id",
+    "previousId": "Ed_103_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0125.tif\">104</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">schlag gebracht, ob im <span class=\"tei-hi2 spaced\">neuen</span> Deutschland ein Künst-\n</span><span class=\"tei-line\">ler ohne die Milch frommer, reichsfrommer Denkungs-\n</span><span class=\"tei-line\">art überhaupt möglich gewesen wäre). – Und damit \n</span><span class=\"tei-line\">sind wir bei der ernsthafteren Frage angelangt: was be-\n</span><span class=\"line\">5</span><span class=\"tei-line \">deutet es, wenn ein wirklicher <span class=\"tei-hi2 spaced\">Philosoph</span> dem aske-\n</span><span class=\"tei-line\">tischen Ideale huldigt, ein wirklich auf sich gestellter \n</span><span class=\"tei-line\">Geist wie Schopenhauer, ein Mann und Ritter mit erze-\n</span><span class=\"tei-line\">nem Blick, der den Muth zu sich selber hat, der allein \n</span><span class=\"tei-line\">zu stehn weiss und nicht erst auf Vordermänner und \n</span><span class=\"line\">10</span><span class=\"tei-line \">höhere Winke wartet? – Erwägen wir hier sofort die \n</span><span class=\"tei-line\">merkwürdige und für manche Art Mensch selbst fasci-\n</span><span class=\"tei-line\">nirende Stellung Schopenhauer’s zur <span class=\"tei-hi2 spaced\">Kunst</span>: denn sie \n</span><span class=\"tei-line\">ist es ersichtlich gewesen, um derentwillen <span class=\"tei-hi2 spaced\">zunächst</span> \n</span><span class=\"tei-line\">Richard Wagner zu Schopenhauern übertrat (überredet \n</span><span class=\"line\">15</span><span class=\"tei-line \">dazu durch einen Dichter, wie man weiss, durch Her-\n</span><span class=\"tei-line\">wegh), und dies bis zu dem Maasse, dass sich damit ein \n</span><span class=\"tei-line\">vollkommner theoretischer Widerspruch zwischen seinem \n</span><span class=\"tei-line\">früheren und seinem späteren ästhetischen Glauben auf-\n</span><span class=\"tei-line\">riss, – ersterer zum Beispiel in „Oper und Drama“ aus-\n</span><span class=\"line\">20</span><span class=\"tei-line \">gedrückt, letzterer in den Schriften, die er von 1870 an \n</span><span class=\"tei-line\">herausgab. In Sonderheit änderte Wagner, was vielleicht \n</span><span class=\"tei-line\">am meisten befremdet, von da an rücksichtslos sein Ur-\n</span><span class=\"tei-line\">theil über Werth und Stellung der <span class=\"tei-hi2 spaced\">Musik</span> selbst: was \n</span><span class=\"tei-line\">lag ihm daran, dass er bisher aus ihr ein Mittel, ein \n</span><span class=\"line\">25</span><span class=\"tei-line \">Medium, ein „Weib“ gemacht hatte, das schlechterdings \n</span><span class=\"tei-line\">eines Zweckes, eines Manns bedürfe um zu gedeihn – \n</span><span class=\"tei-line\">nämlich des Drama’s! Er begriff mit Einem Male, \n</span><span class=\"tei-line\">dass mit der Schopenhauer’schen Theorie und Neuerung \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">mehr</span> zu machen sei in majorem musicae gloriam, – \n</span><span class=\"line\">30</span><span class=\"tei-line \">nämlich mit der <span class=\"tei-hi2 spaced\">Souverainetät</span> der Musik, so wie \n</span><span class=\"tei-line\">sie Schopenhauer begriff: die Musik abseits gestellt \n</span><span class=\"tei-line\">gegen alle übrigen Künste, die unabhängige Kunst an \n</span><span class=\"tei-line\">sich, <span class=\"tei-hi2 spaced\">nicht</span>, wie diese, Abbilder der Phänomenalität \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

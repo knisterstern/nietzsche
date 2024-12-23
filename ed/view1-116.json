@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.15",
+    "rootNode": "2.5.12.8.15",
+    "id": "Ed_97_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.19.7.6",
+    "previous": "2.5.12.8.9",
+    "nextId": "Ed_98_id",
+    "previousId": "Ed_96_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0118.tif\">[97]</pb-facs-link></span>\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>1.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Was bedeuten asketische Ideale? – Bei Künstlern \n</span><span class=\"tei-line\">Nichts oder zu Vielerlei; bei Philosophen und Gelehrten \n</span><span class=\"tei-line\">Etwas wie Witterung und Instinkt für die günstigsten \n</span><span class=\"line\">5</span><span class=\"tei-line \">Vorbedingungen hoher Geistigkeit; bei Frauen, besten \n</span><span class=\"tei-line\">Falls, eine Liebenswürdigkeit der Verführung <span class=\"tei-hi2 spaced\">mehr</span>, ein \n</span><span class=\"tei-line\">wenig morbidezza auf schönem Fleische, die Engelhaf-\n</span><span class=\"tei-line\">tigkeit eines hübschen fetten Thiers; bei physiologisch \n</span><span class=\"tei-line\">Verunglückten und Verstimmten (bei der <span class=\"tei-hi2 spaced\">Mehrzahl</span> \n</span><span class=\"line\">10</span><span class=\"tei-line \">der Sterblichen) einen Versuch, sich „zu gut“ für diese \n</span><span class=\"tei-line\">Welt vorzukommen, eine heilige Form der Ausschwei-\n</span><span class=\"tei-line\">fung, ihr Hauptmittel im Kampf mit dem langsamen \n</span><span class=\"tei-line\">Schmerz und der Langenweile; bei Priestern den eigent-\n</span><span class=\"tei-line\">lichen Priesterglauben, ihr bestes Werkzeug der Macht, \n</span><span class=\"line\">15</span><span class=\"tei-line \">auch die „allerhöchste“ Erlaubniss zur Macht; bei Hei-\n</span><span class=\"tei-line\">ligen endlich einen Vorwand zum Winterschlaf, ihre \n</span><span class=\"tei-line\">novissima gloriae cupido, ihre Ruhe im Nichts („Gott“), \n</span><span class=\"tei-line\">ihre Form des Irrsinns. <span class=\"tei-hi2 spaced\">Dass</span> aber überhaupt das \n</span><span class=\"tei-line\">asketische Ideal dem Menschen so viel bedeutet hat, \n</span><span class=\"line\">20</span><span class=\"tei-line \">darin drückt sich die Grundthatsache des menschlichen \n</span><span class=\"tei-line\">Willens aus, sein horror vacui: <span class=\"tei-hi2 spaced\">er braucht ein Ziel</span>, \n</span><span class=\"tei-line\">– und eher will er noch <span class=\"tei-hi2 spaced\">das Nichts</span> wollen, als <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">wollen. – Versteht man mich?… Hat man mich ver-\n</span><span class=\"tei-line\">standen?… „<span class=\"tei-hi2 spaced\">Schlechterdings nicht! mein Herr</span>!“ \n</span><span class=\"line\">25</span><span class=\"tei-line \">– Fangen wir also von vorne an. </span></p>\n\n\n  \n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">2.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Was bedeuten asketische Ideale? – Oder, dass ich \n</span><span class=\"tei-line\">einen einzelnen Fall nehme, in Betreff dessen ich oft\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

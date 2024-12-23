@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.40.5.8",
+    "rootNode": "2.5.12.6.40.5.8",
+    "id": "Ed_75_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.40.5.100",
+    "previous": "2.5.12.6.38.5.103",
+    "nextId": "Ed_76_id",
+    "previousId": "Ed_74_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0096.tif\">75</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">welche sich ordentlich darum <span class=\"tei-hi2 spaced\">bemühen</span>, ihn an dieser \n</span><span class=\"tei-line\">Stelle misszuverstehn, zum Beispiel Kuno Fischer), \n</span><span class=\"tei-line\">als er eines Nachmittags, wer weiss, an was für einer \n</span><span class=\"tei-line\">Erinnerung sich reibend, der Frage nachhieng, was \n</span><span class=\"line\">5</span><span class=\"tei-line \">eigentlich für ihn selbst von dem berühmten <span class=\"tei-hi2 spaced\">morsus \n<span class=\"tei-line\">conscientiae</span>conscientiae</span> übrig geblieben sei – er, der Gut und \n</span><span class=\"tei-line\">Böse unter die menschlichen Einbildungen verwiesen \n</span><span class=\"tei-line\">und mit Ingrimm die Ehre seines „freien“ Gottes gegen \n</span><span class=\"tei-line\">jene Lästerer vertheidigt hatte, deren Behauptung \n</span><span class=\"line\">10</span><span class=\"tei-line \">dahin gieng, Gott wirke Alles sub ratione boni („das \n</span><span class=\"tei-line\">aber hiesse Gott dem Schicksale unterwerfen und wäre \n</span><span class=\"tei-line\">fürwahr die grösste aller Ungereimtheiten“ –). Die \n</span><span class=\"tei-line\">Welt war für Spinoza wieder in jene Unschuld zurück-\n</span><span class=\"tei-line\">getreten, in der sie vor der Erfindung des schlechten \n</span><span class=\"line\">15</span><span class=\"tei-line \">Gewissens dalag: was war damit aus dem morsus con-\n</span><span class=\"tei-line\">scientiae geworden? „Der Gegensatz des gaudium, sagte \n</span><span class=\"tei-line\">er sich endlich, – eine Traurigkeit, begleitet von der \n</span><span class=\"tei-line\">Vorstellung einer vergangnen Sache, die gegen alles \n</span><span class=\"tei-line\">Erwarten ausgefallen ist.“ Eth. III propos. XVIII schol. \n</span><span class=\"line\">20</span><span class=\"tei-line \">I. II. <span class=\"tei-hi2 spaced\">Nicht anders als Spinoza</span> haben die von der \n</span><span class=\"tei-line\">Strafe ereilten Übel-Anstifter Jahrtausende lang in Be-\n</span><span class=\"tei-line\">treff ihres „Vergehens“ empfunden: „hier ist Etwas un-\n</span><span class=\"tei-line\">vermuthet schief gegangen“, <span class=\"tei-hi2 spaced\">nicht</span>: „das hätte ich \n</span><span class=\"tei-line\">nicht thun sollen“ –, sie unterwarfen sich der Strafe, \n</span><span class=\"line\">25</span><span class=\"tei-line \">wie man sich einer Krankheit oder einem Unglücke \n</span><span class=\"tei-line\">oder dem Tode unterwirft, mit jenem beherzten Fata-\n</span><span class=\"tei-line\">lismus ohne Revolte, durch den zum Beispiel heute \n</span><span class=\"tei-line\">noch die Russen in der Handhabung des Lebens gegen \n</span><span class=\"tei-line\">uns Westländer im Vortheil sind. Wenn es damals eine \n</span><span class=\"line\">30</span><span class=\"tei-line \">Kritik der That gab, so war es die Klugheit, die an \n</span><span class=\"tei-line\">der That Kritik übte: ohne Frage müssen wir die eigent-\n</span><span class=\"tei-line\">liche <span class=\"tei-hi2 spaced\">Wirkung</span> der Strafe vor Allem in einer Verschär-\n</span><span class=\"tei-line\">fung der Klugheit suchen, in einer Verlängerung des \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

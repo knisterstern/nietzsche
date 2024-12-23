@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.47.5.221",
+    "rootNode": "2.5.12.4.47.5.221",
+    "id": "Ed_34_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.49.7.84",
+    "previous": "2.5.12.4.47.5.135",
+    "nextId": "Ed_35_id",
+    "previousId": "Ed_33_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0055.tif\">34</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Anderen, komische und tragische Bühne) et omni stadio \n</span><span class=\"tei-line\">gratiora.“ – <span class=\"tei-hi2 spaced\">Per fidem:</span> so steht’s geschrieben.</span></p>\n\n\n\n  \n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">16.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Kommen wir zum Schluss. Die beiden <span class=\"tei-hi2 spaced\">entgegen-\n<span class=\"line\">5</span><span class=\"tei-line \">gesetzten</span>gesetzten</span> Werthe „gut und schlecht“, „gut und böse“ \n</span><span class=\"tei-line\">haben einen furchtbaren, Jahrtausende langen Kampf \n</span><span class=\"tei-line\">auf Erden gekämpft; und so gewiss auch der zweite \n</span><span class=\"tei-line\">Werth seit langem im Übergewichte ist, so fehlt es \n</span><span class=\"tei-line\">doch auch jetzt noch nicht an Stellen, wo der Kampf \n</span><span class=\"line\">10</span><span class=\"tei-line \">unentschieden fortgekämpft wird. Man könnte selbst \n</span><span class=\"tei-line\">sagen, dass er inzwischen immer höher hinauf getragen \n</span><span class=\"tei-line\">und eben damit immer tiefer, immer geistiger gewor-\n</span><span class=\"tei-line\">den sei: so dass es heute vielleicht kein entscheiden-\n</span><span class=\"tei-line\">deres Abzeichen der „<span class=\"tei-hi2 spaced\">höheren Natur</span>“, der geistige-\n</span><span class=\"line\">15</span><span class=\"tei-line \">ren Natur giebt, als zwiespältig in jenem Sinne und \n</span><span class=\"tei-line\">wirklich noch ein Kampfplatz für jene Gegensätze zu \n</span><span class=\"tei-line\">sein. Das Symbol dieses Kampfes, in einer Schrift \n</span><span class=\"tei-line\">geschrieben, die über alle Menschengeschichte hinweg \n</span><span class=\"tei-line\">bisher lesbar blieb, heisst „Rom gegen Judäa, Judäa \n</span><span class=\"line\">20</span><span class=\"tei-line \">gegen Rom“: – es gab bisher kein grösseres Ereig-\n</span><span class=\"tei-line\">niss als <span class=\"tei-hi2 spaced\">diesen</span> Kampf, <span class=\"tei-hi2 spaced\">diese</span> Fragestellung, <span class=\"tei-hi2 spaced\">diesen</span> \n</span><span class=\"tei-line\">todfeindlichen Widerspruch. Rom empfand im Juden \n</span><span class=\"tei-line\">Etwas wie die Widernatur selbst, gleichsam sein anti-\n</span><span class=\"tei-line\">podisches Monstrum; in Rom galt der Jude „des Hasses \n</span><span class=\"line\">25</span><span class=\"tei-line \">gegen das ganze Menschengeschlecht <span class=\"tei-hi2 spaced\">überführt</span>“: \n</span><span class=\"tei-line\">mit Recht, sofern man ein Recht hat, das Heil und die \n</span><span class=\"tei-line\">Zukunft des Menschengeschlechts an die unbedingte \n</span><span class=\"tei-line\">Herrschaft der aristokratischen Werthe, der römischen \n</span><span class=\"tei-line\">Werthe anzuknüpfen. Was dagegen die Juden gegen \n</span><span class=\"line\">30</span><span class=\"tei-line \">Rom empfunden haben? Man erräth es aus tausend An-\n</span><span class=\"tei-line\">zeichen; aber es genügt, sich einmal wieder die Jo-\n</span><span class=\"tei-line\">hanneische Apokalypse zu Gemüthe zu führen, jenen \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.13.5.122",
+    "rootNode": "2.5.12.2.13.5.122",
+    "id": "Ed_VII_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.15.5.56",
+    "previous": "2.5.12.2.13.5.37",
+    "nextId": "Ed_VIII_id",
+    "previousId": "Ed_VI_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0012.tif\">VII</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">spezialisirte mein Problem, aus den Antworten wurden \n</span><span class=\"tei-line\">neue Fragen, Forschungen, Vermuthungen, Wahrschein-\n</span><span class=\"tei-line\">lichkeiten: bis ich endlich ein eignes Land, einen eig-\n</span><span class=\"tei-line\">nen Boden hatte, eine ganze verschwiegene wachsende \n</span><span class=\"line\">5</span><span class=\"tei-line \">blühende Welt, heimliche Gärten gleichsam, von denen \n</span><span class=\"tei-line\">Niemand Etwas ahnen durfte… Oh wie wir <span class=\"tei-hi2 spaced\">glück-</span>\n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">lich</span> sind, wir Erkennenden, vorausgesetzt, dass wir \n</span><span class=\"tei-line\">nur lange genug zu schweigen wissen!…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">4.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">10</span><span class=\"tei-line indent\">Den ersten Anstoss, von meinen Hypothesen über \n</span><span class=\"tei-line\">den Ursprung der Moral Etwas zu verlautbaren, gab \n</span><span class=\"tei-line\">mir ein klares, sauberes und kluges, auch altkluges \n</span><span class=\"tei-line\">Büchlein, in welchem mir eine umgekehrte und per-\n</span><span class=\"tei-line\">verse Art von genealogischen Hypothesen, ihre eigent-\n</span><span class=\"line\">15</span><span class=\"tei-line \">lich <span class=\"tei-hi2 spaced\">englische</span> Art, zum ersten Male deutlich ent-\n</span><span class=\"tei-line\">gegentrat, und das mich anzog – mit jener Anziehungs-\n</span><span class=\"tei-line\">kraft, die alles Entgegengesetzte, alles Antipodische \n</span><span class=\"tei-line\">hat. Der Titel des Büchleins war „der Ursprung der \n</span><span class=\"tei-line\">moralischen Empfindungen“; sein Verfasser Dr. Paul \n</span><span class=\"line\">20</span><span class=\"tei-line \">Rée; das Jahr seines Erscheinens 1877. Vielleicht habe \n</span><span class=\"tei-line\">ich niemals Etwas gelesen, zu dem ich dermaassen, \n</span><span class=\"tei-line\">Satz für Satz, Schluss für Schluss, bei mir Nein ge-\n</span><span class=\"tei-line\">sagt hätte wie zu diesem Buche: doch ganz ohne Ver-\n</span><span class=\"tei-line\">druss und Ungeduld. In dem vorher bezeichneten \n</span><span class=\"line\">25</span><span class=\"tei-line \">Werke, an dem ich damals arbeitete, nahm ich ge-\n</span><span class=\"tei-line\">legentlich und ungelegentlich auf die Sätze jenes Buchs \n</span><span class=\"tei-line\">Bezug, nicht indem ich sie widerlegte – was habe ich \n</span><span class=\"tei-line\">mit Widerlegungen zu schaffen! – sondern, wie es \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

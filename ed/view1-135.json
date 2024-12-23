@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.31.5.428",
+    "rootNode": "2.5.12.8.31.5.428",
+    "id": "Ed_116_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.31.5.521",
+    "previous": "2.5.12.8.31.5.330",
+    "nextId": "Ed_117_id",
+    "previousId": "Ed_115_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0137.tif\">116</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Indien unter Philosophen aus „wozu Nachkommenschaft \n</span><span class=\"tei-line\">Dem, dessen Seele die Welt ist?“). Darin ist Nichts von \n</span><span class=\"tei-line\">Keuschheit aus irgend einem asketischen Skrupel und \n</span><span class=\"tei-line\">Sinnenhass, so wenig es Keuschheit ist, wenn ein Ath-\n</span><span class=\"line\">5</span><span class=\"tei-line \">let oder Jockey sich der Weiber enthält: so will es \n</span><span class=\"tei-line\">vielmehr, zum Mindesten für die Zeiten der grossen \n</span><span class=\"tei-line\">Schwangerschaft, ihr dominirender Instinkt. Jeder Ar-\n</span><span class=\"tei-line\">tist weiss, wie schädlich in Zuständen grosser geistiger \n</span><span class=\"tei-line\">Spannung und Vorbereitung der Beischlaf wirkt; für \n</span><span class=\"line\">10</span><span class=\"tei-line \">die mächtigsten und instinktsichersten unter ihnen ge-\n</span><span class=\"tei-line\">hört dazu nicht erst die Erfahrung, die schlimme Er-\n</span><span class=\"tei-line\">fahrung, – sondern eben ihr „mütterlicher“ Instinkt \n</span><span class=\"tei-line\">ist es, der hier zum Vortheil des werdenden Werkes \n</span><span class=\"tei-line\">rücksichtslos über alle sonstigen Vorräthe und Zuschüsse \n</span><span class=\"line\">15</span><span class=\"tei-line \">von Kraft, von vigor des animalen Lebens verfügt: \n</span><span class=\"tei-line\">die grössere Kraft <span class=\"tei-hi2 spaced\">verbraucht</span> dann die kleinere. – \n</span><span class=\"tei-line\">Man lege sich übrigens den oben besprochenen Fall \n</span><span class=\"tei-line\">Schopenhauer’s nach dieser Interpretation zurecht: der \n</span><span class=\"tei-line\">Anblick des Schönen wirkte offenbar bei ihm als aus-\n</span><span class=\"line\">20</span><span class=\"tei-line \">lösender Reiz auf die <span class=\"tei-hi2 spaced\">Hauptkraft</span> seiner Natur (die \n</span><span class=\"tei-line\">Kraft der Besinnung und des vertieften Blicks); so dass \n</span><span class=\"tei-line\">diese dann explodirte und mit Einem Male Herr des \n</span><span class=\"tei-line\">Bewusstseins wurde. Damit soll durchaus die Möglich-\n</span><span class=\"tei-line\">keit nicht ausgeschlossen sein, dass jene eigenthümliche \n</span><span class=\"line\">25</span><span class=\"tei-line \">Süssigkeit und Fülle, die dem ästhetischen Zustande \n</span><span class=\"tei-line\">eigen ist, gerade von der Ingredienz „Sinnlichkeit“ \n</span><span class=\"tei-line\">ihre Herkunft nehmen könnte, (wie aus derselben \n</span><span class=\"tei-line\">Quelle jener „Idealismus“ stammt, der mannbaren Mäd-\n</span><span class=\"tei-line\">chen eignet) – dass somit die Sinnlichkeit beim Ein-\n</span><span class=\"line\">30</span><span class=\"tei-line \">tritt des ästhetischen Zustandes nicht aufgehoben ist, \n</span><span class=\"tei-line\">wie Schopenhauer glaubte, sondern sich nur transfigu-\n</span><span class=\"tei-line\">rirt und nicht als Geschlechtsreiz mehr in’s Bewusst-\n</span><span class=\"tei-line\">sein tritt. (Auf diesen Gesichtspunkt werde ich ein \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.37.5.100",
+    "rootNode": "2.5.12.8.37.5.100",
+    "id": "Ed_124_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.37.5.197",
+    "previous": "2.5.12.8.37.5.6",
+    "nextId": "Ed_125_id",
+    "previousId": "Ed_123_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0145.tif\">124</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">zu dem es sich gegensätzlich und ausschliessend ver-\n</span><span class=\"tei-line\">hält, <span class=\"tei-hi2 spaced\">es sei denn</span>, dass es sich etwa gegen sich selber \n</span><span class=\"tei-line\">wende, <span class=\"tei-hi2 spaced\">sich selbst verneine</span>: in diesem Falle, dem \n</span><span class=\"tei-line\">Falle eines asketischen Lebens, gilt das Leben als eine \n</span><span class=\"line\">5</span><span class=\"tei-line \">Brücke für jenes andre Dasein. Der Asket behandelt \n</span><span class=\"tei-line\">das Leben wie einen Irrweg, den man endlich rück-\n</span><span class=\"tei-line\">wärts gehn müsse, bis dorthin, wo er anfängt; oder \n</span><span class=\"tei-line\">wie einen Irrthum, den man durch die That widerlege – \n</span><span class=\"tei-line\">widerlegen <span class=\"tei-hi2 spaced\">solle</span>: denn er <span class=\"tei-hi2 spaced\">fordert</span>, dass man mit ihm \n</span><span class=\"line\">10</span><span class=\"tei-line \">gehe, er erzwingt, wo er kann, <span class=\"tei-hi2 spaced\">seine</span> Werthung des \n</span><span class=\"tei-line\">Daseins. Was bedeutet das? Eine solche ungeheuer-\n</span><span class=\"tei-line\">liche Werthungsweise steht nicht als Ausnahmefall und \n</span><span class=\"tei-line\">Curiosum in die Geschichte des Menschen eingeschrie-\n</span><span class=\"tei-line\">ben: sie ist eine der breitesten und längsten That-\n</span><span class=\"line\">15</span><span class=\"tei-line \">sachen, die es giebt. Von einem fernen Gestirn aus \n</span><span class=\"tei-line\">gelesen, würde vielleicht die Majuskel-Schrift unsres \n</span><span class=\"tei-line\">Erden-Daseins zu dem Schluss verführen, die Erde sei \n</span><span class=\"tei-line\">der eigentlich <span class=\"tei-hi2 spaced\">asketische Stern</span>, ein Winkel miss-\n</span><span class=\"tei-line\">vergnügter, hochmüthiger und widriger Geschöpfe, die \n</span><span class=\"line\">20</span><span class=\"tei-line \">einen tiefen Verdruss an sich, an der Erde, an allem \n</span><span class=\"tei-line\">Leben gar nicht loswürden und sich selber so viel \n</span><span class=\"tei-line\">Wehe thäten als möglich, aus Vergnügen am Wehe-\n</span><span class=\"tei-line\">thun: – wahrscheinlich ihrem einzigen Vergnügen. \n</span><span class=\"tei-line\">Erwägen wir doch, wie regelmässig, wie allgemein, \n</span><span class=\"line\">25</span><span class=\"tei-line \">wie fast zu allen Zeiten der asketische Priester in die \n</span><span class=\"tei-line\">Erscheinung tritt; er gehört keiner einzelnen Rasse an; \n</span><span class=\"tei-line\">er gedeiht überall; er wächst aus allen Ständen her-\n</span><span class=\"tei-line\">aus. Nicht dass er etwa seine Werthungsweise durch \n</span><span class=\"tei-line\">Vererbung züchtete und weiterpflanzte: das Gegentheil \n</span><span class=\"line\">30</span><span class=\"tei-line \">ist der Fall, – ein tiefer Instinkt verbietet ihm viel-\n</span><span class=\"tei-line\">mehr, in’s Grosse gerechnet, die Fortpflanzung. Es \n</span><span class=\"tei-line\">muss eine Necessität ersten Rangs sein, welche diese \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">lebensfeindliche</span> Species immer wieder wachsen und \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

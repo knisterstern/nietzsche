@@ -1,0 +1,40 @@
+   :root {
+            --scroll-top: 128px;
+        }
+        :target {
+            scroll-margin-top: var(--scroll-top, 128px);
+        }
+        @font-face {
+                font-family: "MyFont";
+                src: url("https://fonts.cdnfonts.com/s/15884/SourceSerifPro-Light.woff");
+        }
+      
+        @font-face {
+                font-family: "MyLatin";
+                src: url("https://fonts.cdnfonts.com/s/12183/SourceSansPro-Light.woff");}
+        .latin {
+            font-family: MyLatin;    
+        }
+        
+            @media (min-width: 769px) {
+                .toolbar pb-navigation {
+                    display: none;
+                }
+            }
+            body {
+                --pb-view-scroll-margin-top: var(--scroll-top, 128px);
+            }
+        #view1 {
+            flex: 1 1;
+            display: flex;
+            align-self: center;
+            max-width: 60em;
+            scroll-margin-top: var(--scroll-top, 128px);
+        } 
+        .content-body {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            padding: 0 20px;
+        }
+          

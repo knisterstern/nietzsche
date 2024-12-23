@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.61",
+    "id": "GM0326belatedMod",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GM0326belatedMod\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Nachträgliche Textänderungen zu Dm GM III 26</h5>Ns schriftliche Anordnungen sind dem Dm eingefügt (b63r, b65r) und stammen von <span class=\"tei-date2\">frühestens Ende August, spätestens vor Mitte Oktober 1887</span>.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

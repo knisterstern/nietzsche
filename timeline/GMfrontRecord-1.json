@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "single",
+    "doc": "D20.xml",
+    "root": null,
+    "rootNode": "2.3.6.2.2.29",
+    "id": "GMfrontRecord",
+    "odd": "surface.odd",
+    "next": null,
+    "previous": null,
+    "nextId": null,
+    "previousId": null,
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"GMfrontRecord\" class=\"change\"><div class=\"changeContent\"><h5 class=\"tei-label1\">Niederschrift von GM Vorrede 1-7 und Titelblatt</h5>Nach oder während der Vollendung von GM II 1-24, gegen <span class=\"tei-date2\">Ende Juli 1887</span>, verfasst N die Vorrede 1-7 und das neue Titelblatt mit dem definitiven Titel.</div></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "mode": "static",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

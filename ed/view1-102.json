@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.48.5.32",
+    "rootNode": "2.5.12.6.48.5.32",
+    "id": "Ed_83_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.48.5.132",
+    "previous": "2.5.12.6.46.7.84",
+    "nextId": "Ed_84_id",
+    "previousId": "Ed_82_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0104.tif\">83</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Verhältniss hineininterpretirt worden, worin es uns \n</span><span class=\"tei-line\">modernen Menschen vielleicht am unverständlichsten ist: \n</span><span class=\"tei-line\">nämlich in das Verhältniss der <span class=\"tei-hi2 spaced\">Gegenwärtigen</span> zu \n</span><span class=\"tei-line\">ihren <span class=\"tei-hi2 spaced\">Vorfahren</span>. Innerhalb der ursprünglichen Ge-\n</span><span class=\"line\">5</span><span class=\"tei-line \">schlechtsgenossenschaft – wir reden von Urzeiten – \n</span><span class=\"tei-line\">erkennt jedes Mal die lebende Generation gegen die \n</span><span class=\"tei-line\">frühere und in Sonderheit gegen die früheste, geschlecht-\n</span><span class=\"tei-line\">begründende eine juristische Verpflichtung an (und kei-\n</span><span class=\"tei-line\">neswegs eine blosse Gefühls-Verbindlichkeit: man dürfte \n</span><span class=\"line\">10</span><span class=\"tei-line \">diese letztere sogar nicht ohne Grund für die längste \n</span><span class=\"tei-line\">Dauer des menschlichen Geschlechts überhaupt in Ab-\n</span><span class=\"tei-line\">rede stellen). Hier herrscht die Überzeugung, dass das \n</span><span class=\"tei-line\">Geschlecht durchaus nur durch die Opfer und Leistun-\n</span><span class=\"tei-line\">gen der Vorfahren <span class=\"tei-hi2 spaced\">besteht</span>, – und dass man ihnen \n</span><span class=\"line\">15</span><span class=\"tei-line \">diese durch Opfer und Leistungen <span class=\"tei-hi2 spaced\">zurückzuzahlen</span> \n</span><span class=\"tei-line\">hat: man erkennt somit eine <span class=\"tei-hi2 spaced\">Schuld</span> an, die dadurch \n</span><span class=\"tei-line\">noch beständig anwächst, dass diese Ahnen in ihrer \n</span><span class=\"tei-line\">Fortexistenz als mächtige Geister nicht aufhören, dem \n</span><span class=\"tei-line\">Geschlechte neue Vortheile und Vorschüsse seitens ihrer \n</span><span class=\"line\">20</span><span class=\"tei-line \">Kraft zu gewähren. Umsonst etwa? Aber es giebt \n</span><span class=\"tei-line\">kein „Umsonst“ für jene rohen und „seelenarmen“ Zeit-\n</span><span class=\"tei-line\">alter. Was kann man ihnen zurückgeben? Opfer (an-\n</span><span class=\"tei-line\">fänglich zur Nahrung, im gröblichsten Verstande), Feste, \n</span><span class=\"tei-line\">Kapellen, Ehrenbezeigungen, vor Allem Gehorsam – \n</span><span class=\"line\">25</span><span class=\"tei-line \">denn alle Bräuche sind, als Werke der Vorfahren, auch \n</span><span class=\"tei-line\">deren Satzungen und Befehle –: giebt man ihnen je \n</span><span class=\"tei-line\">genug? Dieser Verdacht bleibt übrig und wächst: von \n</span><span class=\"tei-line\">Zeit zu Zeit erzwingt er eine grosse Ablösung in Bausch \n</span><span class=\"tei-line\">und Bogen, irgend etwas Ungeheures von Gegenzah-\n</span><span class=\"line\">30</span><span class=\"tei-line \">lung an den „Gläubiger“ (das berüchtigte Erstlings-\n</span><span class=\"tei-line\">opfer zum Beispiel, Blut, Menschenblut in jedem Falle). \n</span><span class=\"tei-line\">Die <span class=\"tei-hi2 spaced\">Furcht</span> vor dem Ahnherrn und seiner Macht, das \n</span><span class=\"tei-line\">Bewusstsein von Schulden gegen ihn nimmt nach die-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

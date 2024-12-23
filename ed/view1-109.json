@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.56.5.22",
+    "rootNode": "2.5.12.6.56.5.22",
+    "id": "Ed_90_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.56.5.115",
+    "previous": "2.5.12.6.54.7.98",
+    "nextId": "Ed_91_id",
+    "previousId": "Ed_89_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0111.tif\">90</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Erdichtung von Göttern zu bedienen, als zu dieser \n</span><span class=\"tei-line\">Selbstkreuzigung und Selbstschändung des Menschen, \n</span><span class=\"tei-line\">in der die letzten Jahrtausende Europa’s ihre Meister-\n</span><span class=\"tei-line\">schaft gehabt haben, – das lässt sich zum Glück aus \n</span><span class=\"line\">5</span><span class=\"tei-line \">jedem Blick noch abnehmen, den man auf die <span class=\"tei-hi2 spaced\">grie-\n<span class=\"tei-line\">chischen Götter</span>chischen Götter</span> wirft, diese Wiederspiegelungen vor-\n</span><span class=\"tei-line\">nehmer und selbstherrlicher Menschen, in denen das \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Thier</span> im Menschen sich vergöttlicht fühlte und <span class=\"tei-hi2 spaced\">nicht</span> \n</span><span class=\"tei-line\">sich selbst zerriss, <span class=\"tei-hi2 spaced\">nicht</span> gegen sich selber wüthete! \n</span><span class=\"line\">10</span><span class=\"tei-line \">Diese Griechen haben sich die längste Zeit ihrer Götter \n</span><span class=\"tei-line\">bedient, gerade um sich das „schlechte Gewissen“ vom \n</span><span class=\"tei-line\">Leibe zu halten, um ihrer Freiheit der Seele froh blei-\n</span><span class=\"tei-line\">ben zu dürfen: also in einem umgekehrten Verstande \n</span><span class=\"tei-line\">als das Christenthum Gebrauch von seinem Gotte ge-\n</span><span class=\"line\">15</span><span class=\"tei-line \">macht hat. Sie giengen darin <span class=\"tei-hi2 spaced\">sehr weit</span>, diese pracht-\n</span><span class=\"tei-line\">vollen und löwenmüthigen Kindsköpfe; und keine ge-\n</span><span class=\"tei-line\">ringere Autorität als die des homerischen Zeus selbst \n</span><span class=\"tei-line\">giebt es ihnen hier und da zu verstehn, dass sie es \n</span><span class=\"tei-line\">sich zu leicht machen. „Wunder! sagt er einmal – es \n</span><span class=\"line\">20</span><span class=\"tei-line \">handelt sich um den Fall des Ägisthos, um einen <span class=\"tei-hi2 spaced\">sehr</span> \n</span><span class=\"tei-line\">schlimmen Fall –\n</span><span class=\"tei-line indent\">„Wunder, wie sehr doch klagen die Sterblichen\n</span><span class=\"tei-line indent\">wider die Götter!\n</span><span class=\"tei-line indent\">„<span class=\"tei-hi2 spaced\">Nur von uns sei Böses</span>, vermeinen sie; aber\n</span><span class=\"line\">25</span><span class=\"tei-line indent\">sie selber\n</span><span class=\"tei-line indent\">„Schaffen durch Unverstand, auch gegen Geschick,\n</span><span class=\"tei-line indent\">sich das Elend.“\n</span><span class=\"tei-line\">Doch hört und sieht man hier zugleich, auch dieser \n</span><span class=\"tei-line\">olympische Zuschauer und Richter ist ferne davon, ihnen \n</span><span class=\"line\">30</span><span class=\"tei-line \">deshalb gram zu sein und böse von ihnen zu denken: \n</span><span class=\"tei-line\">„was sie <span class=\"tei-hi2 spaced\">thöricht</span> sind!“ so denkt er bei den Unthaten \n</span><span class=\"tei-line\">der Sterblichen, – und „Thorheit“, „Unverstand“, ein \n</span><span class=\"tei-line\">wenig „Störung im Kopfe“, so viel haben auch die \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

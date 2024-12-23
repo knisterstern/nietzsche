@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.41.5.105",
+    "rootNode": "2.5.12.8.41.5.105",
+    "id": "Ed_129_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.41.5.185",
+    "previous": "2.5.12.8.41.5.8",
+    "nextId": "Ed_130_id",
+    "previousId": "Ed_128_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0150.tif\">129</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">gewordne Wunsch nach einem Anders-sein, Anderswo-\n</span><span class=\"tei-line\">sein, und zwar der höchste Grad dieses Wunsches, dessen \n</span><span class=\"tei-line\">eigentliche Inbrunst und Leidenschaft: aber eben die \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Macht</span> seines Wünschens ist die Fessel, die ihn hier \n</span><span class=\"line\">5</span><span class=\"tei-line \">anbindet, eben damit wird er zum Werkzeug, das daran \n</span><span class=\"tei-line\">arbeiten muss, günstigere Bedingungen für das Hier-\n</span><span class=\"tei-line\">sein und Mensch-sein zu schaffen, – eben mit dieser \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Macht</span> hält er die ganze Heerde der Missrathnen, \n</span><span class=\"tei-line\">Verstimmten, Schlechtweggekommnen, Verunglückten, \n</span><span class=\"line\">10</span><span class=\"tei-line \">An-sich-Leidenden jeder Art am Dasein fest, indem er \n</span><span class=\"tei-line\">ihnen instinktiv als Hirt vorangeht. Man versteht mich \n</span><span class=\"tei-line\">bereits: dieser asketische Priester, dieser anscheinende \n</span><span class=\"tei-line\">Feind des Lebens, dieser <span class=\"tei-hi2 spaced\">Verneinende</span>, – er gerade \n</span><span class=\"tei-line\">gehört zu den ganz grossen <span class=\"tei-hi2 spaced\">conservirenden</span> und Ja-\n</span><span class=\"line\">15</span><span class=\"tei-line \"><span class=\"tei-hi2 spaced\">schaffenden</span> Gewalten des Lebens… Woran sie \n</span><span class=\"tei-line\">hängt, jene Krankhaftigkeit? Denn der Mensch ist \n</span><span class=\"tei-line\">kränker, unsicherer, wechselnder, unfestgestellter als \n</span><span class=\"tei-line\">irgend ein Thier sonst, daran ist kein Zweifel, – er ist \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">das</span> kranke Thier: woher kommt das? Sicherlich hat \n</span><span class=\"line\">20</span><span class=\"tei-line \">er auch mehr gewagt, geneuert, getrotzt, das Schicksal \n</span><span class=\"tei-line\">herausgefordert als alle übrigen Thiere zusammen ge-\n</span><span class=\"tei-line\">nommen: er, der grosse Experimentator mit sich, der \n</span><span class=\"tei-line\">Unbefriedigte, Ungesättigte, der um die letzte Herr-\n</span><span class=\"tei-line\">schaft mit Thier, Natur und Göttern ringt, – er, der \n</span><span class=\"line\">25</span><span class=\"tei-line \">immer noch Unbezwungne, der ewig-Zukünftige, der \n</span><span class=\"tei-line\">vor seiner eignen drängenden Kraft keine Ruhe mehr \n</span><span class=\"tei-line\">findet, so dass ihm seine Zukunft unerbittlich wie \n</span><span class=\"tei-line\">ein Sporn im Fleische jeder Gegenwart wühlt: – wie \n</span><span class=\"tei-line\">sollte ein solches muthiges und reiches Thier nicht \n</span><span class=\"line\">30</span><span class=\"tei-line \">auch das am meisten gefährdete, das am Längsten und \n</span><span class=\"tei-line\">Tiefsten kranke unter allen kranken Thieren sein?… \n</span><span class=\"tei-line\">Der Mensch hat es satt, oft genug, es giebt ganze \n</span><span class=\"tei-line\">Epidemien dieses Satthabens (– so um 1348 herum, \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.41",
+    "rootNode": "2.5.12.4.41",
+    "id": "Ed_26_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.43.5.87",
+    "previous": "2.5.12.4.39.5.18",
+    "nextId": "Ed_27_id",
+    "previousId": "Ed_25_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0047.tif\">26</pb-facs-link></span>\n\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>13.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Doch kommen wir zurück: das Problem vom \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">andren</span> Ursprung des „Guten“, vom Guten, wie ihn \n</span><span class=\"tei-line\">der Mensch des Ressentiment sich ausgedacht hat, ver-\n</span><span class=\"line\">5</span><span class=\"tei-line \">langt nach seinem Abschluss. – Dass die Lämmer den \n</span><span class=\"tei-line\">grossen Raubvögeln gram sind, das befremdet nicht: \n</span><span class=\"tei-line\">nur liegt darin kein Grund, es den grossen Raubvögeln \n</span><span class=\"tei-line\">zu verargen, dass sie sich kleine Lämmer holen. Und \n</span><span class=\"tei-line\">wenn die Lämmer unter sich sagen „diese Raubvögel \n</span><span class=\"line\">10</span><span class=\"tei-line \">sind böse; und wer so wenig als möglich ein Raub-\n</span><span class=\"tei-line\">vogel ist, vielmehr deren Gegenstück, ein Lamm, – \n</span><span class=\"tei-line\">sollte der nicht gut sein?“ so ist an dieser Aufrichtung \n</span><span class=\"tei-line\">eines Ideals Nichts auszusetzen, sei es auch, dass die \n</span><span class=\"tei-line\">Raubvögel dazu ein wenig spöttisch blicken werden \n</span><span class=\"line\">15</span><span class=\"tei-line \">und vielleicht sich sagen: „<span class=\"tei-hi2 spaced\">wir</span> sind ihnen gar nicht \n</span><span class=\"tei-line\">gram, diesen guten Lämmern, wir lieben sie sogar: \n</span><span class=\"tei-line\">nichts ist schmackhafter als ein zartes Lamm.“ – Von \n</span><span class=\"tei-line\">der Stärke verlangen, dass sie sich <span class=\"tei-hi2 spaced\">nicht</span> als Stärke \n</span><span class=\"tei-line\">äussere, dass sie <span class=\"tei-hi2 spaced\">nicht</span> ein Überwältigen-Wollen, ein \n</span><span class=\"line\">20</span><span class=\"tei-line \">Niederwerfen-Wollen, ein Herrwerden-Wollen, ein \n</span><span class=\"tei-line\">Durst nach Feinden und Widerständen und Triumphen \n</span><span class=\"tei-line\">sei, ist gerade so widersinnig als von der Schwäche \n</span><span class=\"tei-line\">verlangen, dass sie sich als Stärke äussere. Ein Quan-\n</span><span class=\"tei-line\">tum Kraft ist ein eben solches Quantum Trieb, Wille, \n</span><span class=\"line\">25</span><span class=\"tei-line \">Wirken – vielmehr, es ist gar nichts anderes als eben \n</span><span class=\"tei-line\">dieses Treiben, Wollen, Wirken selbst, und nur unter \n</span><span class=\"tei-line\">der Verführung der Sprache (und der in ihr versteiner-\n</span><span class=\"tei-line\">ten Grundirrthümer der <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">Vernunft)</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">Vernunft)</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">Vernunft),</span> (KGW/KSA)</span></p></template></pb-popover> welche alles Wirken \n</span><span class=\"tei-line\">als bedingt durch ein Wirkendes, durch ein „Subjekt“ \n</span><span class=\"line\">30</span><span class=\"tei-line \">versteht und missversteht, kann es anders erscheinen. \n</span><span class=\"tei-line\">Ebenso nämlich, wie das Volk den Blitz von seinem \n</span><span class=\"tei-line\">Leuchten trennt und letzteres als <span class=\"tei-hi2 spaced\">Thun</span>, als Wirkung \n</span><span class=\"tei-line\">eines Subjekts nimmt, das Blitz heisst, so trennt die \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

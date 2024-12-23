@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.4.37.5.324",
+    "rootNode": "2.5.12.4.37.5.324",
+    "id": "Ed_24_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.4.39.5.18",
+    "previous": "2.5.12.4.37.5.231",
+    "nextId": "Ed_25_id",
+    "previousId": "Ed_23_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0045.tif\">24</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">Cultur“ sind eine Schande des Menschen, und eher ein \n</span><span class=\"tei-line\">Verdacht, ein Gegenargument gegen „Cultur“ über-\n</span><span class=\"tei-line\">haupt! Man mag im besten Rechte sein, wenn man \n</span><span class=\"tei-line\">vor der blonden Bestie auf dem Grunde aller vornehmen \n</span><span class=\"line\">5</span><span class=\"tei-line \">Rassen die Furcht nicht los wird und auf der Hut ist: \n</span><span class=\"tei-line\">aber wer möchte nicht hundertmal lieber sich fürchten, \n</span><span class=\"tei-line\">wenn er zugleich bewundern darf, als sich <span class=\"tei-hi2 spaced\">nicht</span> fürch-\n</span><span class=\"tei-line\">ten, aber dabei den ekelhaften Anblick des Missrathe-\n</span><span class=\"tei-line\">nen, Verkleinerten, Verkümmerten, Vergifteten nicht \n</span><span class=\"line\">10</span><span class=\"tei-line \">mehr los werden können? Und ist das nicht <span class=\"tei-hi2 spaced\">unser</span> \n</span><span class=\"tei-line\">Verhängniss? Was macht heute <span class=\"tei-hi2 spaced\">unsern</span> Widerwillen \n</span><span class=\"tei-line\">gegen „den Menschen“? – denn wir <span class=\"tei-hi2 spaced\">leiden</span> am Men-\n</span><span class=\"tei-line\">schen, es ist kein Zweifel. – <span class=\"tei-hi2 spaced\">Nicht</span> die Furcht; eher, \n</span><span class=\"tei-line\">dass wir Nichts mehr am Menschen zu fürchten haben; \n</span><span class=\"line\">15</span><span class=\"tei-line \">dass das Gewürm „Mensch“ im Vordergrunde ist und \n</span><span class=\"tei-line\">wimmelt; dass der „zahme Mensch“, der Heillos-Mittel-\n</span><span class=\"tei-line\">mässige und Unerquickliche bereits sich als Ziel und \n</span><span class=\"tei-line\">Spitze, als Sinn der Geschichte, als „höheren Menschen“ \n</span><span class=\"tei-line\">zu fühlen gelernt hat; – ja dass er ein gewisses Recht \n</span><span class=\"line\">20</span><span class=\"tei-line \">darauf hat, sich so zu fühlen, insofern er sich im Ab-\n</span><span class=\"tei-line\">stande von der Überfülle des Missrathenen, Kränklichen, \n</span><span class=\"tei-line\">Müden, Verlebten fühlt, nach dem heute Europa zu \n</span><span class=\"tei-line\">stinken beginnt, somit als etwas wenigstens relativ Ge-\n</span><span class=\"tei-line\">rathenes, wenigstens noch Lebensfähiges, wenigstens \n</span><span class=\"line\">25</span><span class=\"tei-line \">zum Leben Ja-sagendes…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">12.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">– Ich unterdrücke an dieser Stelle einen Seufzer \n</span><span class=\"tei-line\">und eine letzte Zuversicht nicht. Was ist das gerade \n</span><span class=\"tei-line\">mir ganz Unerträgliche? Das, womit ich allein nicht \n</span><span class=\"line\">30</span><span class=\"tei-line \">fertig werde, was mich ersticken und verschmachten \n</span><span class=\"tei-line\">macht? Schlechte Luft! Schlechte Luft! Dass etwas \n</span><span class=\"tei-line\">Missrathenes in meine Nähe kommt; dass ich die Ein-\n</span><span class=\"tei-line\">geweide einer missrathenen Seele riechen muss!… \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

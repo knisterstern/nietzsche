@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.21.5.46",
+    "rootNode": "2.5.12.2.21.5.46",
+    "id": "Ed_XI_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.23.5.14",
+    "previous": "2.5.12.2.19.5.79",
+    "nextId": "Ed_XII_id",
+    "previousId": "Ed_X_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM Vorrede 6</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 264/252,29-265/253,32</li><li class=\"tei-ab2\"><a data-id=\"Ed_X_id\" data-doc=\"E40.xml\">Ed X,12-XI,23</a></li><li class=\"tei-ab2\"><a data-id=\"a3r\" data-doc=\"D20.xml\">Dm a3r,25-36, a3v,1-6</a></li></ul><p></p></div><div class=\"QV\"><h3>GM Vorrede 7</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 266/254,1-267/255,11</li><li class=\"tei-ab2\"><a data-id=\"Ed_XI_id\" data-doc=\"E40.xml\">Ed XI,24-XIII,17</a></li><li class=\"tei-ab2\"><a data-id=\"a3v\" data-doc=\"D20.xml\">Dm a3v,7-34</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "concordance",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.55.5.128",
+    "rootNode": "2.5.12.8.55.5.128",
+    "id": "Ed_155_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.55.5.222",
+    "previous": "2.5.12.8.55.5.48.3",
+    "nextId": "Ed_156_id",
+    "previousId": "Ed_154_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0176.tif\">155</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">insgleichen, dass die vehementen physiologischen Re-\n</span><span class=\"tei-line\">vanchen solcher Excesse, vielleicht sogar geistige Stö-\n</span><span class=\"tei-line\">rungen, im Grunde dem ganzen Sinne dieser Art \n</span><span class=\"tei-line\">Medikation nicht eigentlich widersprechen: als welche, \n</span><span class=\"line\">5</span><span class=\"tei-line \">wie vorher gezeigt worden ist, <span class=\"tei-hi2 spaced\">nicht</span> auf Heilung von \n</span><span class=\"tei-line\">Krankheiten, sondern auf Bekämpfung der Depressions-\n</span><span class=\"tei-line\">Unlust, auf deren Linderung, deren Betäubung aus war. \n</span><span class=\"tei-line\">Dies Ziel wurde auch <span class=\"tei-hi2 spaced\">so</span> erreicht. Der Hauptgriff, den \n</span><span class=\"tei-line\">sich der asketische Priester erlaubte, um auf der mensch-\n</span><span class=\"line\">10</span><span class=\"tei-line \">lichen Seele jede Art von zerreissender und verzückter \n</span><span class=\"tei-line\">Musik zum Erklingen zu bringen, war damit gethan – \n</span><span class=\"tei-line\">Jedermann weiss das –, dass er sich das <span class=\"tei-hi2 spaced\">Schuld-\n<span class=\"tei-line\">gefühl</span>gefühl</span> zu Nutze machte. Dessen Herkunft hat die \n</span><span class=\"tei-line\">vorige Abhandlung kurz angedeutet – als ein Stück \n</span><span class=\"line\">15</span><span class=\"tei-line \">Thierpsychologie, als nicht mehr: das Schuldgefühl \n</span><span class=\"tei-line\">trat uns dort gleichsam in seinem Rohzustande ent-\n</span><span class=\"tei-line\">gegen. Erst unter den Händen des Priesters, dieses \n</span><span class=\"tei-line\">eigentlichen Künstlers in Schuldgefühlen, hat es Ge-\n</span><span class=\"tei-line\">stalt gewonnen – oh was für eine Gestalt! Die „Sünde“ \n</span><span class=\"line\">20</span><span class=\"tei-line \">– denn so lautet die priesterliche Umdeutung des thie-\n</span><span class=\"tei-line\">rischen „schlechten Gewissens“ (der rückwärts gewen-\n</span><span class=\"tei-line\">deten Grausamkeit) – ist bisher das grösste Ereigniss in \n</span><span class=\"tei-line\">der Geschichte der kranken Seele gewesen: in ihr haben \n</span><span class=\"tei-line\">wir das gefährlichste und verhängnissvollste Kunststück \n</span><span class=\"line\">25</span><span class=\"tei-line \">der religiösen Interpretation. Der Mensch, an sich \n</span><span class=\"tei-line\">selbst leidend, irgendwie, jedenfalls physiologisch, etwa \n</span><span class=\"tei-line\">wie ein Thier, das in den Käfig gesperrt ist, unklar, \n</span><span class=\"tei-line\">warum, wozu? begehrlich nach Gründen – Gründe er-\n</span><span class=\"tei-line\">leichtern –, begehrlich auch nach Mitteln und Narkosen, \n</span><span class=\"line\">30</span><span class=\"tei-line \">beräth sich endlich mit Einem, der auch das Verborgene \n</span><span class=\"tei-line\">weiss – und siehe da! er bekommt einen Wink, er be-\n</span><span class=\"tei-line\">kommt von seinem Zauberer, dem asketischen Priester, \n</span><span class=\"tei-line\">den <span class=\"tei-hi2 spaced\">ersten</span> Wink über die „Ursache“ seines Leidens: \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.59.5.117",
+    "rootNode": "2.5.12.8.59.5.117",
+    "id": "Ed_161_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.59.5.211",
+    "previous": "2.5.12.8.59.5.20",
+    "nextId": "Ed_162_id",
+    "previousId": "Ed_160_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0182.tif\">161</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">vergessen einen gelegentlichen Hauch bukolischer Süss-\n</span><span class=\"tei-line\">lichkeit, welcher der Epoche (<span class=\"tei-hi2 spaced\">und</span> der römischen Pro-\n</span><span class=\"tei-line\">vinz) angehört und nicht sowohl jüdisch als hellenistisch \n</span><span class=\"tei-line\">ist. Demuth und Wichtigthuerei dicht nebeneinander; \n</span><span class=\"line\">5</span><span class=\"tei-line \">eine Geschwätzigkeit des Gefühls, die fast betäubt; \n</span><span class=\"tei-line\">Leidenschaftlichkeit, keine Leidenschaft; peinliches Ge-\n</span><span class=\"tei-line\">bärdenspiel; hier hat ersichtlich jede gute Erziehung \n</span><span class=\"tei-line\">gefehlt. Wie darf man von seinen kleinen Untugenden \n</span><span class=\"tei-line\">so viel Wesens machen, wie es diese frommen Männ-\n</span><span class=\"line\">10</span><span class=\"tei-line \">lein thun! Kein Hahn kräht darnach; geschweige \n</span><span class=\"tei-line\">denn Gott. Zuletzt wollen sie gar noch „die Krone des \n</span><span class=\"tei-line\">ewigen Lebens“ haben, alle diese kleinen Leute der \n</span><span class=\"tei-line\">Provinz: wozu doch? wofür doch? man kann die Unbe-\n</span><span class=\"tei-line\">scheidenheit nicht weiter treiben. Ein „unsterblicher“ \n</span><span class=\"line\">15</span><span class=\"tei-line \">Petrus: wer hielte <span class=\"tei-hi2 spaced\">den</span> aus! Sie haben einen Ehrgeiz, \n</span><span class=\"tei-line\">der lachen macht: <span class=\"tei-hi2 spaced\">das</span> käut sein Persönlichstes, seine \n</span><span class=\"tei-line\">Dummheiten, Traurigkeiten und Eckensteher-Sorgen \n</span><span class=\"tei-line\">vor, als ob das An-sich-der-Dinge verpflichtet sei, sich \n</span><span class=\"tei-line\">darum zu kümmern, <span class=\"tei-hi2 spaced\">das</span> wird nicht müde, Gott selber \n</span><span class=\"line\">20</span><span class=\"tei-line \">in den kleinsten Jammer hinein zu wickeln, in dem sie \n</span><span class=\"tei-line\">drin stecken. Und dieses beständige Auf-du-und-du \n</span><span class=\"tei-line\">mit Gott des schlechtesten Geschmacks! Diese jüdische, \n</span><span class=\"tei-line\">nicht bloss jüdische Zudringlichkeit gegen Gott mit \n</span><span class=\"tei-line\">Maul und Tatze!… Es giebt kleine verachtete „Hei-\n</span><span class=\"line\">25</span><span class=\"tei-line \">denvölker“ im Osten Asien’s, von denen diese ersten \n</span><span class=\"tei-line\">Christen etwas Wesentliches hätten lernen können, \n</span><span class=\"tei-line\">etwas <span class=\"tei-hi2 spaced\">Takt</span> der Ehrfurcht; jene erlauben sich nicht, \n</span><span class=\"tei-line\">wie christliche Missionare bezeugen, den Namen ihres \n</span><span class=\"tei-line\">Gottes überhaupt in den Mund zu nehmen. Dies dünkt \n</span><span class=\"line\">30</span><span class=\"tei-line \">mich delikat genug; gewiss ist, dass es nicht nur für \n</span><span class=\"tei-line\">„erste“ Christen zu delikat ist: man erinnere sich doch \n</span><span class=\"tei-line\">etwa, um den Gegensatz zu spüren, an Luther, diesen \n</span><span class=\"tei-line\">„beredtesten“ und unbescheidensten Bauer, den Deutsch-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.39.5.8.5",
+    "rootNode": "2.5.12.8.39.5.8.5",
+    "id": "Ed_126_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.39.5.100",
+    "previous": "2.5.12.8.37.5.197",
+    "nextId": "Ed_127_id",
+    "previousId": "Ed_125_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><p class=\"tei-p8 tei-p\"><span class=\"tei-line\">kür auslassen? An dem, was am allersichersten als \n</span><span class=\"tei-line\">wahr, als real empfunden wird: er wird den <span class=\"tei-hi2 spaced\">Irrthum</span> \n</span><span class=\"tei-line\">gerade dort suchen, wo der eigentliche Lebens-Instinkt \n</span><span class=\"line\">5</span><span class=\"tei-line \">die Wahrheit am unbedingtesten ansetzt. Er wird zum \n</span><span class=\"tei-line\">Beispiel, wie es die Asketen der Vedânta-Philosophie \n</span><span class=\"tei-line\">thaten, die Leiblichkeit zur Illusion herabsetzen, den \n</span><span class=\"tei-line\">Schmerz insgleichen, die Vielheit, den ganzen Begriffs-\n</span><span class=\"tei-line\">Gegensatz „Subjekt“ und „Objekt“ – Irrthümer, Nichts \n</span><span class=\"line\">10</span><span class=\"tei-line \">als Irrthümer! Seinem Ich den Glauben versagen, sich \n</span><span class=\"tei-line\">selber seine „Realität“ verneinen – welcher Triumph! \n</span><span class=\"tei-line\">– schon nicht mehr bloss über die Sinne, über den \n</span><span class=\"tei-line\">Augenschein, eine viel höhere Art Triumph, eine Ver-\n</span><span class=\"tei-line\">gewaltigung und Grausamkeit an der <span class=\"tei-hi2 spaced\">Vernunft</span>: als \n</span><span class=\"line\">15</span><span class=\"tei-line \">welche Wollust damit auf den Gipfel kommt, dass die \n</span><span class=\"tei-line\">asketische Selbstverachtung, Selbstverhöhnung der Ver-\n</span><span class=\"tei-line\">nunft dekretirt: „es <span class=\"tei-hi2 spaced\">giebt</span> ein Reich der Wahrheit und \n</span><span class=\"tei-line\">des Seins, aber gerade die Vernunft ist davon <span class=\"tei-hi2 spaced\">ausge-\n<span class=\"tei-line\">schlossen</span>schlossen</span>!“… (Anbei gesagt: selbst noch in dem \n</span><span class=\"line\">20</span><span class=\"tei-line \">Kantischen Begriff „intelligibler Charakter der Dinge“ \n</span><span class=\"tei-line\">ist Etwas von dieser lüsternen Asketen-Zwiespältigkeit \n</span><span class=\"tei-line\">rückständig, welche Vernunft gegen Vernunft zu kehren \n</span><span class=\"tei-line\">liebt: „intelligibler Charakter“ bedeutet nämlich bei \n</span><span class=\"tei-line\">Kant eine Art Beschaffenheit der Dinge, von der der \n</span><span class=\"line\">25</span><span class=\"tei-line \">Intellekt gerade soviel begreift, dass sie für den In-\n</span><span class=\"tei-line\">tellekt – <span class=\"tei-hi2 spaced\">ganz und gar unbegreiflich</span> ist.) – Seien \n</span><span class=\"tei-line\">wir zuletzt, gerade als Erkennende, nicht undankbar \n</span><span class=\"tei-line\">gegen solche resolute Umkehrungen der gewohnten \n</span><span class=\"tei-line\">Perspektiven und Werthungen, mit denen der Geist all-\n</span><span class=\"line\">30</span><span class=\"tei-line \">zulange scheinbar freventlich und nutzlos gegen sich \n</span><span class=\"tei-line\">selbst gewüthet hat: dergestalt einmal anders sehn, \n</span><span class=\"tei-line\">anders-sehn-<span class=\"tei-hi2 spaced\">wollen</span> ist keine kleine Zucht und Vor-\n</span><span class=\"tei-line\">bereitung des Intellekts zu seiner einstmaligen „Ob-\n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

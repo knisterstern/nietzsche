@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.2.21.5.46",
+    "rootNode": "2.5.12.2.21.5.46",
+    "id": "Ed_XI_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.2.23.5.14",
+    "previous": "2.5.12.2.19.5.79",
+    "nextId": "Ed_XII_id",
+    "previousId": "Ed_X_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0016.tif\">XI</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">wickelt und verschoben haben (Moral als Folge, als \n</span><span class=\"tei-line\">Symptom, als Maske, als Tartüfferie, als Krankheit, \n</span><span class=\"tei-line\">als Missverständniss; aber auch Moral als Ursache, als \n</span><span class=\"tei-line\">Heilmittel, als <pb-popover theme=\"material\"><span slot=\"default\" class=\"popoverTarget\">Stimulanz</span><template slot=\"alternate\"><p><span style=\"margin-right: 0.5em;\">Stimulanz</span>&gt;<span style=\"margin-left: 0.5em;\"><span class=\"tei-corr1\">Stimulans<span class=\"tei-note3 note\">vgl. Dm a3r</span></span> (KGW/KSA)</span></p></template></pb-popover>, als Hemmung, als Gift), wie \n</span><span class=\"line\">5</span><span class=\"tei-line \">eine solche Kenntniss weder bis jetzt da war, noch \n</span><span class=\"tei-line\">auch nur begehrt worden ist. Man nahm den <span class=\"tei-hi2 spaced\">Werth</span> \n</span><span class=\"tei-line\">dieser „Werthe“ als gegeben, als thatsächlich, als jen-\n</span><span class=\"tei-line\">seits aller In-Frage-Stellung; man hat bisher auch nicht \n</span><span class=\"tei-line\">im Entferntesten daran gezweifelt und geschwankt, „den \n</span><span class=\"line\">10</span><span class=\"tei-line \">Guten“ für höherwerthig als „den Bösen“ anzusetzen, \n</span><span class=\"tei-line\">höherwerthig im Sinne der Förderung, Nützlichkeit, Ge-\n</span><span class=\"tei-line\">deihlichkeit in Hinsicht auf <span class=\"tei-hi2 spaced\">den</span> Menschen überhaupt \n</span><span class=\"tei-line\">(die Zukunft des Menschen eingerechnet). Wie? wenn \n</span><span class=\"tei-line\">das Umgekehrte die Wahrheit wäre? Wie? wenn im \n</span><span class=\"line\">15</span><span class=\"tei-line \">„Guten“ auch ein Rückgangssymptom läge, insgleichen \n</span><span class=\"tei-line\">eine Gefahr, eine Verführung, ein Gift, ein Narcoticum, \n</span><span class=\"tei-line\">durch das etwa die Gegenwart <span class=\"tei-hi2 spaced\">auf Kosten der Zu-\n<span class=\"tei-line\">kunft</span>kunft</span> lebte? Vielleicht behaglicher, ungefährlicher, \n</span><span class=\"tei-line\">aber auch in kleinerem Stile, niedriger?… So dass \n</span><span class=\"line\">20</span><span class=\"tei-line \">gerade die Moral daran Schuld wäre, wenn eine an \n</span><span class=\"tei-line\">sich mögliche <span class=\"tei-hi2 spaced\">höchste Mächtigkeit und Pracht</span> \n</span><span class=\"tei-line\">des Typus Mensch niemals erreicht würde? So dass \n</span><span class=\"tei-line\">gerade die Moral die Gefahr der Gefahren wäre?…</span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">7.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"line\">25</span><span class=\"tei-line indent\">Genug, dass ich selbst, seitdem mir dieser Aus-\n</span><span class=\"tei-line\">blick sich öffnete, Gründe hatte, mich nach ge-\n</span><span class=\"tei-line\">lehrten, kühnen und arbeitsamen Genossen umzusehn \n</span><span class=\"tei-line\">(ich thue es heute noch). Es gilt, das ungeheure, ferne \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

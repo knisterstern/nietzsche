@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.3",
+    "rootNode": "2.5.12.6.3",
+    "id": "Ed_39_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.7",
+    "previous": "2.5.12.4.53.4.29",
+    "nextId": "Ed_40_id",
+    "previousId": "Ed_38_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0060.tif\">[39]</pb-facs-link></span>\n<div class=\"tei-head8 head\">\n<br class=\"special-br\"><span class=\"line \">1</span>Zweite Abhandlung:\n<br class=\"tei-lb3\">„<span class=\"tei-hi2 spaced\">Schuld</span>“, „<span class=\"tei-hi2 spaced\">schlechtes Gewissen</span>“\n<br class=\"tei-lb3\">und Verwandtes.</div>\n\n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

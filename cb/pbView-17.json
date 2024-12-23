@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "K11.xml",
+    "root": "2.7.2.2.39",
+    "rootNode": "2.7.2.2.39",
+    "id": "Cb_b1",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.7.2.2.42.14",
+    "previous": "2.7.2.2.29.9",
+    "nextId": "Cb_b2",
+    "previousId": "Cb_a16",
+    "switchView": "2.7.2",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-pb6\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1649471971/files/images/EPN_547711808_0024.tif\">b1</pb-facs-link></span>\n          \n            \n            \n            \n            \n            \n            \n            </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "pbOnly": "true",
+        "usePb": "true",
+        "webcomponents": 7,
+        "mode": "cb"
+    },
+    "collection": ""
+}

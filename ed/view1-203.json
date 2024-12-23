@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.14.4.2",
+    "rootNode": "2.5.14.4.2",
+    "id": "Ed_184_id",
+    "odd": "nietzsche-ed.odd",
+    "next": null,
+    "previous": "2.5.14.2.3",
+    "nextId": null,
+    "previousId": "Ed_183_id",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body class=\"tei-text\"><div class=\"content \"><div class=\"tei-back\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0205.tif\">[184]</pb-facs-link></span>\n         <p class=\"tei-ab\">\n           <span class=\"line\">1</span><span class=\"tei-line centered\">LEIPZIG\n           </span>LEIPZIG\n           <span class=\"tei-line centered\">Druck von C. G. Naumann.\n         </span>Druck von C. G. Naumann.\n         </p>\n         \n       \n     </div>\n   </div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

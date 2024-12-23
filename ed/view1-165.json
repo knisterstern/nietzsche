@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.426",
+    "rootNode": "2.5.12.8.49.5.426",
+    "id": "Ed_146_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.49.5.510",
+    "previous": "2.5.12.8.49.5.338",
+    "nextId": "Ed_147_id",
+    "previousId": "Ed_145_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0167.tif\">146</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">in Ehren halten; dagegen wird es uns ein wenig schwer, \n</span><span class=\"tei-line\">bei der Schätzung, welche schon der <span class=\"tei-hi2 spaced\">tiefe Schlaf</span> \n</span><span class=\"tei-line\">durch diese selbst für das Träumen zu müd gewordnen \n</span><span class=\"tei-line\">Lebensmüden erfährt, ernsthaft zu bleiben, – der tiefe \n</span><span class=\"line\">5</span><span class=\"tei-line \">Schlaf nämlich bereits als Eingehen in das Brahman, \n</span><span class=\"tei-line\">als <span class=\"tei-hi2 spaced\">erreichte</span> unio mystica mit Gott. „Wenn er dann \n</span><span class=\"tei-line\">eingeschlafen ist ganz und gar – heisst es darüber in \n</span><span class=\"tei-line\">der ältesten ehrwürdigsten „Schrift“ – und völlig zur \n</span><span class=\"tei-line\">Ruhe gekommen, dass er kein Traumbild mehr schaut, \n</span><span class=\"line\">10</span><span class=\"tei-line \">alsdann ist er, oh Theurer, vereinigt mit dem Seienden, \n</span><span class=\"tei-line\">in sich selbst ist er eingegangen, – von dem erkennt-\n</span><span class=\"tei-line\">nissartigen Selbste umschlungen hat er kein Bewusst-\n</span><span class=\"tei-line\">sein mehr von dem, was aussen oder innen ist. Diese \n</span><span class=\"tei-line\">Brücke überschreiten nicht Tag und Nacht, nicht das \n</span><span class=\"line\">15</span><span class=\"tei-line \">Alter, nicht der Tod, nicht das Leiden, nicht gutes \n</span><span class=\"tei-line\">Werk, noch böses Werk.“ „Im tiefen Schlafe, sagen \n</span><span class=\"tei-line\">insgleichen die Gläubigen dieser tiefsten der drei \n</span><span class=\"tei-line\">grossen Religionen, hebt sich die Seele heraus aus \n</span><span class=\"tei-line\">diesem Leibe, geht ein in das höchste Licht und tritt \n</span><span class=\"line\">20</span><span class=\"tei-line \">dadurch hervor in eigener Gestalt: da ist sie der höchste \n</span><span class=\"tei-line\">Geist selbst, der herumwandelt, indem er scherzt und \n</span><span class=\"tei-line\">spielt und sich ergötzt, sei es mit Weibern oder mit \n</span><span class=\"tei-line\">Wagen oder mit Freunden, da denkt sie nicht mehr \n</span><span class=\"tei-line\">zurück an dieses Anhängsel von Leib, an welches der \n</span><span class=\"line\">25</span><span class=\"tei-line \">prâna (der Lebensodem) angespannt ist wie ein Zug-\n</span><span class=\"tei-line\">thier an den Karren.“ Trotzdem wollen wir auch hier, \n</span><span class=\"tei-line\">wie im Falle der „Erlösung“, uns gegenwärtig halten, \n</span><span class=\"tei-line\">dass damit im Grunde, wie sehr auch immer in der \n</span><span class=\"tei-line\">Pracht orientalischer Übertreibung, nur die gleiche \n</span><span class=\"line\">30</span><span class=\"tei-line \">Schätzung ausgedrückt ist, welche die des klaren, küh-\n</span><span class=\"tei-line\">len, griechisch-kühlen, aber leidenden Epikur war: das \n</span><span class=\"tei-line\">hypnotische Nichts-Gefühl, die Ruhe des tiefsten Schla-\n</span><span class=\"tei-line\">fes, <span class=\"tei-hi2 spaced\">Leidlosigkeit</span> kurzum – das darf Leidenden \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

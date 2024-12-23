@@ -1,0 +1,23 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.49.5.510",
+    "rootNode": "2.5.12.8.49.5.510",
+    "id": "Ed_147_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.51.5.84",
+    "previous": "2.5.12.8.49.5.426",
+    "nextId": "Ed_148_id",
+    "previousId": "Ed_146_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"qvInfoPage\" class=\"infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.concordance\">Querverweise</pb-i18n></h2></span><span slot=\"collapse-content\"><div class=\"QV\"><h3>GM III 17</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 395/377,10-400/382,7</li><li class=\"tei-ab2\"><a data-id=\"Ed_141_id\" data-doc=\"E40.xml\">Ed 141,13-147,5</a></li><li class=\"tei-ab2\"><a data-id=\"Cb_145\" data-doc=\"K11.xml\">Cb10 145,1-147,5</a></li><li class=\"tei-ab2\"><a data-id=\"b37r\" data-doc=\"D20.xml\">Dm b37r,7-25</a>, <a data-id=\"b38r\" data-doc=\"D20.xml\">b38r,1-25</a>, <a data-id=\"b39r\" data-doc=\"D20.xml\">b39r,1-24</a>, <a data-id=\"b40r\" data-doc=\"D20.xml\">b40r,1-22</a></li></ul><p></p></div><div class=\"QV\"><h3>GM III 18</h3><p></p><ul><li class=\"tei-ab2\">KGW/KSA 400/382,8-402/384,24</li><li class=\"tei-ab2\"><a data-id=\"Ed_147_id\" data-doc=\"E40.xml\">Ed 147,6-150,4</a></li><li class=\"tei-ab2\"><a data-id=\"Cb_147\" data-doc=\"K11.xml\">Cb10 147,6-150,4</a></li><li class=\"tei-ab2\"><a data-id=\"b40r\" data-doc=\"D20.xml\">Dm b40r,23-24</a>, <a data-id=\"b41r\" data-doc=\"D20.xml\">b41r,1-24</a>, <a data-id=\"b42r\" data-doc=\"D20.xml\">b42r,1-24</a>, <a data-id=\"b43r\" data-doc=\"D20.xml\">b43r,1-5</a></li></ul><p></p></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "odd": "surface.odd",
+        "webcomponents": 7,
+        "type": "concordance",
+        "mode": "querverweis"
+    },
+    "collection": ""
+}

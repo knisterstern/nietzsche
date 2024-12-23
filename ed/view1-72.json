@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.6.22.5.108",
+    "rootNode": "2.5.12.6.22.5.108",
+    "id": "Ed_53_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.6.24.3",
+    "previous": "2.5.12.6.22.5.20",
+    "nextId": "Ed_54_id",
+    "previousId": "Ed_52_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0074.tif\">53</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">somit als Etwas, zu dem das Gewissen herzhaft <span class=\"tei-hi2 spaced\">Ja</span> sagt! \n</span><span class=\"tei-line\">Für ein tieferes Auge wäre vielleicht auch jetzt noch \n</span><span class=\"tei-line\">genug von dieser ältesten und gründlichsten Festfreude \n</span><span class=\"tei-line\">des Menschen wahrzunehmen; in „Jenseits von Gut und \n</span><span class=\"line\">5</span><span class=\"tei-line \">Böse“ S. 117 ff. (früher schon in der „Morgenröthe“ \n</span><span class=\"tei-line\">S. 17. 68. 102) habe ich mit vorsichtigem Finger auf \n</span><span class=\"tei-line\">die immer wachsende Vergeistigung und „Vergött-\n</span><span class=\"tei-line\">lichung“ der Grausamkeit hingezeigt, welche sich durch \n</span><span class=\"tei-line\">die ganze Geschichte der höheren Cultur hindurchzieht \n</span><span class=\"line\">10</span><span class=\"tei-line \">(und, in einem bedeutenden Sinne genommen, sie sogar \n</span><span class=\"tei-line\">ausmacht). Jedenfalls ist es noch nicht zu lange her, dass \n</span><span class=\"tei-line\">man sich fürstliche Hochzeiten und Volksfeste grössten \n</span><span class=\"tei-line\">Stils ohne Hinrichtungen, Folterungen oder etwa ein \n</span><span class=\"tei-line\">Autodafé nicht zu denken wusste, insgleichen keinen \n</span><span class=\"line\">15</span><span class=\"tei-line \">vornehmen Haushalt ohne Wesen, an denen man unbe-\n</span><span class=\"tei-line\">denklich seine Bosheit und grausame Neckerei aus-\n</span><span class=\"tei-line\">lassen konnte (– man erinnere sich etwa Don Quixote’s \n</span><span class=\"tei-line\">am Hofe der Herzogin: wir lesen heute den ganzen \n</span><span class=\"tei-line\">Don Quixote mit einem bittren Geschmack auf der Zunge, \n</span><span class=\"line\">20</span><span class=\"tei-line \">fast mit einer Tortur und würden damit seinem Urheber \n</span><span class=\"tei-line\">und dessen Zeitgenossen sehr fremd, sehr dunkel sein, – \n</span><span class=\"tei-line\">sie lasen ihn mit allerbestem Gewissen als das heiterste \n</span><span class=\"tei-line\">der Bücher, sie lachten sich an ihm fast zu Tod). \n</span><span class=\"tei-line\">Leiden-sehn thut wohl, Leiden-machen noch wohler – \n</span><span class=\"line\">25</span><span class=\"tei-line \">das ist ein harter Satz, aber ein alter mächtiger mensch-\n</span><span class=\"tei-line\">lich-allzumenschlicher Hauptsatz, den übrigens viel-\n</span><span class=\"tei-line\">leicht auch schon die Affen unterschreiben würden: \n</span><span class=\"tei-line\">denn man erzählt, dass sie im Ausdenken von bizarren \n</span><span class=\"tei-line\">Grausamkeiten den Menschen bereits reichlich ankün-\n</span><span class=\"line\">30</span><span class=\"tei-line \">digen und gleichsam „vorspielen“. Ohne Grausamkeit \n</span><span class=\"tei-line\">kein Fest: so lehrt es die älteste, längste Geschichte \n</span><span class=\"tei-line\">des Menschen – und auch an der Strafe ist so viel \n</span><span class=\"tei-line\"><span class=\"tei-hi2 spaced\">Festliches</span>! –</span></p>\n\n\n\n  \n</div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}

@@ -1,0 +1,20 @@
+{
+    "format": "json",
+    "view": "surface",
+    "doc": "D20.xml",
+    "root": "2.9.22",
+    "rootNode": "2.9.22",
+    "id": "srcD_surface_a18v",
+    "odd": "surface.odd",
+    "next": "2.9.23",
+    "previous": "2.9.21",
+    "nextId": "srcD_surface_a19r",
+    "previousId": "srcD_surface_a18r",
+    "switchView": null,
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><div id=\"appInfoPage\" class=\"noteDiv infoPage\"><pb-collapse opened=\"opened\" emit=\"transcription\"><span slot=\"collapse-trigger\"><h2><pb-i18n key=\"myapp.menu.appNotes\">Anmerkungen</pb-i18n></h2></span><span slot=\"collapse-content\"><div><pb-highlight key=\"a18v_lb3\" highlight-self=\"highlight-self\" duration=\"5000\"><span style=\"color: blue;\">3</span></pb-highlight>: <span style=\"margin-left: 2px;\"><pb-highlight key=\"appAnchor_a18v3\" highlight-self=\"highlight-self\" duration=\"5000\">vivos</pb-highlight></span><span style=\"margin-right: 0.5em;\">]</span><span class=\"note\">Tertullian, De spectaculis 30: visos</span></div></span></pb-collapse></div></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "webcomponents": 7
+    },
+    "collection": ""
+}

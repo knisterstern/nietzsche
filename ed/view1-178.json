@@ -1,0 +1,21 @@
+{
+    "format": "json",
+    "view": "page",
+    "doc": "E40.xml",
+    "root": "2.5.12.8.57.5.134",
+    "rootNode": "2.5.12.8.57.5.134",
+    "id": "Ed_159_id",
+    "odd": "nietzsche-ed.odd",
+    "next": "2.5.12.8.59.5.20",
+    "previous": "2.5.12.8.57.5.44",
+    "nextId": "Ed_160_id",
+    "previousId": "Ed_158_id",
+    "switchView": "2.5.12",
+    "content": "<!DOCTYPE html><html><head></head><body><div class=\"content \"><span class=\"tei-p6\"><span class=\"tei-pb5\"><pb-facs-link emit=\"transcription\" facs=\"https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/1390177343/files/images/EPN_376886501_0180.tif\">159</pb-facs-link></span></span><p class=\"tei-p7 tei-p\"><span class=\"line\">1</span><span class=\"tei-line \">und Umsprüngen auch heute noch überall beobachtet \n</span><span class=\"tei-line\">wird, in jedem Falle, wo die asketische Sündenlehre \n</span><span class=\"tei-line\">es wieder einmal zu einem grossen Erfolge bringt (die \n</span><span class=\"tei-line\">religiöse Neurose <span class=\"tei-hi2 spaced\">erscheint</span> als eine Form des „bösen \n</span><span class=\"line\">5</span><span class=\"tei-line \">Wesens“: daran ist kein Zweifel. Was sie ist? Quae-\n</span><span class=\"tei-line\">ritur.) In’s Grosse gerechnet, so hat sich das asketi-\n</span><span class=\"tei-line\">sche Ideal und sein sublim-moralischer Cultus, diese \n</span><span class=\"tei-line\">geistreichste, unbedenklichste und gefährlichste Syste-\n</span><span class=\"tei-line\">matisirung aller Mittel der Gefühls-Ausschweifung un-\n</span><span class=\"line\">10</span><span class=\"tei-line \">ter dem Schutz heiliger Absichten auf eine furchtbare \n</span><span class=\"tei-line\">und unvergessliche Weise in die ganze Geschichte des \n</span><span class=\"tei-line\">Menschen eingeschrieben; und leider <span class=\"tei-hi2 spaced\">nicht nur</span> in \n</span><span class=\"tei-line\">seine Geschichte… Ich wüsste kaum noch etwas An-\n</span><span class=\"tei-line\">deres geltend zu machen, was dermaassen zerstörerisch \n</span><span class=\"line\">15</span><span class=\"tei-line \">der <span class=\"tei-hi2 spaced\">Gesundheit</span> und Rassen-Kräftigkeit, namentlich \n</span><span class=\"tei-line\">der Europäer, zugesetzt hat als dies Ideal; man darf es \n</span><span class=\"tei-line\">ohne alle Übertreibung <span class=\"tei-hi2 spaced\">das eigentliche Verhäng-\n<span class=\"tei-line\">niss</span>niss</span> in der Gesundheitsgeschichte des europäischen \n</span><span class=\"tei-line\">Menschen nennen. Höchstens, dass seinem Einflusse \n</span><span class=\"line\">20</span><span class=\"tei-line \">noch der spezifisch-germanische Einfluss gleichzusetzen \n</span><span class=\"tei-line\">wäre: ich meine die Alkohol-Vergiftung Europa’s, \n</span><span class=\"tei-line\">welche streng mit dem politischen und Rassen-Über-\n</span><span class=\"tei-line\">gewicht der Germanen bisher Schritt gehalten hat \n</span><span class=\"tei-line\">(– wo sie ihr Blut einimpften, impften sie auch ihr \n</span><span class=\"line\">25</span><span class=\"tei-line \">Laster ein). – Zudritt in der Reihe wäre die Syphilis \n</span><span class=\"tei-line\">zu nennen, – magno sed proxima intervallo. </span></p>\n\n\n<div class=\"tei-head8 head\">\n<br class=\"tei-lb3\">22.</div>\n<p class=\"tei-p8 tei-p\"><span class=\"tei-line indent\">Der asketische Priester hat die seelische Gesund-\n</span><span class=\"tei-line\">heit verdorben, wo er auch nur zur Herrschaft ge-\n</span><span class=\"line\">30</span><span class=\"tei-line \">kommen ist, er hat folglich auch den <span class=\"tei-hi2 spaced\">Geschmack</span> \n</span><span class=\"tei-line\">verdorben in artibus et litteris, – er verdirbt ihn \n</span><span class=\"tei-line\">immer noch. „Folglich“? – Ich hoffe, man giebt mir \n\n</span></p></div></body></html>",
+    "footnotes": "",
+    "userParams": {
+        "usePb": "true",
+        "webcomponents": 7
+    },
+    "collection": ""
+}
